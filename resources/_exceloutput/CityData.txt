@@ -1,0 +1,2 @@
+场景ID	城市ID	所属一级区域ID	CityName
+3	1	1,2,3,4	CityData_CityName_3

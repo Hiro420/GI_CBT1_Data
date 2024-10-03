@@ -1,0 +1,82 @@
+ID	组ID	名称	描述	持续时间	自身叠加类型	Ability名称	Modifier名称
+1	1	攻击提升料理	提升30%攻击，持续时间3分钟	180	0	Item_Food_Attack	AttackModifier
+2	1	防御提升料理	提升30%防御，持续时间3分钟	180	0	Item_Food_Defence	DefenceModifier
+3	2	生命提升料理	提升50%最大生命，持续时间3分钟	180	0	Item_Food_MaxHP	MaxHPModifier
+108001	10	生命恢复料理	立即恢复232点HP，每5秒恢复28点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_1
+108002	10	生命恢复料理	立即恢复309点HP，每5秒恢复37点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_2
+108003	10	生命恢复料理	立即恢复386点HP，每5秒恢复47点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_3
+108004	10	生命恢复料理	立即恢复579点HP，每5秒恢复70点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_4
+108007	11	攻击提升料理	攻击增加4点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv1_1
+108008	11	攻击提升料理	攻击增加7点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv1_2
+108009	11	攻击提升料理	攻击增加9点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv1_3
+108010	11	攻击提升料理	攻击增加13点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv1_4
+108011	12	防御提升料理	防御增加3点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv1_1
+108012	12	防御提升料理	防御增加4点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv1_2
+108013	12	防御提升料理	防御增加6点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv1_3
+108014	12	防御提升料理	防御增加8点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv1_4
+108015	10	生命恢复料理	立即恢复506点HP，每5秒恢复61点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_1
+108016	10	生命恢复料理	立即恢复674点HP，每5秒恢复81点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_2
+108017	10	生命恢复料理	立即恢复843点HP，每5秒恢复102点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_3
+108018	10	生命恢复料理	立即恢复1264点HP，每5秒恢复153点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_4
+108019	11	攻击提升料理	攻击增加11点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv2_1
+108020	11	攻击提升料理	攻击增加16点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv2_2
+108021	11	攻击提升料理	攻击增加22点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv2_3
+108022	13	元素提升料理	电系伤害提升12%，持续120秒	120	0	Elec_Team	Elec_Team_Modifier_lv2_1
+108023	13	元素提升料理	电系伤害提升18%，持续120秒	120	0	Elec_Team	Elec_Team_Modifier_lv2_2
+108024	13	元素提升料理	电系伤害提升24%，持续120秒	120	0	Elec_Team	Elec_Team_Modifier_lv2_3
+108025	13	元素提升料理	火系伤害提升12%，持续120秒	120	0	Fire_Team	Fire_Team_Modifier_lv2_1
+108026	13	元素提升料理	火系伤害提升18%，持续120秒	120	0	Fire_Team	Fire_Team_Modifier_lv2_2
+108027	13	元素提升料理	火系伤害提升24%，持续120秒	120	0	Fire_Team	Fire_Team_Modifier_lv2_3
+108028	13	元素提升料理	水系伤害提升12%，持续120秒	120	0	Water_Team	Water_Team_Modifier_lv2_1
+108029	13	元素提升料理	水系伤害提升18%，持续120秒	120	0	Water_Team	Water_Team_Modifier_lv2_2
+108030	13	元素提升料理	水系伤害提升24%，持续120秒	120	0	Water_Team	Water_Team_Modifier_lv2_3
+108031	12	防御提升料理	防御增加7点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv2_1
+108032	12	防御提升料理	防御增加10点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv2_2
+108033	12	防御提升料理	防御增加13点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv2_3
+108036	99	复活buff料理	恢复2%HP		0	revive_buff	revive_buff_Modifier_lv2_0
+108037	99	复活buff料理	恢复4%HP		0	revive_buff	revive_buff_Modifier_lv2_1
+108038	99	复活buff料理	恢复6%HP		0	revive_buff	revive_buff_Modifier_lv2_2
+108039	99	复活buff料理	恢复8%HP		0	revive_buff	revive_buff_Modifier_lv2_3
+108040	99	复活buff料理	恢复15%HP，防御增加15点，持续120秒	120	0	revive_buff	revive_buff_Modifier_lv2_4
+108041	99	复活buff料理	恢复10%HP		0	revive_buff	revive_buff_Modifier_lv3_1
+108042	99	复活buff料理	恢复15%HP		0	revive_buff	revive_buff_Modifier_lv3_2
+108043	99	复活buff料理	恢复20%HP		0	revive_buff	revive_buff_Modifier_lv3_3
+108044	99	复活buff料理	恢复40%HP		0	revive_buff	revive_buff_Modifier_lv3_4
+108045	11	攻击提升料理	攻击增加21点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv3_1
+108046	11	攻击提升料理	攻击增加31点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv3_2
+108047	11	攻击提升料理	攻击增加41点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv3_3
+108048	11	攻击提升料理	攻击增加62点，持续120秒	120	0	Atk_Team	Atk_Team_Modifier_lv3_4
+108049	12	防御提升料理	防御增加12点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv3_1
+108050	12	防御提升料理	防御增加19点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv3_2
+108051	12	防御提升料理	防御增加25点，持续120秒	120	0	Def_Team	Def_Team_Modifier_lv3_3
+108052	10	生命恢复料理	立即恢复634点HP，每5秒恢复76点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_1
+108053	10	生命恢复料理	立即恢复845点HP，每5秒恢复102点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_2
+108054	10	生命恢复料理	立即恢复1056点HP，每5秒恢复127点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_3
+108055	14	暴击提升料理	暴击几率提升5%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv3_1
+108056	14	暴击提升料理	暴击几率提升8%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv3_2
+108057	14	暴击提升料理	暴击几率提升10%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv3_3
+108058	14	暴击提升料理	暴击几率提升12%，暴击伤害提升10%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv3_4
+108059	15	体力消耗降低料理	飞行消耗体力降低20%，持续120秒	120	0	Stamina_Fly_lv3_1	Stamina_Fly_Modifier_lv3_1
+108060	15	体力消耗降低料理	飞行消耗体力降低27%，持续120秒	120	0	Stamina_Fly_lv3_2	Stamina_Fly_Modifier_lv3_2
+108061	15	体力消耗降低料理	飞行消耗体力降低35%，持续120秒	120	0	Stamina_Fly_lv3_3	Stamina_Fly_Modifier_lv3_3
+108062	15	体力消耗降低料理	攀爬、飞行和冲刺体力消耗降低20%，持续120秒	120	0	Stamina_Climb_lv3_1	Stamina_Climb_Modifier_lv3_1
+108063	15	体力消耗降低料理	攀爬、飞行和冲刺体力消耗降低27%，持续120秒	120	0	Stamina_Climb_lv3_2	Stamina_Climb_Modifier_lv3_2
+108064	15	体力消耗降低料理	攀爬、飞行和冲刺体力消耗降低35%，持续120秒	120	0	Stamina_Climb_lv3_3	Stamina_Climb_Modifier_lv3_3
+108071	14	暴击提升料理-初级	暴击几率提升3%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv2_1
+108072	14	暴击提升料理-初级	暴击几率提升4%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv2_2
+108073	14	暴击提升料理-初级	暴击几率提升6%，持续120秒	120	0	Critical_Team	Critical_Team_Modifier_lv2_3
+108081	10	生命恢复料理-1.5阶	立即恢复388点HP，每5秒恢复47点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_5
+108082	10	生命恢复料理-1.5阶	立即恢复517点HP，每5秒恢复62点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_6
+108083	10	生命恢复料理-1.5阶	立即恢复646点HP，每5秒恢复78点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_7
+108084	10	生命恢复料理-1.5阶	立即恢复970点HP，每5秒恢复117点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_8
+108091	10	生命恢复料理	立即恢复146点HP，每5秒恢复18点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv0_1
+108092	10	生命恢复料理	立即恢复195点HP，每5秒恢复24点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv0_2
+108093	10	生命恢复料理	立即恢复244点HP，每5秒恢复29点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv0_3
+108094	10	生命恢复料理	立即恢复365点HP，每5秒恢复44点HP，持续30秒	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv0_4
+111091	13	元素抗性料理	水、火、电、冰系抵抗提升8%，持续120秒	120	0	Def_Element_lv2_1	Def_Element_Modifier_lv1_1
+111092	13	元素抗性料理	水、火、电、冰系抵抗提升10%，持续120秒	120	0	Def_Element_lv2_1	Def_Element_Modifier_lv1_2
+111093	13	元素抗性料理	水、火、电、冰系抵抗提升15%，持续120秒	120	0	Def_Element_lv2_1	Def_Element_Modifier_lv1_3
+111002	16	移速增加药品	移动速度提高30%，持续20秒	20	0	MoveSpeed_lv2_1	MoveSpeed_Modifier_lv2_1
+111003	11	攻击提升料理	攻击增加40点，持续30秒	30	0	Atk_Team	Atk_Team_Modifier_lv2_4
+111004	12	防御提升料理	防御增加25点，持续30秒	30	0	Def_Team	Def_Team_Modifier_lv2_4
+111005	13	元素提升料理	水、火、电、冰系抵抗提升15%，持续120秒	120	0	Def_Element_lv2_1	Def_Element_Modifier_lv2_1

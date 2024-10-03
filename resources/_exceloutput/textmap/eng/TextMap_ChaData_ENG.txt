@@ -1,0 +1,965 @@
+ID	文本
+AvatarData_Name_10000002	Kamisato Ayaka
+AvatarSkillData_Name_10013	Kamisato Art: Senho
+AvatarSkillData_Desc_10013	An agile and elegant style of Kamisato Art.\nHides within a swift flow of sleet that moves as Ayaka moves. Replaces Sprint.\nIn this form, Kamisato Ayaka moves at high speed on water.\nReappearing inflicts Cold on nearby opponents, and converts Normal Attack DMG into Cryo DMG.\n\nCold AoE: 3m\nCryo DMG Enchantment Duration: 4s\nStamina Cost: 15 (Activation), 25 per second (Upkeep)
+AvatarSkillData_Name_10018	Kamisato Art: Hyouka
+AvatarSkillData_Desc_10018	A gracious style of Kamisato Art.\nKamisato Ayaka emits ice around herself and shortly afterwards, launches nearby opponents and deals Cryo DMG.\n\nSkill DMG: 340% of ATK\nAoE: 3m\nCD: 6s\nElemental Type: Cryo
+AvatarSkillData_Name_10019	Kamisato Art: Soumetsu
+AvatarSkillData_Desc_10019	A quick and powerful style of Kamisato Art\nKamisato Ayaka creates a bladestorm, which deals Cryo DoT to all opponents caught within.\nWhen DoT ends, the bladestorm explodes, which deals extra Cryo DMG to all opponents in a wider radius. \n\nDoT: 259% of ATK per second\nAoE: 3m\nMovement SPD: 4.5m per second\nDuration: 5s\nBurst DMG: 500% of ATK\nExplosion Radius: 5m\nCD: 25s\nEnergy Cost: 60\nElemental Type: Cryo
+AvatarSkillData_Name_10024	Ayaka 5 Hit Combo
+AvatarSkillData_Desc_10024	5 Hit Sword Combo
+TalentSkillData_Name_211	Shirasagi Himegimi [1]
+TalentSkillData_Desc_211	Increases all party members' Cryo DMG by 5% and Cryo RES by 6%.
+TalentSkillData_Name_212	Shirasagi Himegimi [2]
+TalentSkillData_Desc_212	Increases all party members' Cryo DMG by 10% and Cryo RES by 9%.
+TalentSkillData_Name_213	Shirasagi Himegimi [3]
+TalentSkillData_Desc_213	Increases all party members' Cryo DMG by 15% and Cryo RES by 12%.
+TalentSkillData_Name_214	Shirasagi Himegimi [4]
+TalentSkillData_Desc_214	Increases all party members' Cryo DMG by 20% and Cryo RES by 15%.
+TalentSkillData_Name_221	Usurahi Butou [1]
+TalentSkillData_Desc_221	Increases Kamisato Art: Senho's Movement SPD by 10%.
+TalentSkillData_Name_222	Usurahi Butou [2]
+TalentSkillData_Desc_222	Increases Kamisato Art: Senho's Movement SPD by 20% and reappearance DMG range by 15%.
+TalentSkillData_Name_223	Usurahi Butou [3]
+TalentSkillData_Desc_223	Increases Kamisato Art: Senho's Movement SPD by 30% and reappearance DMG range by 30%.
+TalentSkillData_Name_231	Kanten Senmyou Norito [1]
+TalentSkillData_Desc_231	Normal Attack hits on Cold/Frozen opponents have a 6%/18% chance to decrease Kamisato Art: Hyouka's CD by 0.5s.
+TalentSkillData_Name_232	Kanten Senmyou Norito [2]
+TalentSkillData_Desc_232	Normal Attack hits on Cold/Frozen opponents have a 9%/27% chance to decrease Kamisato Art: Hyouka's CD by 0.5s.
+TalentSkillData_Name_233	Kanten Senmyou Norito [3]
+TalentSkillData_Desc_233	Normal Attack hits on Cold/Frozen opponents have a 12%/36% chance to decrease Kamisato Art: Hyouka's CD by 1s.
+TalentSkillData_Name_241	Mie Yuki no Seki no To [1]
+TalentSkillData_Desc_241	Upon casting Kamisato Art: Soumetsu, unleashes 2 additional small bladestorms heading sideways, each dealing 20% DMG.
+TalentSkillData_Name_242	Mie Yuki no Seki no To [2]
+TalentSkillData_Desc_242	Upon casting Kamisato Art: Soumetsu, unleashes 2 additional small bladestorms heading sideways, each dealing 35% DMG.
+TalentSkillData_Name_243	Mie Yuki no Seki no To [3]
+TalentSkillData_Desc_243	Upon casting Kamisato Art: Soumetsu, unleashes 2 additional small bladestorms heading sideways, each dealing 50% DMG.
+TalentSkillData_Name_251	Ai Suigetsu [1]
+TalentSkillData_Desc_251	Increases Energy Recharge by 16% and decreases Kamisato Art: Soumetsu's CD by 2s.
+TalentSkillData_Name_252	Ai Suigetsu [2]
+TalentSkillData_Desc_252	Increases Energy Recharge by 25% and decreases Kamisato Art: Soumetsu's CD by 4s.
+TalentSkillData_Name_253	Ai Suigetsu [3]
+TalentSkillData_Desc_253	Increases Energy Recharge by 33% and decreases Kamisato Art: Soumetsu's CD by 6s.
+TalentSkillData_Name_261	Amatsutsumi Kunitsutsumi Chinshi [1]
+TalentSkillData_Desc_261	While in Kamisato Art: Senho form, Kamisato Ayaka marks nearby opponents below 20% HP. Leaving the form near marked opponents and hitting them immediately with a Normal Attack deals Cryo DMG equal to 300% of ATK. This attack counts as a Charged Attack.
+TalentSkillData_Name_262	Amatsutsumi Kunitsutsumi Chinshi [2]
+TalentSkillData_Desc_262	While in Kamisato Art: Senho form, Kamisato Ayaka marks nearby opponents below 25% HP. Leaving the form near marked opponents and hitting them immediately with a Normal Attack deals Cryo DMG equal to 350% of ATK. This attack counts as a Charged Attack.
+TalentSkillData_Name_263	Amatsutsumi Kunitsutsumi Chinshi [3]
+TalentSkillData_Desc_263	While in Kamisato Art: Senho form, Kamisato Ayaka marks nearby opponents below 30% HP. Leaving the form near marked opponents and hitting them immediately with a Normal Attack deals Cryo DMG equal to 400% of ATK. This attack counts as a Charged Attack.
+TalentSkillData_Name_271	Sosai Sumizome Sakura [1]
+TalentSkillData_Desc_271	Increases Kamisato Art: Hyouka's DMG against Cold/Frozen targets by 20%.
+TalentSkillData_Name_272	Sosai Sumizome Sakura [2]
+TalentSkillData_Desc_272	Increases Kamisato Art: Hyouka's DMG against Cold/Frozen targets by 35%.
+TalentSkillData_Name_273	Sosai Sumizome Sakura [3]
+TalentSkillData_Desc_273	Increases Kamisato Art: Hyouka's DMG against Cold/Frozen targets by 50%.
+TalentSkillData_Name_281	Eiki Ryuhan [1]
+TalentSkillData_Desc_281	When Energy is above 50%, increases Normal Attack DMG by 10%. When Energy is below 50%, increases Normal Attack's CRIT Rate by 5%.
+TalentSkillData_Name_282	Eiki Ryuhan [2]
+TalentSkillData_Desc_282	When Energy is above 50%, increases Normal Attack DMG by 20%. When Energy is below 50%, increases Normal Attack's CRIT Rate by 10%.
+TalentSkillData_Name_283	Eiki Ryuhan [3]
+TalentSkillData_Desc_283	When Energy is above 50%, increases Normal Attack DMG by 30%. When Energy is below 50%, increases Normal Attack's CRIT Rate by 15%.
+AvatarData_Desc_10000002	The princess of the Kamisato House. She occasionally practices swordsmanship so that she can pass time by slicing every falling snowflake floating around her on a snowy day.
+AvatarData_Name_10000003	Jean
+AvatarSkillData_Name_10031	Jean 5 Hit Combo
+AvatarSkillData_Desc_10031	 
+AvatarSkillData_Name_10033	Gale Blade
+AvatarSkillData_Desc_10033	A defending gale that moves with Jean, protecting her and her companions from danger, just like herself.\nSummons a tornado that pulls in nearby opponents. It inflicts Trapped and launches them, dealing Anemo DMG.\nHold to pull in more opponents, or change the launch direction. You are immobile while casting this skill.\nSkill DMG: 275% of ATK\nAoE: 10m\nMax Duration: 5s\nStamina Cost: 25 per second\nCD: 6s\nElemental Type: Anemo
+AvatarSkillData_Name_10034	Dandelion Breeze
+AvatarSkillData_Desc_10034	The grace of a breeze is like a field of dandelions. This is the source of Jean's protective nature.\nCreates a dandelion field which knocks back nearby opponents and deals Anemo DMG, but heals nearby allies and all party members.\nWhile the field is active, it heals all party members and allies within it, but deals Anemo DMG to opponents entering or leaving it.\n\nSkill DMG: 375% of ATK\nHP Restoration: 425% of ATK\nHP Regeneration: 60% of ATK per second\nAoE: 6m\nDuration: 10s\nEntry/Exit DMG: 100% of ATK\nCD: 32s\nEnergy Cost: 80\nElemental Type: Anemo
+TalentSkillData_Name_1300	People's Aegis [1]
+TalentSkillData_Desc_1300	Increases all party members' Max HP by 4% and CRIT Rate by 2%.
+TalentSkillData_Name_1301	People's Aegis [2]
+TalentSkillData_Desc_1301	Increases all party members' Max HP by 8% and CRIT Rate by 4%.
+TalentSkillData_Name_1302	People's Aegis [3]
+TalentSkillData_Desc_1302	Increases all party members' Max HP by 12% and CRIT Rate by 6%.
+TalentSkillData_Name_1303	People's Aegis [4]
+TalentSkillData_Desc_1303	Increases all party members' Max HP by 16% and CRIT Rate by 8%.
+TalentSkillData_Name_1310	Let the Wind Lead [1]
+TalentSkillData_Desc_1310	Increases Stamina Regeneration by 10%.
+TalentSkillData_Name_1311	Let the Wind Lead [2]
+TalentSkillData_Desc_1311	Increases Stamina Regeneration by 17%.
+TalentSkillData_Name_1312	Let the Wind Lead [3]
+TalentSkillData_Desc_1312	Increases Stamina Regeneration by 25%.
+TalentSkillData_Name_1313	Let the Wind Lead [4]
+TalentSkillData_Desc_1313	Increases Stamina Regeneration by 35%.
+TalentSkillData_Name_1320	Imminent Storm [1]
+TalentSkillData_Desc_1320	Increases Gale Blade's DMG by 8%. Also slightly increases the pulling speed of the tornado.
+TalentSkillData_Name_1321	Imminent Storm [2]
+TalentSkillData_Desc_1321	Increases Gale Blade's DMG by 14%. Also increases the pulling speed of the tornado.
+TalentSkillData_Name_1322	Imminent Storm [3]
+TalentSkillData_Desc_1322	Increases Gale Blade's DMG by 20%. Also greatly increases the pulling speed of the tornado.
+TalentSkillData_Name_1330	Second Wind [1]
+TalentSkillData_Desc_1330	Increases Max HP by 2%. When HP is below 35%, increases incoming healing by 10%.
+TalentSkillData_Name_1331	Second Wind [2]
+TalentSkillData_Desc_1331	Increases Max HP by 5%. When HP is below 35%, increases incoming healing by 15%.
+TalentSkillData_Name_1332	Second Wind [3]
+TalentSkillData_Desc_1332	Increases Max HP by 8%. When HP is below 35%, increases incoming healing by 20%.
+TalentSkillData_Name_1340	People's Sword [1]
+TalentSkillData_Desc_1340	Increases Normal Attack's CRIT Rate by 10%. Normal Attack CRIT hits heal all party members by 10% of Jean's ATK.
+TalentSkillData_Name_1341	People's Sword [2]
+TalentSkillData_Desc_1341	Increases Normal Attack's CRIT Rate by 15%. Normal Attack CRIT hits heal all party members by 15% of Jean's ATK.
+TalentSkillData_Name_1342	People's Sword [3]
+TalentSkillData_Desc_1342	Increases Normal Attack's CRIT Rate by 20%. Normal Attack CRIT hits heal all party members by 20% of Jean's ATK.
+TalentSkillData_Name_1350	Wind Companion [1]
+TalentSkillData_Desc_1350	Picking up an Elemental Orb/Particle increases all party members' Movement SPD and ATK SPD by 5% for 10s. Duration resets on new Elemental Orb/Particles.
+TalentSkillData_Name_1351	Wind Companion [2]
+TalentSkillData_Desc_1351	Picking up an Elemental Orb/Particle increases all party members' Movement SPD and ATK SPD by 10% for 10s. Duration resets on new Elemental Orb/Particles.
+TalentSkillData_Name_1352	Wind Companion [3]
+TalentSkillData_Desc_1352	Picking up an Elemental Orb/Particle increases all party members' Movement SPD and ATK SPD by 15% for 10s. Duration resets on new Elemental Orb/Particles.
+TalentSkillData_Name_1360	Dandelion Field [1]
+TalentSkillData_Desc_1360	Inside Dandelion Breeze, decreases opponent Movement SPD and ATK SPD by 25% and Anemo RES by 20%.
+TalentSkillData_Name_1361	Dandelion Field [2]
+TalentSkillData_Desc_1361	Inside Dandelion Breeze, decreases opponent Movement SPD and ATK SPD by 25% and Anemo RES by 40%.
+TalentSkillData_Name_1362	Dandelion Field [3]
+TalentSkillData_Desc_1362	Inside Dandelion Breeze, decreases opponent Movement SPD and ATK SPD by 25% and Anemo RES by 60%.
+TalentSkillData_Name_1370	Lion's Fang, Fair Protector of Mondstadt [1]
+TalentSkillData_Desc_1370	Blesses all party members and companions within Dandelion Field with the protection of wind, reducing incoming DMG by 12%. Upon leaving Dandelion Field, the protection of wind lasts for 3 more attacks or 10s.
+TalentSkillData_Name_1371	Lion's Fang, Fair Protector of Mondstadt [2]
+TalentSkillData_Desc_1371	Blesses all party members and companions within Dandelion Field with the protection of wind, reducing incoming DMG by 24%. Upon leaving Dandelion Field, the protection of wind lasts for 3 more attacks or 10s.
+TalentSkillData_Name_1372	Lion's Fang, Fair Protector of Mondstadt [3]
+TalentSkillData_Desc_1372	Blesses all party members and companions within Dandelion Field with the protection of wind, reducing incoming DMG by 36%. Upon leaving Dandelion Field, the protection of wind lasts for 3 more attacks or 10s.
+AvatarData_Desc_10000003	The Acting Grandmaster of the Knights of Favonius. She is the wind that leads them, and a reliable one at that.
+AvatarData_Name_10000005	Traveler
+AvatarSkillData_Name_10054	5 Hit combo
+AvatarSkillData_Desc_10054	5 Hit Sword Combo
+AvatarSkillData_Name_10067	Palm Vortex
+AvatarSkillData_Desc_10067	By discussing with Paimon how to channel formless wind, I learned how to hold it in my hand.\nA tiny storm gathers in your palm, which repeatedly cuts opponents it comes in contact with and deals Anemo DoT.\nUpon explosion, it deals additional Anemo DMG and knocks back opponents in range.\nHolding the skill increases the storm's DMG and AoE exponentially, as well as the explosion's DMG and knock back effect. Can be held for up to 1.6s.\nContact with Hydro, Pyro, Cryo or Electro causes that element to be absorbed, dealing additional Elemental DMG accordingly. Can only absorb one element.\n\nBase DoT: 25% of ATK per 0.25s\nMax DoT: 45% of ATK per 0.25s\nBase Explosion DMG: 240% of ATK\nMax Explosion DMG: 300% of ATK\nBase Skill Radius: 1.7m\nMax Skill Radius: 3m\nBase CD: 5s\nMax CD: 8s\nElemental Type: Anemo
+AvatarSkillData_Name_10068	Gust Surge
+AvatarSkillData_Desc_10068	By studying a butterfly's flapping wings with Paimon, I learned to foresee the storm emerging.\nSummons a tornado which pulls all objects and opponents into itself and inflicts Trapped on them while dealing Anemo DoT.\nContact with Hydro, Pyro, Cryo or Electro causes that element to be absorbed, dealing additional Elemental DMG accordingly. Can only absorb one element.\n\nSkill DMG: 80% of ATK per 0.5s\nAoE: 2.5m\nMovement SPD: 4.5m per second\nDuration: 6s\nCD: 25s\nEnergy Cost: 60\nElemental Type: Anemo
+AvatarSkillData_Name_10077	Attributes
+AvatarSkillData_Desc_10077	
+AvatarSkillData_Name_10078	Attributes
+AvatarSkillData_Desc_10078	
+TalentSkillData_Name_1481	Winds of Sojourning [1]
+TalentSkillData_Desc_1481	Increases all party members' Max HP by 6% and Anemo RES by 6%.
+TalentSkillData_Name_1482	Winds of Sojourning [2]
+TalentSkillData_Desc_1482	Increases all party members' Max HP by 9% and Anemo RES by 9%.
+TalentSkillData_Name_1483	Winds of Sojourning [3]
+TalentSkillData_Desc_1483	Increases all party members' Max HP by 12% and Anemo RES by 12%.
+TalentSkillData_Name_1484	Winds of Sojourning [4]
+TalentSkillData_Desc_1484	Increases all party members' Max HP by 15% and Anemo RES by 15%.
+TalentSkillData_Name_1491	Winds of Triumph [1]
+TalentSkillData_Desc_1491	Increases Movement SPD while sprinting by 15%.
+TalentSkillData_Name_1492	Winds of Triumph [2]
+TalentSkillData_Desc_1492	Increases Movement SPD while sprinting by 30%.
+TalentSkillData_Name_1493	Winds of Triumph [3]
+TalentSkillData_Desc_1493	Increases Movement SPD while sprinting by 45%.
+TalentSkillData_Name_1501	Winds of the World [1]
+TalentSkillData_Desc_1501	Increases Gust Surge's DMG by 8%.
+TalentSkillData_Name_1502	Winds of the World [2]
+TalentSkillData_Desc_1502	Increases Gust Surge's DMG by 14%.
+TalentSkillData_Name_1503	Winds of the World [3]
+TalentSkillData_Desc_1503	Increases Gust Surge's DMG by 20%.
+TalentSkillData_Name_1511	Winds of the Stars [1]
+TalentSkillData_Desc_1511	Increases Palm Vortex's DMG by 6%.
+TalentSkillData_Name_1512	Winds of the Stars [2]
+TalentSkillData_Desc_1512	Increases Palm Vortex's DMG by 12%.
+TalentSkillData_Name_1513	Winds of the Stars [3]
+TalentSkillData_Desc_1513	Increases Palm Vortex's DMG by 20%.
+TalentSkillData_Name_1521	Slitting Blow [1]
+TalentSkillData_Desc_1521	The last Normal Attack of the sequence has a 60% chance to summon a wind blade, dealing 40% of ATK as Anemo DMG to all opponents in its way.
+TalentSkillData_Name_1522	Slitting Blow [2]
+TalentSkillData_Desc_1522	The last Normal Attack of the sequence has an 80% chance to summon a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its way.
+TalentSkillData_Name_1523	Slitting Blow [3]
+TalentSkillData_Desc_1523	The last Normal Attack of the sequence has a 100% chance to summon a wind blade, dealing 80% of ATK as Anemo DMG to all opponents in its way.
+TalentSkillData_Name_1531	Uprising Whirlwind [1]
+TalentSkillData_Desc_1531	Increases Energy Recharge by 16%.
+TalentSkillData_Name_1532	Uprising Whirlwind [2]
+TalentSkillData_Desc_1532	Increases Energy Recharge by 25%.
+TalentSkillData_Name_1533	Uprising Whirlwind [3]
+TalentSkillData_Desc_1533	Increases Energy Recharge by 33%.
+TalentSkillData_Name_1541	Raging Vortex [1]
+TalentSkillData_Desc_1541	Holding Palm Vortex for more than 1s pulls in all opponents within 5m and increases DMG by 10%.
+TalentSkillData_Name_1542	Raging Vortex [2]
+TalentSkillData_Desc_1542	Holding Palm Vortex for more than 1s pulls in all opponents within 5m and increases DMG by 20%.
+TalentSkillData_Name_1543	Raging Vortex [3]
+TalentSkillData_Desc_1543	Palm Vortex pulls in all opponents within 5m and increases DMG by 30%.
+TalentSkillData_Name_1551	Bladed Tempest [1]
+TalentSkillData_Desc_1551	Increases Normal Attack's CRIT Rate by 4% and CRIT DMG by 20%.
+TalentSkillData_Name_1552	Bladed Tempest [2]
+TalentSkillData_Desc_1552	Increases Normal Attack's CRIT Rate by 8% and CRIT DMG by 40%.
+TalentSkillData_Name_1553	Bladed Tempest [3]
+TalentSkillData_Desc_1553	Increases Normal Attack's CRIT Rate by 12% and CRIT DMG by 60%.
+TalentSkillData_Name_1641	Monaka's Forbearance [1]
+TalentSkillData_Desc_1641	Increases all party members' Max HP by 6% and Geo RES by 10%.
+TalentSkillData_Name_1642	Monaka's Forbearance [2]
+TalentSkillData_Desc_1642	Increases all party members' Max HP by 9% and Geo RES by 20%.
+TalentSkillData_Name_1643	Monaka's Forbearance [3]
+TalentSkillData_Desc_1643	Increases all party members' Max HP by 12% and Geo RES by 30%.
+TalentSkillData_Name_1644	Monaka's Forbearance [4]
+TalentSkillData_Desc_1644	Increases all party members' Max HP by 15% and Geo RES by 40%.
+TalentSkillData_Name_1651	Tribute to the Earth [1]
+TalentSkillData_Desc_1651	Slightly increases Liyue Dust: Rock Tide's interruption RES and increases CRIT Rate by 5%.
+TalentSkillData_Name_1652	Tribute to the Earth [2]
+TalentSkillData_Desc_1652	Increases Liyue Dust: Rock Tide's interruption RES and increases CRIT Rate by 10%.
+TalentSkillData_Name_1653	Tribute to the Earth [3]
+TalentSkillData_Desc_1653	Greatly increases Liyue Dust: Rock Tide's interruption RES and increases CRIT Rate by 15%.
+TalentSkillData_Name_1661	Unstable Source [1]
+TalentSkillData_Desc_1661	Ruins: Jade creates another explosion at the end of its skill duration, dealing 30% Geo DMG.
+TalentSkillData_Name_1662	Unstable Source [2]
+TalentSkillData_Desc_1662	Ruins: Jade creates another explosion at the end of its skill duration, dealing 50% Geo DMG.
+TalentSkillData_Name_1663	Unstable Source [3]
+TalentSkillData_Desc_1663	Ruins: Jade creates another explosion at the end of its skill duration, dealing 100% Geo DMG.
+TalentSkillData_Name_1671	Mountaineer [1]
+TalentSkillData_Desc_1671	Decreases the Stamina Consumption of climbing by 8%.
+TalentSkillData_Name_1672	Mountaineer [2]
+TalentSkillData_Desc_1672	Decreases the Stamina Consumption of climbing by 12%.
+TalentSkillData_Name_1673	Mountaineer [3]
+TalentSkillData_Desc_1673	Decreases the Stamina Consumption of climbing by 20%.
+TalentSkillData_Name_1681	Golden Experience [1]
+TalentSkillData_Desc_1681	Increases Ruins: Jade's gem impact Geo DMG by 10%.
+TalentSkillData_Name_1682	Golden Experience [2]
+TalentSkillData_Desc_1682	Increases Ruins: Jade's gem impact Geo DMG by 18%.
+TalentSkillData_Name_1683	Golden Experience [3]
+TalentSkillData_Desc_1683	Increases Ruins: Jade's gem impact Geo DMG by 30%.
+TalentSkillData_Name_1691	Return of Star Dust [1]
+TalentSkillData_Desc_1691	Every time Liyue Dust: Rock Tide's seismic wave hits an opponent, the caster has 1.5 Energy restored, up to 7.5 Energy.
+TalentSkillData_Name_1692	Return of Star Dust [2]
+TalentSkillData_Desc_1692	Every time Liyue Dust: Rock Tide's seismic wave hits an opponent, the caster has 3 Energy restored, up to 15 Energy.
+TalentSkillData_Name_1693	Return of Star Dust [3]
+TalentSkillData_Desc_1693	Every time Liyue Dust: Rock Tide's seismic wave hits an opponent, the caster has 5 Energy restored, up to 25 Energy.
+TalentSkillData_Name_1701	Crystal Wall [1]
+TalentSkillData_Desc_1701	Increases Liyue Dust: Rock Tide's wall duration by 1s, the shockwave's Geo DMG by 5%.
+TalentSkillData_Name_1702	Crystal Wall [2]
+TalentSkillData_Desc_1702	Increases Liyue Dust: Rock Tide's wall duration by 2s, the shockwave's Geo DMG by 10%.
+TalentSkillData_Name_1703	Crystal Wall [3]
+TalentSkillData_Desc_1703	Increases Liyue Dust: Rock Tide's wall duration by 4s, the shockwave's Geo DMG by 20%.
+TalentSkillData_Name_1711	Collapse [1]
+TalentSkillData_Desc_1711	The 5th Normal Attack in the sequence has a 15% chance to trigger a collapse, dealing 15% of ATK as blunt AoE Geo DMG.
+TalentSkillData_Name_1712	Collapse [2]
+TalentSkillData_Desc_1712	The 5th Normal Attack in the sequence has a 25% chance to trigger a collapse, dealing 15% of ATK as blunt AoE Geo DMG.
+TalentSkillData_Name_1713	Collapse [3]
+TalentSkillData_Desc_1713	The 5th Normal Attack in the sequence has a 35% chance to trigger a collapse, dealing 25% of ATK as blunt AoE Geo DMG.
+AvatarData_Desc_10000005	 
+AvatarData_Name_10000006	Lisa
+AvatarSkillData_Name_10060	Normal attack
+AvatarSkillData_Desc_10060	
+AvatarSkillData_Name_10061	Violet Arc
+AvatarSkillData_Desc_10061	The Rose Witch determines the color of her lightning.\nTap: Releases a homing lightning orb. On impact, deals Electro DMG to the target, and inflicts shocked on the target and all surrounding opponents. Max 3 stacks.\nHold: After a short conjuring time, summons lightning strikes to deal Electro DMG to all nearby opponents; deals additional Lighting DMG to shocked opponents based on the number of shocked stacks, and removes all stacks.\n\nTap:\nSkill DMG: 120% of ATK\nAoE: 2m\nDuration: 15s\nElemental Type: Electro\nCD: 1s\n\nHold:\nBase Damage: 600% of ATK\nAdditional Damage per stack: \1 stack: 130%\2 stacks: 270%\3 stacks: 450%\nAoE: 10m\nCD: 16s\nType: Electro
+AvatarSkillData_Name_10062	Lightning Rose
+AvatarSkillData_Desc_10062	This rose's beauty might be beyond our comprehension, as are its electrocuting thorns.\nSummons Lightning Rose which releases immense lightning power and knocks back nearby opponents while dealing Electro DMG.\nDuring its duration, Lightning Rose periodically sparks lightning to attack nearby opponents which deals Electro DMG.\n\nSkill DMG: 50.9% of ATK per hit\nHit Frequency: 0.5s\nAoE: 7m\nDuration: 15s\nCD: 32s\nEnergy Cost: 60\nElemental Type:Electro
+TalentSkillData_Name_1100	Violet Witch [1]
+TalentSkillData_Desc_1100	Increases all party members' Electro DMG by 5% and Electro RES by 6%.
+TalentSkillData_Name_1101	Violet Witch [2]
+TalentSkillData_Desc_1101	Increases all party members' Electro DMG by 10% and Electro RES by 9%.
+TalentSkillData_Name_1102	Violet Witch [3]
+TalentSkillData_Desc_1102	Increases all party members' Electro DMG by 15% and Electro RES by 12%.
+TalentSkillData_Name_1103	Violet Witch [4]
+TalentSkillData_Desc_1103	Increases all party members' Electro DMG by 20% and Electro RES by 15%.
+TalentSkillData_Name_1104	Lightning Bolt [1]
+TalentSkillData_Desc_1104	Increases Charged Attack DMG by 4% with a 30% chance to inflict Conductive.
+TalentSkillData_Name_1105	Lightning Bolt [2]
+TalentSkillData_Desc_1105	Increases Charged Attack DMG by 7% with a 55% chance to inflict Conductive.
+TalentSkillData_Name_1106	Lightning Bolt [3]
+TalentSkillData_Desc_1106	Increases Charged Attack DMG by 10% with a 80% chance to inflict Conductive.
+TalentSkillData_Name_1107	Infinite Circuit [1]
+TalentSkillData_Desc_1107	When holding Violet Arc, Lisa recovers 2 Energy for every opponent hit.
+TalentSkillData_Name_1108	Infinite Circuit [2]
+TalentSkillData_Desc_1108	When holding Violet Arc, Lisa recovers 4 Energy per every opponent hit.
+TalentSkillData_Name_1109	Infinite Circuit [3]
+TalentSkillData_Desc_1109	When holding Violet Arc, Lisa recovers 6 Energy per every opponent hit.
+TalentSkillData_Name_1110	Overflowing Energy [1]
+TalentSkillData_Desc_1110	Increases Normal Attack DMG by 8% and knocks back any Conductive opponents.
+TalentSkillData_Name_1111	Overflowing Energy [2]
+TalentSkillData_Desc_1111	Increases Normal Attack DMG by 14% and knocks back any Conductive opponents.
+TalentSkillData_Name_1112	Overflowing Energy [3]
+TalentSkillData_Desc_1112	Increases Normal Attack DMG by 20% and knocks back any Conductive opponents.
+TalentSkillData_Name_1113	Superconductor [1]
+TalentSkillData_Desc_1113	When holding Violet Arc, increases DMG by 8%.
+TalentSkillData_Name_1114	Superconductor [2]
+TalentSkillData_Desc_1114	When holding Violet Arc, increases DMG by 16%.
+TalentSkillData_Name_1115	Superconductor [3]
+TalentSkillData_Desc_1115	When holding Violet Arc, increases DMG by 24%.
+TalentSkillData_Name_1116	Superconductor [4]
+TalentSkillData_Desc_1116	When holding Violet Arc, increases DMG by 32%.
+TalentSkillData_Name_1117	Electromagnetic Field [1]
+TalentSkillData_Desc_1117	Lightning Rose inflicts Vulnerable on surrounding opponents for 6s, increasing DMG against them by 30%.
+TalentSkillData_Name_1118	Electromagnetic Field [2]
+TalentSkillData_Desc_1118	Lightning Rose inflicts Vulnerable on surrounding opponents for 8s, increasing DMG against them by 40%.
+TalentSkillData_Name_1119	Electromagnetic Field [3]
+TalentSkillData_Desc_1119	Lightning Rose inflicts Vulnerable on surrounding opponents for 10s, increasing DMG against them by 50%.
+TalentSkillData_Name_1120	Resonant Thunder [1]
+TalentSkillData_Desc_1120	Increases Lightning Rose's discharge DMG by 8%.
+TalentSkillData_Name_1121	Resonant Thunder [2]
+TalentSkillData_Desc_1121	Increases Lightning Rose's discharge DMG by 16%.
+TalentSkillData_Name_1122	Resonant Thunder [3]
+TalentSkillData_Desc_1122	Increases Lightning Rose's discharge DMG by 24%.
+TalentSkillData_Name_1123	Resonant Thunder [4]
+TalentSkillData_Desc_1123	Increases Lightning Rose's discharge DMG by 32%.
+TalentSkillData_Name_1124	Plasma Storm [1]
+TalentSkillData_Desc_1124	Increases Violet Arc's lightning orb DMG by 15%.
+TalentSkillData_Name_1125	Plasma Storm [2]
+TalentSkillData_Desc_1125	Increases Violet Arc's lightning orb DMG by 30%, and Conductive AoE range by 100%.
+AvatarData_Desc_10000006	The Librarian of the Knights of Favonius based in Mondstadt. They say it's rare to see her unleashing lightning, but it may be because her lightning power is nigh indistinguishable from an actual thunder storm.
+AvatarData_Name_10000007	Traveler
+AvatarData_Desc_10000007	 
+AvatarData_Name_10000014	Barbara
+AvatarSkillData_Name_10070	Normal attack
+AvatarSkillData_Desc_10070	
+AvatarSkillData_Name_10071	Let the Show Begin♪
+AvatarSkillData_Desc_10071	The soothing voice of Barbara is the magic that heals her companions.\nShe summons pulsating water droplets all around her, which deal Hydro DMG to all opponents nearby and inflicts Wet on them.\nAfter a short while, the water droplets transform into singing circles, which heal all party members within, and inflicts Wet on all opponents they come into contact with. \nSkill DMG: 60% of ATK\nAoE: 2m\nHP Recovery: 70% of ATK per 1.5s\nDuration: 15s\nCD: 20s\nElemental Type: Hydro
+AvatarSkillData_Name_10072	Shining Miracle♪
+AvatarSkillData_Desc_10072	Barbara's power of fighting and singing comes from her benevolence towards everything she holds dear.\nHeals all party members and nearby allies substantially.\n\nHP Restoration: 900% of ATK\nCD: 40s\nEnergy Cost: 90\nElemental Type: Hydro
+TalentSkillData_Name_1560	Glorious Season [1]
+TalentSkillData_Desc_1560	Increases all party members' incoming healing by 10%.
+TalentSkillData_Name_1561	Glorious Season [2]
+TalentSkillData_Desc_1561	Increases all party members' incoming healing by 20%.
+TalentSkillData_Name_1562	Glorious Season [3]
+TalentSkillData_Desc_1562	Increases all party members' incoming healing by 30%.
+TalentSkillData_Name_1570	Star of Tomorrow [1]
+TalentSkillData_Desc_1570	Decreases the Stamina Consumption of Charged Attacks by 20%.
+TalentSkillData_Name_1571	Star of Tomorrow [2]
+TalentSkillData_Desc_1571	Decreases the Stamina Consumption of Charged Attacks by 30%.
+TalentSkillData_Name_1572	Star of Tomorrow [3]
+TalentSkillData_Desc_1572	Decreases the Stamina Consumption of Charged Attacks by 40%.
+TalentSkillData_Name_1580	Heart's Melody [1]
+TalentSkillData_Desc_1580	Decreases Stamina Consumption by 5% for the duration of Let the Show Begin♪'s singing circles. Increases singing circles' outgoing healing by 5%.
+TalentSkillData_Name_1581	Heart's Melody [2]
+TalentSkillData_Desc_1581	Decreases Stamina Consumption by 10% for the duration of Let the Show Begin♪'s singing circles. Increases singing circles' outgoing healing by 10%.
+TalentSkillData_Name_1582	Heart's Melody [3]
+TalentSkillData_Desc_1582	Decreases Stamina Consumption by 15% for the duration of Let the Show Begin♪'s singing circles. Increases singing circles' outgoing healing by 15%.
+TalentSkillData_Name_1583	Heart's Melody [4]
+TalentSkillData_Desc_1583	Decreases Stamina Consumption by 20% for the duration of Let the Show Begin♪'s singing circles. Increases singing circles' outgoing healing by 20%.
+TalentSkillData_Name_1590	Joyful Ballad [1]
+TalentSkillData_Desc_1590	Regenerates 1 Energy per 20s. Decreases Shining Miracle♪'s CD by 5%.
+TalentSkillData_Name_1591	Joyful Ballad [2]
+TalentSkillData_Desc_1591	Regenerates 2 Energy per 20s. Decreases Shining Miracle♪'s CD by 10%.
+TalentSkillData_Name_1592	Joyful Ballad [3]
+TalentSkillData_Desc_1592	Regenerates 4 Energy per 20s. Decreases Shining Miracle♪'s CD by 15%.
+TalentSkillData_Name_1600	Vitality Burst [1]
+TalentSkillData_Desc_1600	Let the Show Begin♪'s singing circles increase all party members' Max HP by 2% for 15s and heal the corresponding amount of HP, while also healing all allies within 5m.
+TalentSkillData_Name_1601	Vitality Burst [2]
+TalentSkillData_Desc_1601	Let the Show Begin♪'s singing circles increase all party members' Max HP by 4% for 15s and heal the corresponding amount of HP, while also healing all allies within 10m.
+TalentSkillData_Name_1602	Vitality Burst [3]
+TalentSkillData_Desc_1602	Let the Show Begin♪'s singing circles increase all party members' Max HP by 6% for 15s and heal the corresponding amount of HP, while also healing all allies within 20m.
+TalentSkillData_Name_1610	Bond of Innocence [1]
+TalentSkillData_Desc_1610	When Barbara is backstage, if a party member falls, she automatically revives them and restores 20% of their Max HP. Can occur once every 30 mins.
+TalentSkillData_Name_1611	Bond of Innocence [2]
+TalentSkillData_Desc_1611	When Barbara is backstage, if a party member falls, she automatically revives them and restores 40% of their Max HP. Can occur once every 30 mins.
+TalentSkillData_Name_1612	Bond of Innocence [3]
+TalentSkillData_Desc_1612	When Barbara is backstage, if a party member falls, she automatically revives them and restores 60% of their Max HP. Can occur once every 30 mins.
+TalentSkillData_Name_1620	Encore [1]
+TalentSkillData_Desc_1620	Picking up an Elemental Orb/Particle extends the duration of Let the Show Begin♪ by 0.5s, up to 2s.
+TalentSkillData_Name_1621	Encore [2]
+TalentSkillData_Desc_1621	Picking up an Elemental Orb/Particle extends the duration of Let the Show Begin♪ by 1s, up to 4s.
+TalentSkillData_Name_1622	Encore [3]
+TalentSkillData_Desc_1622	Picking up an Elemental Orb/Particle extends the duration of Let the Show Begin♪ by 1.5s, up to 6s.
+TalentSkillData_Name_1623	Encore [4]
+TalentSkillData_Desc_1623	Picking up an Elemental Orb/Particle extends the duration of Let the Show Begin♪ by 2s, up to 8s.
+TalentSkillData_Name_1630	Dedicating Everything to You [1]
+TalentSkillData_Desc_1630	Increases Shining Miracle♪'s healing effectiveness by 8%.
+TalentSkillData_Name_1631	Dedicating Everything to You [2]
+TalentSkillData_Desc_1631	Increases Shining Miracle♪'s healing effectiveness by 16%.
+TalentSkillData_Name_1632	Dedicating Everything to You [3]
+TalentSkillData_Desc_1632	Increases Shining Miracle♪'s healing effectiveness by 24%.
+TalentSkillData_Name_1633	Dedicating Everything to You [4]
+TalentSkillData_Desc_1633	Increases Shining Miracle♪'s healing effectiveness by 32%.
+AvatarData_Desc_10000014	A Deaconess of the Church in Mondstadt who heals with her smile and Hydro skills. Cherished by all.
+AvatarData_Name_10000015	Kaeya
+AvatarSkillData_Name_10073	Kaeya normal attack key
+AvatarSkillData_Desc_10073	 
+AvatarSkillData_Name_10074	Frostgnaw
+AvatarSkillData_Desc_10074	Even if he looks friendly on the outside, Kaeya, at his core, is an immovable glacier.\nUnleashes a surge of frost, which deals Cryo DMG to all opponents in a cone in front of him.\nSkill DMG: 315% of ATK\nAoE: 8m cone\nCD: 6s\nElemental Type: Cryo
+AvatarSkillData_Name_10075	Glacial Waltz
+AvatarSkillData_Desc_10075	Kaeya is an experienced and reliable veteran. However, those who dare to approach him too closely are greeted by glacial icicles.\nSummons 3 icicles that circle around Kaeya, which deal Cryo DMG to all opponents in their way.\nSkill DMG: 111% of ATK\nDuration: 8s\nAoE: 2m\nCD: 25s\nEnergy Cost: 50\nElemental Type: Cryo
+TalentSkillData_Name_1050	Sufficient Effort [1]
+TalentSkillData_Desc_1050	Increases all party members' Cryo DMG by 5% and Cryo RES by 6%.
+TalentSkillData_Name_1051	Sufficient Effort [2]
+TalentSkillData_Desc_1051	Increases all party members' Cryo DMG by 10% and Cryo RES by 9%.
+TalentSkillData_Name_1052	Sufficient Effort [3]
+TalentSkillData_Desc_1052	Increases all party members' Cryo DMG by 15% and Cryo RES by 12%.
+TalentSkillData_Name_1053	Sufficient Effort [4]
+TalentSkillData_Desc_1053	Increases all party members' Cryo DMG by 20% and Cryo RES by 15%.
+TalentSkillData_Name_1054	Flowing Sleet [1]
+TalentSkillData_Desc_1054	Decreases the Stamina Consumption of sprinting by 10%.
+TalentSkillData_Name_1055	Flowing Sleet [2]
+TalentSkillData_Desc_1055	Decreases the Stamina Consumption of sprinting by 15%.
+TalentSkillData_Name_1056	Flowing Sleet [3]
+TalentSkillData_Desc_1056	Decreases the Stamina Consumption of sprinting by 25%.
+TalentSkillData_Name_1057	Ceremonial Bladework [1]
+TalentSkillData_Desc_1057	Increases Normal Attack DMG by 4%.
+TalentSkillData_Name_1058	Ceremonial Bladework [2]
+TalentSkillData_Desc_1058	Increases Normal Attack DMG by 6% and CRIT Rate by 3%.
+TalentSkillData_Name_1059	Ceremonial Bladework [3]
+TalentSkillData_Desc_1059	Increases Normal Attack DMG by 8% and CRIT Rate by 5%.
+TalentSkillData_Name_1060	Excellent Blood [1]
+TalentSkillData_Desc_1060	When Normal or Charged Attacks damage Cold/Frozen opponents, restores 3% of ATK as HP to all party members.
+TalentSkillData_Name_1061	Excellent Blood [2]
+TalentSkillData_Desc_1061	When Normal or Charged Attacks damage Cold/Frozen opponents, restores 5% of ATK as HP to all party members.
+TalentSkillData_Name_1062	Excellent Blood [3]
+TalentSkillData_Desc_1062	When Normal or Charged Attacks damage Cold/Frozen opponents, restores 7% of ATK as HP to all party members.
+TalentSkillData_Name_1063	Glacial Blow [1]
+TalentSkillData_Desc_1063	Increases Frostgnaw's DMG by 8%.
+TalentSkillData_Name_1064	Glacial Blow [2]
+TalentSkillData_Desc_1064	Increases Frostgnaw's DMG by 16%.
+TalentSkillData_Name_1065	Glacial Blow [3]
+TalentSkillData_Desc_1065	Increases Frostgnaw's DMG by 24%.
+TalentSkillData_Name_1066	Glacial Blow [4]
+TalentSkillData_Desc_1066	Increases Frostgnaw's DMG by 32%.
+TalentSkillData_Name_1067	Indestructible Ice [1]
+TalentSkillData_Desc_1067	Increases Glacial Waltz's DMG by 10%.
+TalentSkillData_Name_1068	Indestructible Ice [2]
+TalentSkillData_Desc_1068	Increases Glacial Waltz's DMG by 20%.
+TalentSkillData_Name_1069	Indestructible Ice [3]
+TalentSkillData_Desc_1069	Increases Glacial Waltz's DMG by 20% and duration by 3s.
+TalentSkillData_Name_1070	Cold-Blooded Strike [1]
+TalentSkillData_Desc_1070	Frozen Onslaught hits restore 40% of DMG dealt as HP to Kaeya.
+TalentSkillData_Name_1071	Cold-Blooded Strike [2]
+TalentSkillData_Desc_1071	Frozen Onslaught hits restore 70% of DMG dealt as HP to Kaeya.
+TalentSkillData_Name_1072	Cold-Blooded Strike [3]
+TalentSkillData_Desc_1072	Frozen Onslaught hits restore 100% of DMG dealt as HP to Kaeya.
+TalentSkillData_Name_1073	Frozen Kiss [1]
+TalentSkillData_Desc_1073	When Kaeya's HP drops below 20%, generates a shield that absorbs DMG equal to 15% of his Max HP for 20s. Can occur once every 60s.
+TalentSkillData_Name_1074	Frozen Kiss [2]
+TalentSkillData_Desc_1074	When Kaeya's HP drops below 20%, generates a shield that absorbs DMG equal to 30% of his Max HP for 20s. Can occur once every 60s.
+TalentSkillData_Name_1075	Frozen Kiss [3]
+TalentSkillData_Desc_1075	When Kaeya's HP drops below 20%, generates a shield that absorbs DMG equal to 30% of his Max HP for 20s. While the shield active, it converts all incoming DMG to HP. Can only occur once every 60s.
+AvatarData_Desc_10000015	A knight of the Knights of Favonius. He is kind and friendly, but is somehow attributed to Cryo.
+AvatarData_Name_10000016	Diluc
+AvatarSkillData_Name_10160	Diluc normal attack key
+AvatarSkillData_Desc_10160	
+AvatarSkillData_Name_10161	Searing Onslaught
+AvatarSkillData_Desc_10161	This blade represents the values that Diluc upholds: justice, courage and duty.\nSlashes forward, which deals Pyro DMG. This skill enters CD if cast 3 times consecutively or if not cast consecutively within 4s.\nSkill DMG: 200%/200%/250%\nCD: 10s\nElemental Type: Pyro
+AvatarSkillData_Name_10165	Dawn
+AvatarSkillData_Desc_10165	The only reason to walk in the darkness, is to disperse light within it. Behold, that the fleeing light in the dead of night, heralds that the dawn shall soon come.\nFlames emerge from within, which knock back nearby opponents and then gather onto his weapon.Out of it a phoenix surges forward, which deals Pyro DoT to all opponents in its path. The phoenix then explodes and knocks down nearby opponents.\nSkill DMG: 120% of ATK per 0.2s\nAoE: 16m\nDuration: 1.7s\nExplosion DMG: 240% of ATK\nCD: 30s\nEnergy Cost: 60\nElemental Type: Pyro
+TalentSkillData_Name_1400	Night's Watch [1]
+TalentSkillData_Desc_1400	Increases all party members' base ATK by 5%.
+TalentSkillData_Name_1401	Night's Watch [2]
+TalentSkillData_Desc_1401	Increases all party members' base ATK by 10%.
+TalentSkillData_Name_1402	Night's Watch [3]
+TalentSkillData_Desc_1402	Increases all party members' base ATK by 15%.
+TalentSkillData_Name_1403	Night's Watch [4]
+TalentSkillData_Desc_1403	Increases all party members' base ATK by 20%.
+TalentSkillData_Name_1410	Relentless [1]
+TalentSkillData_Desc_1410	When HP drops below 50%, it regenerates for 3% of Max HP every 10s.
+TalentSkillData_Name_1411	Relentless [2]
+TalentSkillData_Desc_1411	When HP drops below 70%, it regenerates for 3.5% of Max HP every 10s.
+TalentSkillData_Name_1412	Relentless [3]
+TalentSkillData_Desc_1412	When HP drops below 100%, it regenerates for 4% of Max HP every 10s.
+TalentSkillData_Name_1420	Tempered [1]
+TalentSkillData_Desc_1420	Increases Base ATK by 3%.
+TalentSkillData_Name_1421	Tempered [2]
+TalentSkillData_Desc_1421	Increases Base ATK by 6%.
+TalentSkillData_Name_1422	Tempered [3]
+TalentSkillData_Desc_1422	Increases Base ATK by 10%.
+TalentSkillData_Name_1430	Blazing Blade [1]
+TalentSkillData_Desc_1430	2 seconds after casting Searing Onslaught, increases the next Searing Onslaught's DMG by 40% for the next 2s.
+TalentSkillData_Name_1431	Blazing Blade [2]
+TalentSkillData_Desc_1431	2 seconds after casting Searing Onslaught, increases the next Searing Onslaught's DMG by 70% for the next 2s.
+TalentSkillData_Name_1432	Blazing Blade [3]
+TalentSkillData_Desc_1432	2 seconds after casting Searing Onslaught, increases the next Searing Onslaught's DMG by 100% for the next 2s.
+TalentSkillData_Name_1440	Searing Ember [1]
+TalentSkillData_Desc_1440	Incoming Pyro DMG increases base ATK by 8% and ATK SPD by 2% for 10s. Max 2 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1441	Searing Ember [2]
+TalentSkillData_Desc_1441	Incoming Pyro DMG increases base ATK by 10% and ATK SPD by 3% for 10s. Max 2 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1442	Searing Ember [3]
+TalentSkillData_Desc_1442	Incoming Pyro DMG increases base ATK by 12% and ATK SPD by 3% for 10s. Max 3 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1443	Searing Ember [4]
+TalentSkillData_Desc_1443	Incoming Pyro DMG increases base ATK by 15% and ATK SPD by 4% for 10s. Max 3 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1450	Fire and Steel [1]
+TalentSkillData_Desc_1450	Using Searing Onslaught gives 2 stacks of Breaking Flame for 10s. Every Normal Attack consumes 1 stack to increase its DMG by 15%. Max 4 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1451	Fire and Steel [2]
+TalentSkillData_Desc_1451	Using Searing Onslaught gives 2 stacks of Breaking Flame for 10s. Every Normal Attack consumes 1 stack to increase its DMG by 30%. Max 4 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1452	Fire and Steel [3]
+TalentSkillData_Desc_1452	Using Searing Onslaught gives 2 stacks of Breaking Flame for 10s. Every Normal Attack consumes 1 stack to increase its DMG by 45%. Max 4 stacks. Duration resets on new stacks.
+TalentSkillData_Name_1460	Flaming Sword, Nemesis of Dark [1]
+TalentSkillData_Desc_1460	After casting Dawn, increases Pyro DMG by 12%, and converts Normal or Charged Attack DMG to Pyro DMG for the next 10s.
+TalentSkillData_Name_1461	Flaming Sword, Nemesis of Dark [2]
+TalentSkillData_Desc_1461	After casting Dawn, increases Pyro DMG by 22%, and converts Normal or Charged Attack DMG to Pyro DMG for the next 10s.
+TalentSkillData_Name_1462	Flaming Sword, Nemesis of Dark [3]
+TalentSkillData_Desc_1462	After casting Dawn, increases Pyro DMG by 32%, and converts Normal or Charged Attack DMG to Pyro DMG for the next 10s.
+TalentSkillData_Name_1470	Phoenix, Harbinger of Dawn [1]
+TalentSkillData_Desc_1470	Increases Dawn's Phoenix DMG by 11%.
+TalentSkillData_Name_1471	Phoenix, Harbinger of Dawn [2]
+TalentSkillData_Desc_1471	Increases Dawn's Phoenix DMG by 22%.
+TalentSkillData_Name_1472	Phoenix, Harbinger of Dawn [3]
+TalentSkillData_Desc_1472	Increases Dawn's Phoenix DMG by 33%.
+AvatarData_Desc_10000016	A former member of the Knights of Favonius who now owns the Dawn Winery in Mondstadt. He fights ferociously like fire.
+AvatarData_Name_10000020	Razor
+AvatarSkillData_Name_10201	Razor Normal Attack
+AvatarSkillData_Desc_10201	
+AvatarSkillData_Name_10202	Claw and Thunder
+AvatarSkillData_Desc_10202	If you look into Razor's eyes as his lightning strikes, you may see the Wolf Within staring back at its prey.\nTap: Swings the claws of the Wolf Within, which deals Electro DMG to all opponents in front of him. If at least 1 opponent is hit, Razor gains a lightning mark, which increases his Energy Recharge. Max 3 lightning marks. New marks reset mark duration.\nHold: Slams with the force of lightning, which deals Electro DMG to all opponents nearby. This removes all lightning mark stacks and converts them into Energy.\n\nTap:\nSkill DMG: 410% of ATK\nAoE: 2.4m cone\nEnergy Recharge: +25%\nCD: 6s\nElemental Type: Electro\n\nHold:\nSkill DMG: 640% of ATK\nAoE: 5m\nEnergy Gain: 5 Energy per lightning mark\nCD: 10s\nElemental Type: Electro
+AvatarSkillData_Name_10203	Lightning Fang
+AvatarSkillData_Desc_10203	The wolf has awoken. The hunt has begun.\nSummons the Wolf Within, which deals Electro DMG to all opponents nearby.\nDuring its duration, the Wolf Within will fight alongside Razor, which increases Claw and Thunder's DMG. When Razor uses Normal Attacks, the Wolf Within also attacks, which deals additional Electro DMG.\nDuring its duration, Razor gains additional Electro RES, ATK SPD, and immunity to DMG inflicted by Electro-Charged, but Charged Attacks become unavailable.\nThe Wolf Within disappears if Razor falls or leaves the battlefield. If Razor leaves the battlefield within the duration, the remaining time is recouped as Energy, returning up to 10 Energy.\nInitial DMG: 30% of ATK\nWolf Within Normal Attack DMG: 51%/44%/55%/72% of ATK\nATK SPD Bonus: 40%\nElectro RES Bonus: 80%\nDuration: 15s\nCD: 25s\nEnergy Cost: 60\nElemental Type: Electro
+TalentSkillData_Name_2011	Canine's Glare [1]
+TalentSkillData_Desc_2011	Increases all party members' Electro DMG by 5% and Electro RES by 6%.
+TalentSkillData_Name_2012	Canine's Glare [2]
+TalentSkillData_Desc_2012	Increases all party members' Electro DMG by 10% and Electro RES by 9%.
+TalentSkillData_Name_2013	Canine's Glare [3]
+TalentSkillData_Desc_2013	Increases all party members' Electro DMG by 15% and Electro RES by 12%.
+TalentSkillData_Name_2014	Canine's Glare [4]
+TalentSkillData_Desc_2014	Increases all party members' Electro DMG by 20% and Electro RES by 15%.
+TalentSkillData_Name_2021	Wild Stamina [1]
+TalentSkillData_Desc_2021	Decreases the Stamina Consumption of sprinting and swimming by 9%.
+TalentSkillData_Name_2022	Wild Stamina [2]
+TalentSkillData_Desc_2022	Decreases the Stamina Consumption of sprinting and swimming by 18%.
+TalentSkillData_Name_2023	Wild Stamina [3]
+TalentSkillData_Desc_2023	Decreases the Stamina Consumption of sprinting and swimming by 33%.
+TalentSkillData_Name_2031	Awakening [1]
+TalentSkillData_Desc_2031	Casting Lightning Fang resets Claw and Thunder's CD.
+TalentSkillData_Name_2032	Awakening [2]
+TalentSkillData_Desc_2032	Casting Lightning Fang resets Claw and Thunder's CD. Additionally, while Lightning Fang is active, decreases Claw and Thunder's CD by 9%.
+TalentSkillData_Name_2033	Awakening [3]
+TalentSkillData_Desc_2033	Casting Lightning Fang resets Claw and Thunder's CD. Additionally, while Lightning Fang is active, decreases Claw and Thunder's CD by 18%.
+TalentSkillData_Name_2041	Iron and Thunder [1]
+TalentSkillData_Desc_2041	Every 15s, Razor's sword charges, causing the next Normal Attack to release lightning, which deals 60% of ATK as Electro DMG.
+TalentSkillData_Name_2042	Iron and Thunder [2]
+TalentSkillData_Desc_2042	Every 12s, Razor's sword charges, causing the next Normal Attack to release lightning, which deals 80% of ATK as Electro DMG.
+TalentSkillData_Name_2043	Iron and Thunder [3]
+TalentSkillData_Desc_2043	Every 10s, Razor's sword charges, causing the next Normal Attack to release lightning, which deals 100% of ATK as Electro DMG.
+TalentSkillData_Name_2051	Hunger [1]
+TalentSkillData_Desc_2051	When Razor's Energy is below 50%, increases Energy Recharge by 50%.
+TalentSkillData_Name_2052	Hunger [2]
+TalentSkillData_Desc_2052	When Razor's Energy is below 50%, increases Energy Recharge by 100%.
+TalentSkillData_Name_2053	Hunger [3]
+TalentSkillData_Desc_2053	When Razor's Energy is below 50%, increases Energy Recharge by 150%.
+TalentSkillData_Name_2061	Wolf's Nature [1]
+TalentSkillData_Desc_2061	Picking up an Elemental Orb or Particle increases Razor's DMG by 15% for 8s. Duration resets on new Elemental Orb/Particles.
+TalentSkillData_Name_2062	Wolf's Nature [2]
+TalentSkillData_Desc_2062	Picking up an Elemental Orb or Particle increases Razor's DMG by 20% for 10s. Duration resets on new Elemental Orb/Particles.
+TalentSkillData_Name_2063	Wolf's Nature [3]
+TalentSkillData_Desc_2063	Picking up an Elemental Orb or Particle increases Razor's DMG by 25% for 12s. Duration resets on new Elemental Orb/Particles.
+TalentSkillData_Name_2071	Bite [1]
+TalentSkillData_Desc_2071	On hit, Claw and Thunder's tapping mode decreases opponents' DEF by 10% for 7s. Duration resets on new hits.
+TalentSkillData_Name_2072	Bite [2]
+TalentSkillData_Desc_2072	On hit, Claw and Thunder's tapping mode decreases opponents' DEF by 20% for 7s. Duration resets on new hits.
+TalentSkillData_Name_2073	Bite [3]
+TalentSkillData_Desc_2073	On hit, Claw and Thunder's tapping mode decreases opponents' DEF by 30% for 7s. Duration resets on new hits.
+TalentSkillData_Name_2081	Unleashed [1]
+TalentSkillData_Desc_2081	Increases Claw and Thunder's DMG by 10%.
+TalentSkillData_Name_2082	Unleashed [2]
+TalentSkillData_Desc_2082	Increases Claw and Thunder's DMG by 20%.
+TalentSkillData_Name_2083	Unleashed [3]
+TalentSkillData_Desc_2083	Increases Claw and Thunder's DMG by 33%.
+AvatarData_Desc_10000020	A boy who lives among the wolves in Wolvendom of Mondstadt. As agile as lightning.
+AvatarData_Name_10000021	Amber
+AvatarSkillData_Name_10017	Fiery Rain
+AvatarSkillData_Desc_10017	They say Amber is a girl with blazing passion, but watch out, or she'll burn you.\nUnleashes Fiery Rain which rains down from above and deals Pyro DoT.\nSkill DMG: 965% of ATK (Total)\nAoE: 2m\nDuration: 2s\nCD: 15s\nEnergy Cost: 30\nElemental Type: Pyro
+AvatarSkillData_Name_10032	Explosive Puppet
+AvatarSkillData_Desc_10032	Baron Bunny is the heir of a long and complicated lineage. How complicated? Even Amber can't figure it out after having counted until Baron Bunny the 893rd. \nThrows a Baron Bunny decoy which taunts nearby opponents and absorbs incoming attacks.\nBaron Bunny inherits HP proportional to Amber's Max HP. Upon destruction or expiration, Baron Bunny explodes and deals Pyro DMG to all surrounding opponents.\nHold to adjust the throwing distance and direction.\n\nMax Throwing Distance: 10m\nDuration: 8s\nSkill DMG: 375% of ATK\nExplosion AoE: 3m\nProportional HP Inherited: 100%\nCD: 16s\nElemental Type: Pyro
+AvatarSkillData_Name_10041	
+AvatarSkillData_Desc_10041	
+TalentSkillData_Name_1000	Go! Go! Outrider! [1]
+TalentSkillData_Desc_1000	Increases all party members' Pyro DMG by 5% and Pyro RES by 6%.
+TalentSkillData_Name_1001	Go! Go! Outrider! [2]
+TalentSkillData_Desc_1001	Increases all party members' Pyro DMG by 10% and Pyro RES by 9%.
+TalentSkillData_Name_1002	Go! Go! Outrider! [3]
+TalentSkillData_Desc_1002	Increases all party members' Pyro DMG by 15% and Pyro RES by 12%.
+TalentSkillData_Name_1003	Go! Go! Outrider! [4]
+TalentSkillData_Desc_1003	Increases all party members' Pyro DMG by 20% and Pyro RES by 15%.
+TalentSkillData_Name_1004	Gliding Champion [1]
+TalentSkillData_Desc_1004	Decreases the Stamina Consumption of gliding by 9%.
+TalentSkillData_Name_1005	Gliding Champion [2]
+TalentSkillData_Desc_1005	Decreases the Stamina Consumption of gliding by 18%.
+TalentSkillData_Name_1006	Gliding Champion [3]
+TalentSkillData_Desc_1006	Decreases the Stamina Consumption of gliding by 33%.
+TalentSkillData_Name_1007	Marksmanship [1]
+TalentSkillData_Desc_1007	Increases Normal Attack and Aimed Shot DMG by 4%.
+TalentSkillData_Name_1008	Marksmanship [2]
+TalentSkillData_Desc_1008	Increases Normal Attack and Aimed Shot DMG by 7%.
+TalentSkillData_Name_1009	Marksmanship [3]
+TalentSkillData_Desc_1009	Increases Normal Attack and Aimed Shot DMG by 10%.
+TalentSkillData_Name_1016	It's Not Just Any Doll... [1]
+TalentSkillData_Desc_1016	Increases Explosive Puppet's doll's Max HP by 40% and DMG by 10%.
+TalentSkillData_Name_1017	It's Not Just Any Doll... [2]
+TalentSkillData_Desc_1017	Increases Explosive Puppet's doll's Max HP by 70% and DMG by 20%.
+TalentSkillData_Name_1018	It's Not Just Any Doll... [3]
+TalentSkillData_Desc_1018	Increases Explosive Puppet's doll's Max HP by 100% and DMG by 30%.
+TalentSkillData_Name_1012	It Burns! [1]
+TalentSkillData_Desc_1012	Increases Fiery Rain's CRIT Rate by 4% and DMG by 6%.
+TalentSkillData_Name_1013	It Burns! [2]
+TalentSkillData_Desc_1013	Increases Fiery Rain's CRIT Rate by 6% and DMG by 12%.
+TalentSkillData_Name_1014	It Burns! [3]
+TalentSkillData_Desc_1014	Increases Fiery Rain's CRIT Rate by 8% and DMG by 18%.
+TalentSkillData_Name_1015	It Burns! [4]
+TalentSkillData_Desc_1015	Increases Fiery Rain's CRIT Rate by 10% and DMG by 24%.
+TalentSkillData_Name_1010	It's Baron Bunny! [1]
+TalentSkillData_Desc_1010	Decreases Explosive Puppet's CD by 20%.
+TalentSkillData_Name_1011	It's Baron Bunny! [2]
+TalentSkillData_Desc_1011	Decreases Explosive Puppet's CD by 25%. Now has 2 charges.
+TalentSkillData_Name_1019	One Arrow to Rule Them All [1]
+TalentSkillData_Desc_1019	Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.
+TalentSkillData_Name_1020	One Arrow To Rule Them All [2]
+TalentSkillData_Desc_1020	Fires 2 arrows per Aimed Shot. The second arrow deals 30% of the first arrow's DMG.
+TalentSkillData_Name_1021	One Arrow To Rule Them All [3]
+TalentSkillData_Desc_1021	Fires 2 arrows per Aimed Shot. The second arrow deals 40% of the first arrow's DMG.
+TalentSkillData_Name_1022	Wildfire [1]
+TalentSkillData_Desc_1022	Fiery Rain increases Movement SPD by 10% and Base ATK by 15% for 10s.
+TalentSkillData_Name_1023	Wildfire [2]
+TalentSkillData_Desc_1023	Fiery Rain increases Movement SPD by 20% and Base ATK by 30% for 10s.
+TalentSkillData_Name_1024	Wildfire [3]
+TalentSkillData_Desc_1024	Fiery Rain increases Movement SPD by 30% and Base ATK by 45% for 10s.
+AvatarData_Desc_10000021	The only outrider within the Knights of Favonius. She dresses in red... Wouldn't that interfere with her recon work?
+AvatarData_Name_10000022	Venti
+AvatarSkillData_Name_10221	Venti
+AvatarSkillData_Desc_10221	
+AvatarSkillData_Name_10224	Skyward Sonnet
+AvatarSkillData_Desc_10224	There was a time when Archons walked among man, when poems and songs soared throughout the sky. This is a melody that has long been forgotten by most, but not by him.\nTap: Summons the power of wind at the target location, launching all opponents within, which deals Anemo DMG and inflicts Airborne.\nHold: Summons the power of wind around himself, which brings him into the air and launches all nearby opponents, which deals Anemo DMG and inflicts Airborne.\n\nTap:\nSkill DMG: 385% of ATK\nAoE: 3m\nAirborne Duration: 3s\nCD: 5s\nElemental Type: Anemo\n\nHold:\nSkill DMG: 445% of ATK\nAoE: 6m\nAirborne Duration: 3s\nCD: 12s\nElemental Type: Anemo
+AvatarSkillData_Name_10225	Wind's Grand Ode
+AvatarSkillData_Desc_10225	Though many of the Anemo Archon's poems have long since been lost, one of them survives, describing the bond between himself and the power of the winds.\nShoot arrows infused with the power of a thousand winds, which creates a storm. The storm pulls all opponents into itself, inflicting Trapped, and dealing Anemo DoT.\nContact with Hydro, Pyro, Cryo or Electro causes that element to be absorbed, dealing additional Elemental DMG accordingly. Can only absorb one element.\nSkill DMG: 47.6% of ATK per 0.4s\nDuration: 8s\nAoE: 6m\nCD: 25s\nEnergy Cost: 60\nElemental Type: Anemo
+TalentSkillData_Name_2211	Tale of a Thousand Winds [1]
+TalentSkillData_Desc_2211	Increases all Anemo party members' DMG by 10%.
+TalentSkillData_Name_2212	Tale of a Thousand Winds [2]
+TalentSkillData_Desc_2212	Increases all Anemo party members' DMG by 20%.
+TalentSkillData_Name_2221	Wind's Favor [1]
+TalentSkillData_Desc_2221	Decreases the Stamina Consumption of gliding by 8%.
+TalentSkillData_Name_2222	Wind's Favor [2]
+TalentSkillData_Desc_2222	Decreases the Stamina Consumption of gliding by 16%.
+TalentSkillData_Name_2223	Wind's Favor [3]
+TalentSkillData_Desc_2223	Decreases the Stamina Consumption of gliding by 24%.
+TalentSkillData_Name_2224	Wind's Favor [4]
+TalentSkillData_Desc_2224	Decreases the Stamina Consumption of gliding by 33%.
+TalentSkillData_Name_2231	Divine Archery [1]
+TalentSkillData_Desc_2231	Increases Aimed Shot DMG by 5%.
+TalentSkillData_Name_2232	Divine Archery [2]
+TalentSkillData_Desc_2232	Increases Aimed Shot DMG by 10%.
+TalentSkillData_Name_2233	Divine Archery [3]
+TalentSkillData_Desc_2233	Increases Aimed Shot DMG by 15%.
+TalentSkillData_Name_2234	Divine Archery [4]
+TalentSkillData_Desc_2234	Increases Aimed Shot DMG by 20%.
+TalentSkillData_Name_2241	Splitting Gale [1]
+TalentSkillData_Desc_2241	Fires 2 additional split arrows per Aimed Shot, each dealing 10% DMG of the main arrow.
+TalentSkillData_Name_2242	Splitting Gale [2]
+TalentSkillData_Desc_2242	Fires 2 additional split arrows per Aimed Shot, each dealing 20% DMG of the main arrow.
+TalentSkillData_Name_2243	Splitting Gale [3]
+TalentSkillData_Desc_2243	Fires 2 additional split arrows per Aimed Shot, each dealing 30% DMG of the main arrow.
+TalentSkillData_Name_2251	Skyward Ensemble [1]
+TalentSkillData_Desc_2251	Increases Skyward Sonnet's DMG by 11%.
+TalentSkillData_Name_2252	Skyward Ensemble [2]
+TalentSkillData_Desc_2252	Increases Skyward Sonnet's DMG by 22%.
+TalentSkillData_Name_2253	Skyward Ensemble [3]
+TalentSkillData_Desc_2253	Increases Skyward Sonnet's DMG by 33%.
+TalentSkillData_Name_2261	Breeze of Reminiscence [1]
+TalentSkillData_Desc_2261	When Wind's Grand Ode ends, generates Anemo type Energy Particles that restore 12 Energy each. If Wind's Grand Ode had absorbed another element, then it also generates additional Energy Particles of the absorbed element type.
+TalentSkillData_Name_2262	Breeze of Reminiscence [2]
+TalentSkillData_Desc_2262	When Wind's Grand Ode ends, generates Anemo type Energy Particles that restore 15 Energy each. If Wind's Grand Ode had absorbed another element, then it also generates additional Energy Particles of the absorbed element type.
+TalentSkillData_Name_2263	Breeze of Reminiscence [3]
+TalentSkillData_Desc_2263	When Wind's Grand Ode ends, generates Anemo type Energy Particles that restore 21 Energy each. If Wind's Grand Ode had absorbed another element, then it also generates additional Energy Particles of the absorbed element type.
+TalentSkillData_Name_2271	Hurricane of Freedom [1]
+TalentSkillData_Desc_2271	On picking up an Energy Orb or Energy Particle, increases Anemo DMG by 9% for 8s. Duration resets on new Energy Orb/Particles.
+TalentSkillData_Name_2272	Hurricane of Freedom [2]
+TalentSkillData_Desc_2272	On picking up an Energy Orb or Energy Particle, increases Anemo DMG by 17% for 8s. Duration resets on new Energy Orb/Particles.
+TalentSkillData_Name_2273	Hurricane of Freedom [3]
+TalentSkillData_Desc_2273	On picking up an Energy Orb or Energy Particle, increases Anemo DMG by 25% for 8s. Duration resets on new Energy Orb/Particles.
+TalentSkillData_Name_2281	Storm of Defiance [1]
+TalentSkillData_Desc_2281	Increases CRIT Rate against opponents affected by Wind's Grand Ode by 8% 
+TalentSkillData_Name_2282	Storm of Defiance [2]
+TalentSkillData_Desc_2282	Increases CRIT Rate against opponents affected by Wind's Grand Ode by 16% 
+TalentSkillData_Name_2283	Storm of Defiance [3]
+TalentSkillData_Desc_2283	Increases CRIT Rate against opponents affected by Wind's Grand Ode by 24% 
+AvatarData_Desc_10000022	A mysterious bard who just came to Mondstadt recently. Tales of the Wind flow out of his mild strings and silver tongue.
+AvatarData_Name_10000023	Xiangling
+AvatarSkillData_Name_10231	Xiangling normal attack
+AvatarSkillData_Desc_10231	 
+AvatarSkillData_Name_10232	Gooba Attack
+AvatarSkillData_Desc_10232	Gooba loves his food hot. Whether he can stand his food that hot is beyond his concern.\nSummons Gooba the Panda. Gooba breathes fire every 1.6s, which deals Pyro DMG in a frontal cone.\n\nSkill DMG: 110% of ATK\nAoE: 5m cone\nDuration: 7s\nCD: 6s\nElemental Type: Pyro
+AvatarSkillData_Name_10235	Pyronado
+AvatarSkillData_Desc_10235	It is far from cooked yet. Let the flames burn higher.\nUsing her fire-control and spear-wielding skills, Xiangling creates a Pyronado around herself, which deals Pyro DMG to all opponents in its path.\n\nCreation DMG: 60%/60%/100% of ATK\nSkill DMG: 300% of ATK\nAoE: 4m\nDuration: 5.4s\nCD: 25s\nEnergy Cost: 60\nElemental Type: Pyro
+TalentSkillData_Name_2311	Kindling Hearthfire [1]
+TalentSkillData_Desc_2311	Increases all party members' Max HP by 6% and Pyro RES by 6%.
+TalentSkillData_Name_2312	Kindling Hearthfire [2]
+TalentSkillData_Desc_2312	Increases all party members' Max HP by 9% and Pyro RES by 9%.
+TalentSkillData_Name_2313	Kindling Hearthfire [3]
+TalentSkillData_Desc_2313	Increases all party members' Max HP by 12% and Pyro RES by 12%.
+TalentSkillData_Name_2314	Kindling Hearthfire [4]
+TalentSkillData_Desc_2314	Increases all party members' Max HP by 15% and Pyro RES by 15%.
+TalentSkillData_Name_2321	Errand Runner [1]
+TalentSkillData_Desc_2321	Increases walking and running SPD by 3%.
+TalentSkillData_Name_2322	Errand Runner [2]
+TalentSkillData_Desc_2322	Increases walking and running SPD by 6%.
+TalentSkillData_Name_2323	Errand Runner [3]
+TalentSkillData_Desc_2323	Increases walking and running SPD by 9%.
+TalentSkillData_Name_2331	Gooba Mad [1]
+TalentSkillData_Desc_2331	Increases Gooba Attack's fire breath distance by 10%.
+TalentSkillData_Name_2332	Gooba Mad [2]
+TalentSkillData_Desc_2332	Increases Gooba Attack's fire breath distance by 20%.
+TalentSkillData_Name_2333	Gooba Mad [3]
+TalentSkillData_Desc_2333	Increases Gooba Attack's fire breath distance by 30%.
+TalentSkillData_Name_2341	Oil Meets Fire [1]
+TalentSkillData_Desc_2341	The last attack in a Normal Attack sequence inflicts Implode on the opponent for 2s. When Implode ends, deals 20% Pyro DMG to all opponents within 2m.
+TalentSkillData_Name_2342	Oil Meets Fire [2]
+TalentSkillData_Desc_2342	The last attack in a Normal Attack sequence inflicts Implode on the opponent for 2s. When Implode ends, deals 40% Pyro DMG to all opponents within 2m.
+TalentSkillData_Name_2343	Oil Meets Fire [3]
+TalentSkillData_Desc_2343	The last attack in a Normal Attack sequence inflicts Implode on the opponent for 2s. When Implode ends, deals 60% Pyro DMG to all opponents within 2m.
+TalentSkillData_Name_2351	Dough Fu [1]
+TalentSkillData_Desc_2351	While Pyronado is active, increases the current character's Pyro DMG by 10%.
+TalentSkillData_Name_2352	Dough Fu [2]
+TalentSkillData_Desc_2352	While Pyronado is active, increases the current character's Pyro DMG by 20%.
+TalentSkillData_Name_2353	Dough Fu [3]
+TalentSkillData_Desc_2353	While Pyronado is active, increases the current character's Pyro DMG by 30%.
+TalentSkillData_Name_2361	Crispy Outside, Tender Inside [1]
+TalentSkillData_Desc_2361	On hit, Gooba Attack decreases opponents' Pyro RES by 20% for 6s.
+TalentSkillData_Name_2362	Crispy Outside, Tender Inside [2]
+TalentSkillData_Desc_2362	On hit, Gooba Attack decreases opponents' Pyro RES by 30% for 6s.
+TalentSkillData_Name_2363	Crispy Outside, Tender Inside [3]
+TalentSkillData_Desc_2363	On hit, Gooba Attack decreases opponents' Pyro RES by 40% for 6s.
+TalentSkillData_Name_2371	Beware, It's Super Hot! [1]
+TalentSkillData_Desc_2371	When Gooba Attack ends, Gooba leaves a hot pepper on the battlefield. Picking up the hot pepper increases ATK by 8% for 10s. Duration resets on new hot pepper.
+TalentSkillData_Name_2372	Beware, It's Super Hot! [2]
+TalentSkillData_Desc_2372	When Gooba Attack ends, Gooba leaves a hot pepper on the battlefield. Picking up the hot pepper increases ATK by 12% for 10s. Duration resets on new hot pepper.
+TalentSkillData_Name_2373	Beware, It's Super Hot! [3]
+TalentSkillData_Desc_2373	When Gooba Attack ends, Gooba leaves a hot pepper on the battlefield. Picking up the hot pepper increases ATK by 20% for 10s. Duration resets on new hot pepper.
+TalentSkillData_Name_2381	Condensed Pyronado [1]
+TalentSkillData_Desc_2381	Increases Pyronado DMG by 10% and duration by 10%.
+TalentSkillData_Name_2382	Condensed Pyronado [2]
+TalentSkillData_Desc_2382	Increases Pyronado DMG by 15% and duration by 15%.
+TalentSkillData_Name_2383	Condensed Pyronado [3]
+TalentSkillData_Desc_2383	Increases Pyronado DMG by 20% and duration by 20%.
+AvatarData_Desc_10000023	A rookie chef from Liyue. Wonder if she can handle a spatula like she can a spear?
+AvatarData_Name_10000024	
+AvatarSkillData_Name_10241	Beido normal attack
+AvatarSkillData_Desc_10241	
+AvatarSkillData_Name_10242	Skill
+AvatarSkillData_Desc_10242	
+AvatarSkillData_Name_10245	
+AvatarSkillData_Desc_10245	
+AvatarData_Desc_10000024	 
+AvatarData_Name_10000025	
+AvatarSkillData_Name_10381	
+AvatarSkillData_Desc_10381	
+AvatarSkillData_Name_10382	
+AvatarSkillData_Desc_10382	
+AvatarSkillData_Name_10383	
+AvatarSkillData_Desc_10383	
+AvatarData_Desc_10000025	 
+AvatarData_Name_10000001	Kate
+AvatarSkillData_Name_10011	5 Hit combo
+AvatarSkillData_Desc_10011	 
+AvatarSkillData_Name_10012	Kate Test Skill
+AvatarSkillData_Desc_10012	 
+AvatarSkillData_Name_10014	Kate - Electric Current
+AvatarSkillData_Desc_10014	 
+AvatarData_Desc_10000001	 
+AvatarData_Name_11000008	
+AvatarData_Desc_11000008	 
+AvatarData_Name_11000009	
+AvatarData_Desc_11000009	 
+AvatarData_Name_11000010	
+AvatarData_Desc_11000010	 
+AvatarData_Name_11000011	
+AvatarData_Desc_11000011	 
+AvatarData_Name_11000013	
+AvatarData_Desc_11000013	 
+AvatarData_Name_11000017	
+AvatarData_Desc_11000017	 
+AvatarData_Name_11000018	
+AvatarData_Desc_11000018	 
+AvatarData_Name_11000019	
+AvatarData_Desc_11000019	 
+AvatarData_Name_11000025	
+AvatarSkillData_Name_10251	
+AvatarSkillData_Desc_10251	
+AvatarSkillData_Name_10255	
+AvatarSkillData_Desc_10255	
+AvatarSkillData_Name_10362	
+AvatarSkillData_Desc_10362	
+AvatarData_Desc_11000025	 
+AvatarData_Name_11000026	Yaoyao
+AvatarData_Desc_11000026	 
+AvatarData_Name_11000027	
+AvatarData_Desc_11000027	 
+AvatarData_Name_11000028	Young Woman
+AvatarSkillData_Name_10281	Shiro Maiden normal attack
+AvatarSkillData_Desc_10281	5 Hit combo
+AvatarSkillData_Name_10282	Skill
+AvatarSkillData_Desc_10282	5 Hit combo
+AvatarSkillData_Name_10283	
+AvatarSkillData_Desc_10283	
+AvatarData_Desc_11000028	 
+AvatarData_Name_11000029	Klee
+AvatarSkillData_Name_10292	
+AvatarSkillData_Desc_10292	
+AvatarSkillData_Name_10295	
+AvatarSkillData_Desc_10295	
+AvatarData_Desc_11000029	 
+AvatarData_Name_11000030	Greatsword Maiden
+AvatarData_Desc_11000030	 
+AvatarData_Name_11000031	
+AvatarData_Desc_11000031	 
+AvatarData_Name_11000032	
+AvatarData_Desc_11000032	 
+AvatarData_Name_11000033	
+AvatarData_Desc_11000033	 
+AvatarData_Name_11000034	
+AvatarData_Desc_11000034	 
+AvatarData_Name_10000035	Lance
+AvatarData_Desc_10000035	 
+AvatarData_Name_10000036	
+AvatarData_Desc_10000036	 
+AvatarData_Name_11000037	
+AvatarSkillData_Name_10371	Shieko normal attack
+AvatarSkillData_Desc_10371	
+AvatarSkillData_Name_10372	Skill
+AvatarSkillData_Desc_10372	
+AvatarSkillData_Name_10373	
+AvatarSkillData_Desc_10373	
+AvatarData_Desc_11000037	 
+AvatarData_Name_11000038	
+AvatarData_Desc_11000038	 
+AvatarSkillData_Name_10001	
+AvatarSkillData_Desc_10001	
+AvatarSkillData_Name_10002	
+AvatarSkillData_Desc_10002	
+AvatarSkillData_Name_10003	Focus Item
+AvatarSkillData_Desc_10003	
+AvatarSkillData_Name_10006	
+AvatarSkillData_Desc_10006	
+AvatarSkillData_Name_10101	
+AvatarSkillData_Desc_10101	
+AvatarSkillData_Name_10102	
+AvatarSkillData_Desc_10102	
+AvatarSkillData_Name_10111	
+AvatarSkillData_Desc_10111	 
+AvatarSkillData_Name_10211	
+AvatarSkillData_Desc_10211	 
+AvatarSkillData_Name_10311	
+AvatarSkillData_Desc_10311	 
+AvatarSkillData_Name_10015	
+AvatarSkillData_Desc_10015	 
+AvatarSkillData_Name_10016	
+AvatarSkillData_Desc_10016	 
+AvatarSkillData_Name_10020	Water
+AvatarSkillData_Desc_10020	 
+AvatarSkillData_Name_10021	
+AvatarSkillData_Desc_10021	 
+AvatarSkillData_Name_10022	 
+AvatarSkillData_Desc_10022	 
+AvatarSkillData_Name_10023	 
+AvatarSkillData_Desc_10023	 
+AvatarSkillData_Name_10035	Infiltrating Bait
+AvatarSkillData_Desc_10035	
+AvatarSkillData_Name_10036	Jean Party System
+AvatarSkillData_Desc_10036	
+AvatarSkillData_Name_10037	
+AvatarSkillData_Desc_10037	
+AvatarSkillData_Name_10042	
+AvatarSkillData_Desc_10042	
+AvatarSkillData_Name_10043	
+AvatarSkillData_Desc_10043	
+AvatarSkillData_Name_10044	
+AvatarSkillData_Desc_10044	
+AvatarSkillData_Name_10051	
+AvatarSkillData_Desc_10051	
+AvatarSkillData_Name_10052	
+AvatarSkillData_Desc_10052	
+AvatarSkillData_Name_10053	Water
+AvatarSkillData_Desc_10053	
+AvatarSkillData_Name_10055	
+AvatarSkillData_Desc_10055	5 Hit Sword Combo
+AvatarSkillData_Name_10056	Water
+AvatarSkillData_Desc_10056	5 Hit Sword Combo
+AvatarSkillData_Name_10057	
+AvatarSkillData_Desc_10057	5 Hit Sword Combo
+AvatarSkillData_Name_10058	
+AvatarSkillData_Desc_10058	5 Hit Sword Combo
+AvatarSkillData_Name_10059	
+AvatarSkillData_Desc_10059	5 Hit Sword Combo
+AvatarSkillData_Name_10063	Character
+AvatarSkillData_Desc_10063	
+AvatarSkillData_Name_10064	Character
+AvatarSkillData_Desc_10064	
+AvatarSkillData_Name_10065	Character
+AvatarSkillData_Desc_10065	
+AvatarSkillData_Name_10066	
+AvatarSkillData_Desc_10066	
+AvatarSkillData_Name_10069	
+AvatarSkillData_Desc_10069	
+AvatarSkillData_Name_10076	
+AvatarSkillData_Desc_10076	
+AvatarSkillData_Name_10079	
+AvatarSkillData_Desc_10079	
+AvatarSkillData_Name_10080	
+AvatarSkillData_Desc_10080	
+AvatarSkillData_Name_10081	
+AvatarSkillData_Desc_10081	
+AvatarSkillData_Name_10082	
+AvatarSkillData_Desc_10082	
+AvatarSkillData_Name_10083	
+AvatarSkillData_Desc_10083	
+AvatarSkillData_Name_10162	Searing Onslaught
+AvatarSkillData_Desc_10162	This blade represents the values that Diluc upholds: justice, courage and duty.\nSlashes forward, which deals Pyro DMG. This skill enters CD if cast 3 times consecutively or if not cast consecutively within 4s.\nSkill DMG: 200%/200%/250%\nCD: 10s\nElemental Type: Pyro
+AvatarSkillData_Name_10163	Searing Onslaught
+AvatarSkillData_Desc_10163	This blade represents the values that Diluc upholds: justice, courage and duty.\nSlashes forward, which deals Pyro DMG. This skill enters CD if cast 3 times consecutively or if not cast consecutively within 4s.\nSkill DMG: 200%/200%/250%\nCD: 10s\nElemental Type: Pyro
+AvatarSkillData_Name_10166	
+AvatarSkillData_Desc_10166	
+AvatarSkillData_Name_10204	Skill
+AvatarSkillData_Desc_10204	
+AvatarSkillData_Name_10222	
+AvatarSkillData_Desc_10222	
+AvatarSkillData_Name_10223	Switch Aiming Mode
+AvatarSkillData_Desc_10223	
+AvatarSkillData_Name_20000	
+AvatarSkillData_Desc_20000	
+AvatarSkillData_Name_10252	
+AvatarSkillData_Desc_10252	
+AvatarSkillData_Name_10253	Switch Aiming Mode
+AvatarSkillData_Desc_10253	
+AvatarSkillData_Name_10254	
+AvatarSkillData_Desc_10254	
+AvatarSkillData_Name_10291	
+AvatarSkillData_Desc_10291	
+AvatarSkillData_Name_10300	Skill
+AvatarSkillData_Desc_10300	
+AvatarSkillData_Name_10256	
+AvatarSkillData_Desc_10256	
+AvatarSkillData_Name_10257	
+AvatarSkillData_Desc_10257	
+AvatarSkillData_Name_10258	
+AvatarSkillData_Desc_10258	
+AvatarSkillData_Name_10259	Cold Virus
+AvatarSkillData_Desc_10259	
+AvatarSkillData_Name_20001	Wind Cannon
+AvatarSkillData_Desc_20001	
+AvatarSkillData_Name_20002	Wind Cannon
+AvatarSkillData_Desc_20002	
+TalentSkillData_Name_2411	
+TalentSkillData_Desc_2411	
+TalentSkillData_Name_2412	
+TalentSkillData_Desc_2412	
+TalentSkillData_Name_2413	
+TalentSkillData_Desc_2413	
+TalentSkillData_Name_2414	
+TalentSkillData_Desc_2414	
+TalentSkillData_Name_2421	
+TalentSkillData_Desc_2421	
+TalentSkillData_Name_2422	
+TalentSkillData_Desc_2422	
+TalentSkillData_Name_2423	
+TalentSkillData_Desc_2423	
+TalentSkillData_Name_2431	
+TalentSkillData_Desc_2431	
+TalentSkillData_Name_2432	
+TalentSkillData_Desc_2432	
+TalentSkillData_Name_2433	
+TalentSkillData_Desc_2433	
+TalentSkillData_Name_2441	
+TalentSkillData_Desc_2441	
+TalentSkillData_Name_2442	
+TalentSkillData_Desc_2442	
+TalentSkillData_Name_2443	
+TalentSkillData_Desc_2443	
+TalentSkillData_Name_2451	
+TalentSkillData_Desc_2451	
+TalentSkillData_Name_2452	
+TalentSkillData_Desc_2452	
+TalentSkillData_Name_2453	
+TalentSkillData_Desc_2453	
+TalentSkillData_Name_2461	
+TalentSkillData_Desc_2461	
+TalentSkillData_Name_2462	
+TalentSkillData_Desc_2462	
+TalentSkillData_Name_2463	
+TalentSkillData_Desc_2463	
+TalentSkillData_Name_2471	
+TalentSkillData_Desc_2471	
+TalentSkillData_Name_2472	
+TalentSkillData_Desc_2472	
+TalentSkillData_Name_2473	
+TalentSkillData_Desc_2473	
+TalentSkillData_Name_2481	
+TalentSkillData_Desc_2481	
+TalentSkillData_Name_2482	
+TalentSkillData_Desc_2482	
+TalentSkillData_Name_2483	
+TalentSkillData_Desc_2483	

@@ -1,0 +1,659 @@
+子任务ID	父任务ID	序列	禁止进入联机	显示状态	屏蔽项	[领取条件]组合	[领取条件]1类型	[领取条件]1参数1	[领取条件]1参数2	[领取条件]1参数3	[领取条件]2类型	[领取条件]2参数1	[领取条件]2参数2	[领取条件]2参数3	[领取条件]3类型	[领取条件]3参数1	[领取条件]3参数2	[领取条件]3参数3	[完成条件]组合	[完成条件]1类型	[完成条件]1参数1	[完成条件]1参数2	[完成条件]1复杂参数	[完成条件]1次数	[完成条件]2类型	[完成条件]2参数1	[完成条件]2复杂参数	[完成条件]2次数	[完成条件]3类型	[完成条件]3参数1	[完成条件]3复杂参数	[完成条件]3次数	[失败条件]组合	[失败条件]1类型	[失败条件]1参数1	[失败条件]1复杂参数	[失败条件]1次数	[失败条件]2类型	[失败条件]2参数1	[失败条件]2复杂参数	[失败条件]2次数	[任务指引]类型	[任务指引]自动开启或关闭	[任务指引]参数1	[任务指引]参数2	[任务指引]场景ID	[任务指引]样式	[任务指引]显示层级	场景内指引	完成父任务	失败父任务	是存档点	[任务道具]ID	[任务道具]数量	[执行]1类型	[执行]1参数1	[执行]1参数2	[执行]2类型	[执行]2参数1	[执行]2参数2	[执行]3类型	[执行]3参数1	[执行]3参数2	[失败执行]1类型	[失败执行]1参数1	[失败执行]1参数2	[失败执行]2类型	[失败执行]2参数1	[失败执行]2参数2	[失败执行]3类型	[失败执行]3参数1	[失败执行]3参数2	[开始执行]1类型	[开始执行]1参数1	[开始执行]1参数2	Desc
+34800	348	1		1																24	3481701			16																												1																								QuestData_Desc_34800
+34801	348	2		1			1	34800	2											2	34801																																		23	3481701	1																			QuestData_Desc_34801
+34802	348	3		1			1	34800	2											2	34802																																		23	3481701	1																			QuestData_Desc_34802
+34803	348	4		1			1	34800	2											2	34803																																		23	3481701	1																			QuestData_Desc_34803
+34804	348	5		1			1	34800	2											2	34804																																		23	3481701	1																			QuestData_Desc_34804
+34805	348	6		1			1	34800	2											2	34805																																		23	3481701	1																			QuestData_Desc_34805
+34806	348	7		1			1	34800	2											2	34806																																		23	3481701	1																			QuestData_Desc_34806
+34807	348	8		1			1	34800	2											2	34807																																		23	3481701	1																			QuestData_Desc_34807
+34808	348	9		1			1	34800	2											2	34808																																		23	3481701	1																			QuestData_Desc_34808
+34809	348	10		1			1	34800	2											2	34809																																		23	3481701	1																			QuestData_Desc_34809
+34810	348	11		1			1	34800	2											2	34810																																		23	3481701	1																			QuestData_Desc_34810
+34811	348	12		1			1	34800	2											2	34811																																		23	3481701	1																			QuestData_Desc_34811
+34812	348	13		1			1	34800	2											2	34812																																		23	3481701	1																			QuestData_Desc_34812
+34813	348	14		1			1	34800	2											2	34813																																		23	3481701	1																			QuestData_Desc_34813
+34814	348	15		1			1	34800	2											2	34814																																		23	3481701	1																			QuestData_Desc_34814
+34815	348	16		1			1	34800	2											2	34815																																		23	3481701	1																			QuestData_Desc_34815
+34816	348	17		1			1	34800	2											2	34816																																		23	3481701	1																			QuestData_Desc_34816
+34817	348	18		1			1	34800	2											24	3481701			16																															14	34800																				QuestData_Desc_34817
+34900	349	1		1																24	3491301			12																												1																								QuestData_Desc_34900
+34901	349	2		1			1	34900	2											2	34901																																		23	3491301	1																			QuestData_Desc_34901
+34902	349	3		1			1	34900	2											2	34902																																		23	3491301	1																			QuestData_Desc_34902
+34903	349	4		1			1	34900	2											2	34903																																		23	3491301	1																			QuestData_Desc_34903
+34904	349	5		1			1	34900	2											2	34904																																		23	3491301	1																			QuestData_Desc_34904
+34905	349	6		1			1	34900	2											2	34905																																		23	3491301	1																			QuestData_Desc_34905
+34906	349	7		1			1	34900	2											2	34906																																		23	3491301	1																			QuestData_Desc_34906
+34907	349	8		1			1	34900	2											2	34907																																		23	3491301	1																			QuestData_Desc_34907
+34908	349	9		1			1	34900	2											2	34908																																		23	3491301	1																			QuestData_Desc_34908
+34909	349	10		1			1	34900	2											2	34909																																		23	3491301	1																			QuestData_Desc_34909
+34910	349	11		1			1	34900	2											2	34910																																		23	3491301	1																			QuestData_Desc_34910
+34911	349	12		1			1	34900	2											2	34911																																		23	3491301	1																			QuestData_Desc_34911
+34912	349	13		1			1	34900	2											2	34912																																		23	3491301	1																			QuestData_Desc_34912
+34913	349	14		1			1	34900	2											24	3491301			12																															14	34900																				QuestData_Desc_34913
+35001	350	1	1	1															2	2	30902				2	30904																								1																										QuestData_Desc_35001
+35104	351	1		1																4	35104																					2		1005		3			1			1																								QuestData_Desc_35104
+35100	351	2					1	35104	3										2	4	35100				6	1053																2		1005		3			1			1																								QuestData_Desc_35100
+35107	351	3		1			1	35100	3											6	1101																																		19	3	133003429,1																			QuestData_Desc_35107
+35101	351	4					1	35100	3											6	1100													21								2		1005	QuestArrow	3			2															14	35100											QuestData_Desc_35101
+35106	351	5					1	35101	3											23	3	6																				1		Q351Trans		3	QuestTarget	1																												QuestData_Desc_35106
+35105	351	6					1	35106	3											6	1016																					2		1005	QuestArrow	3			2			1																								QuestData_Desc_35105
+35103	351	7		1		1	1	35106	3		2	35105	3		2	35105	3			6	1016																					2		1005	QuestArrow	3			2																											QuestData_Desc_35103
+35102	351	8				2	1	35103	3		1	35105	3		1	35105	3			6	1017																					1		Q351ClimbEnd		3			1	1		1																								QuestData_Desc_35102
+36203	362	1		1		1	1	99902	3		2	35200	3		2	35200	3			6	1020																													1																										QuestData_Desc_36203
+36301	363	1		1			1	35202	3											2	35328																													1																										QuestData_Desc_36301
+35200	352	1					1	35102	3											6	1021																					1		Q352View		3			1			1																								QuestData_Desc_35200
+35201	352	2					1	35200	3										2	6	1001				6	1095																1		Q352View		3			1			1																								QuestData_Desc_35201
+35202	352	3					1	35201	3											2	35216																					2		1005		3						1																								QuestData_Desc_35202
+35203	352	4					1	35202	3											4	35203												2	8	35203			21				2		1005	QuestArrow	3			2															14	35202											QuestData_Desc_35203
+35204	352	5					1	35203	3											6	1003																					2		1005		3	QuestTarget	1	2			1																								QuestData_Desc_35204
+35205	352	6		1			1	35204	3											4	35205																					1		Q353Guide2		3			1	1					2	3	7	3	3	1	6	7														QuestData_Desc_35205
+35301	353	1					1	35205	3											2	35328																					2		1005		3	QuestTarget	2				1																					19	3	133003002,1	QuestData_Desc_35301
+35312	353	2		1			1	35205	3											20			1330030024	1										8	35312																													14	35301											QuestData_Desc_35312
+35302	353	3					1	35301	3											107	10067													20		1330030022	1					1		Q353Monster1		3			1			1												14	35302								19	3	133003002,2	QuestData_Desc_35302
+35309	353	4					1	35302	3											20			1330030022	1																		1		Q353Monster1		3			1																											QuestData_Desc_35309
+35303	353	5					1	35309	3											107	10006													20		1330030023	1					1		Q353Monster2		3			1			1												14	35303								15	3	133003448	QuestData_Desc_35303
+35310	353	6					1	35303	3											20			1330030023	1																		1		Q353Monster2		3			1																											QuestData_Desc_35310
+35304	353	7					1	35310	3											107	10068													20		1330030024	1					1		Q353Monster3		3			1			1												14	35304								15	3	133003449	QuestData_Desc_35304
+35311	353	8					1	35304	3											20			1330030024	1																		1		Q353Monster3		3			1	1					16	2	1	16	1	1																QuestData_Desc_35311
+36100	361	1		1			1	35311	3											4	36100																																																				19	3	133003436,1	QuestData_Desc_36100
+36101	361	2		1			1	36100	3											4	36101																													1																										QuestData_Desc_36101
+35501	355	1					1	35311	3											4	36101																					1	1	Q301WendyPlay		3																														QuestData_Desc_35501
+35502	355	2				1	1	35501	3		1	36101	3		1	36101	3			6	1022																					1	2	Q355Stone		3			1																											QuestData_Desc_35502
+35503	355	3					1	35502	3											2	35507																					2		1005		3	QuestTarget	2				1																								QuestData_Desc_35503
+35504	355	4					1	35503	3											5	100135																					1		Q355Stone2		3	QuestTarget	1				1																								QuestData_Desc_35504
+35505	355	5					1	35504	3											2	35506																					2		1005		3	QuestTarget	2		1		1																								QuestData_Desc_35505
+35401	354	1					1	35505	3											6	1018																					1		Q354DummySafe		3			1																											QuestData_Desc_35401
+35402	354	2					1	35401	3											2	35404																					2		1002		3	QuestTarget	2				1	1021	1																						QuestData_Desc_35402
+35404	354	3					1	35402	3											20			133003079	1																		1		Q354Center		3	QuestTarget	1				1																					15	3	133003439	QuestData_Desc_35404
+35405	354	4		1			1	35404	3											4	35405																																																							QuestData_Desc_35405
+35403	354	5					1	35404	3											6	1103																					1		Q360qq1		3			1	1		1																								QuestData_Desc_35403
+36001	360	1					1	35403	3											20			133003435	1																		1		Q360qq1		3			1			1																					19	3	133003435,1	QuestData_Desc_36001
+36003	360	3					1	36001	3											20			133003136	1																		1		Q360qq2		3			1			1																					19	3	133003136,1	QuestData_Desc_36003
+36004	360	4					1	36003	3											2	36001																					2		1002								1																								QuestData_Desc_36004
+36005	360	5					1	36004	3											6	1024																					1		Q354Gate		3				1		1			9	0																				QuestData_Desc_36005
+35601	356	1					1	36005	3											2	35601																					2		1002		3	QuestTarget	2				1			2	3	27,28,30,31,32																			QuestData_Desc_35601
+35602	356	2					1	99902	3											6	1037																					2		1002	QuestArrow	3			2	1																										QuestData_Desc_35602
+35603	356	3					1	35601	3											6	1102																					1		Q356Ambor4		3	QuestTarget	1				1																								QuestData_Desc_35603
+35604	356	4					1	35603	3											2	35604																																		8	1																				QuestData_Desc_35604
+35605	356	5		1			1	35604	3											4	35605																					2		1002		3	QuestTarget	1																												QuestData_Desc_35605
+35606	356	6					1	35605	3											6	1037																					1		Q356Target3		3	QuestTarget	1		1																										QuestData_Desc_35606
+35901	359	1		1			1	35725	3											4	35901																													1					22	70020003	0																22	70020003	1	QuestData_Desc_35901
+35902	359	2		1			1	35802	3											4	35902																																																							QuestData_Desc_35902
+35903	359	3		1			1	35802	3											4	35903																																																							QuestData_Desc_35903
+35904	359	4		1			1	35802	3											4	35904																																																							QuestData_Desc_35904
+35701	357	1					1	99902	3											2	35701																					2		1002		3	QuestTarget	2				1						11	0		2	3	10													QuestData_Desc_35701
+35702	357	2					1	35701	3											12	70300054																					1		Q356Stone1		3			1																											QuestData_Desc_35702
+35703	357	3					1	35702	3											2	35702																					2		1002		3	QuestTarget	2	2						8	1																				QuestData_Desc_35703
+35704	357	4					1	35703	3											6	1038																					2		1002		3	QuestTarget	1	2																											QuestData_Desc_35704
+35705	357	5					1	35704	3											2	35704																					2		1002		3	QuestTarget	1																												QuestData_Desc_35705
+35706	357	6					1	35705	3											12	70300013																					1		Q357Stone1		3			1																											QuestData_Desc_35706
+35707	357	7					1	35705	3											12	70300046																					1		Q357Stone2		3			1																											QuestData_Desc_35707
+35711	357	8				1	1	35706	3		1	35707	3						2	12	70300039				12	70300047																1		Q357Stone3		3			1																											QuestData_Desc_35711
+35708	357	9					1	35711	3											2	35707																					2		1002		3	QuestTarget	2				1			11	1		10	0																	QuestData_Desc_35708
+35709	357	10					1	35708	3											6	1039																					1		QuestKnighthood		3				1																										QuestData_Desc_35709
+35721	357	11		1			1	35606	3											9	2004	67																														1																								QuestData_Desc_35721
+35722	357	12					1	35721	3											20			220020001	1										19	2004																	1			10	0								14	35721											QuestData_Desc_35722
+35725	357	13		1			1	35722	3											10	3													19	2004																	1												14	35721											QuestData_Desc_35725
+35723	357	14		1			1	35725	3											2	35723																															1																								QuestData_Desc_35723
+35724	357	15					1	35723	3											6	1039																					1		QuestKnighthood		3				1		1																								QuestData_Desc_35724
+35801	358	1					1	35724	3											17	1004																					1		QuestKnighthood		3																														QuestData_Desc_35801
+35802	358	2					1	35801	3											2	35801																					2		1004		1004	QuestTarget	2		1		1																								QuestData_Desc_35802
+30600	306	1					1	35802	3											6	1040																					1		Q306DungeonDoor		3						1																								QuestData_Desc_30600
+30601	306	2					1	30600	3											2	30611																					2		1002		3	QuestTarget	2				1																								QuestData_Desc_30601
+30602	306	3					1	30601	3											9	1001	20																				1		AmborDungeon		3						1																								QuestData_Desc_30602
+30607	306	4		1			1	30602	3											6	1048																																																							QuestData_Desc_30607
+30608	306	5		1			1	30602	3											6	1049																																																							QuestData_Desc_30608
+30609	306	6		1			1	30602	3											6	1050																																																							QuestData_Desc_30609
+30612	306	7		1			1	30602	3											20			220009011	1																																																				QuestData_Desc_30612
+30611	306	8		1			1	30602	3											19	1001																																																							QuestData_Desc_30611
+30603	306	9					1	30602	3											12	70300014													19	1001																													14	30601											QuestData_Desc_30603
+30610	306	10		1			1	30603	3											2	30610													19	1001																													14	30601											QuestData_Desc_30610
+30604	306	11		1			1	30610	3											10	3																													1		1																								QuestData_Desc_30604
+30605	306	12					1	30604	3											2	30602																					2		1002								1																								QuestData_Desc_30605
+30606	306	13		1			1	30605	3																																											1																								QuestData_Desc_30606
+30700	307	1					1	35802	3											6	1041																					1		Q307DungeonDoor		3						1																								QuestData_Desc_30700
+30701	307	2					1	30700	3											2	30711																					2		1004		3	QuestTarget	2				1																								QuestData_Desc_30701
+30702	307	3					1	30701	3											9	1	1																				1		KaeyaDungeon		3						1																								QuestData_Desc_30702
+30710	307	4					1	30702	3										2	2	30712				12	70300015																2		1004		20008	QuestTarget	2							12	2																				QuestData_Desc_30710
+30707	307	5		1			1	30702	3											6	1054																																																							QuestData_Desc_30707
+30708	307	6		1			1	30702	3											6	1055																																																							QuestData_Desc_30708
+30709	307	7		1			1	30702	3											6	1056																																																							QuestData_Desc_30709
+30712	307	8		1			1	30702	3											20			220008001	1																																																				QuestData_Desc_30712
+30711	307	9		1			1	30702	3											19	1																																																							QuestData_Desc_30711
+30703	307	10					1	30702	3											12	70300015													19	1																													14	30701											QuestData_Desc_30703
+30715	307	11		1			1	30703	3											2	30715													19	1																													14	30701											QuestData_Desc_30715
+30713	307	12		1			1	30715	3											4	30713													19	1																													14	30701											QuestData_Desc_30713
+30704	307	13		1			1	30713	3											4	30713																													1		1																								QuestData_Desc_30704
+30705	307	14					1	30704	3											2	30702																					2		1004								1																								QuestData_Desc_30705
+30706	307	15		1			1	30705	3																																											1																								QuestData_Desc_30706
+30800	308	1					1	35802	3											6	1042																					1		Q308DungeonDoor		3						1																								QuestData_Desc_30800
+30801	308	2					1	30800	3											2	30811																					2		1007		3	QuestTarget	2				1																								QuestData_Desc_30801
+30802	308	3					1	30801	3											9	1003	22																				1		LisaDungeon		3						1																								QuestData_Desc_30802
+30810	308	4					1	30802	3										2	2	30812				12	70300016																2		1007		20011	QuestTarget	2							12	3																				QuestData_Desc_30810
+30807	308	5		1			1	30802	3											6	1057																																																							QuestData_Desc_30807
+30808	308	6		1			1	30802	3											6	1058																																																							QuestData_Desc_30808
+30809	308	7		1			1	30802	3											6	1059																																																							QuestData_Desc_30809
+30812	308	8		1			1	30802	3											20			LisaOne	1																																																				QuestData_Desc_30812
+30811	308	9		1			1	30802	3											19	1003																																																							QuestData_Desc_30811
+30803	308	10					1	30802	3											12	70300016													19	1003																				15	3	133001247							14	30801											QuestData_Desc_30803
+30814	308	11		1			1	30803	3											2	30814													19	1003																													14	30801											QuestData_Desc_30814
+30804	308	12		1			1	30814	3											10	3																													1		1																								QuestData_Desc_30804
+30805	308	13					1	30804	3											2	30802																					2		1007								1																								QuestData_Desc_30805
+30806	308	14		1			1	30805	3																																											1																								QuestData_Desc_30806
+30901	309	1		1			1	35802	3										1	11	1001				11	1			11	1003																																														QuestData_Desc_30901
+30903	309	2		1			1	30901	3											10	3																																																							QuestData_Desc_30903
+30904	309	3		1			1	30903	3											4	30904																													1		1			16	7	0	16	8	1																QuestData_Desc_30904
+30902	309	4		1			1	30904	3										2	2	30902				2	30904																2		1005		3	QuestTarget	2				1																								QuestData_Desc_30902
+31101	311	1		1			1	30904	3										2	2	30902				2	30904																2		1005		3	QuestTarget	2		1		1																								QuestData_Desc_31101
+31201	312	1		1			1	30801	3											2	30814																					2		1005		3	QuestTarget	2		1		1																								QuestData_Desc_31201
+31001	310	1					1	30105	3											2	41401			10																		2		1435																																QuestData_Desc_31001
+31002	310	2		1			1	30902	3											2	31013																																1016	1																						QuestData_Desc_31002
+31003	310	3		1			1	30902	3											2	31014																																1020	1																						QuestData_Desc_31003
+31004	310	4		1			1	30902	3											2	31015																																1022	1																						QuestData_Desc_31004
+31005	310	5		1			1	30902	3											2	31016																																1003	1																						QuestData_Desc_31005
+31006	310	6		1			1	30902	3											2	31017																																1014	1																						QuestData_Desc_31006
+31007	310	7		1			1	30902	3											2	31018																																1002	1																						QuestData_Desc_31007
+31008	310	8		1			1	30902	3											2	31019																																1023	1																						QuestData_Desc_31008
+30100	301	1					1	99902	3											6	1002																					1		Q301WendyPlay																																QuestData_Desc_30100
+30101	301	2					1	30100	3											4	3001																															1																								QuestData_Desc_30101
+30102	301	3					1	30101	3											2	30102																					2		1001																																QuestData_Desc_30102
+30103	301	4					1	30102	3											2	30103																					2		1003																																QuestData_Desc_30103
+30104	301	5					1	30103	3											2	30104																					2		1002								1																								QuestData_Desc_30104
+30105	301	6					1	30104	3											4	3002																													1																										QuestData_Desc_30105
+30106	301	7					1	30105	4											2	30105																					2		1002											8	1																				QuestData_Desc_30106
+30107	301						1	30106	4											4	3003																																																							QuestData_Desc_30107
+30108	301						1	30107	3											2	30106																					2		1004								1			11	0																				QuestData_Desc_30108
+30109	301						1	30108	3											4	3004																					2		1004																																QuestData_Desc_30109
+30110	301						1	30109	3											2	30108																					2		1004											1	100001	1																			QuestData_Desc_30110
+30111	301						1	30110	3											4	3005																					2		1004																																QuestData_Desc_30111
+30112	301						1	30111	3											2	30111																					2		1004																																QuestData_Desc_30112
+30113	301						1	30112	3											4	3006																					2		1004																																QuestData_Desc_30113
+30114	301						1	30113	3											2	30113																					2		1004																																QuestData_Desc_30114
+30115	301						1	30114	3											3	21010301			2																		2		1004																																QuestData_Desc_30115
+30116	301						1	30115	3											2	30115																					2		1004																																QuestData_Desc_30116
+30117	301						1	30116	3											4	3007																					2		1004																																QuestData_Desc_30117
+30118	301						1	30117	3											2	30116																					2		1004																																QuestData_Desc_30118
+30400	304	1					1	30105	3											2	30400																					2		1002											8	1		11	0		2	3	10													QuestData_Desc_30400
+30401	304	2					1	30400	3											2	30401																					2		1002																																QuestData_Desc_30401
+30402	304	3					1	30401	3											12	70300013			1																		1		Q304Feather1																																QuestData_Desc_30402
+30403	304	4		1			1	30402	3											4	30402																																																							QuestData_Desc_30403
+30404	304	5					1	30403	3											12	70300013			1																		1		Q304Feather2																																QuestData_Desc_30404
+30405	304	6		1			1	30404	3											4	30403																																																							QuestData_Desc_30405
+30406	304	7					1	30405	3											12	70300013			1																		1		Q304Feather3																																QuestData_Desc_30406
+30407	304	8		1			1	30406	3											4	30404																																																							QuestData_Desc_30407
+30408	304	9					1	30407	3											12	70300013			1																		1		Q304Feather4											11	1																				QuestData_Desc_30408
+30409	304	10					1	30408	3											2	30405																					2		1002						1					13	1																				QuestData_Desc_30409
+30501	305	1					1	30409	3											2	30501																					2		1002								1																								QuestData_Desc_30501
+30502	305	2					1	30501	3											3	21010101			2																		2		1001								1																								QuestData_Desc_30502
+30503	305	3					1	30502	3											2	30502																					2		1001																																QuestData_Desc_30503
+30504	305	4					1	30503	3											4	30504																					2		1004																																QuestData_Desc_30504
+30505	305	5					1	30504	3											2	30503																					2		1004																																QuestData_Desc_30505
+30506	305	6					1	30505	3											2	30504																					2		1006						1		1																								QuestData_Desc_30506
+30302	303	1		1																2	30302																																		2	3	3	3	3	3																QuestData_Desc_30302
+30303	303	2		1																2	30303																																		2	3	4	3	3	2																QuestData_Desc_30303
+30304	303	3		1																2	30304																																		2	3	29	3	3	4																QuestData_Desc_30304
+37001	370	1					1	30904	3											17	1004																					1		QuestKnighthood		3						1																								QuestData_Desc_37001
+37002	370	2					1	37001	3											2	37001																					1		QuestDoorin		1004				1		1																								QuestData_Desc_37002
+37003	370	3		1			1	37001	3											6	1067																															1																								QuestData_Desc_37003
+37101	371	1					1	37002	3											10	3																					1		Q371PaimonTemp		3						1																								QuestData_Desc_37101
+37102	371	2					1	37101	3											2	37101																					2		1243		3	QuestTarget	2				1																								QuestData_Desc_37102
+37103	371	3					1	37102	3											4	37103																					1		Q371WendyFootPrint1		3																														QuestData_Desc_37103
+37104	371	4					1	37103	3											2	37109																					2		1243		3	QuestTarget	2																												QuestData_Desc_37104
+37105	371	5					1	37104	3											4	37105																					1		Q371WendyFootPrint1	30	3																														QuestData_Desc_37105
+37106	371	6					1	37105	3											4	37106																					1		Q371WendyTrigger1	30	3																														QuestData_Desc_37106
+37107	371	7					1	37106	3											4	37107																					1		Q371WendyTrigger2	30	3																														QuestData_Desc_37107
+37108	371	8					1	37107	3											4	37108																					1		Q371WendyTrigger3	30	3																														QuestData_Desc_37108
+37109	371	9					1	37108	3											4	37109																					1		Q371WendyTrigger4	30	3																														QuestData_Desc_37109
+37110	371	10					1	37109	3											4	37110																					1		Q371WendyTrigger5	30	3																														QuestData_Desc_37110
+37111	371	11					1	37110	3											4	37111																					1		Q371WendyTrigger6	30	3																														QuestData_Desc_37111
+37112	371	12					1	37111	3											4	37112																					1		Q371WendyTrigger7	30	3																														QuestData_Desc_37112
+37113	371	13					1	37112	3											4	37113																					1		Q371WendyTrigger8	30	3				1																										QuestData_Desc_37113
+37114	371	14		1			1	37108	3											6	1094																																																							QuestData_Desc_37114
+37115	371	15		1			1	37114	3		2	37109	3							2	37115																																																							QuestData_Desc_37115
+37201	372	1					1	37113	3											2	37201																					2		1160		3	QuestTarget	1					100164	1	1	100135	1																			QuestData_Desc_37201
+37202	372	2		1			1	37204	3											4	37202																					2		1160								1																								QuestData_Desc_37202
+37203	372	3					1	37201	3											2	37205																					2		1160		3	QuestTarget	2				1																								QuestData_Desc_37203
+37204	372	4					1	37203	3											17	1008																					1		QuestChurchMark		3				1		1																								QuestData_Desc_37204
+37301	373	1					1	99902	3											17	1008																					1		QuestChurchMark								1																								QuestData_Desc_37301
+37302	373	2					1	37301	3											2	37301																					2		1001								1																								QuestData_Desc_37302
+37303	373	3					1	37302	3											2	37302																					2		1001						1		1																								QuestData_Desc_37303
+37401	374	1					1	37204	3											6	1028																					2		1001		1008	QuestTarget	2				1																								QuestData_Desc_37401
+37402	374	2					1	37401	3											2	37402																					2		1001		1008	QuestTarget	2				1																								QuestData_Desc_37402
+37403	374	3		1			1	37402	3											4	37403																					2		1001		1008	QuestTarget	2				1																								QuestData_Desc_37403
+37404	374	4					1	37403	3											2	37403																					2		1001		1008	QuestTarget	2				1																								QuestData_Desc_37404
+37405	374	5		1			1	37404	3											4	37405																					2		1161		1008	QuestTarget	2				1																								QuestData_Desc_37405
+37406	374	6					1	37405	3											2	37404																					2		1161		1008	QuestTarget	2		1		1																								QuestData_Desc_37406
+37501	375	1					1	37406	3											2	37501																					2		1001		1008	QuestTarget	2				1			2	1008	1																			QuestData_Desc_37501
+37502	375	2					1	37501	3											6	1043																					1		QuestMarkSteal		1008						1																								QuestData_Desc_37502
+37503	375	3			2		1	37502	3											6	1044													8	37503							1		Harp		1005	QuestTarget	1				1																								QuestData_Desc_37503
+37504	375	4		1			1	37503	4											4	37504																					1		QuestChurchMark		3						1			14	37502																				QuestData_Desc_37504
+37505	375	5		1			1	37503	3											4	37505																					1		QuestChurchMark		3						1			17	1008	1																			QuestData_Desc_37505
+37506	375	6		1			1	37505	3											10	3																					1		QuestChurchMark		3						1																								QuestData_Desc_37506
+37507	375	7		1			1	37506	3											4	37506																					1		QuestChurchMark		3				1		1																								QuestData_Desc_37507
+42101	421	1		1			1	37204	3											2	37503																															1																								QuestData_Desc_42101
+42102	421	2		1			1	42101	3											4																																			14	42101																				QuestData_Desc_42102
+42103	421	3		1			1	37506	3											17	1008																																																							QuestData_Desc_42103
+42104	421	4		1			1	42103	3											4																														1		1																								QuestData_Desc_42104
+37601	376	1					1	37506	3											6	1031																					1		Q375RunStart		3			1			1			17	3	31	17	3	32																QuestData_Desc_37601
+37602	376	2			1		1	37601	3											6	1070												2	8	37602			21				1		QuestBarUI		3			1						2	3	31	2	3	32																QuestData_Desc_37602
+37603	376	3		1			1	37602	4											4																																			14	37601																				QuestData_Desc_37603
+37604	376	4					1	37602	3											17	1009																					1		QuestBarEnter		3			1			1																								QuestData_Desc_37604
+37605	376	5		1			1	37604	3											2	37604																					2		1009		1009	QuestTarget	2				1																								QuestData_Desc_37605
+37606	376	6					1	37605	3											6	1034																					1		Q376Hide		1009	QuestTarget	1				1																								QuestData_Desc_37606
+37607	376	7		1			1	37606	3											2	37606																					2		1009		1009	QuestTarget	2				1																								QuestData_Desc_37607
+37608	376	8					1	37607	3											2	37607																					2		1009		1009	QuestTarget	2		1		1																								QuestData_Desc_37608
+37701	377	1					1	37608	3											10	3																					1		QuestBarExit		1009						1																								QuestData_Desc_37701
+37702	377	2					1	37701	3											18	1		0,24																													1																								QuestData_Desc_37702
+37703	377	3					1	37702	3											18	0		0,6																													1																								QuestData_Desc_37703
+37704	377	4					1	37703	3											4	37704													18	0	6,23						1		QuestBarUI		3	QuestTarget	1				1												14	37703											QuestData_Desc_37704
+37705	377	5					1	37704	3											2	37702																					2		1009		1009	QuestTarget	2		1		1																								QuestData_Desc_37705
+37801	378	1		1			1	37705	3											18	0		0,24																													1																								QuestData_Desc_37801
+37802	378	2					1	37801	3											4	37802																					1		Q378Qin1		3						1												14	37801											QuestData_Desc_37802
+37803	378	3					1	37802	3											2	37801																					2		1006		3	QuestTarget	2				1																								QuestData_Desc_37803
+37804	378	4			1		1	37803	3											4	37804												2	8	37804			21				2		1006	QuestArrow	3			2															14	37803											QuestData_Desc_37804
+37805	378	5					1	37804	3											2	37803																					2		1008		3	QuestTarget	2		1		1																								QuestData_Desc_37805
+39501	395	1		1			1	37805	3											18	0		0,24																													1																								QuestData_Desc_39501
+39502	395	2					1	39501	3											4																						1		Q395BBR		3						1												14	39501											QuestData_Desc_39502
+39503	395	3					1	39502	3											2	39503																					2		1008		3	QuestTarget	2		1		1	100161	1																						QuestData_Desc_39503
+37901	379	1					1	39503	3											17	1009																					1		QuestBarUI		3	QuestTarget	1				1																								QuestData_Desc_37901
+37902	379	2		1			1	37901	3											2	37902																					2		1001		1009	QuestTarget	2				1																								QuestData_Desc_37902
+37903	379	3					1	37902	3											4	37903																					2		1001		1009	QuestTarget	2				1	100162	1	1	100161	1	1	100164	1																QuestData_Desc_37903
+37904	379	4					1	37903	3											2	37904																					2		1006		1009	QuestTarget	2		1		1																								QuestData_Desc_37904
+38501	385	1		1			1	99902	3											4	38501																					2		1469		3	QuestTarget	2																												QuestData_Desc_38501
+38601	386	1					1	31101	3											2	38601																					2		1469		3	QuestTarget	2				1																								QuestData_Desc_38601
+38602	386	2					1	38601	3											20			133002105	1																		1		Q386Target1	70	3				1		1																					19	3	133002150,1	QuestData_Desc_38602
+38701	387	1				1	1	38410	3		1	38601	3							2	38701																					2		1469		3	QuestTarget	2				1																								QuestData_Desc_38701
+38702	387	2					1	38701	3											11	4004																					1		Q387Target1		3				1		1																								QuestData_Desc_38702
+38001	380	1					1	37904	3											4	38001																					1		DUMMY_POS 3003390	40	3			1			1			15	3	133003151																			QuestData_Desc_38001
+38002	380	2					1	38001	3											7	133003151																					1		DUMMY_POS 3003390	40	3			1																											QuestData_Desc_38002
+38003	380	3					1	38002	3											5	100158																					1		Quest380		3	QuestTarget	1				1																								QuestData_Desc_38003
+38004	380	4		1			1	38003	3											2	38004																													1		1																								QuestData_Desc_38004
+38101	381	1					1	37904	3											4	38101																					1		Q381DragonTill		3						1			1	100160	1																			QuestData_Desc_38101
+38102	381	2					1	38101	3											9	10	40																				1		Q381DragonTill		3						1																								QuestData_Desc_38102
+38103	381	3					1	38102	3											20			DragonTear	1										19	10							1		DUMMY_POS 1006001		1006						1												14	38101											QuestData_Desc_38103
+38104	381	4					1	38103	3											5	100160													19	10							1		DUMMY_POS 1006002		1006						1												14	38101											QuestData_Desc_38104
+38105	381	5		1			1	38104	3											2	38105													19	10															1		1												14	38101											QuestData_Desc_38105
+38201	382	1					1	37904	3										2	6	1065				6	1066																1		Q382DragonTill		3						1																								QuestData_Desc_38201
+38202	382	2					1	38201	3											5	100159																					1		Q382DragonTillChest		3	QuestTarget	1				1																					19	3	133001249,2	QuestData_Desc_38202
+38203	382	3		1			1	38202	3											4	38203																													1		1																								QuestData_Desc_38203
+38301	383	1				1	1	38004	3		1	38105	3		1	38202	3			6	1035																					1		Q383Mark		3																														QuestData_Desc_38301
+38302	383	2					1	38301	3											2	38302																					2		1006		3	QuestTarget	2				1																								QuestData_Desc_38302
+38303	383	3					1	38302	3											4																						2		1001		3	QuestTarget	2				1	100163	1	1	100162	1	18	100158:1,100159:1,100160:1																	QuestData_Desc_38303
+38304	383	4		1			1	38303	3											2	38304																					2		1006		3	QuestTarget	2		1		1																								QuestData_Desc_38304
+38401	384	1		1			1	38304	3											18	0		0,24																													1																								QuestData_Desc_38401
+38402	384	2					1	38401	3											4	38402																					1		Q384Trigger		3						1												14	38401											QuestData_Desc_38402
+38403	384	3					1	38402	3											2	38402																					2		1001		3	QuestTarget	2				1																								QuestData_Desc_38403
+38404	384	4		1			1	38403	3											4	38404																					1		Q384WendyTemp		3						1																								QuestData_Desc_38404
+38405	384	5		1			1	38404	3											2	38404																					2		1001		3	QuestTarget	2				1																								QuestData_Desc_38405
+38406	384	6					1	38405	3											2	38408																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_38406
+38407	384	7		1			1	38406	3											4	38407																					1		Q384Wizard	15	3			1			1																								QuestData_Desc_38407
+38408	384	8					1	38407	3											4	38408																					1		Q384Wizard	15	3			1			1																								QuestData_Desc_38408
+38409	384	9					1	38408	3											7	133002233																					1		Q384WizardMark	15	3			1																								19	3	133002233,2	QuestData_Desc_38409
+38410	384	10					1	38409	3											2	38406																					2		1009		3	QuestTarget	2		1		1																								QuestData_Desc_38410
+38806	388	1					1	38410	3											6	1062																					1		Q388Mark1		3						1																								QuestData_Desc_38806
+38801	388	2		1			1	38806	3											4																																			7	133004015																				QuestData_Desc_38801
+38802	388	3					1	38801	3											7	133004015													21								1		Q388Mark2	20	3																														QuestData_Desc_38802
+38805	388	4		1			1	38802	4											4	38805																																		14	38806																				QuestData_Desc_38805
+38803	388	5					1	38802	3											4	38803																															1			15	3	133007001																			QuestData_Desc_38803
+38804	388	6		1			1	38803	3											4	38804																													1																										QuestData_Desc_38804
+38901	389	1		1			1	38804	3											6	1045																																																							QuestData_Desc_38901
+38902	389	2					1	38804	3											6	1046																					1		Q389Target1		3						1																								QuestData_Desc_38902
+38903	389	3		1			1	38902	3											2	38903																																																							QuestData_Desc_38903
+38909	389	4					1	38903	3											6	1099																					1		Q389Target6		3	QuestTarget	1				1																								QuestData_Desc_38909
+38907	389	5					1	38909	3											6	1097																					1		Q389Target4		3	QuestTarget	1				1																								QuestData_Desc_38907
+38904	389	6					1	38907	3											6	1047																					1		Q389Target2		3	QuestTarget	1				1																								QuestData_Desc_38904
+38908	389	7					1	38904	3											6	1098																					1		Q389Target5		3	QuestTarget	1				1																								QuestData_Desc_38908
+38905	389	8					1	38908	3											6	1092																					1		Q389VentiPos2		3	QuestTarget	1				1																								QuestData_Desc_38905
+38906	389	9		1			1	38905	3											2	38906																													1																										QuestData_Desc_38906
+39001	390	1		1			1	38906	3											6	1082																																																							QuestData_Desc_39001
+39002	390	2					1	38906	3											6	1089																					1		Q390OrganPos		3			1			1																								QuestData_Desc_39002
+39003	390	3		1			1	39002	3										2	2	39003				2	39103			2	39203																																														QuestData_Desc_39003
+39009	390	4		1			1	39002	3											4	39009																																		15	3	133007011																			QuestData_Desc_39009
+39010	390	5					1	39003	3											4	39010																					1		Q390Target1	80	3																														QuestData_Desc_39010
+39004	390	6					1	39003	3											20			300701101	1																																																				QuestData_Desc_39004
+39005	390	7					1	39003	3											20			300701102	1																																																				QuestData_Desc_39005
+39006	390	8					1	39003	3											20			300701103	1																																																				QuestData_Desc_39006
+39011	390	9		1			1	39003	3											4	39011																															1																								QuestData_Desc_39011
+39007	390	10		1		1	1	39004	3		1	39005	3		1	39006	3			4	39007																					1		Q390OrganPos		3						1			15	3	133007011																			QuestData_Desc_39007
+39008	390	11					1	39007	3											20			133007124	1																		1		Q390OrganPos		3			1	1		1			15	3	133007052	15	3	133007011																QuestData_Desc_39008
+39101	391	1		1			1	38906	3											6	1083																																																							QuestData_Desc_39101
+39102	391	2					1	38906	3											6	1090																					1		Q391OrganPos		3			1			1																								QuestData_Desc_39102
+39103	391	3		1			1	39102	3										2	2	39003				2	39103			2	39203																																														QuestData_Desc_39103
+39109	391	4		1			1	39102	3											4	39109																																		15	3	133007009																			QuestData_Desc_39109
+39110	391	5					1	39103	3											4	39110																					1		Q391Target1	80	3																														QuestData_Desc_39110
+39104	391	6					1	39103	3											20			300700901	1																																																				QuestData_Desc_39104
+39105	391	7					1	39103	3											20			300700902	1																																																				QuestData_Desc_39105
+39106	391	8					1	39103	3											20			300700903	1																																																				QuestData_Desc_39106
+39111	391	9		1			1	39103	3											4	39111																															1																								QuestData_Desc_39111
+39107	391	10		1		1	1	39104	3		1	39105	3		1	39106	3			4	39107																					1		Q391OrganPos		3						1			15	3	133007009																			QuestData_Desc_39107
+39108	391	11					1	39107	3											20			133007113	1																		1		Q391OrganPos		3			1	1		1			15	3	133007052	15	3	133007009																QuestData_Desc_39108
+39201	392	1		1			1	38906	3											6	1084																																																							QuestData_Desc_39201
+39202	392	2					1	38906	3											6	1091																					1		Q392OrganPos		3			1			1																								QuestData_Desc_39202
+39203	392	3		1			1	39202	3										2	2	39003				2	39103			2	39203																																														QuestData_Desc_39203
+39209	392	4		1			1	39202	3											4	39209																																		15	3	133007012																			QuestData_Desc_39209
+39210	392	5					1	39203	3											4	39210																					1		Q392Target1	80	3																														QuestData_Desc_39210
+39204	392	6					1	39203	3											20			300701201	1																																																				QuestData_Desc_39204
+39205	392	7					1	39203	3											20			300701202	1																																																				QuestData_Desc_39205
+39206	392	8					1	39203	3											20			300701203	1																																																				QuestData_Desc_39206
+39211	392	9		1			1	39203	3											4	39211																															1																								QuestData_Desc_39211
+39207	392	10		1		1	1	39204	3		1	39205	3		1	39206	3			4	39207																					1		Q392OrganPos		3						1			15	3	133007012																			QuestData_Desc_39207
+39208	392	11					1	39207	3											20			133007126	1																		1		Q392OrganPos		3			1	1		1			15	3	133007052	15	3	133007012																QuestData_Desc_39208
+39301	393	1				1	1	39008	3		1	39108	3		1	39208	3			4	39301																																		15	3	133007029																			QuestData_Desc_39301
+39302	393	2					1	39301	3											6	1092																					1		Q389VentiPos2		3						1																								QuestData_Desc_39302
+39303	393	3		1			1	39302	3											2	39301																													1																										QuestData_Desc_39303
+39401	394	1					1	39303	3											9	2001	38																				2		1001		3	QuestTarget	2	2			1																					2	3	38	QuestData_Desc_39401
+39404	394	2					1	39401	3											9	2002												2	19	2001			10	3													1			12	5								14	39401											QuestData_Desc_39404
+39402	394	3					1	39404	3											3	29010102													19	2002																	1			20	5		17	3	38				14	39401											QuestData_Desc_39402
+39403	394	4		1			1	39402	3											4	39403																													1		1																								QuestData_Desc_39403
+39601	396	1					1	39402	3											4																																1			15	3	133007183	22	70020002	0																QuestData_Desc_39601
+39602	396	2					1	39601	3											2	39602																					2		1008		1008	QuestTarget	2				1																								QuestData_Desc_39602
+39603	396	3					1	99902	3											2	39603																																																							QuestData_Desc_39603
+39604	396	4		1			1	39602	3											2	39604																													1																										QuestData_Desc_39604
+39605	396	5					1	99902	3											10	3																																																							QuestData_Desc_39605
+39606	396	6					1	39605	3											2	39606																																																							QuestData_Desc_39606
+40101	401	1		1			1	40305	3											2	40101																																																							QuestData_Desc_40101
+40102	401	2					1	40101	3											5	100004			1																		1		Q401Treasure																																QuestData_Desc_40102
+40103	401	3					1	40102	3											2	40103																					2		1101											1	100004	1																			QuestData_Desc_40103
+40104	401	4					1	40103	3											4	4002																					2		1101																																QuestData_Desc_40104
+40105	401	5					1	40104	3											2	40105																					2		1101																																QuestData_Desc_40105
+40106	401	6					1	40105	3											3	20011301			1																		2		1101						1																										QuestData_Desc_40106
+40201	402	1		1			1	40305	3											2	40201																																																							QuestData_Desc_40201
+40202	402	2					1	40201	3											3	21010301			4																		1		Q402Hostage																																QuestData_Desc_40202
+40203	402	3					1	40202	3											2	40203																					2		1151																																QuestData_Desc_40203
+40204	402	4					1	40203	3											5	100006			1																		1		Q402Key																																QuestData_Desc_40204
+40205	402	5					1	40204	3											2	40205																					2		1151						1					1	100006	1																			QuestData_Desc_40205
+40300	403	1					1	30902	4											2	40301																					2		1105																																QuestData_Desc_40300
+40301	403	2		1			1	30902	4											2	40302																																																							QuestData_Desc_40301
+40302	403	3					1	40301	3										2	4	40302				5	100007		1														1		Q403Finish							1																									QuestData_Desc_40302
+40303	403	4					1	40302	4											2	40304																					2		1105																																QuestData_Desc_40303
+40304	403	5					1	40302	3											2	40305																					2		1105						1					1	100007	1																			QuestData_Desc_40304
+40305	403	6		1			1	40303	3											4	40305																																																							QuestData_Desc_40305
+40400	404	1					1	40305	3		7	3	1	2						2	40458																					2		1002																																QuestData_Desc_40400
+40401	404	2					1	40400	3											2	40403																					2		1002								1																								QuestData_Desc_40401
+40402	404	3					1	40401	3											4	40402													8	40402							1		Q404AmborStart																																QuestData_Desc_40402
+40403	404	4					1	40402	4											2	40405																					2		1002																																QuestData_Desc_40403
+40404	404	5					1	40402	3											2	40406																					2		1002								1																								QuestData_Desc_40404
+40405	404	6		1			1	40403	3											4	40405													8	40405																													14	40401											QuestData_Desc_40405
+40406	404	7					1	40404	3											2	40409																															1																								QuestData_Desc_40406
+40407	404	8					1	40406	3											4	40407													8	40407							1		Q404AmborStart																																QuestData_Desc_40407
+40408	404	9					1	40407	4											2	40411																					2		1002																																QuestData_Desc_40408
+40409	404	10					1	40407	3											2	40415																					2		1002						1		1			4	3	2,3																			QuestData_Desc_40409
+40410	404	11		1			1	40408	3											4	40410													8	40410																													14	40406											QuestData_Desc_40410
+40501	405	1					1	40409	3											2	40502																					2		1002								1																								QuestData_Desc_40501
+40502	405	2					1	40501	3											4	40502													8	40502							1		Q405DrunkJudge																																QuestData_Desc_40502
+40503	405	3					1	40502	4											2	40504																					2		1002																																QuestData_Desc_40503
+40504	405	4					1	40502	3											2	40505																					2		1002						1		1																								QuestData_Desc_40504
+40505	405	5		1			1	40503	3											4	40505													8	40505																													14	40501											QuestData_Desc_40505
+40601	406	1					1	40504	3											2	40603																					2		1002								1			4	3	18,19,20,21,22,23,24,25																			QuestData_Desc_40601
+40602	406	2					1	40601	3											4	40602													8	40602							2		1002																																QuestData_Desc_40602
+40603	406	3					1	40602	4											2	40605																					2		1002											5	3	18,19,20,21,22,23,24,25																			QuestData_Desc_40603
+40604	406	4					1	40602	3											2	40606																					2		1002						1		1	100010	1	5	3	18,19,20,21,22,23,24,25																			QuestData_Desc_40604
+40605	406	5		1			1	40603	3											4	40605													8	40605																													14	40601											QuestData_Desc_40605
+40701	407	1		1			1	35724	3											2	40702																					2		1105								1																								QuestData_Desc_40701
+40702	407	2					1	40701	3										2	13	9				4	40702								8	40702							2		1105																																QuestData_Desc_40702
+40703	407	3					1	40702	4											2	40704																					2		1105																																QuestData_Desc_40703
+40704	407	4					1	40702	3											2	40705																					2		1105						1		1																								QuestData_Desc_40704
+40705	407	5		1			1	40703	3											4	40705													8	40705																													14	40701											QuestData_Desc_40705
+40801	408	1		1			1	35724	3											2	40801																					2		1116								1																								QuestData_Desc_40801
+40802	408	2		1			1	40801	3											2	40802																					2		1116																																QuestData_Desc_40802
+40803	408	3		1			1	40801	3											2	40803																					2		1116																																QuestData_Desc_40803
+40804	408	4		1		2	1	40802	3		1	40803	3		1	40803	3			2	40804																					2		1116																																QuestData_Desc_40804
+40805	408	5		1			1	40804	3											4	40805													8	40805																													14	40801											QuestData_Desc_40805
+40806	408	6		1		2	1	40802	3		1	40803	3		1	40803	3			2	40805																					2		1116																																QuestData_Desc_40806
+40807	408	7					1	40806	3											4	40807													8	40807							1		Q408KeyPos																																QuestData_Desc_40807
+40808	408	8					1	40807	4											2	40807																					2		1116																																QuestData_Desc_40808
+40809	408	9					1	40807	3											2	40808																					2		1116						1																										QuestData_Desc_40809
+40810	408	10		1			1	40808	3											4	40810													8	40810																													14	40801											QuestData_Desc_40810
+40901	409	1		1			1	35724	3											2	40907																					2		1117								1																								QuestData_Desc_40901
+40902	409	2		1			1	40901	3											4	40902													8	40902							2		1117																																QuestData_Desc_40902
+40903	409	3					1	40902	4											2	40905																					2		1117																																QuestData_Desc_40903
+40904	409	4					1	40902	3											2	40906																					2		1117						1		1																								QuestData_Desc_40904
+40905	409	5		1			1	40903	3											4	40905													8	40905																													14	40901											QuestData_Desc_40905
+41001	410	1		1			1	35724	3											2	41006																																																							QuestData_Desc_41001
+41002	410	2					1	41001	3											5	100114																					1		Q410Medicine																																QuestData_Desc_41002
+41003	410	3					1	41002	3											2	41008																					2		1118											1	100114	1																			QuestData_Desc_41003
+41004	410	4					1	41003	3											2	41009																					2		1119						1																										QuestData_Desc_41004
+41101	411	1		1			1	40305	3											2	41103																																																							QuestData_Desc_41101
+41102	411	2					1	41101	3											5	100101																					1		Q411QinFilesPos																																QuestData_Desc_41102
+41103	411	3					1	41102	3											2	41105																					2		1007											1	100101	1																			QuestData_Desc_41103
+41104	411	4					1	41103	3											5	100102																					1		Q411JourneyNotes																																QuestData_Desc_41104
+41105	411	5					1	41104	3											2	41107																					2		1007																																QuestData_Desc_41105
+41106	411	6					1	41105	3											6	1011																					1		Q411LoversCape																																QuestData_Desc_41106
+41107	411	7					1	41106	3											6	1012																					1		Q411LoversCape																																QuestData_Desc_41107
+41108	411	8					1	41107	3											2	41109																					2		1006								1																								QuestData_Desc_41108
+41109	411	9					1	41108	3											5	100103																					1		Q411LoversCape																																QuestData_Desc_41109
+41110	411	10					1	41109	3											2	41111																					2		1006																																QuestData_Desc_41110
+41111	411	11					1	41110	3											2	41112																					2		1007									100105	1																						QuestData_Desc_41111
+41112	411	12					1	41111	3											2	41113																					2		1006											1	100105	1																			QuestData_Desc_41112
+41113	411	13					1	41112	3											2	41114																					2		1006																																QuestData_Desc_41113
+41114	411	14					1	41113	3											2	41115																					2		1107								1	100104	1																						QuestData_Desc_41114
+41115	411	15					1	41114	3											2	41116																					2		1006								1			1	100103	1	1	100104	1																QuestData_Desc_41115
+41116	411	16					1	41115	3											2	41117																					2		1006						1		1																								QuestData_Desc_41116
+41200	412	1					1	40305	3											2	41203																					2		1004								1																								QuestData_Desc_41200
+41201	412	2					1	41200	3											2	41205																					2		1004																																QuestData_Desc_41201
+41202	412	3					1	41201	3											2	41207																					2		1004								1			7	133003058																				QuestData_Desc_41202
+41203	412	4					1	41202	3										1	7	133003058				8	41203																1		Q412QuestCenter1																																QuestData_Desc_41203
+41204	412	5					1	41203	3											2	41210																					2		1004																																QuestData_Desc_41204
+41205	412	6					1	41204	3											2	41216																					2		1004								1			7	133003006																				QuestData_Desc_41205
+41206	412	7					1	41205	3										1	7	133003006				8	41206																1		Q412QuestCenter2																																QuestData_Desc_41206
+41207	412	8					1	41206	3											2	41219																					2		1004																																QuestData_Desc_41207
+41208	412	9					1	41207	3											2	41228																					2		1004								1			7	220008004																				QuestData_Desc_41208
+41209	412	10					1	41208	3											7	220008004																					1		Q412GaiaAnswer																																QuestData_Desc_41209
+41210	412	11					1	41209	3											2	41232																					2		1004						1																										QuestData_Desc_41210
+41301	413	1		1			1	40305	3											5	100107																																																							QuestData_Desc_41301
+41302	413	2					1	41301	3											2	41301																					2		1007									100108	1																						QuestData_Desc_41302
+41303	413	3					1	41302	3											2	41302																					2		1008									100109	1																						QuestData_Desc_41303
+41304	413	4					1	41303	3											4	41302													8	41302							2		1008																																QuestData_Desc_41304
+41305	413	5					1	41304	3											2	41303																					2		1008											1	100108	1																			QuestData_Desc_41305
+41306	413	6					1	41305	3											4	41306													8	41306							2		1108																																QuestData_Desc_41306
+41307	413	7					1	41306	3											2	41304																					2		1108																																QuestData_Desc_41307
+41308	413	8					1	41307	3											2	41306																					2		1008																																QuestData_Desc_41308
+41309	413	9					1	41308	3											9	7																					1		Q413BarbaraHide																																QuestData_Desc_41309
+41310	413	10					1	41309	3											7	220006005																																																							QuestData_Desc_41310
+41311	413	11					1	41310	3											2	41307																					2		1109																																QuestData_Desc_41311
+41312	413	12					1	41311	3											2	41308																					2		1109									13003	1																						QuestData_Desc_41312
+41313	413	13					1	41312	3											2	41309																					2		1008																																QuestData_Desc_41313
+41314	413	14					1	41313	3											10	3																																																							QuestData_Desc_41314
+41315	413	15					1	41314	3											2	41310																					2		1008																																QuestData_Desc_41315
+41316	413	16					1	41315	3											2	41311																					2		1007						1																										QuestData_Desc_41316
+41400	414	1					1	40305	3											2	41401																					2		1001								1																								QuestData_Desc_41400
+41401	414	2				1	1	41400	3		2	41402	3		2	41402	3		2	2	41450				5	100110																2		1001											1	100001	1																			QuestData_Desc_41401
+41402	414	3		1			1	41400	3											5	100110																																																							QuestData_Desc_41402
+41403	414	4					1	41401	3											5	100110																					1		Q414Poem1																																QuestData_Desc_41403
+41404	414	5				2	1	41402	3		1	41403	3		1	41403	3			2	41422																					2		1001								1																								QuestData_Desc_41404
+41405	414	6				1	1	41404	3		2	41406	3		2	41406	3		2	2	41455				5	100111																2		1001											1	100001	1																			QuestData_Desc_41405
+41406	414	7		1			1	41404	3											5	100111																																																							QuestData_Desc_41406
+41407	414	8					1	41405	3											5	100111																					1		Q414Poem2																																QuestData_Desc_41407
+41408	414	9				2	1	41406	3		1	41407	3		1	41407	3			2	41433																					2		1001								1																								QuestData_Desc_41408
+41409	414	10				1	1	41408	3		2	41410	3		2	41410	3		2	2	41459				5	100112																2		1001											1	100001	1																			QuestData_Desc_41409
+41410	414	11		1			1	41408	3											5	100112																																																							QuestData_Desc_41410
+41411	414	12					1	41409	3											5	100112																					1		Q414Poem3																																QuestData_Desc_41411
+41412	414	13				2	1	41410	3		1	41411	3		1	41411	3			2	41446																					2		1001						1		1																								QuestData_Desc_41412
+41501	415	1					1	40305	3											17	1005																																																							QuestData_Desc_41501
+41502	415	2					1	41501	3											2	41503																															1																								QuestData_Desc_41502
+41503	415	3					1	41502	3											5	100115													8	41503																																									QuestData_Desc_41503
+41504	415	4					1	41503	4											2	41505																																		14	41502																				QuestData_Desc_41504
+41505	415	5					1	41503	3											2	41506																													1		1			1	100115																				QuestData_Desc_41505
+41601	416	1		1																4	41601																															1																								QuestData_Desc_41601
+41602	416	2		1			1	41601	3											4	41602																															1			14	41601																				QuestData_Desc_41602
+41801	418	1		1			1	35311	3										2	20			JZquest	1	6	1071																																																		QuestData_Desc_41801
+41802	418	2					1	41801	3											20			jianzhong	1																		2		1216								1																								QuestData_Desc_41802
+41803	418	3					1	41802	3											20			JZFinal	1																		1		DUMMY_POS 3001262						1		1																								QuestData_Desc_41803
+41901	419	1		1			1	41802	3											20			yincang	1																		1		Q418_Sun	20					1		1			15	3	133001109																			QuestData_Desc_41901
+42001	420	1		1			1	41802	3											20			yincang	1																		1		Q418_Sleep	20					1		1			15	3	133001109																			QuestData_Desc_42001
+42201	422	1		1			1	41802	3											20			yincang	1																		1		Q418_Meat	20					1		1			15	3	133001109																			QuestData_Desc_42201
+42301	423	1		1			1	35311	3											6	1074																							Q418_Meat	20																															QuestData_Desc_42301
+42302	423	1					1	42301	3											7	133001166																													1		1																								QuestData_Desc_42302
+42401	424	1		1																17	1013																																																							QuestData_Desc_42401
+42402	424	2					1	42401	3											2	42403																															1			1	100175	9	1	100176	9	1	100115	9													QuestData_Desc_42402
+42403	424	3					1	42402	3											5	100115													8	42403																																									QuestData_Desc_42403
+42404	424	6					1	42403	4											4	42404													8	42404																				14	42402								14	42402											QuestData_Desc_42404
+42405	424	7					1	42403	3											2	42406																													1		1			1	100175	9	1	100176	9	1	100115	9													QuestData_Desc_42405
+42406	424	4					1	42402	3											5	100175																																																							QuestData_Desc_42406
+42407	424	5					1	42402	3											5	100176																																																							QuestData_Desc_42407
+42501	425	1		1																17	1015																																																							QuestData_Desc_42501
+42502	425	2					1	42501	3											2	42503																															1																								QuestData_Desc_42502
+42503	425	3					1	42502	3											4	42503																															1																								QuestData_Desc_42503
+42504	425	4					1	42503	3											2	42506																													1																										QuestData_Desc_42504
+42601	426	1		1			1	35802	3											4	42601																															1																								QuestData_Desc_42601
+42602	426	2		1			1	42601	3											4	42602													8	42602															1					14	42601								14	42601											QuestData_Desc_42602
+42701	427	1					1	99902	3											2	42702																															1																								QuestData_Desc_42701
+42702	427	2					1	42701	3											4	42702													8	42702																	1																								QuestData_Desc_42702
+42703	427	3					1	42702	4											4	42703																															1			14	42701																				QuestData_Desc_42703
+42704	427	4					1	42702	3											2	42705																																																							QuestData_Desc_42704
+42705	427	5					1	42704	3											4	42705																													1		1																								QuestData_Desc_42705
+45101	451	1					1	99902	3											6	1051																					1		Q451WolfRunStart								1																								QuestData_Desc_45101
+45102	451	2					1	45101	3											2	45101																					1		Q451WolfRunStart											7	133004007																				QuestData_Desc_45102
+45103	451	3					1	45102	3											7	133004007																					1		Q451WolfRunStart																																QuestData_Desc_45103
+45104	451	4					1	45103	3											2	45103																					1		Q451WolfRunStart						1																										QuestData_Desc_45104
+45201	452	1					1	45104	3											2	45201																					1		Q452AmborBorn																																QuestData_Desc_45201
+45202	452	2					1	45201	3											6	1052																					1		Q452AmborFight								1			7	133002091																				QuestData_Desc_45202
+45203	452	3					1	45202	3											2	45202																					1		Q452AmborFight											7	133002091																				QuestData_Desc_45203
+45204	452	4					1	45203	3											7	133002091																					1		Q452FightFarmer																																QuestData_Desc_45204
+45205	452	5					1	45204	3											2	45203																					1		Q452FightFarmer						1		1																								QuestData_Desc_45205
+45301	453	1					1	45205	3											2	45301																					1		Q453FarmerOld								1																								QuestData_Desc_45301
+45302	453	2					1	45301	3										2	5	100155				5	100157																1		Q453PawHint	30										1	100155	1																			QuestData_Desc_45302
+45303	453	3					1	45302	3										2	5	100156				5	100157																1		Q453ShitHint	30										1	100156	1																			QuestData_Desc_45303
+45304	453	4					1	45303	3											5	100157																					1		Q453HairHint	30										1	100157	1																			QuestData_Desc_45304
+45305	453	5					1	45304	3											2	45302																					1		Q453HairHint																																QuestData_Desc_45305
+45306	453	6					1	45305	3											2	45303																					1		Q453FarmerOld						1																										QuestData_Desc_45306
+45401	454	1					1	45306	3											2	45401																					1		Q454Razor								1																								QuestData_Desc_45401
+45402	454	2					1	45401	3											2	45403																					1		Q454Razor											1	100016	1																			QuestData_Desc_45402
+45403	454	3					1	45402	3											2	45406																					1		Q454Razor								1																								QuestData_Desc_45403
+45404	454	4		1			1	45403	3																																	1		Q454WolfBoss																																QuestData_Desc_45404
+45405	454	5					1	45404	3											3	21010101																					1		Q454WolfBoss																																QuestData_Desc_45405
+45406	454	6					1	45405	3											2	45407																					1		Q454WolfBoss						1																										QuestData_Desc_45406
+46101	461	1					1	30904	3											2	46101																					2		1004		1004						1			19	3	133003204,2																			QuestData_Desc_46101
+46102	461	2					1	46101	3											6	1077																					1		Q46102Kaeya		3									19	3	133003204,1																			QuestData_Desc_46102
+46109	461	3		1			1	46102	3											2	46102																															1																								QuestData_Desc_46109
+46103	461	4					1	46109	3											2	46104																					1		Q461NPC	30	3						1																								QuestData_Desc_46103
+46104	461	5		1			1	46109	3											2	46104																																																							QuestData_Desc_46104
+46105	461	6		1			1	46109	3										2	2	46105																																																							QuestData_Desc_46105
+46106	461	7		1			1	46109	3										2	2	46106																																																							QuestData_Desc_46106
+46107	461	9					1	46103	3											2	46108																					2		1004		3				1		1																								QuestData_Desc_46107
+46201	462	1					1	46107	3											6	1063																					1		Q462NPC		3						1			7	133003204																				QuestData_Desc_46201
+46202	462	2					1	46201	3											7	133003204																					1		Q462NPC	30	3																														QuestData_Desc_46202
+46203	462	3					1	46202	3											2	46203																					2		1213		3						1	100171	1																						QuestData_Desc_46203
+46204	462	4		1			1	46203	3											5	100172																															1			15	3	133002202	19	3	133004902,1													19	3	133004902,2	QuestData_Desc_46204
+46210	462	5		1			1	46204	3											2	46204																															1																								QuestData_Desc_46210
+46205	462	6					1	46203	3										2	5	100172				2	46205																																																		QuestData_Desc_46205
+46208	462	7					1	46205	3											5	100172																					1		Q462Treasure1		3						1																					19	3	133004902,2	QuestData_Desc_46208
+46206	462	8		1			1	46204	3											5	100173																													1		1																					19	3	133002173,1	QuestData_Desc_46206
+46207	462	9					1	46204	3										2	5	100173				2	46207																																																		QuestData_Desc_46207
+46209	462	10					1	46207	3											5	100173																					1		Q462PuzzleEnd		3						1																					19	3	133002173,1	QuestData_Desc_46209
+46300	463	1					1	46206	3											2	46300																					2		1005		3						1																								QuestData_Desc_46300
+46301	463	2					1	46300	3											6	1076																					1		Q463Dungeon		3						1			2	3	52																			QuestData_Desc_46301
+46307	463	3		1			1	46301	3											2	46301																																																							QuestData_Desc_46307
+46302	463	4					1	46307	3											6	1064																					1		Q463Dungeon		3						1																					19	20016	220016008,1	QuestData_Desc_46302
+46303	463	5		1			1	46302	3											2	46303																																		12	6		19	20016	220016008,2																QuestData_Desc_46303
+46304	463	6					1	46303	3											3	23040101													19	2000																													14	46302											QuestData_Desc_46304
+46305	463	7		1	2		1	46304	3										2	2	46305				2	46306																													1	100171	1	1	100172	1	1	100173	1													QuestData_Desc_46305
+46306	463	8		1			1	46302	3											4																																			15	20016	220016003																			QuestData_Desc_46306
+46308	463	9		1			1	46304	3											2	46305																													1					17	3	52																			QuestData_Desc_46308
+46401	464	1		1			1	99902	3											2	46401																																																							QuestData_Desc_46401
+46402	464	2					1	46401	3											2	46402																					1		Q464Square	40	3			1																											QuestData_Desc_46402
+46403	464	3					1	46402	3											2	46403																					1		Q464Smithy	40	3			1																											QuestData_Desc_46403
+46404	464	4					1	46403	3											2	46404																					1		Q464Flower	40	3			1																											QuestData_Desc_46404
+46405	464	5					1	46404	3											18	0		18,6																													1																								QuestData_Desc_46405
+46406	464	6					1	46405	3											6	1072													18	0	6,18						1		Q464Backdoor		3			1															14	46405											QuestData_Desc_46406
+46407	464	7					1	46406	3											2	46405																					2		1009		3	QuestTarget	2		1		1																								QuestData_Desc_46407
+46501	465	1					1	99902	3											18	0		6,18																																																					QuestData_Desc_46501
+46502	465	2					1	46407	3											17	1004																					1		QuestKnighthood		3			1																											QuestData_Desc_46502
+46503	465	3					1	46502	3											2	46501																					2		1218		1004	QuestTarget	2				1																								QuestData_Desc_46503
+46504	465	4					1	46503	3											6	1073																					1		Q383Mark		3			1																											QuestData_Desc_46504
+46505	465	5					1	46504	3											2	46502																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_46505
+46506	465	6					1	46505	3											6	1078																					1		Q465DilucDungeon		3			1																											QuestData_Desc_46506
+46507	465	7					1	46506	3											2	46503																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_46507
+46508	465	8					1	46507	3										2	9	2003				5	100174																1		Q465DilucDungeon		3			1			1			1	100174	1	12	4																	QuestData_Desc_46508
+46509	465	9					1	46508	3										2	11	2003				3	22010201		1																																																QuestData_Desc_46509
+46510	465	10					1	46509	3											2	46504																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_46510
+46514	465	11					1	46510	3											2	46509																																																							QuestData_Desc_46514
+46515	465	12		1			1	46510	3											4	46515																																																							QuestData_Desc_46515
+46516	465	13		1			1	46510	3											4	46516																																																							QuestData_Desc_46516
+46517	465	14		1			1	46510	3											4	46517																																																							QuestData_Desc_46517
+46518	465	15		1			1	46516	3											2	46513																																		14	46510																				QuestData_Desc_46518
+46519	465	16		1			1	46517	3											2	46514																																		14	46510																				QuestData_Desc_46519
+46511	465	17					1	46514	3										2	10	3				5	100174																										1			1	100174	1	20	4																	QuestData_Desc_46511
+46512	465	18					1	46511	3											17	1004																					1		QuestKnighthood		3			1																											QuestData_Desc_46512
+46513	465	19					1	46512	3											2	46505																					2		1218		1004	QuestTarget	2		1		1																								QuestData_Desc_46513
+46601	466	1					1	46513	3											6	1079																					1		Q383Mark		3			1																											QuestData_Desc_46601
+46602	466	2					1	46601	3											2	46601																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_46602
+46603	466	3					1	46602	3										2	10	3				6	1080																1		Q466Lure1		3			1						19	3	133002233,1																			QuestData_Desc_46603
+46621	466	4					1	46603	3											5	100052			3																		1		Q466BingWuHua	20	3			1																											QuestData_Desc_46621
+46622	466	5					1	46621	3											2	46609																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_46622
+46604	466	6					1	46622	3											5	100177																					1		Q466Lure1		3			1			1			1	100177	1																			QuestData_Desc_46604
+46605	466	7					1	46604	3											2	46602																					2		1009		3	QuestTarget	2				1			12	4		19	3	133002035,2	19	3	133002227,2													QuestData_Desc_46605
+46606	466	8					1	46605	3											20			3002035	1										20		133002227	1					1		Q466Lure1		3			1						20	4		19	3	133002035,1	19	3	133002227,1	14	46604		19	3	133002035,1	19	3	133002227,1				QuestData_Desc_46606
+46607	466	9					1	46606	3											2	46603																					2		1009		3	QuestTarget	2				1																								QuestData_Desc_46607
+46608	466	10					1	46607	3											17	1009																					1		QuestBarEnter		3			1			1																					10	0		QuestData_Desc_46608
+46609	466	11					1	46608	3											18	0		18,6											8	46609																				10	1								14	46608											QuestData_Desc_46609
+46610	466	12					1	46609	3											2	46604													8	46610							2		1009		1009	QuestTarget	2				1												14	46608											QuestData_Desc_46610
+46620	466	13					1	46610	3											10	3													8	46620							1		Q466Lure2		3			1															14	46608											QuestData_Desc_46620
+46611	466	14					1	46620	3											5	100177													8	46611							1		Q466Lure2		3			1						1	100177	1							14	46608											QuestData_Desc_46611
+46619	466	15		1			1	46611	4											4																																			14	46610																				QuestData_Desc_46619
+46612	466	16					1	99902	3											17	1009													8	46612							1		QuestBarEnter		3			1			1												14	46608											QuestData_Desc_46612
+46613	466	17					1	46611	3											2	46605													8	46613							2		1009		1009	QuestTarget	2				1			12	4		19	3	133004118,2				14	46608											QuestData_Desc_46613
+46614	466	18					1	99902	3											6	1081													8	46614							1		Q466FrontDoor		3			1			1			12	4		19	3	133004118,2				14	46608											QuestData_Desc_46614
+46615	466	19					1	46613	3											20			133004118	5										8	46615							1		Q466Monster4		3			1						20	4								14	46608											QuestData_Desc_46615
+46616	466	20					1	46615	3											2	46606													8	46616							2		1009		3	QuestTarget	2				1												14	46608											QuestData_Desc_46616
+46617	466	21					1	46616	3											17	1009													8	46617							1		QuestBarEnter		3			1															14	46608											QuestData_Desc_46617
+46618	466	22					1	46617	3											2	46607													8	46618							2		1218		1009	QuestTarget	2		1		1			10	0								14	46608											QuestData_Desc_46618
+46701	467	1		1			1	36004	3											6	1093																															1																								QuestData_Desc_46701
+46702	467	2		1			1	46701	3											2	46701																															1																								QuestData_Desc_46702
+46703	467	3		1			1	46702	3											22			46710,46711,46712,46713																											1		1																								QuestData_Desc_46703
+46801	468	1		1																2	46802																															1																								QuestData_Desc_46801
+46802	468	2		1			1	46801	3											20			133002225	1										20		133002226	1													1					19	3	133002225,2	19	3	133002143,2				14	46801		19	3	133002225,2				19	3	133002225,1	QuestData_Desc_46802
+46904	469	1		1		1	1	35104	3		2	31101	3							5	107001	1												2	30902																																									QuestData_Desc_46904
+46901	469	1		1		2	1	31101	3		1	46904	3							6	1096																					1		Q469Paimon1		3			1																											QuestData_Desc_46901
+46902	469	2				2	1	31101	3		1	46904	3							109	2		3,1																			1		Q469Paimon1		3			1																											QuestData_Desc_46902
+46903	469	3					1	46902	3										2	2	46901				2	46902																2		1005		3	QuestTarget	2		1		1																								QuestData_Desc_46903
+47001	470	1		1			1	35901	3											6	1106																																																							QuestData_Desc_47001
+47002	470	2		1			1	47001	3											2	47001																																																							QuestData_Desc_47002
+47003	470	3		1			1	47002	3											5	108053																															1																								QuestData_Desc_47003
+47004	470	4		1			1	47003	3											2	47002																													1		1																								QuestData_Desc_47004
+48401	484	1					1	99902	3											4	48401																					1		Q484Ambor		3						1																								QuestData_Desc_48401
+48402	484	2					1	48401	3											2	48402																															1																					18	100210:1,100211:1,100212:1		QuestData_Desc_48402
+48403	484	3					1	48402	3											5	100210																					1		Q48403		3																														QuestData_Desc_48403
+48404	484	4				1	1	48403	3		2	48407	3							2	48404																																																							QuestData_Desc_48404
+48405	484	5					1	48402	3											5	100211																					1		Q48405		3																														QuestData_Desc_48405
+48406	484	6					1	48405	3											2	48406																																																							QuestData_Desc_48406
+48407	484	7					1	48402	3											5	100212																					1		Q48407		3																														QuestData_Desc_48407
+48408	484	8				1	1	48407	3		2	48403	3							2	48408																																																							QuestData_Desc_48408
+48409	484	9				1	1	48407	3		1	48403	3		1	48404	3			2	48409																																																							QuestData_Desc_48409
+48410	484	10				1	1	48407	3		1	48403	3		1	48408	3			2	48410																																																							QuestData_Desc_48410
+48411	484	11					1	48402	3											4	48411																																																							QuestData_Desc_48411
+48412	484	12					1	48402	3											2	4840904																																																							QuestData_Desc_48412
+48413	484	13					1	48412	3											4	48412																					1		Q48412	30	3						1																								QuestData_Desc_48413
+48414	484	14					1	48413	3											2	48413																					1		Q48413		3																														QuestData_Desc_48414
+48415	484	15					1	48414	3											4	48414																					1		Q48414	30	3																														QuestData_Desc_48415
+48416	484	16					1	48415	3										1	3	21010201				3	21010301																1		Q48414	30	3																														QuestData_Desc_48416
+48417	484	17					1	48416	3											2	48416																					1		Q48415Mon2		3																														QuestData_Desc_48417
+48418	484	18					1	48417	3											4	48417																					1		Q484Print1	30	3																														QuestData_Desc_48418
+48419	484	19					1	48418	3											4	48418																					1		Q484Print2	30	3																														QuestData_Desc_48419
+48420	484	20					1	48419	3											4	48419																					1		Q484Print3	30	3																														QuestData_Desc_48420
+48421	484	21					1	48420	3											4	48420																					1		Q484Print4	30	3																														QuestData_Desc_48421
+48422	484	22					1	48421	3											4	48421																					1		Q484Print5	30	3																														QuestData_Desc_48422
+48423	484	23					1	48422	3											2	48422																																																							QuestData_Desc_48423
+48424	484	24					1	48402	3											2	4840903																																																							QuestData_Desc_48424
+48425	484	25					1	48424	3											18	0		0,24																													1																								QuestData_Desc_48425
+48426	484	26					1	48425	3											22			48423,48424,48429,48432																																																					QuestData_Desc_48426
+48427	484	27					1	48425	3											22			48425,48426,48430,48433																																																					QuestData_Desc_48427
+48428	484	28					1	48425	3											22			48427,48428,48431,48434																																																					QuestData_Desc_48428
+48429	484	29				1	1	48426	3		1	48427	3		1	48428	3			4	48429																																																							QuestData_Desc_48429
+48430	484	30					1	48425	3											4	48430																																																							QuestData_Desc_48430
+48431	484	31					1	48430	3											4	48431																																																							QuestData_Desc_48431
+48432	484	32					1	48431	3											2	48435																																		14	48401																				QuestData_Desc_48432
+99401	994	1					1	99902	3											4																														1		1																								QuestData_Desc_99401
+99501	995	1					1	99902	3											4																						1		QuestChurchMark								1																								QuestData_Desc_99501
+99502	995	2					1	99501	3											4																						1		QuestChurchMark								1																								QuestData_Desc_99502
+99601	996	1					1	99902	3											4																						1		QuestChurchMark								1																								QuestData_Desc_99601
+99602	996	2					1	99601	3											4																						1		QuestChurchMark						1		1																								QuestData_Desc_99602
+99701	997	1					1	99902	3											2	99701																													1																										QuestData_Desc_99701
+99801	998	1					1	40305	3											2	99801																					1		Q351FirstClimb	50							1																								QuestData_Desc_99801
+99802	998	2					1	99801	3											4	99802													8	99802							1		Q351FirstClimb	100																															QuestData_Desc_99802
+99803	998	3					1	99802	3											2	99802													2	99803																	1												14	99801											QuestData_Desc_99803
+99804	998	4					1	99803	3											4	99804													8	99804																																									QuestData_Desc_99804
+99805	998	5					1	99804	3											2	99804													2	99805															1		1												14	99803											QuestData_Desc_99805
+99901	999	1					1	40305	3											2	99902																																																							QuestData_Desc_99901
+99902	999	2					1	99901	3											2	99908																													1																										QuestData_Desc_99902

@@ -1,0 +1,101 @@
+ID	文本
+MonsterData_Name_21010101	Hilichurl
+MonsterData_Name_21020101	Shieldwall Mitachurl
+MonsterData_Name_21020201	Blazing Axe Mitachurl
+MonsterData_Name_20010101	Dendro Slime
+MonsterData_Name_20010201	Large Dendro Slime
+MonsterData_Name_20010302	Anemo Slime
+MonsterData_Name_20010301	Anemo Slime
+MonsterData_Name_20010401	Large Anemo Slime
+MonsterData_Name_29010101	Stormterror Dvalin
+MonsterData_Name_29010102	Stormterror Dvalin
+MonsterData_Name_29010103	Stormterror Dvalin
+MonsterData_Name_20020101	Eye of the Storm
+MonsterData_Name_20010501	Electro Slime
+MonsterData_Name_20010601	Large Electro Slime
+MonsterData_Name_20010701	Mutant Electro Slime
+MonsterData_Name_20010801	Cryo Slime
+MonsterData_Name_20010901	Large Cryo Slime
+MonsterData_Name_20011001	Hydro Slime
+MonsterData_Name_20011101	Large Hydro Slime
+MonsterData_Name_20011002	Test_Slime-Water-M-NoAI-ForMinigame
+MonsterData_Name_21010201	Hilichurl Fighter
+MonsterData_Name_21010301	Hilichurl Guard
+MonsterData_Name_21010401	Hilichurl Shooter
+MonsterData_Name_21010501	Pyro Hilichurl Shooter
+MonsterData_Name_21010601	Hilichurl Grenadier
+MonsterData_Name_21010701	Berserker Hilichurl
+MonsterData_Name_21010901	Cryo Hilichurl Shooter
+MonsterData_Name_21011001	Electro Hilichurl Shooter
+MonsterData_Name_21011101	Test_Hilichurl-Nature-Melee
+MonsterData_Name_20011202	Pyro Slime
+MonsterData_Name_20011201	Pyro Slime
+MonsterData_Name_20011301	Large Pyro Slime
+MonsterData_Name_20011401	Geo Slime
+MonsterData_Name_20011501	Large Geo Slime
+MonsterData_Name_22010101	Pyro Abyss Mage
+MonsterData_Name_22010201	Cryo Abyss Mage
+MonsterData_Name_22010301	Hydro Abyss Mage
+MonsterData_Name_21030101	Hydro Samachurl
+MonsterData_Name_21030201	Dendro Samachurl
+MonsterData_Name_21030301	Anemo Samachurl
+MonsterData_Name_23040101	Ruin Guard
+MonsterData_Name_21010801	Test_Hilichurl-Control-Nature
+MonsterData_Name_21010102	Hilichurl Test
+MonsterData_Name_28010101	Golden Crab
+MonsterData_Name_28010102	Sun Crab
+MonsterData_Name_28010103	Ocean Crab
+MonsterData_Name_28020101	Snow Fox
+MonsterData_Name_28020102	Crimson Fox
+MonsterData_Name_28020201	Squirrel
+MonsterData_Name_28030101	Azure Crane
+MonsterData_Name_28050101	Crystal Butterfly
+MonsterData_Name_28010201	Blue Horned Lizard
+MonsterData_Name_28010202	Red Horned Lizard
+MonsterData_Name_28010203	Green Horned Lizard
+MonsterData_Name_28010301	Frog
+MonsterData_Name_28010302	Mud Frog
+MonsterData_Name_28010303	Blue Frog
+MonsterData_Name_28020301	Boar
+MonsterData_Name_28020302	Boar Piglet
+MonsterData_Name_28030301	White Dove
+MonsterData_Name_28030302	Gray Dove
+MonsterData_Name_28030303	Azure Dove
+MonsterData_Name_28030304	Crimson Dove
+MonsterData_Name_28030305	Emerald Dove
+MonsterData_Name_28030401	Peacock
+MonsterData_Name_28030402	Crimson Peacock
+MonsterData_Name_28030403	Snow Peacock
+MonsterData_Name_28030404	Emerald Peacock
+MonsterData_Name_28040101	Black-back Bass
+MonsterData_Name_28040102	Blue-fin Bass
+MonsterData_Name_28040103	Golden Bass
+MonsterAffixData_AffixName_1001	Brutal
+MonsterAffixData_AffixName_1002	Ironwall
+MonsterAffixData_AffixName_1003	Unbending
+MonsterAffixData_AffixName_1004	Rainbow (S)
+MonsterAffixData_AffixName_1901	Anemo Crystalline
+MonsterAffixData_AffixName_2001	Burning Immunity
+MonsterAffixData_AffixName_2002	Electro-Charged Immunity
+MonsterAffixData_AffixName_2003	Cold Immunity
+MonsterAffixData_AffixName_3001	Hydro RES - 50%
+MonsterAffixData_AffixName_3002	Hydro RES - 70%
+MonsterAffixData_AffixName_3003	Hydro RES - 100%
+MonsterAffixData_AffixName_3004	Pyro RES - 50%
+MonsterAffixData_AffixName_3005	Pyro RES - 70%
+MonsterAffixData_AffixName_3006	Pyro RES - 100%
+MonsterAffixData_AffixName_3007	Cryo RES - 50%
+MonsterAffixData_AffixName_3008	Cryo RES - 70%
+MonsterAffixData_AffixName_3009	Cryo RES - 100%
+MonsterAffixData_AffixName_3010	Electro RES - 50%
+MonsterAffixData_AffixName_3011	Electro RES - 70%
+MonsterAffixData_AffixName_3012	Electro RES - 100%
+MonsterAffixData_AffixName_3013	Anemo RES - 50%
+MonsterAffixData_AffixName_3014	Anemo RES - 70%
+MonsterAffixData_AffixName_3015	Anemo RES - 100%
+MonsterAffixData_AffixName_3016	Dendro RES - 50%
+MonsterAffixData_AffixName_3017	Dendro RES - 70%
+MonsterAffixData_AffixName_3018	Dendro RES - 100%
+MonsterAffixData_AffixName_3019	Geo RES - 50%
+MonsterAffixData_AffixName_3020	Geo RES - 70%
+MonsterAffixData_AffixName_3021	Geo RES - 100%

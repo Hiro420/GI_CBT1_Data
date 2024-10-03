@@ -1,0 +1,965 @@
+ID	文本
+AvatarData_Name_10000002	카미사토 아야카
+AvatarSkillData_Name_10013	카미사토류·싸락눈
+AvatarSkillData_Desc_10013	카미사토류 영동의 일식\n부서진 얼음에 몸을 숨겨 빠른 속도로 이동한다. 대쉬를 대체한다.\n이 상태에서 카미사토 아야카는 수면 위에서 빠르게 이동할 수 있다.\n몸을 드러내는 순간 주위의 적을 동상 상태로 만들어버리고 일반 공격이 얼음 속성 공격으로 변한다.\n추위 상태 부여 영향 범위: 3m\n얼음 속성 공격 지속 시간: 4초\n스태미나 소모: 발동 시 15pt 소모하고, 이후 초당 25pt씩 소모한다
+AvatarSkillData_Name_10018	카미사토류·얼음꽃
+AvatarSkillData_Desc_10018	카미사토류 우아한 일식\n얼음 원소를 몸 구석구석에 빠른 속도로 확산하고 잠깐의 시간이 지난 후 주위의 적에게 얼음 속성 대미지를 주고 넉백시킨다.\n스킬 대미지: 공격력의 340%\n영향 범위: 3m\n재사용 대기시간: 6초\n원소 타입: 얼음
+AvatarSkillData_Name_10019	카미사토류·멸망의 서리
+AvatarSkillData_Desc_10019	카미사토류 맹렬한 일식\n접힌 부채와 도검으로 전방을 향해 전진하는 얼음 폭풍을 만들어내 얼음 속성 대미지를 지속적으로 가한다.\n얼음 폭풍은 사라질 때 더욱 큰 범위의 적에게 얼음 속성 대미지를 준다.\n지속 대미지: 초당 공격력의 259%\n영향 범위: 3m\n이동속도: 초당 4.5m\n지속 시간: 5초\n폭발 대미지: 공격력의 500%\n폭발 범위: 5m\n재사용 대기시간: 25초\원소 에너지: 60\n원소 타입: 얼음
+AvatarSkillData_Name_10024	아야카 5연격
+AvatarSkillData_Desc_10024	한손검 5연격
+TalentSkillData_Name_211	백로공주[1]
+TalentSkillData_Desc_211	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 5% 증가하고 얼음 원소 내성이 6% 증가한다
+TalentSkillData_Name_212	백로공주[2]
+TalentSkillData_Desc_212	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 10% 증가하고 얼음 원소 내성이 9% 증가한다
+TalentSkillData_Name_213	백로공주[3]
+TalentSkillData_Desc_213	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 15% 증가하고 얼음 원소 내성이 12% 증가한다
+TalentSkillData_Name_214	백로공주[4]
+TalentSkillData_Desc_214	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 20% 증가하고 얼음 원소 내성이 15% 증가한다
+TalentSkillData_Name_221	살얼음의 춤[1]
+TalentSkillData_Desc_221	카미사토류·싸락눈의 이동속도 10% 상승
+TalentSkillData_Name_222	살얼음의 춤[2]
+TalentSkillData_Desc_222	카미사토류·싸락눈의 이동속도가 10% 상승하고 공격 범위가 15% 증가한다
+TalentSkillData_Name_223	살얼음의 춤[3]
+TalentSkillData_Desc_223	카미사토류·싸락눈의 이동속도가 30% 상승하고 공격 범위가 30% 증가한다
+TalentSkillData_Name_231	겨울의 선언사[1]
+TalentSkillData_Desc_231	일반 공격이 동상/빙결 상태의 적에게 명중하면 6%/18%의 확률로 카미사토류·얼음꽃의 재사용 대기시간이 0.5초 감소한다
+TalentSkillData_Name_232	겨울의 선언사[2]
+TalentSkillData_Desc_232	일반 공격이 동상/빙결 상태의 적에게 명중하면 6%/18%의 확률로 카미사토류·얼음꽃의 재사용 대기시간이 0.5초 감소한다
+TalentSkillData_Name_233	겨울의 선언사[3]
+TalentSkillData_Desc_233	일반 공격이 동상/빙결 상태의 적에게 명중하면 12%/36%의 확률로 카미사토류·얼음꽃의 재사용 대기시간이 1초 감소한다
+TalentSkillData_Name_241	삼중 얼음문[1]
+TalentSkillData_Desc_241	카미사토류·멸망의 서리를 시전 시 양측에 추가로 2개의 작은 얼음 폭풍을 만들어내 각각 공격력의 20% 피해를 준다
+TalentSkillData_Name_242	삼중 얼음문[2]
+TalentSkillData_Desc_242	카미사토류·멸망의 서리를 시전 시 양측에 추가로 2개의 작은 얼음 폭풍을 만들어내 각각 공격력의 35% 피해를 준다
+TalentSkillData_Name_243	삼중 얼음문[3]
+TalentSkillData_Desc_243	카미사토류·멸망의 서리를 시전 시 양측에 추가로 2개의 작은 얼음 폭풍을 만들어내 각각 공격력의 50% 피해를 준다
+TalentSkillData_Name_251	물에 비친 달[1]
+TalentSkillData_Desc_251	원소 충전 효율이 16% 상승하고 카미사토류·멸망의 서리 재사용 대기시간이 2초 감소한다
+TalentSkillData_Name_252	물에 비친 달[2]
+TalentSkillData_Desc_252	원소 충전 효율이 25% 상승하고 카미사토류·멸망의 서리 재사용 대기시간이 4초 감소한다
+TalentSkillData_Name_253	물에 비친 달[3]
+TalentSkillData_Desc_253	원소 충전 효율이 33% 상승하고 카미사토류·멸망의 서리 재사용 대기시간이 6초 감소한다
+TalentSkillData_Name_261	천륜죄[1]
+TalentSkillData_Desc_261	카미사토류·싸락눈 발동 시 카미사토 아야카는 주위의 HP가 20% 미만인 적에게 표식을 남긴다. 표식이 있는 적의 근처에서 나타나자마자 일반 공격으로 공격력 300%의 얼음 속성 피해를 준다. 해당 공격은 강공격으로 취급한다
+TalentSkillData_Name_262	천륜죄[2]
+TalentSkillData_Desc_262	카미사토류·싸락눈 발동 시 카미사토 아야카는 주위의 HP가 25% 미만인 적에게 표식을 남긴다. 표식이 있는 적의 근처에서 나타나자마자 일반 공격으로 공격력 350%의 얼음 속성 피해를 준다. 해당 공격은 강공격으로 취급한다
+TalentSkillData_Name_263	천륜죄[3]
+TalentSkillData_Desc_263	카미사토류·싸락눈 발동 시 카미사토 아야카는 주위의 HP가 30% 미만인 적에게 표식을 남긴다. 표식이 있는 적의 근처에서 나타나자마자 일반 공격으로 공격력 400%의 얼음 속성 피해를 준다. 해당 공격은 강공격으로 취급한다
+TalentSkillData_Name_271	검게 물든 벚꽃[1]
+TalentSkillData_Desc_271	카미사토류·얼음꽃의 동상 혹은 동결 상태의 적에게 대한 피해가 20% 상승한다
+TalentSkillData_Name_272	검게 물든 벚꽃[2]
+TalentSkillData_Desc_272	카미사토류·얼음꽃의 동상 혹은 동결 상태의 적에게 대한 피해가 35% 상승한다
+TalentSkillData_Name_273	검게 물든 벚꽃[3]
+TalentSkillData_Desc_273	카미사토류·얼음꽃의 동상 혹은 동결 상태의 적에게 대한 피해가 50% 상승한다
+TalentSkillData_Name_281	영규유반[1]
+TalentSkillData_Desc_281	원소 에너지가 50%를 넘으면 일반 공격으로 가하는 대미지가 10% 상승한다. 원소 에너지가 50% 미만일 때 일반 공격의 치명타 확률이 5% 상승한다
+TalentSkillData_Name_282	영규유반[2]
+TalentSkillData_Desc_282	원소 에너지가 50%를 넘으면 일반 공격으로 가하는 대미지가 20% 상승한다. 원소 에너지가 50% 미만일 때 일반 공격의 치명타 확률이 10% 상승한다
+TalentSkillData_Name_283	영규유반[3]
+TalentSkillData_Desc_283	원소 에너지가 50%를 넘으면 일반 공격으로 가하는 대미지가 30% 상승한다. 원소 에너지가 50% 미만일 때 일반 공격의 치명타 확률이 15% 상승한다
+AvatarData_Desc_10000002	이나즈마 명문 카미사토가의 장녀로 흩날리는 눈꽃을 가를 정도로 검술에 능하다
+AvatarData_Name_10000003	진
+AvatarSkillData_Name_10031	진 5연격
+AvatarSkillData_Desc_10031	 
+AvatarSkillData_Name_10033	풍압검
+AvatarSkillData_Desc_10033	지키겠노라 하는 마음 하나로 진과 동행하는 것은 모든 위험을 동료의 곁에서 몰아내는 수호의 바람이다.\n회오리를 소환해 주위의 적을 자신의 앞으로 끌어당겨 구속 상태에 빠트리고 바람 속성 피해를 주며 앞으로 넉백시킨다.\n길게 누르면 더 많은 적을 끌어당기거나 적을 날리는 방향을 조정할 수 있으나 스킬 발동 중에 이동할 수 없다.\n스킬 대미지: 공격력의 275%\n영향 범위: 10m\n최대 지속 시간: 5초\n스태미나 소모: 초당 25pt\n재사용 대기시간 6초\n원소 타입: 바람
+AvatarSkillData_Name_10034	민들레 바람
+AvatarSkillData_Desc_10034	바람의 은총은 대지에 흩뿌려진 민들레와 같고, 이것이 바로 진의 수호의 근원과 마음이다.\n자신을 중심으로 바람이 이는 민들레 영역을 만들어내 주위의 적에게 바람 속성 피해를 주고 넉백시키며 범위 내 아군의 HP를 회복한다.\n이후 민들레 영역은 지속해서 영역 내에 있는 아군의 HP를 회복하고 영역 안으로 들어오는 적에게 바람 속성 피해를 준다.\n스킬 대미지: 공격력의 375%\n순간 회복: 공격력의 425%\n지속 회복: 초당 공격력의 60%\n영향 범위: 6m\n지속 시간: 10초\n영역 대미지: 공격력의 100%\n재사용 대기시간: 32초\n원소 에너지: 80\n원소 타입: 바람
+TalentSkillData_Name_1300	수호의 방패[1]
+TalentSkillData_Desc_1300	파티 내 모든 캐릭터의 HP 최대치가 4%, 크리티컬률이 2% 증가한다
+TalentSkillData_Name_1301	수호의 방패[2]
+TalentSkillData_Desc_1301	파티 내 모든 캐릭터의 HP 최대치가 8%, 크리티컬률이 4% 증가한다
+TalentSkillData_Name_1302	수호의 방패[3]
+TalentSkillData_Desc_1302	파티 내 모든 캐릭터의 HP 최대치가 12%, 크리티컬률이 6% 증가한다
+TalentSkillData_Name_1303	수호의 방패[4]
+TalentSkillData_Desc_1303	파티 내 모든 캐릭터의 HP 최대치가 16%, 크리티컬률이 8% 증가한다
+TalentSkillData_Name_1310	바람의 인도[1]
+TalentSkillData_Desc_1310	스태미나 회복 속도 10% 상승
+TalentSkillData_Name_1311	바람의 인도[2]
+TalentSkillData_Desc_1311	스태미나 회복 속도 17% 상승
+TalentSkillData_Name_1312	바람의 인도[3]
+TalentSkillData_Desc_1312	스태미나 회복 속도 25% 상승
+TalentSkillData_Name_1313	바람의 인도[4]
+TalentSkillData_Desc_1313	스태미나 회복 속도 35% 상승
+TalentSkillData_Name_1320	폭풍의 순간[1]
+TalentSkillData_Desc_1320	풍압검으로 가하는 대미지가 8% 증가하고 회오리의 흡인 속도가 소폭 상승한다
+TalentSkillData_Name_1321	폭풍의 순간[2]
+TalentSkillData_Desc_1321	풍압검으로 가하는 대미지가 14% 증가하고 회오리의 흡인 속도가 소폭 상승한다
+TalentSkillData_Name_1322	폭풍의 순간[3]
+TalentSkillData_Desc_1322	풍압검으로 가하는 대미지가 20% 증가하고 회오리의 흡인 속도가 소폭 상승한다
+TalentSkillData_Name_1330	재생의 바람[1]
+TalentSkillData_Desc_1330	HP 최대치가 2% 증가하고 HP가 35% 미만일 때 받는 회복량 강화 수치가 10% 증가한다
+TalentSkillData_Name_1331	재생의 바람[2]
+TalentSkillData_Desc_1331	HP 최대치가 5% 증가하고 HP가 35% 미만일 때 받는 회복량 강화 수치가 15% 증가한다
+TalentSkillData_Name_1332	재생의 바람[3]
+TalentSkillData_Desc_1332	HP 최대치가 8% 증가하고 HP가 35% 미만일 때 받는 회복량 강화 수치가 20% 증가한다
+TalentSkillData_Name_1340	수호의 칼날[1]
+TalentSkillData_Desc_1340	일반 공격의 치명타 확률이 10% 증가하고 일반 공격이 치명타 시 파티 내 모든 캐릭터의 HP가 진 공격력의 10%만큼 회복한다
+TalentSkillData_Name_1341	수호의 칼날[2]
+TalentSkillData_Desc_1341	일반 공격의 치명타 확률이 15% 증가하고 일반 공격이 치명타 시 파티 내 모든 캐릭터의 HP가 진 공격력의 15%만큼 회복한다
+TalentSkillData_Name_1342	수호의 칼날[3]
+TalentSkillData_Desc_1342	일반 공격의 치명타 확률이 20% 증가하고 일반 공격이 치명타 시 파티 내 모든 캐릭터의 HP가 진 공격력의 20%만큼 회복한다
+TalentSkillData_Name_1350	바람과 함께[1]
+TalentSkillData_Desc_1350	원소 구슬 혹은 원소 입자를 획득 시 파티 내 모든 캐릭터의 이동 속도와 일반 공격 속도가 5% 증가한다, 지속 시간 10초. 연속 발동 시 지속 시간을 갱신한다
+TalentSkillData_Name_1351	바람과 함께[2]
+TalentSkillData_Desc_1351	원소 구슬 혹은 원소 입자를 획득 시 파티 내 모든 캐릭터의 이동 속도와 일반 공격 속도가 10% 증가한다, 지속 시간 10초. 연속 발동 시 지속 시간을 갱신한다
+TalentSkillData_Name_1352	바람과 함께[3]
+TalentSkillData_Desc_1352	원소 구슬 혹은 원소 입자를 획득 시 파티 내 모든 캐릭터의 이동 속도와 일반 공격 속도가 15% 증가한다, 지속 시간 10초. 연속 발동 시 지속 시간을 갱신한다
+TalentSkillData_Name_1360	민들레 영역[1]
+TalentSkillData_Desc_1360	민들레의 바람 속에서 적의 이동 속도와 공격 속도가 25% 감소하고 바람 원소 내성이 20% 감소한다
+TalentSkillData_Name_1361	민들레 영역[2]
+TalentSkillData_Desc_1361	민들레의 바람 속에서 적의 이동 속도와 공격 속도가 25% 감소하고 바람 원소 내성이 40% 감소한다
+TalentSkillData_Name_1362	민들레 영역[3]
+TalentSkillData_Desc_1362	민들레의 바람 속에서 적의 이동 속도와 공격 속도가 25% 감소하고 바람 원소 내성이 60% 감소한다
+TalentSkillData_Name_1370	백성을 지키는 사자의 이빨[1]
+TalentSkillData_Desc_1370	민들레의 바람 속에서 아군 유닛은 바람의 수호를 받아 받는 피해가 12% 감소한다. 민들레의 바람을 떠난 후 바람의 수호는 피격 3회 혹은 10초 후 사라진다
+TalentSkillData_Name_1371	백성을 지키는 사자의 이빨[2]
+TalentSkillData_Desc_1371	민들레의 바람 속에서 아군 유닛은 바람의 수호를 받아 받는 피해가 24% 감소한다. 민들레의 바람을 떠난 후 바람의 수호는 피격 3회 혹은 10초 후 사라진다
+TalentSkillData_Name_1372	백성을 지키는 사자의 이빨[3]
+TalentSkillData_Desc_1372	민들레의 바람 속에서 아군 유닛은 바람의 수호를 받아 받는 피해가 36% 감소한다. 민들레의 바람을 떠난 후 바람의 수호는 피격 3회 혹은 10초 후 사라진다
+AvatarData_Desc_10000003	몬드성 페보니우스 기사단의 단장 대행. 바람을 이끄는 아주 신뢰할 수 있는 인물
+AvatarData_Name_10000005	여행자
+AvatarSkillData_Name_10054	주인공 5연격
+AvatarSkillData_Desc_10054	한손검 5연격
+AvatarSkillData_Name_10067	회오리 검
+AvatarSkillData_Desc_10067	페이몬과 형태가 없는 바람을 어떻게 쥘 것인가에 관해 토론한 적 있다.\n전방에 바람의 힘을 모아 바람 속성의 에너지볼을 만들어 적에게 지속 피해를 준다.\n에너지볼은 폭발할 때 적에게 강력한 바람 속성의 피해를 주고 범위 내의 적을 넉백시킨다.\n버튼을 길게 누르면 에너지볼의 대미지와 범위가 시간이 지남에 따라 증가하고 폭발할 때 더욱 강한 폭발 대미지와 넉백 효과를 가진다, 최대 지속 시간 1.6초.\n에너지볼이 물/불/얼음/번개 원소에 닿으면 해당 원소 피해가 추가된다. 이러한 속성의 변화는 1번만 발생한다.\n기본 지속 대미지: 0.25초당 공격력의 25%\n최대 지속 대미지: 0.25초당 공격력의 45%\n기본 폭발 대미지: 공격력의 240%\n최대 폭발 대미지: 공격력의 300%\n에너지볼 기본 범위: 1.7m\n에너지볼 최대 범위: 3m\n기본 재사용 대기시간: 5초\n최대 재사용 대기시간: 8초\n원소 타입: 바람
+AvatarSkillData_Name_10068	격동의 바람
+AvatarSkillData_Desc_10068	페이몬과 함께 나비의 날갯짓에 대해 연구한 적 있다.\n전방을 향해 계속 전진하는 토네이도를 소환하여 경로상의 물체와 적을 감아올려 바람 속성 피해를 주고 속박 상태로 만든다.\n만약 이동 도중에 물/불/얼음/번개 원소에 닿으면 해당 속성을 획득하고, 획득한 원소 피해가 추가된다. 이런 속성의 변화는 1회만 발생한다.\n스킬 대미지: 0.5초당 공격력의 80%\n영향 범위: 2.5m\n이동 속도: 초당 4.5m\n지속 시간: 6초\n재사용 대기시간: 25초\n원소 에너지: 60\n원소 타입: 바람
+AvatarSkillData_Name_10077	주인공 바위 속성-붕옥
+AvatarSkillData_Desc_10077	
+AvatarSkillData_Name_10078	주인공 바위 속성-암조
+AvatarSkillData_Desc_10078	
+TalentSkillData_Name_1481	여행자의 바람[1]
+TalentSkillData_Desc_1481	파티 내 모든 캐릭터의 HP 최대치가 6%, 바람 속성 내성이 6% 증가한다
+TalentSkillData_Name_1482	여행자의 바람[2]
+TalentSkillData_Desc_1482	파티 내 모든 캐릭터의 HP 최대치가 9%, 바람 속성 내성이 9% 증가한다
+TalentSkillData_Name_1483	여행자의 바람[3]
+TalentSkillData_Desc_1483	파티 내 모든 캐릭터의 HP 최대치가 12%, 바람 속성 내성이 12% 증가한다
+TalentSkillData_Name_1484	여행자의 바람[4]
+TalentSkillData_Desc_1484	파티 내 모든 캐릭터의 HP 최대치가 15%, 바람 속성 내성이 15% 증가한다
+TalentSkillData_Name_1491	높이 부는 바람[1]
+TalentSkillData_Desc_1491	대쉬할 때의 이동 속도가 15% 증가한다
+TalentSkillData_Name_1492	높이 부는 바람[2]
+TalentSkillData_Desc_1492	대쉬할 때의 이동 속도가 30% 증가한다
+TalentSkillData_Name_1493	높이 부는 바람[3]
+TalentSkillData_Desc_1493	대쉬할 때의 이동 속도가 45% 증가한다
+TalentSkillData_Name_1501	천지의 바람[1]
+TalentSkillData_Desc_1501	격동의 바람이 가하는 대미지가 8% 증가한다
+TalentSkillData_Name_1502	천지의 바람[2]
+TalentSkillData_Desc_1502	격동의 바람이 가하는 대미지가 14% 증가한다
+TalentSkillData_Name_1503	천지의 바람[3]
+TalentSkillData_Desc_1503	격동의 바람이 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_1511	뭇별의 바람[1]
+TalentSkillData_Desc_1511	회오리 검으로 가하는 대미지가 6% 증가한다
+TalentSkillData_Name_1512	뭇별의 바람[2]
+TalentSkillData_Desc_1512	회오리 검으로 가하는 대미지가 12% 증가한다
+TalentSkillData_Name_1513	뭇별의 바람[3]
+TalentSkillData_Desc_1513	회오리 검으로 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_1521	열공의 질풍[1]
+TalentSkillData_Desc_1521	일반 공격 최후의 일격은 60%의 확률로 칼날 바람을 시전해 경로상의 적에게 공격력의 40%에 해당하는 바람 속성 피해를 준다
+TalentSkillData_Name_1522	열공의 질풍[2]
+TalentSkillData_Desc_1522	일반 공격 최후의 일격은 80%의 확률로 칼날 바람을 시전해 경로상의 적에게 공격력의 60%에 해당하는 바람 속성 피해를 준다
+TalentSkillData_Name_1523	열공의 질풍[3]
+TalentSkillData_Desc_1523	일반 공격 최후의 일격은 100%의 확률로 칼날 바람을 시전해 경로상의 적에게 공격력의 80%에 해당하는 바람 속성 피해를 준다
+TalentSkillData_Name_1531	혁신의 회오리바람[1]
+TalentSkillData_Desc_1531	원소 충전 효율이 16% 상승한다
+TalentSkillData_Name_1532	혁신의 회오리바람[2]
+TalentSkillData_Desc_1532	원소 충전 효율이 25% 상승한다
+TalentSkillData_Name_1533	혁신의 회오리바람[3]
+TalentSkillData_Desc_1533	원소 충전 효율이 33% 상승한다
+TalentSkillData_Name_1541	회전하는 분노의 바람[1]
+TalentSkillData_Desc_1541	회오리 검을 1초 이상 누르면 주변 5m 이내의 적을 끌어당기고 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_1542	회전하는 분노의 바람[2]
+TalentSkillData_Desc_1542	회오리 검을 1초 이상 누르면 주변 5m 이내의 적을 끌어당기고 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_1543	회전하는 분노의 바람[3]
+TalentSkillData_Desc_1543	회오리 검은 언제나 주변 5m 이내의 적을 끌어당길 수 있고 가하는 대미지가 30% 증가한다
+TalentSkillData_Name_1551	검척의 청풍[1]
+TalentSkillData_Desc_1551	일반 공격의 치명타 확률이 4% 증가하고 치명타 피해가 20% 증가한다
+TalentSkillData_Name_1552	검척의 청풍[2]
+TalentSkillData_Desc_1552	일반 공격의 치명타 확률이 8% 증가하고 치명타 피해가 40% 증가한다
+TalentSkillData_Name_1553	검척의 청풍[3]
+TalentSkillData_Desc_1553	일반 공격의 치명타 확률이 12% 증가하고 치명타 피해가 60% 증가한다
+TalentSkillData_Name_1641	모나카의 참기[1]
+TalentSkillData_Desc_1641	파티 내 모든 캐릭터의 HP 최대치가 6% 증가하고 바위 원소 내성이 10% 증가한다
+TalentSkillData_Name_1642	모나카의 참기[2]
+TalentSkillData_Desc_1642	파티 내 모든 캐릭터의 HP 최대치가 9% 증가하고 바위 원소 내성이 20% 증가한다
+TalentSkillData_Name_1643	모나카의 참기[3]
+TalentSkillData_Desc_1643	파티 내 모든 캐릭터의 HP 최대치가 12% 증가하고 바위 원소 내성이 30% 증가한다
+TalentSkillData_Name_1644	모나카의 참기[4]
+TalentSkillData_Desc_1644	파티 내 모든 캐릭터의 HP 최대치가 15% 증가하고 바위 원소 내성이 40% 증가한다
+TalentSkillData_Name_1651	대지 찬송[1]
+TalentSkillData_Desc_1651	루니아 더스트·암조 범위 내에서 경직 저항력이 소폭 상승하고 치명타 확률이 5% 증가한다
+TalentSkillData_Name_1652	대지 찬송[2]
+TalentSkillData_Desc_1652	루니아 더스트·암조 범위 내에서 경직 저항력이 소폭 상승하고 치명타 확률이 10% 증가한다
+TalentSkillData_Name_1653	대지 찬송[3]
+TalentSkillData_Desc_1653	루니아 더스트·암조 범위 내에서 경직 저항력이 소폭 상승하고 치명타 확률이 15% 증가한다
+TalentSkillData_Name_1661	불안정한 엘레멘티움[1]
+TalentSkillData_Desc_1661	파암·붕옥의 지속 시간이 끝난 후 또 폭발하여 붕옥이 생성할 때의 30%에 해당하는 바위 속성 폭발 피해를 준다
+TalentSkillData_Name_1662	불안정한 엘레멘티움[2]
+TalentSkillData_Desc_1662	파암·붕옥의 지속 시간이 끝난 후 또 폭발하여 붕옥이 생성할 때의 50%에 해당하는 바위 속성 폭발 피해를 준다
+TalentSkillData_Name_1663	불안정한 엘레멘티움[3]
+TalentSkillData_Desc_1663	파암·붕옥의 지속 시간이 끝난 후 또 폭발하여 붕옥이 생성할 때의 100%에 해당하는 바위 속성 폭발 피해를 준다
+TalentSkillData_Name_1671	등산가[1]
+TalentSkillData_Desc_1671	등반할 때 스태미나 소모량이 8% 감소한다
+TalentSkillData_Name_1672	등산가[2]
+TalentSkillData_Desc_1672	등반할 때 스태미나 소모량이 12% 감소한다
+TalentSkillData_Name_1673	등산가[3]
+TalentSkillData_Desc_1673	등반할 때 스태미나 소모량이 20% 감소한다
+TalentSkillData_Name_1681	최고의 체험[1]
+TalentSkillData_Desc_1681	파암·붕옥의 보석 어택의 바위 원소 대미지가 10% 증가한다
+TalentSkillData_Name_1682	최고의 체험[2]
+TalentSkillData_Desc_1682	파암·붕옥의 보석 어택의 바위 원소 대미지가 18% 증가한다
+TalentSkillData_Name_1683	최고의 체험[3]
+TalentSkillData_Desc_1683	파암·붕옥의 보석 어택의 바위 원소 대미지가 30% 증가한다
+TalentSkillData_Name_1691	별들의 복귀[1]
+TalentSkillData_Desc_1691	루니아 더스트·암조의 지진 파동이 적을 1명 명중할 때마다 자신의 에너지를 1.5pt 회복한다. 최대 7.5pt까지 회복 가능
+TalentSkillData_Name_1692	별들의 복귀[2]
+TalentSkillData_Desc_1692	루니아 더스트·암조의 지진 파동이 적을 1명 명중할 때마다 자신의 에너지를 3pt 회복한다. 최대 15pt까지 회복 가능
+TalentSkillData_Name_1693	별들의 복귀[3]
+TalentSkillData_Desc_1693	루니아 더스트·암조의 지진 파동이 적을 1명 명중할 때마다 자신의 에너지를 5pt 회복한다. 최대 25pt까지 회복 가능
+TalentSkillData_Name_1701	수정벽[1]
+TalentSkillData_Desc_1701	루니아 더스트·암조의 암벽 지속 시간이 1초 연장되고 충격파로 가하는 바위 원소 대미지가 5% 증가한다
+TalentSkillData_Name_1702	수정벽[2]
+TalentSkillData_Desc_1702	루니아 더스트·암조의 암벽 지속 시간이 2초 연장되고 충격파로 가하는 바위 원소 대미지가 10% 증가한다
+TalentSkillData_Name_1703	수정벽[3]
+TalentSkillData_Desc_1703	루니아 더스트·암조의 암벽 지속 시간이 4초 연장되고 충격파로 가하는 바위 원소 대미지가 20% 증가한다
+TalentSkillData_Name_1711	붕격[1]
+TalentSkillData_Desc_1711	일반 공격의 다섯 번째 공격은 15%의 확률로 암석 애버런치를 발동해 공격력의 15%에 해당하는 바위 속성 범위 피해를 준다
+TalentSkillData_Name_1712	붕격[2]
+TalentSkillData_Desc_1712	일반 공격의 다섯 번째 공격은 25%의 확률로 암석 애버런치를 발동해 공격력의 15%에 해당하는 바위 속성 범위 피해를 준다
+TalentSkillData_Name_1713	붕격[3]
+TalentSkillData_Desc_1713	일반 공격의 다섯 번째 공격은 35%의 확률로 암석 애버런치를 발동해 공격력의 25%에 해당하는 바위 속성 범위 피해를 준다
+AvatarData_Desc_10000005	 
+AvatarData_Name_10000006	리사
+AvatarSkillData_Name_10060	일반 공격
+AvatarSkillData_Desc_10060	
+AvatarSkillData_Name_10061	창뢰
+AvatarSkillData_Desc_10061	장미 마녀의 색상은 번개와도 같다.\n짧은 터치: 자동으로 적을 추적하는 일렉트릭볼을 발사한다.\n타깃에 명중 후 번개 속성 피해를 주고 타깃과 주위의 적에게 정전기 효과를 부여한다, 최대 3회 중첩 가능\n길게 터치: 잠깐의 영창 후 하늘에서 번개를 소환하여 주변의 적에게 번개 속성 피해를 준다. 만약 적이 정전기 상태라면 정전기 효과를 지우고 중첩 수에 따라 추가 번개 속성 피해를 준다.\n\n짧은 터치:\n스킬 대미지: 공격력의 120%\n영향 범위: 2m\n지속 시간: 15초\n원소 타입: 번개\n재사용 대기시간: 1초\n\n길게 터치:\n기본 대미지: 공격력의 450%\n정전기 추가 대미지:\n1중첩: 공격력의 140%\n2중첩: 공격력의 270%\n3중첩: 공격력의 450%\n영향 범위: 10m\n재사용 대기시간: 16초\n원소 타입: 번개
+AvatarSkillData_Name_10062	장미의 뇌광
+AvatarSkillData_Desc_10062	이 장미는 아름답지만, 치명적인 가시가 있다.\n장미의 뇌광를 소환하여 강력한 천둥의 힘을 방출해 주변의 적을 넉백시키고 번개 속성 피해를 준다.\n장미의 뇌광이 존재하는 기간 지속해서 전기를 방출해 공격 범위 내에 들어오는 적에게 번개 속성의 피해를 준다.\n\n공격 대미지: 매번 공격력의 50.9%\n공격 빈도: 0.5초\n공격 범위: 7m\n지속 시간: 15초\n재사용 대기시간: 32초\n원소 에너지: 60\n원소 타입: 번개
+TalentSkillData_Name_1100	자전의 마녀[1]
+TalentSkillData_Desc_1100	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 5% 증가하고 번개 원소 내성이 6% 증가한다
+TalentSkillData_Name_1101	자전의 마녀[2]
+TalentSkillData_Desc_1101	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 10% 증가하고 번개 원소 내성이 9% 증가한다
+TalentSkillData_Name_1102	자전의 마녀[3]
+TalentSkillData_Desc_1102	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 15% 증가하고 번개 원소 내성이 12% 증가한다
+TalentSkillData_Name_1103	자전의 마녀[4]
+TalentSkillData_Desc_1103	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 20% 증가하고 번개 원소 내성이 15% 증가한다
+TalentSkillData_Name_1104	뇌광[1]
+TalentSkillData_Desc_1104	강공격으로 가하는 대미지가 4% 증가하고, 30%의 확률로 타깃에 정전기 효과를 부여한다
+TalentSkillData_Name_1105	뇌광[2]
+TalentSkillData_Desc_1105	강공격으로 가하는 대미지가 7% 증가하고, 55%의 확률로 타깃에 정전기 효과를 부여한다
+TalentSkillData_Name_1106	뇌광[3]
+TalentSkillData_Desc_1106	강공격으로 가하는 대미지가 10% 증가하고, 80%의 확률로 타깃에 정전기 효과를 부여한다
+TalentSkillData_Name_1107	무한의 전기회로[1]
+TalentSkillData_Desc_1107	창뢰를 길게 누르면 1기의 적에게 명중할 때마다 리사의 원소 에너지가 2pt 회복한다
+TalentSkillData_Name_1108	무한의 전기회로[2]
+TalentSkillData_Desc_1108	창뢰를 길게 누르면 1기의 적에게 명중할 때마다 리사의 원소 에너지가 4pt 회복한다
+TalentSkillData_Name_1109	무한의 전기회로[3]
+TalentSkillData_Desc_1109	창뢰를 길게 누르면 1기의 적에게 명중할 때마다 리사의 원소 에너지가 6pt 회복한다
+TalentSkillData_Name_1110	영동의 번개[1]
+TalentSkillData_Desc_1110	일본 공격으로 가하는 대미지가 8% 증가하고 정전기 효과가 있는 적을 넉백시킨다
+TalentSkillData_Name_1111	영동의 번개[2]
+TalentSkillData_Desc_1111	일본 공격으로 가하는 대미지가 14% 증가하고 정전기 효과가 있는 적을 넉백시킨다
+TalentSkillData_Name_1112	영동의 번개[3]
+TalentSkillData_Desc_1112	일본 공격으로 가하는 대미지가 20% 증가하고 정전기 효과가 있는 적을 넉백시킨다
+TalentSkillData_Name_1113	초전도 천둥[1]
+TalentSkillData_Desc_1113	창뢰를 길게 눌러 가하는 대미지가 8% 증가한다
+TalentSkillData_Name_1114	초전도 천둥[2]
+TalentSkillData_Desc_1114	창뢰를 길게 눌러 가하는 대미지가 16% 증가한다
+TalentSkillData_Name_1115	초전도 천둥[3]
+TalentSkillData_Desc_1115	창뢰를 길게 눌러 가하는 대미지가 24% 증가한다
+TalentSkillData_Name_1116	초전도 천둥[4]
+TalentSkillData_Desc_1116	창뢰를 길게 눌러 가하는 대미지가 32% 증가한다
+TalentSkillData_Name_1117	공간 전위의 결계[1]
+TalentSkillData_Desc_1117	장미의 뇌광을 캐스팅할 때 주변의 적들에게 상처 강화 효과를 가해 받는 대미지를 30% 증가시킵니다, 6초간 지속
+TalentSkillData_Name_1118	공간 전위의 결계[2]
+TalentSkillData_Desc_1118	장미의 뇌광을 캐스팅할 때 주변의 적들에게 상처 강화 효과를 가해 받는 대미지를 40% 증가시킵니다, 8초간 지속
+TalentSkillData_Name_1119	공간 전위의 결계[3]
+TalentSkillData_Desc_1119	장미의 뇌광을 캐스팅할 때 주변의 적들에게 상처 강화 효과를 가해 받는 대미지를 50% 증가시킵니다, 10초간 지속
+TalentSkillData_Name_1120	공명의 뇌광[1]
+TalentSkillData_Desc_1120	장미의 뇌광이 방전 공격으로 가하는 대미지가 8% 증가한다
+TalentSkillData_Name_1121	공명의 뇌광[2]
+TalentSkillData_Desc_1121	장미의 뇌광이 방전 공격으로 가하는 대미지가 16% 증가한다
+TalentSkillData_Name_1122	공명의 뇌광[3]
+TalentSkillData_Desc_1122	장미의 뇌광이 방전 공격으로 가하는 대미지가 24% 증가한다
+TalentSkillData_Name_1123	공명의 뇌광[4]
+TalentSkillData_Desc_1123	장미의 뇌광이 방전 공격으로 가하는 대미지가 32% 증가한다
+TalentSkillData_Name_1124	플라즈마 폭우[1]
+TalentSkillData_Desc_1124	창뢰의 일렉트릭볼로 가하는 대미지가 15% 증가한다
+TalentSkillData_Name_1125	플라즈마 폭우[2]
+TalentSkillData_Desc_1125	창뢰의 일렉트릭볼로 가하는 대미지가 30% 증가하고 정전기 효과를 가하는 범위가 100% 증가한다
+AvatarData_Desc_10000006	몬드성 페보니우스 기사단의 도서관 사서. 그녀가 번개로 적과 싸우는 모습은 매우 보기 드물다
+AvatarData_Name_10000007	여행자
+AvatarData_Desc_10000007	 
+AvatarData_Name_10000014	바바라
+AvatarSkillData_Name_10070	일반 공격
+AvatarSkillData_Desc_10070	
+AvatarSkillData_Name_10071	공연, 시작♪
+AvatarSkillData_Desc_10071	바바라의 음악은 모두를 치유하는 마법이다.\n자신을 중심으로 약동하는 물방울을 소환해 주변의 적에게 물 속성 피해를 주고 습기 효과를 부여한다.\n잠깐 후 물방울은 치유할 수 있는 노래의 원으로 변해 범위 내에 있는 캐릭터의 HP를 회복시키고 닿은 적에게 습기 효과를 부여한다.\n스킬 대미지: 공격력의 60%\n영향 범위: 반역 2m\nHP 회복량: 1.5초당 공격력의 70%\n지속 시간: 15초\n재사용 대기시간: 20초\n원소 타입: 물
+AvatarSkillData_Name_10072	빛나는 기적♪
+AvatarSkillData_Desc_10072	모두를 치유하고자 하는 마음이 바바라의 전투와 노래의 힘이 되었다.\n범위 내의 아군과 파티 내 모든 캐릭터의 HP를 회복한다.\n\nHP 회복량: 공격력의 900%\n재사용 대기시간: 40초\n원소 에너지: 90\n원소 타입: 물
+TalentSkillData_Name_1560	광휘의 계절[1]
+TalentSkillData_Desc_1560	파티 내 모든 캐릭터의 받는 회복량 강화 수치가 10% 증가한다
+TalentSkillData_Name_1561	광휘의 계절[2]
+TalentSkillData_Desc_1561	파티 내 모든 캐릭터의 받는 회복량 강화 수치가 20% 증가한다
+TalentSkillData_Name_1562	광휘의 계절[3]
+TalentSkillData_Desc_1562	파티 내 모든 캐릭터의 받는 회복량 강화 수치가 30% 증가한다
+TalentSkillData_Name_1570	미래의 스타[1]
+TalentSkillData_Desc_1570	강타로 소모하는 스태미나가 20% 감소한다
+TalentSkillData_Name_1571	미래의 스타[2]
+TalentSkillData_Desc_1571	강타로 소모하는 스태미나가 30% 감소한다
+TalentSkillData_Name_1572	미래의 스타[3]
+TalentSkillData_Desc_1572	강로 소모하는 스태미나가 40% 감소한다
+TalentSkillData_Name_1580	마음의 선율[1]
+TalentSkillData_Desc_1580	공연, 시작♪-노래의 원이 존재하는 동안 스태미나 소모량이 5% 감소하고 치유 효과가 5% 증가한다
+TalentSkillData_Name_1581	마음의 선율[2]
+TalentSkillData_Desc_1581	공연, 시작♪-노래의 원이 존재하는 동안 스태미나 소모량이 10% 감소하고 치유 효과가 10% 증가한다
+TalentSkillData_Name_1582	마음의 선율[3]
+TalentSkillData_Desc_1582	공연, 시작♪-노래의 원이 존재하는 동안 스태미나 소모량이 15% 감소하고 치유 효과가 15% 증가한다
+TalentSkillData_Name_1583	마음의 선율[4]
+TalentSkillData_Desc_1583	공연, 시작♪-노래의 원이 존재하는 동안 스태미나 소모량이 20% 감소하고 치유 효과가 20% 증가한다
+TalentSkillData_Name_1590	무지개의 노래[1]
+TalentSkillData_Desc_1590	20초마다 원소 에너지를 1pt 회복하고 빛나는 기적♪의 재사용 대기시간이 5% 감소한다
+TalentSkillData_Name_1591	무지개의 노래[2]
+TalentSkillData_Desc_1591	20초마다 원소 에너지를 2pt 회복하고 빛나는 기적♪의 재사용 대기시간이 10% 감소한다
+TalentSkillData_Name_1592	무지개의 노래[3]
+TalentSkillData_Desc_1592	20초마다 원소 에너지를 4pt 회복하고 빛나는 기적♪의 재사용 대기시간이 15% 감소한다
+TalentSkillData_Name_1600	원기 폭발[1]
+TalentSkillData_Desc_1600	공연, 시작♪- 노래의 원은 모든 캐릭터의 HP 최대치를 2% 증가시킨다, 재사용 대기시간 15초. 대응하는 캐릭터의 HP를 회복하는 동시에 반경 5m 이내 아군을 치유한다
+TalentSkillData_Name_1601	원기 폭발[2]
+TalentSkillData_Desc_1601	공연, 시작♪- 노래의 원은 모든 캐릭터의 HP 최대치를 4% 증가시킨다, 재사용 대기시간 15초. 대응하는 캐릭터의 HP를 회복하는 동시에 반경 10m 이내 아군을 치유한다
+TalentSkillData_Name_1602	원기 폭발[3]
+TalentSkillData_Desc_1602	공연, 시작♪- 노래의 원은 모든 캐릭터의 HP 최대치를 6% 증가시킨다, 재사용 대기시간 15초. 대응하는 캐릭터의 HP를 회복하는 동시에 반경 20m 이내 아군을 치유한다
+TalentSkillData_Name_1610	순수한 유대[1]
+TalentSkillData_Desc_1610	바바라는 대기 상태에서 만약 필드위에 있는 캐릭터가 전투 불능 상태가 되면 즉시 부활시키고 HP 최대치의 20%에 해당하는 HP를 회복한다. 30분마다 1회 발동
+TalentSkillData_Name_1611	순수한 유대[2]
+TalentSkillData_Desc_1611	바바라는 대기 상태에서 만약 필드위에 있는 캐릭터가 전투 불능 상태가 되면 즉시 부활시키고 HP 최대치의 40%에 해당하는 HP를 회복한다. 30분마다 1회 발동
+TalentSkillData_Name_1612	순수한 유대[3]
+TalentSkillData_Desc_1612	바바라는 대기 상태에서 만약 필드위에 있는 캐릭터가 전투 불능 상태가 되면 즉시 부활시키고 HP 최대치의 60%에 해당하는 HP를 회복한다. 30분마다 1회 발동
+TalentSkillData_Name_1620	앵콜[1]
+TalentSkillData_Desc_1620	원소 구슬 혹은 원소 입자를 획득 시 공연, 시작♪의 지속 시간이 0.5초 연장한다. 최대 2초까지 연장 가능
+TalentSkillData_Name_1621	앵콜[2]
+TalentSkillData_Desc_1621	원소 구슬 혹은 원소 입자를 획득 시 공연, 시작♪의 지속 시간이 1초 연장한다. 최대 4초까지 연장 가능
+TalentSkillData_Name_1622	앵콜[3]
+TalentSkillData_Desc_1622	원소 구슬 혹은 원소 입자를 획득 시 공연, 시작♪의 지속 시간이 1.5초 연장한다. 최대 6초까지 연장 가능
+TalentSkillData_Name_1623	앵콜[4]
+TalentSkillData_Desc_1623	원소 구슬 혹은 원소 입자를 획득 시 공연, 시작♪의 지속 시간이 2초 연장한다. 최대 8초까지 연장 가능
+TalentSkillData_Name_1630	이 세상의 아름다움을 당신에게[1]
+TalentSkillData_Desc_1630	빛나는 기적♪의 치유 효과가 8% 증가한다
+TalentSkillData_Name_1631	이 세상의 아름다움을 당신에게[2]
+TalentSkillData_Desc_1631	빛나는 기적♪의 치유 효과가 16% 증가한다
+TalentSkillData_Name_1632	이 세상의 아름다움을 당신에게[3]
+TalentSkillData_Desc_1632	빛나는 기적♪의 치유 효과가 24% 증가한다
+TalentSkillData_Name_1633	이 세상의 아름다움을 당신에게[4]
+TalentSkillData_Desc_1633	빛나는 기적♪의 치유 효과가 32% 증가한다
+AvatarData_Desc_10000014	몬드성 성당의 프리스트, 물 원소와 환한 미소로 사람들을 치유해준다. 사람들에게 인기가 아주 많다
+AvatarData_Name_10000015	케이아
+AvatarSkillData_Name_10073	Kaeya 일반 공격 버튼
+AvatarSkillData_Desc_10073	 
+AvatarSkillData_Name_10074	서리 엄습
+AvatarSkillData_Desc_10074	보기에는 친절한 케이아지만 그 누구도 녹일 수 없는 단단하고 두터운 얼음이기도 하다.\n냉기를 방출해 전방의 부채형 범위 내 적에게 얼음 원소 피해를 준다.\n스킬 대미지: 315%\n영향 범위: 전방 8m 부채형\n재사용 대기시간: 6초\n원소 타입: 얼음
+AvatarSkillData_Name_10075	살을 에는 윤무
+AvatarSkillData_Desc_10075	케이아는 기사단의 믿음직스러운 선배이다. 하지만 가까이 가면 얼음 기둥에 부딪히게 될 것이다.\n세 개의 얼음 기둥을 소환하여 자신의 주위를 돌게 한다. 얼음 기둥에 부딪히는 적에게 얼음 속성 피해를 준다.\n스킬 대미지: 공격력의 111%\n지속 시간: 8초\n영향 범위: 2m\n재사용 대기시간: 25초\n원소 에너지: 50\n원소 타입: 얼음
+TalentSkillData_Name_1050	넘치는 여유[1]
+TalentSkillData_Desc_1050	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 5% 증가하고 얼음 원소 내성이 6% 증가한다
+TalentSkillData_Name_1051	넘치는 여유[2]
+TalentSkillData_Desc_1051	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 10% 증가하고 얼음 원소 내성이 9% 증가한다
+TalentSkillData_Name_1052	넘치는 여유[3]
+TalentSkillData_Desc_1052	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 15% 증가하고 얼음 원소 내성이 12% 증가한다
+TalentSkillData_Name_1053	넘치는 여유[4]
+TalentSkillData_Desc_1053	파티 내 모든 캐릭터의 얼음 원소 대미지 강화 수치가 20% 증가하고 얼음 원소 내성이 15% 증가한다
+TalentSkillData_Name_1054	급한 빙하류[1]
+TalentSkillData_Desc_1054	대쉬로 소모하는 스태미나가 10% 감소한다
+TalentSkillData_Name_1055	급한 빙하류[2]
+TalentSkillData_Desc_1055	대쉬로 소모하는 스태미나가 15% 감소한다
+TalentSkillData_Name_1056	급한 빙하류[3]
+TalentSkillData_Desc_1056	대쉬로 소모하는 스태미나가 25% 감소한다
+TalentSkillData_Name_1057	의전 검술[1]
+TalentSkillData_Desc_1057	일반 공격으로 가하는 대미지가 4% 증가한다
+TalentSkillData_Name_1058	의전 검술[2]
+TalentSkillData_Desc_1058	일반 공격으로 가하는 대미지가 6% 증가하고 치명타 확률이 3% 증가한다
+TalentSkillData_Name_1059	의전 검술[3]
+TalentSkillData_Desc_1059	일반 공격으로 가하는 대미지가 8% 증가하고 치명타 확률이 15% 증가한다
+TalentSkillData_Name_1060	걸출한 혈통[1]
+TalentSkillData_Desc_1060	일반 공격/강공격으로 동상 혹은 동결 상태의 적에게 피해를 주면 파티 내 모든 캐릭터의 HP를 공격력의 3%만큼 회복한다
+TalentSkillData_Name_1061	걸출한 혈통[2]
+TalentSkillData_Desc_1061	일반 공격/강공격으로 동상 혹은 동결 상태의 적에게 피해를 주면 파티 내 모든 캐릭터의 HP를 공격력의 5%만큼 회복한다
+TalentSkillData_Name_1062	걸출한 혈통[3]
+TalentSkillData_Desc_1062	일반 공격/강공격으로 동상 혹은 동결 상태의 적에게 피해를 주면 파티 내 모든 캐릭터의 HP를 공격력의 7%만큼 회복한다
+TalentSkillData_Name_1063	파고드는 추위[1]
+TalentSkillData_Desc_1063	서리 엄습으로 가하는 대미지가 8% 증가한다
+TalentSkillData_Name_1064	파고드는 추위[2]
+TalentSkillData_Desc_1064	서리 엄습으로 가하는 대미지가 16% 증가한다
+TalentSkillData_Name_1065	파고드는 추위[3]
+TalentSkillData_Desc_1065	서리 엄습으로 가하는 대미지가 24% 증가한다
+TalentSkillData_Name_1066	파고드는 추위[4]
+TalentSkillData_Desc_1066	서리 엄습으로 가하는 대미지가 32% 증가한다
+TalentSkillData_Name_1067	깨지지 않는 얼음[1]
+TalentSkillData_Desc_1067	살을 에는 윤무로 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_1068	깨지지 않는 얼음[2]
+TalentSkillData_Desc_1068	살을 에는 윤무로 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_1069	깨지지 않는 얼음[3]
+TalentSkillData_Desc_1069	살을 에는 윤무로 가하는 대미지가 20% 증가하고 지속 시간이 3초 증가한다
+TalentSkillData_Name_1070	냉혈검[1]
+TalentSkillData_Desc_1070	서리 엄습이 적 1기에 명중할 때마다 케이아는 공격력의 40%에 해당하는 HP를 회복한다
+TalentSkillData_Name_1071	냉혈검[2]
+TalentSkillData_Desc_1071	서리 엄습이 적 1기에 명중할 때마다 케이아는 공격력의 70%에 해당하는 HP를 회복한다
+TalentSkillData_Name_1072	냉혈검[3]
+TalentSkillData_Desc_1072	서리 엄습이 적 1기에 명중할 때마다 케이아는 공격력의 100%에 해당하는 HP를 회복한다
+TalentSkillData_Name_1073	차가운 키스[1]
+TalentSkillData_Desc_1073	HP가 20% 미만일 때 자동으로 발동한다. 피해를 HP 최대치의 15%만큼 흡수하는 보호막을 생성한다, 지속 시간 20초, 60초마다 한 번 발동
+TalentSkillData_Name_1074	차가운 키스[2]
+TalentSkillData_Desc_1074	HP가 20% 미만일 때 자동으로 발동한다. 피해를 HP 최대치의 30%만큼 흡수하는 보호막을 생성한다, 지속 시간 20초, 60초마다 한 번 발동
+TalentSkillData_Name_1075	차가운 키스[3]
+TalentSkillData_Desc_1075	HP가 20% 미만일 때 자동으로 발동한다. 피해를 HP 최대치의 30%만큼 흡수하는 보호막을 생성한다, 지속 시간 20초, 보호막이 존재할 때 받은 피해가 HP로 전환된다. 60초마다 한 번 발동
+AvatarData_Desc_10000015	몬드성 페보니우스 기사단 소속 기사. 보기엔 친절해 보이나 얼음 같은 남자다
+AvatarData_Name_10000016	다이루크
+AvatarSkillData_Name_10160	Diluc 일반 공격 버튼
+AvatarSkillData_Desc_10160	
+AvatarSkillData_Name_10161	역날의 화염
+AvatarSkillData_Desc_10161	각각 다이루크가 주관하고 있는 정의, 용기 그리고 책임을 상징한다.\n불 속성의 대검을 휘둘러 앞으로 내려찍는다. 스킬은 최대 연속으로 3회 사용할 수 있다. 4초 내에 계속 시전하지 않으면 재사용 대기시간에 들어간다.\n\n스킬 대미지: 공격력의 200%/200%/250%\n재사용 대기시간: 10초\n원소 타입: 불
+AvatarSkillData_Name_10165	여명
+AvatarSkillData_Desc_10165	어둠 속을 걷는 것은 광명을 가져오기 위한 것이다. 저 먼 곳, 고요한 밤에 켜지는 저 불빛을 보라. 저 불빛은 동틀 무렵의 전조이다.\n강렬한 화염을 폭발시켜 주위의 적을 넉백시키고 화염을 검에 응집시킨 후 휘둘러 앞을 향해 나아가는 불새를 소환해 경로상의 적에게 불 속성 피해를 준다.\n\n스킬 대미지: 0.2초당 공격력의 120%\n영향 범위: 16m\n지속 시간: 1.7초\n폭발 대미지: 공격력의 240%\n재사용 대기시간: 30초\n원소 에너지: 60\n원소 타입: 불
+TalentSkillData_Name_1400	기나긴 밤의 감시[1]
+TalentSkillData_Desc_1400	파티 내 모든 캐릭터의 기초 공격력이 5% 증가한다
+TalentSkillData_Name_1401	기나긴 밤의 감시[2]
+TalentSkillData_Desc_1401	파티 내 모든 캐릭터의 기초 공격력이 10% 증가한다
+TalentSkillData_Name_1402	기나긴 밤의 감시[3]
+TalentSkillData_Desc_1402	파티 내 모든 캐릭터의 기초 공격력이 15% 증가한다
+TalentSkillData_Name_1403	기나긴 밤의 감시[4]
+TalentSkillData_Desc_1403	파티 내 모든 캐릭터의 기초 공격력이 20% 증가한다
+TalentSkillData_Name_1410	끊임없는 전진[1]
+TalentSkillData_Desc_1410	HP가 50% 미만일 때 10초마다 HP 최대치의 3%를 회복한다
+TalentSkillData_Name_1411	끊임없는 전진[2]
+TalentSkillData_Desc_1411	HP가 70% 미만일 때 10초마다 HP 최대치의 3.5%를 회복한다
+TalentSkillData_Name_1412	끊임없는 전진[3]
+TalentSkillData_Desc_1412	HP가 100% 미만일 때 10초마다 HP 최대치의 4%를 회복한다
+TalentSkillData_Name_1420	담금질[1]
+TalentSkillData_Desc_1420	기초 공격력 3% 증가
+TalentSkillData_Name_1421	담금질[2]
+TalentSkillData_Desc_1421	기초 공격력 6% 증가
+TalentSkillData_Name_1422	담금질[3]
+TalentSkillData_Desc_1422	기초 공격력 10% 증가
+TalentSkillData_Name_1430	뜨거운 칼날[1]
+TalentSkillData_Desc_1430	역날의 화염을 시전 후 2초가 지나면 다음 역날의 화염 대미지가 40% 증가한다. 최대 지속 시간 2초
+TalentSkillData_Name_1431	뜨거운 칼날[2]
+TalentSkillData_Desc_1431	역날의 화염을 시전 후 2초가 지나면 다음 역날의 화염 대미지가 70% 증가한다. 최대 지속 시간 2초
+TalentSkillData_Name_1432	뜨거운 칼날[3]
+TalentSkillData_Desc_1432	역날의 화염을 시전 후 2초가 지나면 다음 역날의 화염 대미지가 100% 증가한다. 최대 지속 시간 2초
+TalentSkillData_Name_1440	뜨거운 잿더미[1]
+TalentSkillData_Desc_1440	불 속성 대미지를 받으면 기초 공격력이 8%, 일반 공격 속도가 2% 증가한다, 지속 시간 10초. 해당 효과는 2회까지 중첩할 수 있으며 중첩 시 잔여 시간이 갱신된다
+TalentSkillData_Name_1441	뜨거운 잿더미[2]
+TalentSkillData_Desc_1441	불 속성 대미지를 받으면 기초 공격력이 10%, 일반 공격 속도가 3% 증가한다, 지속 시간 10초. 해당 효과는 2회까지 중첩할 수 있으며 중첩 시 잔여 시간이 갱신된다
+TalentSkillData_Name_1442	뜨거운 잿더미[3]
+TalentSkillData_Desc_1442	불 속성 대미지를 받으면 기초 공격력이 12%, 일반 공격 속도가 3% 증가한다, 지속 시간 10초. 해당 효과는 3회까지 중첩할 수 있으며 중첩 시 잔여 시간이 갱신된다
+TalentSkillData_Name_1443	뜨거운 잿더미[4]
+TalentSkillData_Desc_1443	불 속성 대미지를 받으면 기초 공격력이 15%, 일반 공격 속도가 4% 증가한다, 지속 시간 10초. 해당 효과는 3회까지 중첩할 수 있으며 중첩 시 잔여 시간이 갱신된다
+TalentSkillData_Name_1450	강철과 뜨거운 화염[1]
+TalentSkillData_Desc_1450	역날의 화염 발동 시 파효의 염 효과가 2회 중첩된다, 지속 시간 10초. 일반 공격은 중첩 효과를 1개 소모해 이번에 가하는 대미지를 15% 증가시킨다. 해당 효과는 최대 4회 중첩할 수 있고 중첩 발동 시 잔여 시간을 갱신한다
+TalentSkillData_Name_1451	강철과 뜨거운 화염[2]
+TalentSkillData_Desc_1451	역날의 화염 발동 시 파효의 염 효과가 2회 중첩된다, 지속 시간 10초. 일반 공격은 중첩 효과를 1개 소모해 이번에 가하는 대미지를 30% 증가시킨다. 해당 효과는 최대 4회 중첩할 수 있고 중첩 발동 시 잔여 시간을 갱신한다
+TalentSkillData_Name_1452	강철과 뜨거운 화염[3]
+TalentSkillData_Desc_1452	역날의 화염 발동 시 파효의 염 효과가 2회 중첩된다, 지속 시간 10초. 일반 공격은 중첩 효과를 1개 소모해 이번에 가하는 대미지를 45% 증가시킨다. 해당 효과는 최대 4회 중첩할 수 있고 중첩 발동 시 잔여 시간을 갱신한다
+TalentSkillData_Name_1460	어둠을 가르는 화염의 검[1]
+TalentSkillData_Desc_1460	여명을 시전 후 10초 내에 불 원소 대미지 강화 수치가 12% 증가하고 일반 공격과 강공격이 불 속성으로 변한다
+TalentSkillData_Name_1461	어둠을 가르는 화염의 검[2]
+TalentSkillData_Desc_1461	여명을 시전 후 10초 내에 불 원소 대미지 강화 수치가 22% 증가하고 일반 공격과 강공격이 불 속성으로 변한다
+TalentSkillData_Name_1462	어둠을 가르는 화염의 검[3]
+TalentSkillData_Desc_1462	여명을 시전 후 10초 내에 불 원소 대미지 강화 수치가 32% 증가하고 일반 공격과 강공격이 불 속성으로 변한다
+TalentSkillData_Name_1470	여명을 알리는 불새[1]
+TalentSkillData_Desc_1470	여명의 불새로 가하는 대미지가 11% 증가한다
+TalentSkillData_Name_1471	여명을 알리는 불새[2]
+TalentSkillData_Desc_1471	여명의 불새로 가하는 대미지가 22% 증가한다
+TalentSkillData_Name_1472	여명을 알리는 불새[3]
+TalentSkillData_Desc_1472	여명의 불새로 가하는 대미지가 33% 증가한다
+AvatarData_Desc_10000016	다운 와이너리의 소유자이자 전 페보니우스 기사단 단원. 불같이 열정적으로 전투에 임하는 스타일이다
+AvatarData_Name_10000020	레이져
+AvatarSkillData_Name_10201	레이져 일반 공격
+AvatarSkillData_Desc_10201	
+AvatarSkillData_Name_10202	날카로운 발톱과 창뢰
+AvatarSkillData_Desc_10202	벼락이 떨어지는 순간, 가끔 레이져의 영혼 깊은 곳에 있는 늑대가 사냥감을 훑는 눈빛을 볼 수 있다.\n짧은 터치: 썬더울프의 발톱으로 전방의 적에게 번개 속성 피해를 준다. 만약 적을 1기라도 명중하면 번개의 인장이 한 개 쌓여 레이져의 원소 충전 효율을 높여준다. 번개의 인장은 최대 동시에 3개 존재할 수 있으며 새로운 인장을 획득할 때마다 모든 인장의 지속 시간이 갱신된다.\n길게 터치: 뇌전의 힘을 모아 폭발시켜 주위의 적에게 번개 속성 대미지를 한 번 주고 번개의 인장을 하나 지운다. 지워진 번개의 인장마다 레이져의 원소 에너지로 전환된다.\n\n짧은 터치:\n스킬 대미지: 공격력의 410%\n영향 범위: 2.4m 부채형\n원소 에너지 충전 효과 증가: 25%\n재사용 대기시간: 6초\n원소 타입: 번개\n\n길게 터치:\n스킬 대미지: 공격력의 640%\n영향 범위: 5m\n원소 에너지 회복: 번개의 인장마다 5pt\n재사용 대기시간: 10초\n원소 타입: 번개
+AvatarSkillData_Name_10203	뇌아
+AvatarSkillData_Desc_10203	늑대가 깨어나고 사냥의 시간이 도래했다.\n형체가 없는 썬더울프를 깨워 주위의 적에게 번개 속성 피해를 준다.\n필드에 썬더울프가 존재하고 있는 기간 「날카로운 발톱과 창뢰」의 대미지가 증가한다. 레이져가 일반 공격으로 적을 공격하면 썬더울프도 같이 공격하여 추가 번개 속성 피해를 준다.\n썬더울프와 함께하면 레이져의 번개 원소 내성과 공격 속도가 상승하고 감전 효과의 피해를 받지 않지만 강공격을 사용할 수 없다.\n썬더울프는 레이져가 전투 불능이 되면 필드에서 사라진다. 만약 레이져가 대기 상태로 전환 시 썬더울프의 지속 시간이 아직 남아있다면 잔여 시간에 따라 레이져의 원소 에너지를 최대 10pt까지 반환한다.\n\n썬더울프 강림 대미지: 공격력의 30%\n썬더울프 일반 공격 대미지: 공격력의 51%/44%/55%/72%\n공격 속도 증가량: 40%\n번개 원소 내성 증가량: 80%\n지속 시간: 15초\n재사용 대기시간: 25초\n원소 에너지: 60\n원소 속성: 번개
+TalentSkillData_Name_2011	늑대의 눈[1]
+TalentSkillData_Desc_2011	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 5% 증가하고 번개 원소 내성이 6% 증가한다
+TalentSkillData_Name_2012	늑대의 눈[2]
+TalentSkillData_Desc_2012	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 10% 증가하고 번개 원소 내성이 9% 증가한다
+TalentSkillData_Name_2013	늑대의 눈[3]
+TalentSkillData_Desc_2013	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 15% 증가하고 번개 원소 내성이 12% 증가한다
+TalentSkillData_Name_2014	늑대의 눈[4]
+TalentSkillData_Desc_2014	파티 내 모든 캐릭터의 번개 원소 대미지 강화 수치가 20% 증가하고 번개 원소 내성이 15% 증가한다
+TalentSkillData_Name_2021	질주[1]
+TalentSkillData_Desc_2021	대쉬와 수영 시, 스태미나 소모량이 9% 감소한다
+TalentSkillData_Name_2022	질주[2]
+TalentSkillData_Desc_2022	대쉬와 수영 시, 스태미나 소모량이 18% 감소한다
+TalentSkillData_Name_2023	질주[3]
+TalentSkillData_Desc_2023	대쉬와 수영 시, 스태미나 소모량이 33% 감소한다
+TalentSkillData_Name_2031	각성[1]
+TalentSkillData_Desc_2031	뇌아 시전 시 「날카로운 발톱과 창뢰」의 재사용 대기시간을 초기화한다
+TalentSkillData_Name_2032	각성[2]
+TalentSkillData_Desc_2032	뇌아 시전 시 「날카로운 발톱과 창뢰」의 재사용 대기시간을 초기화하고 뇌아가 지속하는 동안 「날카로운 발톱과 창뢰」의 재사용 대기시간이 9% 감소한다
+TalentSkillData_Name_2033	각성[3]
+TalentSkillData_Desc_2033	뇌아 시전 시 「날카로운 발톱과 창뢰」의 재사용 대기시간을 초기화하고 뇌아가 지속하는 동안 「날카로운 발톱과 창뢰」의 재사용 대기시간이 18% 감소한다
+TalentSkillData_Name_2041	번개와 강철[1]
+TalentSkillData_Desc_2041	15초마다 레이져의 대검은 자동으로 충전하고 다음 일반 공격 시 낙뢰가 발생하여 공격력의 60% 번개 속성 피해를 준다
+TalentSkillData_Name_2042	번개와 강철[2]
+TalentSkillData_Desc_2042	12초마다 레이져의 대검은 자동으로 충전하고 다음 일반 공격 시 낙뢰가 발생하여 공격력의 80% 번개 속성 피해를 준다
+TalentSkillData_Name_2043	번개와 강철[3]
+TalentSkillData_Desc_2043	10초마다 레이져의 대검은 자동으로 충전하고 다음 일반 공격 시 낙뢰가 발생하여 공격력의 100% 번개 속성 피해를 준다
+TalentSkillData_Name_2051	굶주림[1]
+TalentSkillData_Desc_2051	레이져의 원소 에너지가 50% 미만일 때 원소 충전 효율이 50% 증가한다
+TalentSkillData_Name_2052	굶주림[2]
+TalentSkillData_Desc_2052	레이져의 원소 에너지가 50% 미만일 때 원소 충전 효율이 100% 증가한다
+TalentSkillData_Name_2053	굶주림[3]
+TalentSkillData_Desc_2053	레이져의 원소 에너지가 50% 미만일 때 원소 충전 효율이 150% 증가한다
+TalentSkillData_Name_2061	늑대의 본성[1]
+TalentSkillData_Desc_2061	레이져가 원소 구슬 혹은 원소 입자 획득 후 8초 동안 가하는 대미지가 15% 증가하고 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2062	늑대의 본성[2]
+TalentSkillData_Desc_2062	레이져가 원소 구슬 혹은 원소 입자 획득 후 10초 동안 가하는 대미지가 20% 증가하고 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2063	늑대의 본성[3]
+TalentSkillData_Desc_2063	레이져가 원소 구슬 혹은 원소 입자 획득 후 12초 동안 가하는 대미지가 25% 증가하고 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2071	물어뜯기[1]
+TalentSkillData_Desc_2071	「날카로운 발톱과 창뢰」를 짧게 터치하면 적의 방어력이 10% 감소한다, 지속 시간 7초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2072	물어뜯기[2]
+TalentSkillData_Desc_2072	「날카로운 발톱과 창뢰」를 짧게 터치하면 적의 방어력이 20% 감소한다, 지속 시간 7초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2073	물어뜯기[3]
+TalentSkillData_Desc_2073	「날카로운 발톱과 창뢰」를 짧게 터치하면 적의 방어력이 30% 감소한다, 지속 시간 7초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2081	봉인 해제[1]
+TalentSkillData_Desc_2081	「날카로운 발톱과 창뢰」로 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_2082	봉인 해제[2]
+TalentSkillData_Desc_2082	「날카로운 발톱과 창뢰」로 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_2083	봉인 해제[3]
+TalentSkillData_Desc_2083	「날카로운 발톱과 창뢰」로 가하는 대미지가 33% 증가한다
+AvatarData_Desc_10000020	몬드 지역의 울프 영지에서 늑대와 함께 살아가는 소년. 번개같이 재빠르다
+AvatarData_Name_10000021	엠버
+AvatarSkillData_Name_10017	화살비
+AvatarSkillData_Desc_10017	정열적인 엠버는 정말로 뜨겁다.\n전방에 화염 화살비를 쏴 적에게 불 원소 피해를 준다.\n\n스킬 대미지: 총 공격력의 965%\n영향 범위: 2m\n지속 시간: 2초\n재사용 대기시간: 15초\n원소 에너지: 30\n원소 타입: 불
+AvatarSkillData_Name_10032	폭탄 인형
+AvatarSkillData_Desc_10032	토끼 백작의 집안은 대대로 이어 온 계통이 있다. 하지만 토끼 백작이 893세가 된 순간부터 앰버는 수를 세는 걸 포기하고 말았다.\n토끼 백작 봉제인형을 던진다. 토끼 백작이 필드에 있으면 주위의 적을 도발하여 공격을 유도한다.\n토끼 백작은 엠버의 HP를 일정 비율 계승하고 파괴당하거나 지속 시간이 끝나면 폭발하여 주위의 적에게 불 원소 피해를 준다.\n길게 눌러 방향을 조정하고 투척 거리를 조절할 수 있다.\n\n최대 투척 거리: 10m\지속 시간: 8초\n스킬 대미지: 공격력의 375%\n폭발 범위: 3m\nHP 계승 비율: 100%\n재사용 대기시간: 16초\n원소 타입: 불
+AvatarSkillData_Name_10041	
+AvatarSkillData_Desc_10041	
+TalentSkillData_Name_1000	힘내! 정찰 기사[1]
+TalentSkillData_Desc_1000	파티 내 모든 캐릭터의 불 원소 대미지 강화 수치가 5% 증가하고 불 원소 내성이 6% 증가한다
+TalentSkillData_Name_1001	힘내! 정찰 기사[2]
+TalentSkillData_Desc_1001	파티 내 모든 캐릭터의 불 원소 대미지 강화 수치가 10% 증가하고 불 원소 내성이 9% 증가한다
+TalentSkillData_Name_1002	힘내! 정찰 기사[3]
+TalentSkillData_Desc_1002	파티 내 모든 캐릭터의 불 원소 대미지 강화 수치가 15% 증가하고 불 원소 내성이 12% 증가한다
+TalentSkillData_Name_1003	힘내! 정찰 기사[4]
+TalentSkillData_Desc_1003	파티 내 모든 캐릭터의 불 원소 대미지 강화 수치가 20% 증가하고 불 원소 내성이 15% 증가한다
+TalentSkillData_Name_1004	비행 챔피언[1]
+TalentSkillData_Desc_1004	활강 시 소모하는 스태미나가 9% 감소한다
+TalentSkillData_Name_1005	비행 챔피언[2]
+TalentSkillData_Desc_1005	활강 시 소모하는 스태미나가 18% 감소한다
+TalentSkillData_Name_1006	비행 챔피언[3]
+TalentSkillData_Desc_1006	활강 시 소모하는 스태미나가 33% 감소한다
+TalentSkillData_Name_1007	명사수[1]
+TalentSkillData_Desc_1007	일반 공격 혹은 조준으로 가하는 대미지가 4% 증가한다
+TalentSkillData_Name_1008	명사수[2]
+TalentSkillData_Desc_1008	일반 공격 혹은 조준으로 가하는 대미지가 7% 증가한다
+TalentSkillData_Name_1009	명사수[3]
+TalentSkillData_Desc_1009	일반 공격 혹은 조준으로 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_1016	내가 보통 인형일 리가 없잖아[1]
+TalentSkillData_Desc_1016	「폭탄 인형」의 봉제 인형 HP 최대치가 40% 증가하고 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_1017	내가 보통 인형일 리가 없잖아[2]
+TalentSkillData_Desc_1017	「폭탄 인형」의 봉제 인형 HP 최대치가 70% 증가하고 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_1018	내가 보통 인형일 리가 없잖아[3]
+TalentSkillData_Desc_1018	「폭탄 인형」의 봉제 인형 HP 최대치가 100% 증가하고 가하는 대미지가 30% 증가한다
+TalentSkillData_Name_1012	타오르기 시작했어![1]
+TalentSkillData_Desc_1012	화살비의 치명타 확률이 4% 증가하고 가하는 대미지가 6% 증가한다
+TalentSkillData_Name_1013	타오르기 시작했어![2]
+TalentSkillData_Desc_1013	화살비의 치명타 확률이 6% 증가하고 가하는 대미지가 12% 증가한다
+TalentSkillData_Name_1014	타오르기 시작했어![3]
+TalentSkillData_Desc_1014	화살비의 치명타 확률이 8% 증가하고 가하는 대미지가 18% 증가한다
+TalentSkillData_Name_1015	타오르기 시작했어![4]
+TalentSkillData_Desc_1015	화살비의 치명타 확률이 10% 증가하고 가하는 대미지가 24% 증가한다
+TalentSkillData_Name_1010	난 토끼 백작이야[1]
+TalentSkillData_Desc_1010	폭탄 인형의 재사용 대기시간이 20% 감소한다
+TalentSkillData_Name_1011	난 토끼 백작이야[2]
+TalentSkillData_Desc_1011	폭탄 인형의 재사용 대기시간이 20% 감소하고 2회의 사용 횟수를 가진다
+TalentSkillData_Name_1019	일석이츄츄![1]
+TalentSkillData_Desc_1019	조준하여 사격할 때 연속으로 2개의 화살을 쏜다. 두 번째 화살로 가하는 대미지는 첫 번째 화살의 20%이다
+TalentSkillData_Name_1020	일석이츄츄![2]
+TalentSkillData_Desc_1020	조준하여 사격할 때 연속으로 2개의 화살을 쏜다. 두 번째 화살로 가하는 대미지는 첫 번째 화살의 30%이다
+TalentSkillData_Name_1021	일석이츄츄![3]
+TalentSkillData_Desc_1021	조준하여 사격할 때 연속으로 2개의 화살을 쏜다. 두 번째 화살로 가하는 대미지는 첫 번째 화살의 40%이다
+TalentSkillData_Name_1022	급한 들불[1]
+TalentSkillData_Desc_1022	화살비를 사용 후 이동 속도가 10% 증가하고 기초 공격력이 15% 증가한다. 지속 시간 10초
+TalentSkillData_Name_1023	급한 들불[2]
+TalentSkillData_Desc_1023	화살비를 사용 후 이동 속도가 20% 증가하고 기초 공격력이 30% 증가한다. 지속 시간 10초
+TalentSkillData_Name_1024	급한 들불[3]
+TalentSkillData_Desc_1024	화살비를 사용 후 이동 속도가 30% 증가하고 기초 공격력이 45% 증가한다. 지속 시간 10초
+AvatarData_Desc_10000021	몬드성 페보니우스 기사단의 유일한 정찰 기사. 빨간색 옷이 눈에 확 띈다. 저 옷을 입고 제대로 정찰을 할 수 있긴 한 건가?
+AvatarData_Name_10000022	벤티
+AvatarSkillData_Name_10221	벤티 점사
+AvatarSkillData_Desc_10221	
+AvatarSkillData_Name_10224	높은 하늘의 노래
+AvatarSkillData_Desc_10224	사람과 신이 함께했던 시대에 수많은 노래가 사방으로 울려 퍼졌다. 이건 이미 오래전에 잊힌 멜로디이다.\n짧은 터치: 타깃의 위치에 바람의 영역을 소환해 범위 내의 적을 넉백시키고 바람 속성 피해를 준 후 띄운다.\n길게 터치: 자신을 중심으로 바람의 영역을 만들어내고, 그 바람을 타고 공중에 떠오른다. 주변의 모든 적을 넉백시키고 바람 속성 피해를 준 후 공중에 띄운다.\n\n짧은 터치:\n스킬 대미지: 공격력의 385%\n영향 범위: 반경 3m\n에어본 상태 지속 시간: 3초\n재사용 대기시간: 5초\n원소 타입: 바람\n\n길게 터치:\n스킬 대미지: 공격력의 445%\n영향 범위: 반경 6m\n에어본 지속 시간: 3초\n재사용 대기시간: 12초\n원소 타입: 바람
+AvatarSkillData_Name_10225	바람 신의 시
+AvatarSkillData_Desc_10225	바람의 신을 칭송하는 수많은 잃어버린 시편 중이 하나인 이 시는 그와 바람의 힘들 묘사했다.\n천풍의 화살을 쏴 전방에 거대한 폭풍을 만들어낸다. 폭풍은 지속해서 주위의 적을 감아올려 바람 속성 피해를 주고 속박 상태로 만든다.\n만약 이동 도중에 물/불/얼음/번개 원소에 닿으면 해당 속성을 획득하고, 획득한 원소 피해가 추가된다. 이런 속성의 변화는 1회만 출현한다.\n\n스킬 대미지: 0.4초마다 공격력의 47.6%\n지속 시간: 8초\n영향 범위: 반경 6m\n재사용 대기시간: 25초\n원소 에너지: 60\n원소 타입: 바람
+TalentSkillData_Name_2211	천풍의 찬송[1]
+TalentSkillData_Desc_2211	파티 내 바람 속성 캐릭터가 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_2212	천풍의 찬송[2]
+TalentSkillData_Desc_2212	파티 내 바람 속성 캐릭터가 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_2221	바람과 함께[1]
+TalentSkillData_Desc_2221	활강 시 소모하는 스태미나가 8% 감소한다
+TalentSkillData_Name_2222	바람과 함께[2]
+TalentSkillData_Desc_2222	활강 시 소모하는 스태미나가 16% 감소한다
+TalentSkillData_Name_2223	바람과 함께[3]
+TalentSkillData_Desc_2223	활강 시 소모하는 스태미나가 24% 감소한다
+TalentSkillData_Name_2224	바람과 함께[4]
+TalentSkillData_Desc_2224	활강 시 소모하는 스태미나가 33% 감소한다
+TalentSkillData_Name_2231	신들의 궁술[1]
+TalentSkillData_Desc_2231	조준 사격으로 가하는 대미지가 5% 증가한다
+TalentSkillData_Name_2232	신들의 궁술[2]
+TalentSkillData_Desc_2232	조준 사격으로 가하는 대미지가 10% 증가한다
+TalentSkillData_Name_2233	신들의 궁술[3]
+TalentSkillData_Desc_2233	조준 사격으로 가하는 대미지가 15% 증가한다
+TalentSkillData_Name_2234	신들의 궁술[4]
+TalentSkillData_Desc_2234	조준 사격으로 가하는 대미지가 20% 증가한다
+TalentSkillData_Name_2241	창풍 발사[1]
+TalentSkillData_Desc_2241	조준 사격 시 분열되어 나온 두 발의 화살은 각각 본체의 10% 피해를 준다
+TalentSkillData_Name_2242	창풍 발사[2]
+TalentSkillData_Desc_2242	조준 사격 시 분열되어 나온 두 발의 화살은 각각 본체의 20% 피해를 준다
+TalentSkillData_Name_2243	창풍 발사[3]
+TalentSkillData_Desc_2243	조준 사격 시 분열되어 나온 두 발의 화살은 각각 본체의 30% 피해를 준다
+TalentSkillData_Name_2251	높은 하늘의 중주[1]
+TalentSkillData_Desc_2251	높은 하늘의 노래로 가하는 대미지가 11% 증가한다
+TalentSkillData_Name_2252	높은 하늘의 중주[2]
+TalentSkillData_Desc_2252	높은 하늘의 노래로 가하는 대미지가 22% 증가한다
+TalentSkillData_Name_2253	높은 하늘의 중주[3]
+TalentSkillData_Desc_2253	높은 하늘의 노래로 가하는 대미지가 33% 증가한다
+TalentSkillData_Name_2261	그리운 찬 바람[1]
+TalentSkillData_Desc_2261	「바람 신의 시」 효과가 끝난 후 에너지를 12pt 회복할 수 있는 바람 속성 원소 입자가 생성된다. 만약 속성 전환이 발생했다면 추가로 같은 양의 해당 속성의 원소 입자가 생성된다
+TalentSkillData_Name_2262	그리운 찬 바람[2]
+TalentSkillData_Desc_2262	「바람 신의 시」 효과가 끝난 후 에너지를 15pt 회복할 수 있는 바람 속성 원소 입자가 생성된다. 만약 속성 전환이 발생했다면 추가로 같은 양의 해당 속성의 원소 입자가 생성된다
+TalentSkillData_Name_2263	그리운 찬 바람[3]
+TalentSkillData_Desc_2263	「바람 신의 시」 효과가 끝난 후 에너지를 21pt 회복할 수 있는 바람 속성 원소 입자가 생성된다. 만약 속성 전환이 발생했다면 추가로 같은 양의 해당 속성의 원소 입자가 생성된다
+TalentSkillData_Name_2271	자유의 찬 바람[1]
+TalentSkillData_Desc_2271	원소 구슬 혹은 원소 입자 획득 후 바람 원소 대미지 강화 수치가 9% 증가한다, 지속 시간 8초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2272	자유의 찬 바람[2]
+TalentSkillData_Desc_2272	원소 구슬 혹은 원소 입자 획득 후 바람 원소 대미지 강화 수치가 17% 증가한다, 지속 시간 8초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2273	자유의 찬 바람[3]
+TalentSkillData_Desc_2273	원소 구슬 혹은 원소 입자 획득 후 바람 원소 대미지 강화 수치가 25% 증가한다, 지속 시간 8초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2281	투쟁의 폭풍[1]
+TalentSkillData_Desc_2281	「바람 신의 시」 영향을 받은 적은 받는 치명타 피해가 8% 증가한다
+TalentSkillData_Name_2282	투쟁의 폭풍[2]
+TalentSkillData_Desc_2282	「바람 신의 시」 영향을 받은 적은 받는 치명타 피해가 16% 증가한다
+TalentSkillData_Name_2283	투쟁의 폭풍[3]
+TalentSkillData_Desc_2283	「바람 신의 시」 영향을 받은 적은 받는 치명타 피해가 24% 증가한다
+AvatarData_Desc_10000022	최근 몬드성을 방문한 신비한 음유시인. 하프로 바람의 노래를 연주한다
+AvatarData_Name_10000023	향릉
+AvatarSkillData_Name_10231	향릉 일반 공격
+AvatarSkillData_Desc_10231	 
+AvatarSkillData_Name_10232	누룽지 출격
+AvatarSkillData_Desc_10232	누룽지는 매운 음식을 좋아하지만 누룽지는 이토록 매운 음식을 먹을 수가 없다.\n판타 누룽지를 소환해 1.6초마다 전방의 부채꼴 범위에 불을 뿜어 적에게 불 속성 피해를 준다.\n\n스킬 대미지: 공격력의 110%\n영향 범위: 5m 부채형\n지속 시간: 7초\n재사용 대기시간: 6초\n원소 타입: 불
+AvatarSkillData_Name_10235	화륜
+AvatarSkillData_Desc_10235	화력은 언제나 부족하다. 어느 정도냐고? 턱없이!\n불의 세기와 창술을 컨트롤하는 뛰어난 기교로 자신을 둘러싸고 빠른 속도로 회전하는 화륜을 만들어낸다. 화륜은 캐릭터를 따라다니고 주위의 적에게 불 속성 피해를 준다.\n\n화륜 대미지: 공격력의 60%/60%/100%\n스킬 대미지: 공격력의 300%\n영향 범위: 4m\n지속 시간: 5.4초\n재사용 대기시간: 25초\n원소 에너지: 60\n원소 타입: 불
+TalentSkillData_Name_2311	달인의 경지[1]
+TalentSkillData_Desc_2311	파티 내 모든 캐릭터의 HP 최대치가 6% 증가하고 불 원소 내성이 6% 증가한다
+TalentSkillData_Name_2312	달인의 경지[2]
+TalentSkillData_Desc_2312	파티 내 모든 캐릭터의 HP 최대치가 9% 증가하고 불 원소 내성이 9% 증가한다
+TalentSkillData_Name_2313	달인의 경지[3]
+TalentSkillData_Desc_2313	파티 내 모든 캐릭터의 HP 최대치가 12% 증가하고 불 원소 내성이 12% 증가한다
+TalentSkillData_Name_2314	달인의 경지[4]
+TalentSkillData_Desc_2314	파티 내 모든 캐릭터의 HP 최대치가 15% 증가하고 불 원소 내성이 15% 증가한다
+TalentSkillData_Name_2321	심부름 기본기[1]
+TalentSkillData_Desc_2321	달리기와 걷기 속도가 3% 증가한다
+TalentSkillData_Name_2322	심부름 기본기[2]
+TalentSkillData_Desc_2322	달리기와 걷기 속도가 6% 증가한다
+TalentSkillData_Name_2323	심부름 기본기[3]
+TalentSkillData_Desc_2323	달리기와 걷기 속도가 9% 증가한다
+TalentSkillData_Name_2331	흉폭한 누룽지[1]
+TalentSkillData_Desc_2331	누룽지가 출격 시 불을 뿜는 거리가 10% 증가한다
+TalentSkillData_Name_2332	흉폭한 누룽지[2]
+TalentSkillData_Desc_2332	누룽지가 출격 시 불을 뿜는 거리가 20% 증가한다
+TalentSkillData_Name_2333	흉폭한 누룽지[3]
+TalentSkillData_Desc_2333	누룽지가 출격 시 불을 뿜는 거리가 30% 증가한다
+TalentSkillData_Name_2341	불에 기름 붓기[1]
+TalentSkillData_Desc_2341	일반 공격의 최후의 일격은 적에게 2초 동안 지속하는 내폭 효과를 부여한다. 효과 종료 시 2m 범위 내의 적에게 공격력의 20% 불 속성  피해를 준다
+TalentSkillData_Name_2342	불에 기름 붓기[2]
+TalentSkillData_Desc_2342	일반 공격의 최후의 일격은 적에게 2초 동안 지속하는 내폭 효과를 부여한다. 효과 종료 시 2m 범위 내의 적에게 공격력의 40% 불 속성  피해를 준다
+TalentSkillData_Name_2343	불에 기름 붓기[3]
+TalentSkillData_Desc_2343	일반 공격의 최후의 일격은 적에게 2초 동안 지속하는 내폭 효과를 부여한다. 효과 종료 시 2m 범위 내의 적에게 공격력의 60% 불 속성  피해를 준다
+TalentSkillData_Name_2351	밀가루 음식 솜씨[1]
+TalentSkillData_Desc_2351	화륜 지속 기간 동안 캐릭터의 불 원소 대미지 강화 수치가 10% 증가한다
+TalentSkillData_Name_2352	밀가루 음식 솜씨[2]
+TalentSkillData_Desc_2352	화륜 지속 기간 동안 캐릭터의 불 원소 대미지 강화 수치가 20% 증가한다
+TalentSkillData_Name_2353	밀가루 음식 솜씨[3]
+TalentSkillData_Desc_2353	화륜 지속 기간 동안 캐릭터의 불 원소 대미지 강화 수치가 30% 증가한다
+TalentSkillData_Name_2361	겉은 바삭, 속은 촉촉[1]
+TalentSkillData_Desc_2361	누룽지 출격 시 공격이 적에게 명중하면 불 원소 내성이 20% 감소한다, 지속 시간 6초
+TalentSkillData_Name_2362	겉은 바삭, 속은 촉촉[2]
+TalentSkillData_Desc_2362	누룽지 출격 시 공격이 적에게 명중하면 불 원소 내성이 30% 감소한다, 지속 시간 6초
+TalentSkillData_Name_2363	겉은 바삭, 속은 촉촉[3]
+TalentSkillData_Desc_2363	누룽지 출격 시 공격이 적에게 명중하면 불 원소 내성이 40% 감소한다, 지속 시간 6초
+TalentSkillData_Name_2371	절운차오톈자오[1] 
+TalentSkillData_Desc_2371	누룽지 출격 효과 종료 후 누룽지는 사라진 위치에 고추를 하나 남긴다. 고추를 주으면 공격력이 8% 증가한다, 지속 시간 10초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2372	절운차오톈자오[2]
+TalentSkillData_Desc_2372	누룽지 출격 효과 종료 후 누룽지는 사라진 위치에 고추를 하나 남긴다. 고추를 주으면 공격력이 12% 증가한다, 지속 시간 10초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2373	절운차오톈자오[3]
+TalentSkillData_Desc_2373	누룽지 출격 효과 종료 후 누룽지는 사라진 위치에 고추를 하나 남긴다. 고추를 주으면 공격력이 20% 증가한다, 지속 시간 10초. 연속 발동 시 지속 시간이 갱신된다
+TalentSkillData_Name_2381	토네이도 화륜[1]
+TalentSkillData_Desc_2381	화륜으로 가하는 대미지가 10% 증가하고 지속 시간을 10% 연장한다
+TalentSkillData_Name_2382	토네이도 화륜[2]
+TalentSkillData_Desc_2382	화륜으로 가하는 대미지가 15% 증가하고 지속 시간을 15% 연장한다
+TalentSkillData_Name_2383	토네이도 화륜[3]
+TalentSkillData_Desc_2383	화륜으로 가하는 대미지가 20% 증가하고 지속 시간을 20% 연장한다
+AvatarData_Desc_10000023	루니아 항구의 조금 유명한 견습 요리사. 불을 조절하는 능력을 창술에다 바로 적용한 능력자다
+AvatarData_Name_10000024	북두
+AvatarSkillData_Name_10241	북두 일반 공격
+AvatarSkillData_Desc_10241	
+AvatarSkillData_Name_10242	북두 일반 스킬
+AvatarSkillData_Desc_10242	
+AvatarSkillData_Name_10245	북두 충전 스킬
+AvatarSkillData_Desc_10245	
+AvatarData_Desc_10000024	 
+AvatarData_Name_10000025	
+AvatarSkillData_Name_10381	
+AvatarSkillData_Desc_10381	
+AvatarSkillData_Name_10382	
+AvatarSkillData_Desc_10382	
+AvatarSkillData_Name_10383	
+AvatarSkillData_Desc_10383	
+AvatarData_Desc_10000025	 
+AvatarData_Name_10000001	케이트
+AvatarSkillData_Name_10011	5연격
+AvatarSkillData_Desc_10011	 
+AvatarSkillData_Name_10012	케이트 테스트 스킬
+AvatarSkillData_Desc_10012	 
+AvatarSkillData_Name_10014	케이트-전류 관통
+AvatarSkillData_Desc_10014	 
+AvatarData_Desc_10000001	 
+AvatarData_Name_11000008	파티 테스트 4호
+AvatarData_Desc_11000008	 
+AvatarData_Name_11000009	배경 테스트
+AvatarData_Desc_11000009	 
+AvatarData_Name_11000010	발가벗은 모델 1호
+AvatarData_Desc_11000010	 
+AvatarData_Name_11000011	발가벗은 남자
+AvatarData_Desc_11000011	 
+AvatarData_Name_11000013	멀티 테스트
+AvatarData_Desc_11000013	 
+AvatarData_Name_11000017	성년 남성 체형 테스트
+AvatarData_Desc_11000017	 
+AvatarData_Name_11000018	성년 여성 체형 테스트
+AvatarData_Desc_11000018	 
+AvatarData_Name_11000019	소녀 체형 테스크
+AvatarData_Desc_11000019	 
+AvatarData_Name_11000025	아쿠에리어
+AvatarSkillData_Name_10251	아쿠에리어 점사
+AvatarSkillData_Desc_10251	
+AvatarSkillData_Name_10255	서리 바이러스
+AvatarSkillData_Desc_10255	
+AvatarSkillData_Name_10362	겹겹의 구름 스킬 화이트 박스 테스트
+AvatarSkillData_Desc_10362	
+AvatarData_Desc_11000025	 
+AvatarData_Name_11000026	요요
+AvatarData_Desc_11000026	 
+AvatarData_Name_11000027	소녀 체형테스트-2호기
+AvatarData_Desc_11000027	 
+AvatarData_Name_11000028	화이트 박스 소녀
+AvatarSkillData_Name_10281	화이트 박스 일반 공격
+AvatarSkillData_Desc_10281	창 5연격
+AvatarSkillData_Name_10282	화이트 박스 일반 스킬
+AvatarSkillData_Desc_10282	창 5연격
+AvatarSkillData_Name_10283	찌르기 공격
+AvatarSkillData_Desc_10283	
+AvatarData_Desc_11000028	 
+AvatarData_Name_11000029	클레
+AvatarSkillData_Name_10292	클레 일반 스킬 테스트
+AvatarSkillData_Desc_10292	
+AvatarSkillData_Name_10295	클레 충전 스킬 테스트
+AvatarSkillData_Desc_10295	
+AvatarData_Desc_11000029	 
+AvatarData_Name_11000030	대검소녀
+AvatarData_Desc_11000030	 
+AvatarData_Name_11000031	무기 테스트 A
+AvatarData_Desc_11000031	 
+AvatarData_Name_11000032	무기 테스트 B
+AvatarData_Desc_11000032	 
+AvatarData_Name_11000033	무기 테스트 C
+AvatarData_Desc_11000033	 
+AvatarData_Name_11000034	무기 테스트 D
+AvatarData_Desc_11000034	 
+AvatarData_Name_10000035	창의 여인
+AvatarData_Desc_10000035	 
+AvatarData_Name_10000036	한손검 성인 여성 테스트
+AvatarData_Desc_10000036	 
+AvatarData_Name_11000037	행추 화이트 박스 테스트
+AvatarSkillData_Name_10371	행추 일반 공격
+AvatarSkillData_Desc_10371	
+AvatarSkillData_Name_10372	행추 일반 스킬
+AvatarSkillData_Desc_10372	
+AvatarSkillData_Name_10373	행추 충전 스킬
+AvatarSkillData_Desc_10373	
+AvatarData_Desc_11000037	 
+AvatarData_Name_11000038	소년 체형 테스트
+AvatarData_Desc_11000038	 
+AvatarSkillData_Name_10001	한손검 강공격
+AvatarSkillData_Desc_10001	스태미나 소모용
+AvatarSkillData_Name_10002	창 강공격
+AvatarSkillData_Desc_10002	스태미나 소모용
+AvatarSkillData_Name_10003	마법구 강공격
+AvatarSkillData_Desc_10003	스태미나 소모용
+AvatarSkillData_Name_10006	차지 스킬 튜토리얼 발동기
+AvatarSkillData_Desc_10006	기초 튜터리얼의 차지 효과를 발동시키는데 사용
+AvatarSkillData_Name_10101	무기 스킬 CD
+AvatarSkillData_Desc_10101	테스트용
+AvatarSkillData_Name_10102	파티 특성 공유 CD
+AvatarSkillData_Desc_10102	파티 특성 공유 CD 재사용 대기시간 처리용
+AvatarSkillData_Name_10111	카미사토 아야카 공중연격
+AvatarSkillData_Desc_10111	 
+AvatarSkillData_Name_10211	엠버 공중연사
+AvatarSkillData_Desc_10211	 
+AvatarSkillData_Name_10311	진 내려찍기
+AvatarSkillData_Desc_10311	 
+AvatarSkillData_Name_10015	빙풍마
+AvatarSkillData_Desc_10015	 
+AvatarSkillData_Name_10016	목정벽
+AvatarSkillData_Desc_10016	 
+AvatarSkillData_Name_10020	수격류 얼음꽃
+AvatarSkillData_Desc_10020	 
+AvatarSkillData_Name_10021	수격류 멸망의 서리
+AvatarSkillData_Desc_10021	 
+AvatarSkillData_Name_10022	 
+AvatarSkillData_Desc_10022	 
+AvatarSkillData_Name_10023	 
+AvatarSkillData_Desc_10023	 
+AvatarSkillData_Name_10035	미끼 투입
+AvatarSkillData_Desc_10035	
+AvatarSkillData_Name_10036	진 파티 매커니즘
+AvatarSkillData_Desc_10036	
+AvatarSkillData_Name_10037	공중 투하
+AvatarSkillData_Desc_10037	
+AvatarSkillData_Name_10042	
+AvatarSkillData_Desc_10042	
+AvatarSkillData_Name_10043	
+AvatarSkillData_Desc_10043	
+AvatarSkillData_Name_10044	엠버 파티 특성 스킬
+AvatarSkillData_Desc_10044	
+AvatarSkillData_Name_10051	
+AvatarSkillData_Desc_10051	
+AvatarSkillData_Name_10052	
+AvatarSkillData_Desc_10052	
+AvatarSkillData_Name_10053	수격류-은신 격파
+AvatarSkillData_Desc_10053	
+AvatarSkillData_Name_10055	주인공(불)
+AvatarSkillData_Desc_10055	한손검 5연격
+AvatarSkillData_Name_10056	주인공(물)
+AvatarSkillData_Desc_10056	한손검 5연격
+AvatarSkillData_Name_10057	주인공(바람)
+AvatarSkillData_Desc_10057	한손검 5연격
+AvatarSkillData_Name_10058	주인공(얼음)
+AvatarSkillData_Desc_10058	한손검 5연격
+AvatarSkillData_Name_10059	주인공(바위)
+AvatarSkillData_Desc_10059	한손검 5연격
+AvatarSkillData_Name_10063	테스트 캐릭터5-01
+AvatarSkillData_Desc_10063	
+AvatarSkillData_Name_10064	테스트 캐릭터5-02
+AvatarSkillData_Desc_10064	
+AvatarSkillData_Name_10065	테스트 캐릭터5-03
+AvatarSkillData_Desc_10065	
+AvatarSkillData_Name_10066	kevin
+AvatarSkillData_Desc_10066	
+AvatarSkillData_Name_10069	kate 테스트 일반 공격
+AvatarSkillData_Desc_10069	
+AvatarSkillData_Name_10076	Barbara 특성 스킬
+AvatarSkillData_Desc_10076	
+AvatarSkillData_Name_10079	Barbara 특성 스킬
+AvatarSkillData_Desc_10079	
+AvatarSkillData_Name_10080	Barbara 특성 스킬
+AvatarSkillData_Desc_10080	
+AvatarSkillData_Name_10081	Kaeya 특성 스킬
+AvatarSkillData_Desc_10081	
+AvatarSkillData_Name_10082	Barbara 파티 특성 스킬
+AvatarSkillData_Desc_10082	
+AvatarSkillData_Name_10083	Lisa 파티 특성 스킬
+AvatarSkillData_Desc_10083	
+AvatarSkillData_Name_10162	역날의 화염
+AvatarSkillData_Desc_10162	각각 다이루크가 주관하고 있는 정의, 용기 그리고 책임을 상징한다.\n불 속성의 대검을 휘둘러 앞으로 내려찍는다. 스킬은 최대 연속으로 3회 사용할 수 있다. 4초 내에 계속 시전하지 않으면 재사용 대기시간에 들어간다.\n\n스킬 대미지: 공격력의 200%/200%/250%\n재사용 대기시간: 10초\n원소 타입: 불
+AvatarSkillData_Name_10163	역날의 화염
+AvatarSkillData_Desc_10163	각각 다이루크가 주관하고 있는 정의, 용기 그리고 책임을 상징한다.\n불 속성의 대검을 휘둘러 앞으로 내려찍는다. 스킬은 최대 연속으로 3회 사용할 수 있다. 4초 내에 계속 시전하지 않으면 재사용 대기시간에 들어간다.\n\n스킬 대미지: 공격력의 200%/200%/250%\n재사용 대기시간: 10초\n원소 타입: 불
+AvatarSkillData_Name_10166	Diluc 파티 매커니즘
+AvatarSkillData_Desc_10166	
+AvatarSkillData_Name_10204	레이져 일반 스킬(늑대신)
+AvatarSkillData_Desc_10204	
+AvatarSkillData_Name_10222	벤티 길게 눌러 조준
+AvatarSkillData_Desc_10222	
+AvatarSkillData_Name_10223	벤티 조준 모드
+AvatarSkillData_Desc_10223	
+AvatarSkillData_Name_20000	조준 모드 진입
+AvatarSkillData_Desc_20000	
+AvatarSkillData_Name_10252	아쿠에리어 길게 눌러 조준
+AvatarSkillData_Desc_10252	
+AvatarSkillData_Name_10253	아쿠에리어 조준 모드
+AvatarSkillData_Desc_10253	
+AvatarSkillData_Name_10254	빙폭궁
+AvatarSkillData_Desc_10254	
+AvatarSkillData_Name_10291	클레 일반 스킬 테스트
+AvatarSkillData_Desc_10291	
+AvatarSkillData_Name_10300	화이트 박스 스킬 연속 폭탄
+AvatarSkillData_Desc_10300	
+AvatarSkillData_Name_10256	풍마류-지면
+AvatarSkillData_Desc_10256	
+AvatarSkillData_Name_10257	풍마류-공둔
+AvatarSkillData_Desc_10257	
+AvatarSkillData_Name_10258	빙폭궁
+AvatarSkillData_Desc_10258	
+AvatarSkillData_Name_10259	서리 바이러스
+AvatarSkillData_Desc_10259	
+AvatarSkillData_Name_20001	풍마포
+AvatarSkillData_Desc_20001	
+AvatarSkillData_Name_20002	풍마포
+AvatarSkillData_Desc_20002	
+TalentSkillData_Name_2411	뇌신의 수호[1]
+TalentSkillData_Desc_2411	HP 6% 증가, 번개 원소 내성 5% 증가
+TalentSkillData_Name_2412	뇌신의 수호[2]
+TalentSkillData_Desc_2412	HP 12% 증가, 번개 원소 내성 10% 증가
+TalentSkillData_Name_2413	뇌신의 수호[3]
+TalentSkillData_Desc_2413	HP 18% 증가, 번개 원소 내성 15% 증가
+TalentSkillData_Name_2414	뇌신의 수호[4]
+TalentSkillData_Desc_2414	HP 24% 증가, 번개 원소 내성 20% 증가
+TalentSkillData_Name_2421	파도 속의 배럴[1]
+TalentSkillData_Desc_2421	스테미나 소모 10% 감소
+TalentSkillData_Name_2422	파도 속의 배럴[2]
+TalentSkillData_Desc_2422	스테미나 소모 20% 감소
+TalentSkillData_Name_2423	파도 속의 배럴[3]
+TalentSkillData_Desc_2423	스테미나 소모 30% 감소
+TalentSkillData_Name_2431	전광석화[1]
+TalentSkillData_Desc_2431	대미지 +8%
+TalentSkillData_Name_2432	전광석화[2]
+TalentSkillData_Desc_2432	대미지 +15%
+TalentSkillData_Name_2433	전광석화[3]
+TalentSkillData_Desc_2433	대미지 +15%, 방출 가능 횟수 +1
+TalentSkillData_Name_2441	해신의 수호[1]
+TalentSkillData_Desc_2441	스킬 사용 시 HP의 8%에 달하는 실드를 획득하여 공격력의 30%에 달하는 번개 속성 대미지를 반사합니다
+TalentSkillData_Name_2442	해신의 수호[2]
+TalentSkillData_Desc_2442	스킬 사용 시 HP의 12%에 달하는 실드를 획득하여 공격력의 40%에 달하는 번개 속성 대미지를 반사합니다
+TalentSkillData_Name_2443	해신의 수호[3]
+TalentSkillData_Desc_2443	스킬 사용 시 HP의 16%에 달하는 실드를 획득하여 공격력의 50%에 달하는 번개 속성 대미지를 반사합니다
+TalentSkillData_Name_2451	물위의 지배자[1]
+TalentSkillData_Desc_2451	자신의 공격력과 이동 속도 7% 증가
+TalentSkillData_Name_2452	물위의 지배자[2]
+TalentSkillData_Desc_2452	자신의 공격력과 이동 속도 10% 증가
+TalentSkillData_Name_2453	물위의 지배자[3]
+TalentSkillData_Desc_2453	자신의 공격력과 이동 속도 15% 증가
+TalentSkillData_Name_2461	멀티 라이트닝[1]
+TalentSkillData_Desc_2461	적이 5초 안에 다시 벼락 스킬에 공격 당하면 벼락 대미지가 기본 대미지의 130%가 됩니다
+TalentSkillData_Name_2462	멀티 라이트닝[2]
+TalentSkillData_Desc_2462	적이 5초 안에 다시 벼락 스킬에 공격 당하면 벼락 대미지가 기본 대미지의 160%가 됩니다
+TalentSkillData_Name_2463	멀티 라이트닝[3]
+TalentSkillData_Desc_2463	적이 5초 안에 다시 벼락 스킬에 공격 당하면 벼락 대미지가 기본 대미지의 200%가 됩니다
+TalentSkillData_Name_2471	루니아의 영걸[1]
+TalentSkillData_Desc_2471	대미지 증가 10%
+TalentSkillData_Name_2472	루니아의 영걸[2]
+TalentSkillData_Desc_2472	대미지 증가 17%
+TalentSkillData_Name_2473	루니아의 영걸[3]
+TalentSkillData_Desc_2473	대미지 증가 25%
+TalentSkillData_Name_2481	라이트닝 샤인[1]
+TalentSkillData_Desc_2481	적의 번개 원소 내성 11% 감소, 공격력 및 이동 속도 30% 감소
+TalentSkillData_Name_2482	라이트닝 샤인[2]
+TalentSkillData_Desc_2482	적의 번개 원소 내성 22% 감소, 공격력 및 이동 속도 30% 감소
+TalentSkillData_Name_2483	라이트닝 샤인[3]
+TalentSkillData_Desc_2483	적의 번개 원소 내성 33% 감소, 공격력 및 이동 속도 30% 감소

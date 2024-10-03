@@ -1,0 +1,2 @@
+RadarType	描述	半径	特效	图标
+1	风元素结晶雷达提示	80	Eff_UI_Mark_WindCrystal	UI_MarkWindCrystal

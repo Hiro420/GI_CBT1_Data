@@ -1,0 +1,387 @@
+{
+  "1": {
+    "id": 4,
+    "dieType": 1,
+    "monsterID": 1,
+    "tips": [
+      "DieTypeTipsData_Tips1_4",
+      "DieTypeTipsData_Tips2_4",
+      "DieTypeTipsData_Tips3_4",
+      "DieTypeTipsData_Tips4_4"
+    ]
+  },
+  "21020101": {
+    "id": 5,
+    "dieType": 1,
+    "monsterID": 21020101,
+    "tips": [
+      "DieTypeTipsData_Tips1_5",
+      "DieTypeTipsData_Tips2_5",
+      "DieTypeTipsData_Tips3_5",
+      "DieTypeTipsData_Tips4_5"
+    ]
+  },
+  "21020201": {
+    "id": 6,
+    "dieType": 1,
+    "monsterID": 21020201,
+    "tips": [
+      "DieTypeTipsData_Tips1_6",
+      "DieTypeTipsData_Tips2_6",
+      "DieTypeTipsData_Tips3_6",
+      "DieTypeTipsData_Tips4_6"
+    ]
+  },
+  "20020101": {
+    "id": 7,
+    "dieType": 1,
+    "monsterID": 20020101,
+    "tips": [
+      "DieTypeTipsData_Tips1_7",
+      "DieTypeTipsData_Tips2_7",
+      "DieTypeTipsData_Tips3_7",
+      "DieTypeTipsData_Tips4_7"
+    ]
+  },
+  "22010101": {
+    "id": 8,
+    "dieType": 1,
+    "monsterID": 22010101,
+    "tips": [
+      "DieTypeTipsData_Tips1_8",
+      "DieTypeTipsData_Tips2_8",
+      "DieTypeTipsData_Tips3_8",
+      "DieTypeTipsData_Tips4_8"
+    ]
+  },
+  "22010201": {
+    "id": 9,
+    "dieType": 1,
+    "monsterID": 22010201,
+    "tips": [
+      "DieTypeTipsData_Tips1_9",
+      "DieTypeTipsData_Tips2_9",
+      "DieTypeTipsData_Tips3_9",
+      "DieTypeTipsData_Tips4_9"
+    ]
+  },
+  "22010301": {
+    "id": 10,
+    "dieType": 1,
+    "monsterID": 22010301,
+    "tips": [
+      "DieTypeTipsData_Tips1_10",
+      "DieTypeTipsData_Tips2_10",
+      "DieTypeTipsData_Tips3_10",
+      "DieTypeTipsData_Tips4_10"
+    ]
+  },
+  "20011201": {
+    "id": 11,
+    "dieType": 1,
+    "monsterID": 20011201,
+    "tips": [
+      "DieTypeTipsData_Tips1_11",
+      "DieTypeTipsData_Tips2_11",
+      "DieTypeTipsData_Tips3_11",
+      "DieTypeTipsData_Tips4_11"
+    ]
+  },
+  "20011301": {
+    "id": 12,
+    "dieType": 1,
+    "monsterID": 20011301,
+    "tips": [
+      "DieTypeTipsData_Tips1_12",
+      "DieTypeTipsData_Tips2_12",
+      "DieTypeTipsData_Tips3_12",
+      "DieTypeTipsData_Tips4_12"
+    ]
+  },
+  "20011401": {
+    "id": 13,
+    "dieType": 1,
+    "monsterID": 20011401,
+    "tips": [
+      "DieTypeTipsData_Tips1_13",
+      "DieTypeTipsData_Tips2_13",
+      "DieTypeTipsData_Tips3_13",
+      "DieTypeTipsData_Tips4_13"
+    ]
+  },
+  "20011501": {
+    "id": 14,
+    "dieType": 1,
+    "monsterID": 20011501,
+    "tips": [
+      "DieTypeTipsData_Tips1_14",
+      "DieTypeTipsData_Tips2_14",
+      "DieTypeTipsData_Tips3_14",
+      "DieTypeTipsData_Tips4_14"
+    ]
+  },
+  "20010301": {
+    "id": 15,
+    "dieType": 1,
+    "monsterID": 20010301,
+    "tips": [
+      "DieTypeTipsData_Tips1_15",
+      "DieTypeTipsData_Tips2_15",
+      "DieTypeTipsData_Tips3_15",
+      "DieTypeTipsData_Tips4_15"
+    ]
+  },
+  "20010401": {
+    "id": 16,
+    "dieType": 1,
+    "monsterID": 20010401,
+    "tips": [
+      "DieTypeTipsData_Tips1_16",
+      "DieTypeTipsData_Tips2_16",
+      "DieTypeTipsData_Tips3_16",
+      "DieTypeTipsData_Tips4_16"
+    ]
+  },
+  "20010101": {
+    "id": 17,
+    "dieType": 1,
+    "monsterID": 20010101,
+    "tips": [
+      "DieTypeTipsData_Tips1_17",
+      "DieTypeTipsData_Tips2_17",
+      "DieTypeTipsData_Tips3_17",
+      "DieTypeTipsData_Tips4_17"
+    ]
+  },
+  "20010201": {
+    "id": 18,
+    "dieType": 1,
+    "monsterID": 20010201,
+    "tips": [
+      "DieTypeTipsData_Tips1_18",
+      "DieTypeTipsData_Tips2_18",
+      "DieTypeTipsData_Tips3_18",
+      "DieTypeTipsData_Tips4_18"
+    ]
+  },
+  "20010801": {
+    "id": 19,
+    "dieType": 1,
+    "monsterID": 20010801,
+    "tips": [
+      "DieTypeTipsData_Tips1_19",
+      "DieTypeTipsData_Tips2_19",
+      "DieTypeTipsData_Tips3_19",
+      "DieTypeTipsData_Tips4_19"
+    ]
+  },
+  "20010901": {
+    "id": 20,
+    "dieType": 1,
+    "monsterID": 20010901,
+    "tips": [
+      "DieTypeTipsData_Tips1_20",
+      "DieTypeTipsData_Tips2_20",
+      "DieTypeTipsData_Tips3_20",
+      "DieTypeTipsData_Tips4_20"
+    ]
+  },
+  "20010501": {
+    "id": 21,
+    "dieType": 1,
+    "monsterID": 20010501,
+    "tips": [
+      "DieTypeTipsData_Tips1_21",
+      "DieTypeTipsData_Tips2_21",
+      "DieTypeTipsData_Tips3_21",
+      "DieTypeTipsData_Tips4_21"
+    ]
+  },
+  "20010601": {
+    "id": 22,
+    "dieType": 1,
+    "monsterID": 20010601,
+    "tips": [
+      "DieTypeTipsData_Tips1_22",
+      "DieTypeTipsData_Tips2_22",
+      "DieTypeTipsData_Tips3_22",
+      "DieTypeTipsData_Tips4_22"
+    ]
+  },
+  "20010701": {
+    "id": 23,
+    "dieType": 1,
+    "monsterID": 20010701,
+    "tips": [
+      "DieTypeTipsData_Tips1_23",
+      "DieTypeTipsData_Tips2_23",
+      "DieTypeTipsData_Tips3_23",
+      "DieTypeTipsData_Tips4_23"
+    ]
+  },
+  "20011001": {
+    "id": 24,
+    "dieType": 1,
+    "monsterID": 20011001,
+    "tips": [
+      "DieTypeTipsData_Tips1_24",
+      "DieTypeTipsData_Tips2_24",
+      "DieTypeTipsData_Tips3_24",
+      "DieTypeTipsData_Tips4_24"
+    ]
+  },
+  "20011101": {
+    "id": 25,
+    "dieType": 1,
+    "monsterID": 20011101,
+    "tips": [
+      "DieTypeTipsData_Tips1_25",
+      "DieTypeTipsData_Tips2_25",
+      "DieTypeTipsData_Tips3_25",
+      "DieTypeTipsData_Tips4_25"
+    ]
+  },
+  "21030101": {
+    "id": 26,
+    "dieType": 1,
+    "monsterID": 21030101,
+    "tips": [
+      "DieTypeTipsData_Tips1_26",
+      "DieTypeTipsData_Tips2_26",
+      "DieTypeTipsData_Tips3_26",
+      "DieTypeTipsData_Tips4_26"
+    ]
+  },
+  "21030201": {
+    "id": 27,
+    "dieType": 1,
+    "monsterID": 21030201,
+    "tips": [
+      "DieTypeTipsData_Tips1_27",
+      "DieTypeTipsData_Tips2_27",
+      "DieTypeTipsData_Tips3_27",
+      "DieTypeTipsData_Tips4_27"
+    ]
+  },
+  "21030301": {
+    "id": 28,
+    "dieType": 1,
+    "monsterID": 21030301,
+    "tips": [
+      "DieTypeTipsData_Tips1_28",
+      "DieTypeTipsData_Tips2_28",
+      "DieTypeTipsData_Tips3_28",
+      "DieTypeTipsData_Tips4_28"
+    ]
+  },
+  "23040101": {
+    "id": 29,
+    "dieType": 1,
+    "monsterID": 23040101,
+    "tips": [
+      "DieTypeTipsData_Tips1_29",
+      "DieTypeTipsData_Tips2_29",
+      "DieTypeTipsData_Tips3_29",
+      "DieTypeTipsData_Tips4_29"
+    ]
+  },
+  "21010101": {
+    "id": 30,
+    "dieType": 1,
+    "monsterID": 21010101,
+    "tips": [
+      "DieTypeTipsData_Tips1_30",
+      "DieTypeTipsData_Tips2_30",
+      "DieTypeTipsData_Tips3_30",
+      "DieTypeTipsData_Tips4_30"
+    ]
+  },
+  "21010201": {
+    "id": 31,
+    "dieType": 1,
+    "monsterID": 21010201,
+    "tips": [
+      "DieTypeTipsData_Tips1_31",
+      "DieTypeTipsData_Tips2_31",
+      "DieTypeTipsData_Tips3_31",
+      "DieTypeTipsData_Tips4_31"
+    ]
+  },
+  "21010301": {
+    "id": 32,
+    "dieType": 1,
+    "monsterID": 21010301,
+    "tips": [
+      "DieTypeTipsData_Tips1_32",
+      "DieTypeTipsData_Tips2_32",
+      "DieTypeTipsData_Tips3_32",
+      "DieTypeTipsData_Tips4_32"
+    ]
+  },
+  "21010401": {
+    "id": 33,
+    "dieType": 1,
+    "monsterID": 21010401,
+    "tips": [
+      "DieTypeTipsData_Tips1_33",
+      "DieTypeTipsData_Tips2_33",
+      "DieTypeTipsData_Tips3_33",
+      "DieTypeTipsData_Tips4_33"
+    ]
+  },
+  "21010501": {
+    "id": 34,
+    "dieType": 1,
+    "monsterID": 21010501,
+    "tips": [
+      "DieTypeTipsData_Tips1_34",
+      "DieTypeTipsData_Tips2_34",
+      "DieTypeTipsData_Tips3_34",
+      "DieTypeTipsData_Tips4_34"
+    ]
+  },
+  "21010601": {
+    "id": 35,
+    "dieType": 1,
+    "monsterID": 21010601,
+    "tips": [
+      "DieTypeTipsData_Tips1_35",
+      "DieTypeTipsData_Tips2_35",
+      "DieTypeTipsData_Tips3_35",
+      "DieTypeTipsData_Tips4_35"
+    ]
+  },
+  "21010701": {
+    "id": 36,
+    "dieType": 1,
+    "monsterID": 21010701,
+    "tips": [
+      "DieTypeTipsData_Tips1_36",
+      "DieTypeTipsData_Tips2_36",
+      "DieTypeTipsData_Tips3_36",
+      "DieTypeTipsData_Tips4_36"
+    ]
+  },
+  "21010801": {
+    "id": 37,
+    "dieType": 1,
+    "monsterID": 21010801,
+    "tips": [
+      "DieTypeTipsData_Tips1_37",
+      "DieTypeTipsData_Tips2_37",
+      "DieTypeTipsData_Tips3_37",
+      "DieTypeTipsData_Tips4_37"
+    ]
+  },
+  "21010901": {
+    "id": 38,
+    "dieType": 1,
+    "monsterID": 21010901,
+    "tips": [
+      "DieTypeTipsData_Tips1_38",
+      "DieTypeTipsData_Tips2_38",
+      "DieTypeTipsData_Tips3_38",
+      "DieTypeTipsData_Tips4_38"
+    ]
+  }
+}

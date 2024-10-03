@@ -1,0 +1,1032 @@
+ID	文本
+SceneData_Name_1001	Template Empty Environment
+SceneData_Name_1002	Mondstadt
+SceneData_Name_1003	World Blank Model
+SceneData_Name_1004	Hall of the Knights of Favonius
+SceneData_Name_1005	Cathedral Basement (Infiltration Gameplay)
+SceneData_Name_1006	Dvalin Tear Dungeon
+SceneData_Name_1007	Firefly Forest Dungeon Blank Model Gameplay Test
+SceneData_Name_1008	Cathedral Hall
+SceneData_Name_1009	Tavern Indoors
+SceneData_Name_1010	Hilichurl Mountain
+SceneData_Name_1011	Character Combat Test Level
+SceneData_Name_1012	Monster Test Level
+SceneData_Name_1013	Advanced Infiltration Test
+SceneData_Name_1015	Special Gliding Gameplay
+SceneData_Name_1	World 1
+SceneData_Name_2	World 2
+SceneData_Name_3	New Mondstadt and Surroundings
+SceneData_Name_20000	Level Gameplay Test
+SceneData_Name_20001	Dvalin Dungeon Blank Model
+SceneData_Name_20002	Tactics Test — Deep Forest
+SceneData_Name_20003	Tactics Test — Lake
+SceneData_Name_20004	Tactics Test — Plains
+SceneData_Name_20005	Tactics Test — River
+SceneData_Name_20006	Barbara's Quest Dungeon (Repeatable)
+SceneData_Name_20007	Barbara's Dungeon Blank Model 2 (Test)
+SceneData_Name_20008	Kaeya's Training Dungeon (Repeatable)
+SceneData_Name_20009	Amber's Training Dungeon (Repeatable)
+SceneData_Name_20010	Lisa's Combat Drill Quest Dungeon (Repeatable)
+SceneData_Name_20011	Lisa's Training Dungeon (Repeatable)
+SceneData_Name_20012	Diluc's Quest Dungeon
+SceneData_Name_20013	Kaeya's Combat Training Quest Dungeon (Repeatable)
+SceneData_Name_20014	Jean and Amber's Combat Drill Quest Dungeon (Repeatable)
+SceneData_Name_20015	Lisa's Resident Dungeon (Test)
+SceneData_Name_20016	Kaeya's Storyline Dungeon
+SceneData_Name_20017	Pursue Stormterror
+SceneData_Name_20018	Purify Stormterror
+SceneData_Name_20019	Diluc's Dungeon White-box
+SceneData_Name_20020	The First Encounter of the Stormterror
+SceneData_Name_20021	Lisa Storyline Dungeon White-box
+SceneData_Name_30001	Labyrinth in the Mists (Repeatable)
+SceneData_Name_30002	Hero Trial — Eye of the Storm Battle (Repeatable)
+SceneData_Name_30003	Hero Trial — Freeze Test (Repeatable)
+SceneData_Name_40001	Amber's Resident Dungeon 1 (Lv. 10)
+SceneData_Name_40002	Amber's Resident Dungeon 2 (Lv. 13)
+SceneData_Name_40003	Amber's Resident Dungeon 3 (Lv. 16)
+SceneData_Name_40004	Kaeya's Resident Dungeon 1 (Lv. 12)
+SceneData_Name_40005	Kaeya's Resident Dungeon 2 (Lv. 15)
+SceneData_Name_40006	Kaeya's Resident Dungeon 3 (Lv. 18)
+SceneData_Name_40007	Isle Resident Dungeon
+SceneData_Name_50000	Library Test
+SceneData_Name_50001	Open Co-op Dungeon Test
+SceneData_Name_50002	Temperature White-Box Test
+SceneData_Name_50003	Combat Test
+SceneData_Name_50004	Charging Pile Power Supply White Box
+SceneData_Name_50005	Elemental Gameplay Scenario
+RoomData_Name_2	Library Room 2
+RoomData_Name_3	Library Room 3
+RoomData_Name_4	Knights of Favonius Library
+RoomData_Name_100401	Library
+RoomData_Name_100402	Jean's Office
+WorldAreaData_AreaName_1	Starfell Plains
+WorldAreaData_AreaName_2	Cider Lake
+WorldAreaData_AreaName_3	Mondstadt
+WorldAreaData_AreaName_4	Starfell Lake
+WorldAreaData_AreaName_5	Stormbearer Mountains
+WorldAreaData_AreaName_6	Stormbearer Point
+WorldAreaData_AreaName_7	Starsnatch Cliff
+WorldAreaData_AreaName_8	Thousand Winds Temple
+WorldAreaData_AreaName_9	Whispering Woods
+WorldAreaData_AreaName_10	Stormbearer Coast
+WorldAreaData_AreaName_11	Windcry Hill
+WorldAreaData_AreaName_12	Windrise
+WorldAreaData_AreaName_13	Falcon Coast
+WorldAreaData_AreaName_14	Tataupa Gorge
+WorldAreaData_AreaName_15	Cape Oath
+WorldAreaData_AreaName_16	Musk Reef
+WorldAreaData_AreaName_17	Windwail Highland
+WorldAreaData_AreaName_18	Springvale
+WorldAreaData_AreaName_19	Dawn Winery
+WorldAreaData_AreaName_20	Dragonspine
+WorldAreaData_AreaName_21	Brightcrown Mountains
+WorldAreaData_AreaName_22	Stormterror's Lair
+WorldAreaData_AreaName_23	Wolvendom
+WorldAreaData_AreaName_24	Brightcrown Canyon
+DungeonData_Name_1	Deep into the Temple of the Wolf
+DungeonData_Desc_1	The Knights of Favonius have been mobilized to contain Stormterror's destruction. Venture forth with Quartermaster Kaeya, to the Temple of the Wolf and stop Stormterror from gaining further power.
+DungeonData_Name_2	Hilichurl Stronghold
+DungeonData_Desc_2	Kaeya Quest Dungeon 3
+DungeonData_Name_3	Hilichurl Nest
+DungeonData_Desc_3	Kaeya Quest Dungeon 3
+DungeonData_Name_4	Small Cave Base
+DungeonData_Desc_4	Dungeon Description 4
+DungeonData_Name_5	Small Cave Base
+DungeonData_Desc_5	Dungeon Description 5
+DungeonData_Name_6	Small Cave Secret Entrance
+DungeonData_Desc_6	Dungeon Description 6
+DungeonData_Name_7	Ruin Ambush Point
+DungeonData_Desc_7	Barbara Storyline Dungeon 1
+DungeonData_Name_8	Hilichurl Small Base
+DungeonData_Desc_8	Barbara Storyline Dungeon 1
+DungeonData_Name_9	Hilichurl Large Base
+DungeonData_Desc_9	Barbara Storyline Dungeon 1
+DungeonData_Name_10	A Teardrop admist the Depths of Jungle and Ruins
+DungeonData_Desc_10	The party has come to the secret ruins hidden deep in the forest. Head into the ruins with Jean and Diluc to search for the powerful Tears.
+DungeonData_Name_11	Firefly Forest Dungeon Gameplay Test
+DungeonData_Desc_11	Forest Style Dungeon Gameplay Test
+DungeonData_Name_12	Hilichurl Mountain Test
+DungeonData_Desc_12	Hilichurl Mountain Test
+DungeonData_Name_13	Character Combat Test
+DungeonData_Desc_13	Character Combat Test
+DungeonData_Name_14	Monster Test
+DungeonData_Desc_14	Monster Test
+DungeonData_Name_1000	Level Gameplay Test
+DungeonData_Desc_1000	Level Gameplay Test
+DungeonData_Name_15	Low-Temp Level White-box
+DungeonData_Desc_15	Low-Temp Level White-box
+DungeonData_Name_16	Mobile Platform Test
+DungeonData_Desc_16	Mobile Platform Test
+DungeonData_Name_17	Combat Test
+DungeonData_Desc_17	Combat Test
+DungeonData_Name_18	#$#Charging Pile Power Supply White Box
+DungeonData_Desc_18	Charging Pile Power Supply White Box
+DungeonData_Name_19	#$# Elemental Reaction Scenario White Box
+DungeonData_Desc_19	Elemental Reaction Scenario White Box
+DungeonData_Name_1001	Deep into the Temple of the Falcon
+DungeonData_Desc_1001	The Knights of Favonius have been mobilized to contain Stormterror's destruction. Venture forth with Amber the Outrider, to the Temple of the Falcon and stop Stormterror from gaining further power.
+DungeonData_Name_1002	Lisa's Combat Dungeon
+DungeonData_Desc_1002	Lisa's Combat Dungeon Blank Model
+DungeonData_Name_1003	Deep into the Temple of the Lion
+DungeonData_Desc_1003	The Knights of Favonius have been mobilized to contain Stormterror's destruction. Venture forth with Lisa the Librarian, to the Temple of the Lion and stop Stormterror from gaining further power.
+DungeonData_Name_1004	Fatuus Camp
+DungeonData_Desc_1004	Diluc's Adventure
+DungeonData_Name_1005	Kaeya Combat Training Quest Dungeon
+DungeonData_Desc_1005	Use Kaeya to take on this challenge
+DungeonData_Name_1006	Jean and Amber's Combat Training Quest Dungeon
+DungeonData_Desc_1006	Use Jean and Amber to take on this challenge
+DungeonData_Name_1007	Lisa's Resident Dungeon Bottom
+DungeonData_Desc_1007	Lisa's Combat Dungeon Blank Model
+DungeonData_Name_2000	Lost Treasure of Arcadia
+DungeonData_Desc_2000	Lost treasures show their colors only to those with true wisdom. Having completed the mystery of Arcadia, we finally arrive at the land of treasure...
+DungeonData_Name_2001	Storming Terror
+DungeonData_Desc_2001	After a long and daring pursuit of Stormterror, who has been bewitched by Abyss Mages, you are about to finally confront Dvalin's misled fury.
+DungeonData_Name_2002	Purify Stormterror
+DungeonData_Desc_2002	Stormterror Boss Battle — Stage Two
+DungeonData_Name_2003	Diluc's Dungeon White-box
+DungeonData_Desc_2003	White-box
+DungeonData_Name_2004	Stormterror - The First Battle
+DungeonData_Desc_2004	The First Battle of Mondstadt and Stormterror
+DungeonData_Name_2005	
+DungeonData_Desc_2005	White-box
+DungeonData_Name_3001	Fog Maze
+DungeonData_Desc_3001	It is said that in the Labyrinth in the Mists lies an ancient treasure cache left by the ancients, guarded by hordes of cursed monsters. Legend has it anyone who can stand the trial of defeating 100 of the monsters that dwell in the labyrinth, will be rewarded with handsome treasures. Though one must be wary of the ever-dwindling countdown timer in the labyrinth, and the ever-growing ferocity of the monsters within.
+DungeonData_Name_3002	Hero Trial — Wind Ball Battle
+DungeonData_Desc_3002	Battle the Eye of the Storm
+DungeonData_Name_3003	Hero Trial — Freeze Test
+DungeonData_Desc_3003	Battle Hydro-Cryo Hazard
+DungeonData_Name_3004	Explore: Fallen Fortress
+DungeonData_Desc_3004	Deep in the ruins, you discovered an ancient fortress occupied by monsters. You'll need to go deeper if you want to find the treasure...
+DungeonData_Name_4001	Investigate: Turmoil in the Depth of the Ruins
+DungeonData_Desc_4001	An unsettling turmoil has come to these once silent ruins. Perhaps it's the stirrings of monsters who seek to disturb Mondstadt's peace. Such things should not be taken lightly... \nRecommended Element: Pyro
+DungeonData_Name_4002	Investigate: Frozen Ancient Waterways
+DungeonData_Desc_4002	A frozen section has appeared within the forgotten waterways beneath the Thousand Winds Temple. It's likely Cryo monsters causing trouble. We cannot let them get out of hand. But remember: <color=#00E1FFFF>getting Frozen when Wet</color> can be incredibly dangerous. \nRecommended Element: Pyro
+DungeonData_Name_4003	Explore: Ancient Township Ruins
+DungeonData_Desc_4003	You come across a township buried underneath the old temple grounds. You'll need to go deeper if you want to find the treasure... \nRecommended Element: Electro/Anemo/Cryo
+DungeonData_Name_4004	Trial: Divergent Paths
+DungeonData_Desc_4004	In these ruins you discover a now forsaken trial ground belonging to an ancient civilization. To pass this trial, you need to pick your path wisely, and fight with bravery. \nRecommended Element: Pyro/Cryo/Electro
+DungeonData_Name_4005	Trial: Thorned Hall
+DungeonData_Desc_4005	In these ruins you discover a now forsaken trial ground belonging to an ancient civilization. To pass this trial, you need to take the path of thorns, and face up to formidable enemies. \nRecommended Element: Pyro/Electro
+DungeonData_Name_4006	Explore: Underground Forest
+DungeonData_Desc_4006	You discovered mystic ruins hidden beneath an underground jungle. You'll need to go deeper if you want to find the treasure... \nRecommended Element: Pyro/Cryo/Anemo
+DungeonData_Name_4007	Trial: Fire and Lightning
+DungeonData_Desc_4007	In these ruins you discover a now forsaken trial ground belonging to an ancient civilization. To pass this trial, you need to take hold of vicious fire and crackling lightning to take down your enemy. \nRecommended Element: Pyro/Electro
+DungeonData_Name_4008	Explore: Earthed City
+DungeonData_Desc_4008	In the crevasses of Dragonspine, you come across the ancient ruins of a long-lost city. You'll need to go deeper if you want to find the treasure... \nRecommended Element: Pyro/Cryo/Electro
+DungeonData_Name_4009	Target: Eye of the Storm
+DungeonData_Desc_4009	In the ruins not far from Mondstadt, an unsettling surge of Anemo power is detected. Perhaps it's something magical slowly accumulating power. We cannot sit by idly and let it grow. When you're ready for whatever may come, come and help deal to the situation. \nRecommended Element: Pyro/Electro
+DungeonPassData_Desc_1	Passing Criteria Description 1
+DungeonPassData_Desc_2	Passing Criteria Description 2
+DungeonPassData_Desc_3	Passing Criteria Description 3
+DungeonPassData_Desc_4	Passing Criteria Description 4
+DungeonPassData_Desc_5	Passing Criteria Description 5
+DungeonPassData_Desc_6	Passing Criteria Description 6
+DungeonPassData_Desc_7	Amber's Training Dungeon Passing Criteria
+DungeonPassData_Desc_8	Kaeya's Training Dungeon Passing Criteria
+DungeonPassData_Desc_9	Lisa's Training Dungeon Passing Criteria
+DungeonPassData_Desc_10	Lisa's Training Test Passing Criteria
+DungeonPassData_Desc_11	Jean and Amber's Dungeon Passing Criteria
+DungeonPassData_Desc_12	Kaeya's Dungeon Passing Criteria
+DungeonPassData_Desc_13	Labyrinth in the Mists
+DungeonPassData_Desc_14	Amber's Resident Dungeon 1 Passing Criteria
+DungeonPassData_Desc_15	Lisa's Combat Stage Passing Criteria
+DungeonPassData_Desc_16	Amber's Resident Dungeon 2 Passing Criteria
+DungeonPassData_Desc_17	4004 Dungeon Passing Criteria
+DungeonPassData_Desc_18	Hero Trial 3002 Passing Criteria
+DungeonPassData_Desc_19	Hero Trial 3003 Passing Criteria
+DungeonPassData_Desc_20	Co-op Dungeon Passing Criteria
+DungeonPassData_Desc_21	Kaeya's Storyline Dungeon Passing Criteria
+DungeonPassData_Desc_22	Dvalin Tear Dungeon Passing Criteria
+DungeonPassData_Desc_23	Isle Resident Dungeon Passing Criteria
+DungeonPassData_Desc_24	Passing Criteria for Trial: Divergent Paths
+DungeonPassData_Desc_25	Diluc's Dungeon White-box
+DungeonPassData_Desc_26	Stormterror Storyline Dungeon Result Calculation Criteria
+DungeonPassData_Desc_27	Mondstadt Stormterror Dungeon Result Calculation Criteria
+DungeonPreviewData_Desc_1	Possible Loots 1
+DungeonPreviewData_Desc_10001	Go with Kaeya!
+DungeonPreviewData_Desc_10010	A Teardrop admist the Depths of Jungle and Ruins
+DungeonPreviewData_Desc_11001	Go with Amber!
+DungeonPreviewData_Desc_11003	Go with Lisa!
+DungeonPreviewData_Desc_12000	Lost Treasure of Arcadia
+DungeonPreviewData_Desc_14001	Investigate: Turmoil in the Depth of the Ruins
+DungeonPreviewData_Desc_14002	Investigate: Frozen Ancient Waterways
+DungeonPreviewData_Desc_14003	Explore: Ancient Township Ruins
+DungeonPreviewData_Desc_14004	Trial: Divergent Paths
+DungeonPreviewData_Desc_14007	Trial: Fire and Lightning
+DungeonPreviewData_Desc_14008	Explore: Earthed City
+DungeonPreviewData_Desc_14009	Target: Eye of the Storm
+DungeonPreviewData_Desc_14006	Explore: Underground Forest
+DungeonPreviewData_Desc_14005	Trial: Thorned Hall
+DungeonPreviewData_Desc_13004	Explore: Fallen Fortress
+DungeonPreviewData_Desc_20001	Go with Kaeya!
+DungeonPreviewData_Desc_20010	A Teardrop admist the Depths of Jungle and Ruins
+DungeonPreviewData_Desc_21001	Go with Amber!
+DungeonPreviewData_Desc_21003	Go with Lisa!
+DungeonPreviewData_Desc_22000	Lost Treasure of Arcadia
+DungeonPreviewData_Desc_24001	Investigate: Turmoil in the Depth of the Ruins
+DungeonPreviewData_Desc_24002	Investigate: Frozen Ancient Waterways
+DungeonPreviewData_Desc_24003	Explore: Ancient Township Ruins
+DungeonPreviewData_Desc_24004	Trial: Divergent Paths
+DungeonPreviewData_Desc_24007	Trial: Fire and Lightning
+DungeonPreviewData_Desc_24008	Explore: Earthed City
+DungeonPreviewData_Desc_24009	Target: Eye of the Storm
+DungeonPreviewData_Desc_24006	Explore: Underground Forest
+DungeonPreviewData_Desc_24005	Trial: Thorned Hall
+DungeonPreviewData_Desc_23004	Explore: Fallen Fortress
+DungeonChallengeData_Target_1	Defeat %1% opponents
+DungeonChallengeData_subTarget_1	 
+DungeonChallengeData_Progress_1	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_1	 
+DungeonChallengeData_Target_2	Defeat %1% opponent(s) within %2% second(s)
+DungeonChallengeData_subTarget_2	 
+DungeonChallengeData_Progress_2	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_2	 
+DungeonChallengeData_Target_3	Survive %1% second(s)
+DungeonChallengeData_subTarget_3	 
+DungeonChallengeData_Progress_3	Survival Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_3	 
+DungeonChallengeData_Target_4	Defeat %1% opponent(s) within %2% second(s)
+DungeonChallengeData_subTarget_4	Every opponent defeated adds time to the countdown timer
+DungeonChallengeData_Progress_4	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_4	Every opponent defeated adds time to the countdown timer
+DungeonChallengeData_Target_5	Defeat %1% opponents
+DungeonChallengeData_subTarget_5	Time between kills cannot exceed %2% second(s)
+DungeonChallengeData_Progress_5	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_5	Time between kills cannot exceed #2#/%2% second(s)
+DungeonChallengeData_Target_6	Defeat %1% opponents
+DungeonChallengeData_subTarget_6	Don't be frozen more than %2% time(s)
+DungeonChallengeData_Progress_6	Monsters Defeated: #1#/%1%
+DungeonChallengeData_subProgress_6	Don't be frozen more than #2#/%2% time(s)
+DungeonChallengeData_Target_7	Defeat the target opponent within %1% second(s)
+DungeonChallengeData_subTarget_7	 
+DungeonChallengeData_Progress_7	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_7	 
+DungeonChallengeData_Target_8	Trigger %1% time(s) within %2% second(s)
+DungeonChallengeData_subTarget_8	 
+DungeonChallengeData_Progress_8	Trigger Times Remaining: #1#/%1%
+DungeonChallengeData_subProgress_8	 
+DungeonChallengeData_Target_100	Defeat <color=#00E1FFFF>%1%</color> opponent(s) within <color=#00E1FFFF>%2%</color> second(s)
+DungeonChallengeData_subTarget_100	 
+DungeonChallengeData_Progress_100	Opponents Defeated: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_100	 
+DungeonChallengeData_Target_101	<color=#00E1FFFF>Survive %1% second(s)</color>
+DungeonChallengeData_subTarget_101	Eye of the Storm is currently <color=#00E1FFFF>invulnerable</color>
+DungeonChallengeData_Progress_101	Survival Time Remaining: <color=#00E1FFFF>#1#</color> second(s)
+DungeonChallengeData_subProgress_101	Eye of the Storm is currently <color=#00E1FFFF>invulnerable</color>
+DungeonChallengeData_Target_102	Defeat <color=#00E1FFFF>the Eye of the Storm within %1%</color> second(s)
+DungeonChallengeData_subTarget_102	Eye of the Storm is no longer invulnerable
+DungeonChallengeData_Progress_102	Time Remaining: <color=#00E1FFFF>#1#</color> second(s)
+DungeonChallengeData_subProgress_102	Defeat the Eye of the Storm
+DungeonChallengeData_Target_103	Defeat <color=#00E1FFFF>%1%</color> opponent(s)
+DungeonChallengeData_subTarget_103	<color=#00E1FFFF>Number of times frozen</color> cannot exceed <color=#00E1FFFF>%2%</color> time(s)
+DungeonChallengeData_Progress_103	Monsters Defeated: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_103	Don't be frozen more than <color=#00E1FFFF>#2#/%2%</color> time(s)
+DungeonChallengeData_Target_104	Defeat <color=#00E1FFFF>%1%</color> opponent(s) within <color=#00E1FFFF>%2%</color> second(s)
+DungeonChallengeData_subTarget_104	Every opponent defeated <color=#00E1FFFF>adds 10 seconds</color> to the countdown timer
+DungeonChallengeData_Progress_104	Opponents Defeated: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_104	Every opponent defeated <color=#00E1FFFF>adds 10 seconds</color> to the countdown timer
+DungeonChallengeData_Target_110	Defeat the <color=#00E1FFFF>Meaty Leader</color> within <color=#00E1FFFF>%1%</color> second(s)
+DungeonChallengeData_subTarget_110	Meaties Arena Challenge
+DungeonChallengeData_Progress_110	Time Remaining: <color=#00E1FFFF>#1#</color> second(s)
+DungeonChallengeData_subProgress_110	 
+DungeonChallengeData_Target_111	Destroy %2% Storm Crystal(s) within %1% seconds
+DungeonChallengeData_subTarget_111	Be sure to adjust your firing position
+DungeonChallengeData_Progress_111	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_111	Destroy Storm Crystal(s): #2#/%2%
+DungeonChallengeData_Target_120	Defeat %1% opponent(s) within %2% second(s)
+DungeonChallengeData_subTarget_120	 
+DungeonChallengeData_Progress_120	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_120	 
+DungeonChallengeData_Target_121	Complete the challenge in both side rooms within %2% second(s)
+DungeonChallengeData_subTarget_121	 
+DungeonChallengeData_Progress_121	Side Room Challenges Completed: #1#/%1%
+DungeonChallengeData_subProgress_121	 
+DungeonChallengeData_Target_122	Open the treasure chest in %1% second(s)
+DungeonChallengeData_subTarget_122	If you fail, you can challenge again.
+DungeonChallengeData_Progress_122	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_122	 
+DungeonChallengeData_Target_123	Capture %1% Crystalfly(s) within %2% second(s)
+DungeonChallengeData_subTarget_123	Get close to capture
+DungeonChallengeData_Progress_123	Crystalfly(s) Captured: #1#/%1%
+DungeonChallengeData_subProgress_123	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_124	Find and scare off %1% Boar(s) within %2% second(s)
+DungeonChallengeData_subTarget_124	Smack the Boars!
+DungeonChallengeData_Progress_124	Boars Smacked: #1#/%1%
+DungeonChallengeData_subProgress_124	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_125	Defeat %1% Dendro Slimes within %2% second(s)
+DungeonChallengeData_subTarget_125	Attacking with Pyro is recommended
+DungeonChallengeData_Progress_125	Dendro Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_125	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_126	Blow up %2% Explosive Barrel(s) within %1% second(s)
+DungeonChallengeData_subTarget_126	Make sure to keep your distance!
+DungeonChallengeData_Progress_126	Explosive Barrel(s) Blown Up: #2#/%2%
+DungeonChallengeData_subProgress_126	Time Remaining: #1# second(s)
+DungeonChallengeData_Target_127	Reach the objective within %1% second(s)
+DungeonChallengeData_subTarget_127	Keep your balance when gliding
+DungeonChallengeData_Progress_127	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_127	 
+DungeonChallengeData_Target_128	Collect %2% Pinecone(s) within %1% second(s)
+DungeonChallengeData_subTarget_128	Watch out for hidden slimes
+DungeonChallengeData_Progress_128	Pinecone(s) collected: #2#/%2%
+DungeonChallengeData_subProgress_128	Time Remaining: #1# second(s)
+DungeonChallengeData_Target_129	Defeat %1% Pyro Slimes within %2% second(s)
+DungeonChallengeData_subTarget_129	 
+DungeonChallengeData_Progress_129	Pyro Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_129	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_130	Defeat <color=#00E1FFFF>%1%</color> group(s) of Pyro Slimes within <color=#00E1FFFF>%2%</color> second(s)
+DungeonChallengeData_subTarget_130	Meaties Arena Challenge
+DungeonChallengeData_Progress_130	Slimes Remaining: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_130	Time Remaining: <color=#00E1FFFF>#2#</color> second(s)
+DungeonChallengeData_Target_131	Defeat <color=#00E1FFFF>%1%</color> group(s) of Anemo Slimes within <color=#00E1FFFF>%2%</color> second(s)
+DungeonChallengeData_subTarget_131	Meaties Arena Challenge
+DungeonChallengeData_Progress_131	Slimes Remaining: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_131	Time Remaining: <color=#00E1FFFF>#2#</color> second(s)
+DungeonChallengeData_Target_132	Defeat all Anemo Slimes within %1% second(s)
+DungeonChallengeData_subTarget_132	Attacking with Bow is recommended
+DungeonChallengeData_Progress_132	Anemo Slimes Defeated: #2#/%2%
+DungeonChallengeData_subProgress_132	Time Remaining: #1# second(s)
+DungeonChallengeData_Target_133	Defeat all opponents within %2% second(s)
+DungeonChallengeData_subTarget_133	 
+DungeonChallengeData_Progress_133	Defeat all opponents
+DungeonChallengeData_subProgress_133	Time Remaining: <color=#00E1FFFF>#2#</color> second(s)
+DungeonChallengeData_Target_134	Open the objective treasure chest within %1% second(s)
+DungeonChallengeData_subTarget_134	 
+DungeonChallengeData_Progress_134	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_134	 
+DungeonChallengeData_Target_135	Arrive at the objective within %1% second(s)
+DungeonChallengeData_subTarget_135	 
+DungeonChallengeData_Progress_135	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_135	 
+DungeonChallengeData_Target_136	Fight off the monsters defending the treasure within %2% second(s)
+DungeonChallengeData_subTarget_136	 
+DungeonChallengeData_Progress_136	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_136	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_137	Defeat all Pyro Slimes within <color=#00E1FFFF>%2%</color> second(s)
+DungeonChallengeData_subTarget_137	<color=#00E1FFFF>Press and hold</color> Lisa's <color=#00E1FFFF>Elemental Skill</color>
+DungeonChallengeData_Progress_137	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_137	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_138	Defeat %1% Cryo Slimes within %2% second(s)
+DungeonChallengeData_subTarget_138	 
+DungeonChallengeData_Progress_138	Cryo Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_138	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_139	Reach the top of the tower and open the treasure box within %1% second(s)
+DungeonChallengeData_subTarget_139	 
+DungeonChallengeData_Progress_139	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_139	 
+DungeonChallengeData_Target_140	Defeat target opponent within %2% second(s)
+DungeonChallengeData_subTarget_140	 
+DungeonChallengeData_Progress_140	Defeat Cryo Abyss Mage: #1#/%1%
+DungeonChallengeData_subProgress_140	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_141	Arrive at the objective and open the treasure box within %1% second(s)
+DungeonChallengeData_subTarget_141	 
+DungeonChallengeData_Progress_141	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_141	 
+DungeonChallengeData_Target_142	Defeat 5 Dendro Slimes within %2% second(s)
+DungeonChallengeData_subTarget_142	 
+DungeonChallengeData_Progress_142	Dendro Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_142	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_143	Light all the braziers and open the treasure chest within %1% second(s)
+DungeonChallengeData_subTarget_143	 
+DungeonChallengeData_Progress_143	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_143	 
+DungeonChallengeData_Target_144	Defeat all Anemo Slimes within %1% second(s)
+DungeonChallengeData_subTarget_144	 
+DungeonChallengeData_Progress_144	Anemo Slimes Defeated: #2#/%2%
+DungeonChallengeData_subProgress_144	Time Remaining: #1# second(s)
+DungeonChallengeData_Target_145	Defeat the Eye of the Storm within %1% second(s)
+DungeonChallengeData_subTarget_145	 
+DungeonChallengeData_Progress_145	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_145	 
+DungeonChallengeData_Target_146	Defeat all Hilichurl Guards within %2% second(s)
+DungeonChallengeData_subTarget_146	 
+DungeonChallengeData_Progress_146	Defeat Hilichurl Guards: #1#/%1%
+DungeonChallengeData_subProgress_146	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_147	Defeat all <color=#00E1FFFF>opponents</color> in the <color=#00E1FFFF>Arena</color>
+DungeonChallengeData_subTarget_147	You <color=#00E1FFFF>cannot leave</color> the Arena whilst unsealing
+DungeonChallengeData_Progress_147	Opponents Defeated: #1#/%1%
+DungeonChallengeData_subProgress_147	 
+DungeonChallengeData_Target_148	Defeat %1% Dendro Slimes within %2% second(s)
+DungeonChallengeData_subTarget_148	Attacking with Pyro is recommended
+DungeonChallengeData_Progress_148	Dendro Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_148	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_149	Reach the objective within %1% second(s)
+DungeonChallengeData_subTarget_149	Keep your balance when gliding
+DungeonChallengeData_Progress_149	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_149	 
+DungeonChallengeData_Target_150	Defeat all Anemo Slimes within %1% second(s)
+DungeonChallengeData_subTarget_150	Attacking with Bow is recommended
+DungeonChallengeData_Progress_150	Anemo Slimes Defeated: #2#/%2%
+DungeonChallengeData_subProgress_150	Time Remaining: #1# second(s)
+DungeonChallengeData_Target_151	Defeat %1% Pyro Slimes within %2% second(s)
+DungeonChallengeData_subTarget_151	Attacking with Electro is recommended
+DungeonChallengeData_Progress_151	Pyro Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_151	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_152	Defeat enough opponents within %2% second(s) to recharge the mechanism
+DungeonChallengeData_subTarget_152	Defeat opponents to recharge the mechanism
+DungeonChallengeData_Progress_152	Energy Level: #1#/%1%
+DungeonChallengeData_subProgress_152	Time Remaining: #2# second(s)
+DungeonChallengeData_Target_153	Defeat %1% opponents
+DungeonChallengeData_subTarget_153	Don't be frozen more than %2% time(s)
+DungeonChallengeData_Progress_153	Energy Level: #1#/%1%
+DungeonChallengeData_subProgress_153	Don't be frozen more than #2#/%2% time(s)
+DungeonChallengeData_Target_154	Defeat the Abyss Mage within %1% second(s)
+DungeonChallengeData_subTarget_154	Defeat the Abyss Mage!
+DungeonChallengeData_Progress_154	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_154	 
+DungeonChallengeData_Target_155	Reach the objective within %1% second(s)
+DungeonChallengeData_subTarget_155	If you fail, you can challenge again.
+DungeonChallengeData_Progress_155	Time Remaining: #1# second(s)
+DungeonChallengeData_subProgress_155	 
+DungeonChallengeData_Target_156	Defeat %1% Hydro Slimes within %2% second(s)
+DungeonChallengeData_subTarget_156	Attacking with Cryo is recommended
+DungeonChallengeData_Progress_156	Hydro Slimes Defeated: #1#/%1%
+DungeonChallengeData_subProgress_156	Time Remaining: #2# second(s)
+OptionData_Content_1	Open the door
+OptionData_Content_2	Unlock the wind currents
+OptionData_Content_3	Respawn monsters
+OptionData_Content_4	Close the door
+OptionData_Content_5	Open the left door
+OptionData_Content_6	Open the right door
+OptionData_Content_7	Start
+OptionData_Content_100	Low Lv. Hydro-Cryo
+OptionData_Content_101	Mid Lv. Hydro-Cryo
+OptionData_Content_102	High Lv. Hydro-Cryo
+OptionData_Content_103	Commence Final Trial
+OptionData_Content_104	Commence Trial
+OptionData_Content_105	Commence Heroic Trial
+OptionData_Content_110	Electro-Hydro Hazard
+OptionData_Content_120	Shieldwall Mitachurl with Hydro Monsters
+OptionData_Content_121	Blazing Axe Mitachurl with Dendro Monsters
+OptionData_Content_130	3 Hilichurl Fighters and 1 Shooter
+OptionData_Content_131	3 Pyro Slime with 1 Larger Sibling
+OptionData_Content_132	3 Hydro Slime with 1 Larger Sibling
+OptionData_Content_133	3 Anemo Slime with 1 Larger Sibling
+OptionData_Content_134	3 Electro Slime with 1 Larger Sibling
+OptionData_Content_135	Anemo Samachurl with Friends
+OptionData_Content_136	Hydro Samachurl with Friends
+OptionData_Content_137	Dendro Samachurl with Friends
+OptionData_Content_138	Anemo Samachurl with Friends
+OptionData_Content_139	Ruin Guard with Friends
+OptionData_Content_140	Ruin Guard with Friends
+OptionData_Content_141	In the Eye of the Storm
+OptionData_Content_142	Cryo Abyss Mage with Friends
+OptionData_Content_143	Hydro Abyss Mage with Friends
+OptionData_Content_144	Pyro Abyss Mage with Friends
+OptionData_Content_145	Mitachurl Duet
+OptionData_Content_146	Pyro Abyss Mage with Axe Blazing
+OptionData_Content_147	Hydro Abyss Mage behind Shieldwall
+OptionData_Content_148	Large Geo Slime with Friends
+OptionData_Content_149	Large Hydro Slime with Friends
+OptionData_Content_150	Large Cryo Slime with Friends
+OptionData_Content_151	Lv. 1
+OptionData_Content_152	Lv. 5
+OptionData_Content_153	Lv. 10
+OptionData_Content_154	Lv. 15
+OptionData_Content_155	Lv. 20
+OptionData_Content_156	3 Hilichurl Fighters
+OptionData_Content_157	2 Hilichurl Guards and 2 Shooters
+OptionData_Content_158	3 Hilichurl Fighters with Their Anemo Samachurl
+OptionData_Content_159	Blazing Axe Mitachurl with 3 Hilichurl Fighters
+OptionData_Content_160	Shieldwall Mitachurl with 3 Hilichurl Fighters
+OptionData_Content_161	Dendro Samachurl with Pyro Slimes
+OptionData_Content_162	Ruin Guard with Timid Friends
+OptionData_Content_163	Pyro Abyss Mage and Slimes
+OptionData_Content_164	Cryo Hilichurl Shooters and Slimes
+OptionData_Content_165	Cryo Abyss Mage and Slimes
+OptionData_Content_1001	Dungeon Entrance Test
+OptionData_Content_8	Activate the right rune
+OptionData_Content_9	Activate the left rune
+OptionData_Content_10	Commence the First Trial
+OptionData_Content_11	Next Trial
+OptionData_Content_12	Final Trial
+OptionData_Content_13	Trial Where No One's Allowed to Fall
+OptionData_Content_14	Teleport Waypoint
+OptionData_Content_20	Pyro
+OptionData_Content_21	Hydro-Cryo
+OptionData_Content_22	Electro-Anemo
+OptionData_Content_23	Collect Elemental Dust
+OptionData_Content_24	Activate
+OptionData_Content_25	Into the fray
+OptionData_Content_30	...
+OptionData_Content_166	Lv. 7
+OptionData_Content_167	Lv. 16
+OptionData_Content_168	Open Wolvendom Dungeon
+OptionData_Content_169	Mine
+OptionData_Content_170	Observe Strange Light
+DungeonReminderData_Speaker_1	Paimon
+DungeonReminderData_Content_1	Can you hear someone crying?
+DungeonReminderData_Speaker_2	Player
+DungeonReminderData_Content_2	Ugh! Don't scare me!
+DungeonReminderData_Speaker_1001001	Paimon
+DungeonReminderData_Content_1001001	This huge door seems heavy... Can it even be opened?
+DungeonReminderData_Speaker_1001002	Amber
+DungeonReminderData_Content_1001002	Well, we can unlock the gate with that console.
+DungeonReminderData_Speaker_1001003	Paimon
+DungeonReminderData_Content_1001003	Wha- How does that work?
+DungeonReminderData_Speaker_1001004	Amber
+DungeonReminderData_Content_1001004	According to Lisa, the people that once lived here have some incomprehensible technology.
+DungeonReminderData_Speaker_1001005	Amber
+DungeonReminderData_Content_1001005	I've got no clue how it works, but if you're interested you can go to the<color=#00E1FFFF>Adventurer's Association</color> later and ask around.
+DungeonReminderData_Speaker_1002001	Paimon
+DungeonReminderData_Content_1002001	I can see... deep into the temple!
+DungeonReminderData_Speaker_1003001	Amber
+DungeonReminderData_Content_1003001	For a well trained scout, just <color=#00E1FFFF>one shot</color> can take down an enemy!
+DungeonReminderData_Speaker_1004001	Amber
+DungeonReminderData_Content_1004001	Finally they're rid of, good job!
+DungeonReminderData_Speaker_1005001	Amber
+DungeonReminderData_Content_1005001	Oh, look. There's a <color=#00E1FFFF>pile of leaves</color> over there! I know just how to use them!
+DungeonReminderData_Speaker_1005002	Paimon
+DungeonReminderData_Content_1005002	Being able to light a fire whenever and wherever sure is handy.
+DungeonReminderData_Speaker_1005003	Amber
+DungeonReminderData_Content_1005003	Hey! Don't go making out that I'm a box of matches!
+DungeonReminderData_Speaker_1006001	Amber
+DungeonReminderData_Content_1006001	The win is always Amber's! Let's go claim our reward from the treasure chest!
+DungeonReminderData_Speaker_1006002	Amber
+DungeonReminderData_Content_1006002	And then we can use that Teleportation Stone to head home!
+DungeonReminderData_Speaker_1007001	Paimon
+DungeonReminderData_Content_1007001	It's so damp here!
+DungeonReminderData_Speaker_1007002	Kaeya
+DungeonReminderData_Content_1007002	<color=#00E1FFFF>Wet</color> monsters? Great, let me <color=#00E1FFFF>freeze</color> them forever!
+DungeonReminderData_Speaker_1008001	Kaeya
+DungeonReminderData_Content_1008001	There's a suspicious-looking person over there, let's go ask!
+DungeonReminderData_Speaker_1009001	Paimon
+DungeonReminderData_Content_1009001	*Sigh* Well, we're finally here.
+DungeonReminderData_Speaker_1009002	Kaeya
+DungeonReminderData_Content_1009002	There's no road left to take. Let's use the <color=#00E1FFFF>wind currents</color> to go up.
+DungeonReminderData_Speaker_1009003	Kaeya
+DungeonReminderData_Content_1009003	 
+DungeonReminderData_Speaker_1010001	Paimon
+DungeonReminderData_Content_1010001	Water! Can we use this to put out fire?
+DungeonReminderData_Speaker_1010002	Kaeya
+DungeonReminderData_Content_1010002	Good idea, that's some keen observation.
+DungeonReminderData_Speaker_1010003	Kaeya
+DungeonReminderData_Content_1010003	Would be better to let Jean give you a title and become a knight.
+DungeonReminderData_Speaker_1010004	Kaeya
+DungeonReminderData_Content_1010004	Traveler... You wouldn't happen to have a Vision, would you?
+DungeonReminderData_Speaker_1010005	Kaeya
+DungeonReminderData_Content_1010005	Then how exactly is it that you're able to use elemental energy?
+DungeonReminderData_Speaker_1010006	Paimon
+DungeonReminderData_Content_1010006	It's a very strange.
+DungeonReminderData_Speaker_1010007	Kaeya
+DungeonReminderData_Content_1010007	Speaking of which, did you know?
+DungeonReminderData_Speaker_1010008	Kaeya
+DungeonReminderData_Content_1010008	Stormterror was once one of the Four Winds.
+DungeonReminderData_Speaker_1010009	Kaeya
+DungeonReminderData_Content_1010009	I'm not aware of the exact details. If you're interested you can ask the Acting Grandmaster about it.
+DungeonReminderData_Speaker_1010010	Amber
+DungeonReminderData_Content_1010010	This is the danger you put you put yourself in sleeping next to fireplaces.
+DungeonReminderData_Speaker_1011001	Mysterious Voice
+DungeonReminderData_Content_1011001	What are you lot doing! Stupid idiots!
+DungeonReminderData_Speaker_1011002	Kaeya
+DungeonReminderData_Content_1011002	You again! Just who are you? Get outta here!
+DungeonReminderData_Speaker_1002002	Paimon
+DungeonReminderData_Content_1002002	But it seems there is no road left to take...
+DungeonReminderData_Speaker_1002003	Amber
+DungeonReminderData_Content_1002003	It's easy, just burn off these vines and you're done!
+DungeonReminderData_Speaker_1002004	Amber
+DungeonReminderData_Content_1002004	It's decided!
+DungeonReminderData_Speaker_1002005	Amber
+DungeonReminderData_Content_1002005	Knights of Favonius tactics, the use of fire, have you learnt how to use them yet?
+DungeonReminderData_Speaker_1002006	Paimon
+DungeonReminderData_Content_1002006	Have you got it down?
+DungeonReminderData_Speaker_1002007	Amber
+DungeonReminderData_Content_1002007	You clearly have a bit of flair if you can keep up with me.
+DungeonReminderData_Speaker_1002008	Amber
+DungeonReminderData_Content_1002008	If you have any more trouble, you can always come find me!
+DungeonReminderData_Speaker_1031001	Amber
+DungeonReminderData_Content_1031001	It's so tall... Seems like there's something up there.
+DungeonReminderData_Speaker_1031002	Paimon
+DungeonReminderData_Content_1031002	But how do we get across?
+DungeonReminderData_Speaker_1031003	Paimon
+DungeonReminderData_Content_1031003	Isn't this...a "Pyro Monument"?
+DungeonReminderData_Speaker_1031004	Paimon
+DungeonReminderData_Content_1031004	If we hit it with some powerful Pyro attack, we might trigger it!
+DungeonReminderData_Speaker_1031005	Amber
+DungeonReminderData_Content_1031005	Looking at this color... Yes, it's a <color=#00E1FFFF>fire monument</color>, which means I can give it a go!
+DungeonReminderData_Speaker_1031006	Paimon
+DungeonReminderData_Content_1031006	 
+DungeonReminderData_Speaker_1032001	Paimon
+DungeonReminderData_Content_1032001	Dragon's breath! Is that where the power is coming from?
+DungeonReminderData_Speaker_1032002	Amber
+DungeonReminderData_Content_1032002	Great, let's smash it!
+DungeonReminderData_Speaker_1032003	Paimon
+DungeonReminderData_Content_1032003	Oh~ Well we can't fall behind either, {主角名}!
+DungeonReminderData_Speaker_1032004	Lisa
+DungeonReminderData_Content_1032004	Once I deal to it, I can head back to the library, right?
+DungeonReminderData_Speaker_1013001	Paimon
+DungeonReminderData_Content_1013001	With this many monsters defending the treasure chest, it could get a little tricky this time round
+DungeonReminderData_Speaker_1013002	Lisa
+DungeonReminderData_Content_1013002	Don't worry, I'm better at dealing with monsters all bunched up together!
+DungeonReminderData_Speaker_1013003	Lisa
+DungeonReminderData_Content_1013003	Just let me teach you how to use lightning
+DungeonReminderData_Speaker_1014001	Lisa
+DungeonReminderData_Content_1014001	One touch of my lightning skills can cause fire monsters to burn up
+DungeonReminderData_Speaker_1015001	Lisa
+DungeonReminderData_Content_1015001	Not only that, but lightning can also slow wet enemies
+DungeonReminderData_Speaker_1016001	Lisa
+DungeonReminderData_Content_1016001	If you know how to use lightning, you'll be much stronger
+DungeonReminderData_Speaker_1017001	Paimon
+DungeonReminderData_Content_1017001	Uh-oh, they're going to rush us
+DungeonReminderData_Speaker_1017002	Lisa
+DungeonReminderData_Content_1017002	Look closely at your surroundings, and bring them into the water
+DungeonReminderData_Speaker_1017003	Lisa
+DungeonReminderData_Content_1017003	Release a lightning skill against monsters in the water, and they'll be paralyzed
+DungeonReminderData_Speaker_1018001	Lisa
+DungeonReminderData_Content_1018001	Nicely done! You're a natural. Let's go grab that treasure chest!
+DungeonReminderData_Speaker_1018002	Lisa
+DungeonReminderData_Content_1018002	If we're all done here, we can use the Teleportation Stone over there to go home!
+DungeonReminderData_Speaker_1019001	Paimon
+DungeonReminderData_Content_1019001	Darn it! We've startled more monsters, they're headed our way
+DungeonReminderData_Speaker_1019002	Paimon
+DungeonReminderData_Content_1019002	Take note of their formation, look for a weak spot!
+DungeonReminderData_Speaker_1021001	Paimon
+DungeonReminderData_Content_1021001	Those soldiers must have gone into the ruins.
+DungeonReminderData_Speaker_1021002	Barbara
+DungeonReminderData_Content_1021002	Let's head inside and see!
+DungeonReminderData_Speaker_1022001	Barbara
+DungeonReminderData_Content_1022001	Oh no! The soldier lying just ahead seems to be injured. Quick, let's go check on him!
+DungeonReminderData_Speaker_1023001	Paimon
+DungeonReminderData_Content_1023001	There's next to no trace of any Hilichurl having lived here. Seems they haven't been here long.
+DungeonReminderData_Speaker_1023002	Barbara
+DungeonReminderData_Content_1023002	Or perhaps it's because of Stormterror. The Hilichurl tribes are getting bolder
+DungeonReminderData_Speaker_1024001	Barbara
+DungeonReminderData_Content_1024001	Oh, yes! I found another survivor!
+DungeonReminderData_Speaker_1025001	Paimon
+DungeonReminderData_Content_1025001	Don't force yourself. If you're too tired we can rest a while just up ahead
+DungeonReminderData_Speaker_1026001	Paimon
+DungeonReminderData_Content_1026001	Seems there's some sort of noise coming from deeper inside... Is it... chanting?
+DungeonReminderData_Speaker_1027001	Barbara
+DungeonReminderData_Content_1027001	The sound is getting louder, they're definitely inside!
+DungeonReminderData_Speaker_1028001	Barbara
+DungeonReminderData_Content_1028001	Even here the Hilichurl have taken hostages!
+DungeonReminderData_Speaker_1028002	Paimon
+DungeonReminderData_Content_1028002	Quiet, don't let them hear you. Seems we still have a chance to take them by surprise...
+DungeonReminderData_Speaker_1029001	Barbara
+DungeonReminderData_Content_1029001	This dungeon is absolutely huge! I wonder who built it...
+DungeonReminderData_Speaker_1029002	Paimon
+DungeonReminderData_Content_1029002	The last remaining memory of a long forgotten civilization. Perhaps one of the archaeologists will know more about it.
+DungeonReminderData_Speaker_1030001	Paimon
+DungeonReminderData_Content_1030001	And just like that, a <color=#00E1FFFF>wind column</color>. Perhaps we can use it to fly across!
+DungeonReminderData_Speaker_1033001	Paimon
+DungeonReminderData_Content_1033001	Where are you off to? Don't go running away, we're not done yet!
+DungeonReminderData_Speaker_1033002	Paimon
+DungeonReminderData_Content_1033002	This area has been sealed off by some mysterious power. We're not going to be able to force our way through
+DungeonReminderData_Speaker_1033003	Paimon
+DungeonReminderData_Content_1033003	Are you trying to get yourself locked up?
+DungeonReminderData_Speaker_1034001	Paimon
+DungeonReminderData_Content_1034001	Oh! Paimon felt it! The Anemo Slimes left by Stormterror are definitely there!
+DungeonReminderData_Speaker_1035001	Paimon
+DungeonReminderData_Content_1035001	That was too close!
+DungeonReminderData_Speaker_1035002	Kaeya
+DungeonReminderData_Content_1035002	True, I can deal with flames, but I still have nothing on <color=#00E1FFFF>people with Hydro abilities</color>
+DungeonReminderData_Speaker_1036001	Paimon
+DungeonReminderData_Content_1036001	Is that the thing the Stormterror uses to gain its power?
+DungeonReminderData_Speaker_1036002	Kaeya
+DungeonReminderData_Content_1036002	Possibly. Let's get to it.
+DungeonReminderData_Speaker_1037001	Lisa
+DungeonReminderData_Content_1037001	Chain damage can be set off between Electro-Charged opponents.
+DungeonReminderData_Speaker_1037002	Lisa
+DungeonReminderData_Content_1037002	The electrical discharge caused by friction is only a little less shocking than love at first sight.
+DungeonReminderData_Speaker_1037003	Lisa
+DungeonReminderData_Content_1037003	And my Ultimate is at its finest in these kinds of environments.
+DungeonReminderData_Speaker_1038002	Kaeya
+DungeonReminderData_Content_1038002	I'm not too sure, but I think if I <color=#00E1FFFF>move carefully</color>, I should be able to do it!
+DungeonReminderData_Speaker_1039001	Mysterious Voice
+DungeonReminderData_Content_1039001	Aldon Abramig Od Quasaba
+DungeonReminderData_Speaker_1039002	Mysterious Voice
+DungeonReminderData_Content_1039002	Ika yaya！Upa sada kundala
+DungeonReminderData_Speaker_1039003	Paimon
+DungeonReminderData_Content_1039003	That's that sound?
+DungeonReminderData_Speaker_1039004	Paimon
+DungeonReminderData_Content_1039004	The wind doesn't reach this far, but it seems there is a wind current over to the right!
+DungeonReminderData_Speaker_1039005	Kaeya
+DungeonReminderData_Content_1039005	If I'm not mistaken, the end of the temple should be there.
+DungeonReminderData_Speaker_1039006	Paimon
+DungeonReminderData_Content_1039006	Wait... why?
+DungeonReminderData_Speaker_1039007	Kaeya
+DungeonReminderData_Content_1039007	Experience.
+DungeonReminderData_Speaker_1039008	Kaeya
+DungeonReminderData_Content_1039008	...The kind of experience you get after years of looking after others.
+DungeonReminderData_Speaker_1039009	Kaeya
+DungeonReminderData_Content_1039009	It's the sound of Hilichurl footsteps. Get ready for a fight.
+DungeonReminderData_Speaker_1039010	Paimon
+DungeonReminderData_Content_1039010	It's the sound of Hilichurl footsteps. Get ready for a fight.
+DungeonReminderData_Speaker_1039011	Kaeya
+DungeonReminderData_Content_1039011	I can hear Hilichurl footsteps. Leave the fighting to me, you focus on protecting yourselves.
+DungeonReminderData_Speaker_1039012	Paimon
+DungeonReminderData_Content_1039012	It seems he didn't hear... How strange, {主角名}...
+DungeonReminderData_Speaker_1041001	Lisa
+DungeonReminderData_Content_1041001	I knew it. There are strong elemental reactions at the end of this temple.
+DungeonReminderData_Speaker_1041002	Lisa
+DungeonReminderData_Content_1041002	Paimon, are you able to float across?
+DungeonReminderData_Speaker_1041003	Paimon
+DungeonReminderData_Content_1041003	I can't do much even if I get there.
+DungeonReminderData_Speaker_1041004	Lisa
+DungeonReminderData_Content_1041004	Good point. We'd better start looking for a way to get to it then.
+DungeonReminderData_Speaker_1041005	Lisa
+DungeonReminderData_Content_1041005	I need to give it a good go too.
+DungeonReminderData_Speaker_1041011	Lisa
+DungeonReminderData_Content_1041011	Let's head up on this wind.
+DungeonReminderData_Speaker_1041021	Paimon
+DungeonReminderData_Content_1041021	It's a wind current! Seems the road heads that way too. Let's go!
+DungeonReminderData_Speaker_1041022	Lisa
+DungeonReminderData_Content_1041022	Oh, you want to know about this gem?
+DungeonReminderData_Speaker_1041023	Lisa
+DungeonReminderData_Content_1041023	You're kidding... You're seriously asking? This is a Vision.
+DungeonReminderData_Speaker_1041024	Lisa
+DungeonReminderData_Content_1041024	It's used by the chosen to draw out elemental power.
+DungeonReminderData_Speaker_1041025	Lisa
+DungeonReminderData_Content_1041025	In terms of mysticism, I suppose you could call it a magical device of sorts.
+DungeonReminderData_Speaker_1041026	Lisa
+DungeonReminderData_Content_1041026	What... You've never ever seen a Vision. Where are you even from...
+DungeonReminderData_Speaker_1041027	Lisa
+DungeonReminderData_Content_1041027	Is it a Hilichurl with some level of reasonable intelligence?
+DungeonReminderData_Speaker_1041028	Lisa
+DungeonReminderData_Content_1041028	No, I doubt it. After all, Hilichurl aren't exactly known for their smarts.
+DungeonReminderData_Speaker_1041029	Lisa
+DungeonReminderData_Content_1041029	And you, you'd more or less qualify to be a magister's apprentice.
+DungeonReminderData_Speaker_1041031	Paimon
+DungeonReminderData_Content_1041031	Hey, a treasure chest, where did that come from...
+DungeonReminderData_Speaker_1041041	Lisa
+DungeonReminderData_Content_1041041	Leave it to me.
+DungeonReminderData_Speaker_1041042	Lisa
+DungeonReminderData_Content_1041042	When it comes to Wet enemies, I've got them covered.
+DungeonReminderData_Speaker_1041051	Lisa
+DungeonReminderData_Content_1041051	Going on that feeling, I say we overload them and take 'em down one by one.
+DungeonReminderData_Speaker_1041061	Paimon
+DungeonReminderData_Content_1041061	Oh crap, they're coming for us.
+DungeonReminderData_Speaker_1041071	Lisa
+DungeonReminderData_Content_1041071	With wet enemies, just one zap of lightning has them entirely paralyzed.
+DungeonReminderData_Speaker_1041072	Lisa
+DungeonReminderData_Content_1041072	It's a wind current. Let's head up from here.
+DungeonReminderData_Speaker_1041073	Lisa
+DungeonReminderData_Content_1041073	Of course, if we get wet then we're in the exact same danger.
+DungeonReminderData_Speaker_1041081	Paimon
+DungeonReminderData_Content_1041081	So many monsters! This'll be tough to handle. 
+DungeonReminderData_Speaker_1041091	Paimon
+DungeonReminderData_Content_1041091	Water! We can use it to set off chain damage between enemies.
+DungeonReminderData_Speaker_1041092	Paimon
+DungeonReminderData_Content_1041092	Electrifying wet enemies will help to do lots more damage.
+DungeonReminderData_Speaker_1041093	Lisa
+DungeonReminderData_Content_1041093	It's an "Electro Monument." No wonder.
+DungeonReminderData_Speaker_1041094	Lisa
+DungeonReminderData_Content_1041094	Let me try to activate it with the power of lightning. Watch out.
+DungeonReminderData_Speaker_1041101	Paimon
+DungeonReminderData_Content_1041101	My element is at its best in these environments.
+DungeonReminderData_Speaker_1041102	Paimon
+DungeonReminderData_Content_1041102	In water, lightning is best for taking out large groups of enemies!
+DungeonReminderData_Speaker_1041111	Paimon
+DungeonReminderData_Content_1041111	Just ahead is a Storm Crystal.
+DungeonReminderData_Speaker_1041112	Lisa
+DungeonReminderData_Content_1041112	Break it and we can head home and relax.
+DungeonReminderData_Speaker_1041113	Lisa
+DungeonReminderData_Content_1041113	The thought of kicking back and relax has me all fired up!
+DungeonReminderData_Speaker_1041114	Lisa
+DungeonReminderData_Content_1041114	Once we arrive at that temple we'll be done, right?
+DungeonReminderData_Speaker_1042001	Lisa
+DungeonReminderData_Content_1042001	Wow, it really is spectacular, but I don't think we'll get through easy on these wind currents
+DungeonReminderData_Speaker_1042002	Paimon
+DungeonReminderData_Content_1042002	Hey hey hey! We can't go that way yet!
+DungeonReminderData_Speaker_1042003	Paimon
+DungeonReminderData_Content_1042003	Hey wait! Not that way!
+DungeonReminderData_Speaker_1042011	Lisa
+DungeonReminderData_Content_1042011	You're passed the first one! Keep going!
+DungeonReminderData_Speaker_1042021	Lisa
+DungeonReminderData_Content_1042021	We need to find a place to rest. Looks like we won't be able to finish this in one go.
+DungeonReminderData_Speaker_1042031	Lisa
+DungeonReminderData_Content_1042031	The end is just ahead. Watch out! There's a Hilichurl lining you up!
+DungeonReminderData_Speaker_1042041	Lisa
+DungeonReminderData_Content_1042041	Argh, this is really hard
+DungeonReminderData_Speaker_1042051	Lisa
+DungeonReminderData_Content_1042051	There's a wind current we can ride!
+DungeonReminderData_Speaker_1042052	Lisa
+DungeonReminderData_Content_1042052	There's a door off to the side, not sure what's behind it
+DungeonReminderData_Speaker_1042061	Lisa
+DungeonReminderData_Content_1042061	There's a wind current we can ride!
+DungeonReminderData_Speaker_1042062	Lisa
+DungeonReminderData_Content_1042062	Oh, looks like that opened that side door
+DungeonReminderData_Speaker_1042071	Lisa
+DungeonReminderData_Content_1042071	Looks like we can fly across
+DungeonReminderData_Speaker_1042081	Lisa
+DungeonReminderData_Content_1042081	Argh! A Slime just dropped in out of nowhere!
+DungeonReminderData_Speaker_1042091	Lisa
+DungeonReminderData_Content_1042091	I think I just heard a door open.
+DungeonReminderData_Speaker_1042092	Lisa
+DungeonReminderData_Content_1042092	So it turns out we can get there quickly from here
+DungeonReminderData_Speaker_1042093	Lisa
+DungeonReminderData_Content_1042093	There's a switch over here, let's see what it does
+DungeonReminderData_Speaker_1042094	Lisa
+DungeonReminderData_Content_1042094	Wow, look! Lots of Water Amber appeared down below!
+DungeonReminderData_Speaker_1042095	Lisa
+DungeonReminderData_Content_1042095	Well that's finally resolved. Let's head to our last objective!
+DungeonReminderData_Speaker_1042096	Lisa
+DungeonReminderData_Content_1042096	Watch out!
+DungeonReminderData_Speaker_1042097	Lisa
+DungeonReminderData_Content_1042097	What!? There's two of them! Be careful!
+DungeonReminderData_Speaker_1042098	Lisa
+DungeonReminderData_Content_1042098	The movement platform is over there! (Lacking a movement platform and cutscene performance)
+DungeonReminderData_Speaker_10060101	Paimon
+DungeonReminderData_Content_10060101	That guy over there seems familiar, I feel like I've seen him before. Let's head over and ask him!
+DungeonReminderData_Speaker_10060201	Jean
+DungeonReminderData_Content_10060201	Hmmm... The <color=#00E1FFFF>doors on both sides</color> are open, but how do we get in?
+DungeonReminderData_Speaker_10060202	Amber
+DungeonReminderData_Content_10060202	It's no problem for me
+DungeonReminderData_Speaker_10060301	 
+DungeonReminderData_Content_10060301	Wise adventurer, congratulations on beating the thorn maze
+DungeonReminderData_Speaker_10060401	 
+DungeonReminderData_Content_10060401	Everything you see before you is the key to<color=#00E1FFFF>starting your trial</color>. Once you are ready you can begin your journey
+DungeonReminderData_Speaker_10060501	 
+DungeonReminderData_Content_10060501	Congratulations on completing the first round of trials. Take a rest, and when you are ready, you can <color=#00E1FFFF>start the second round</color>.
+DungeonReminderData_Speaker_10060601	 
+DungeonReminderData_Content_10060601	Trying to <color=#00E1FFFF>kill Water monsters</color> is pointless. Here, because of the Ice Slimes, Water monsters will keep <color=#00E1FFFF>spawning</color>.
+DungeonReminderData_Speaker_10060602	Amber
+DungeonReminderData_Content_10060602	These Water monsters are so annoying! It's because of them that we keep getting frozen
+DungeonReminderData_Speaker_10060603	Jean
+DungeonReminderData_Content_10060603	Don't fret, let me think of something. Perhaps we can <color=#00E1FFFF>blow the Water monsters into the thorns to slow their advance</color>
+DungeonReminderData_Speaker_10060701	 
+DungeonReminderData_Content_10060701	Nice work! Well done on passing the second round of trials. Are you ready to take on the <color=#00E1FFFF>Final Trial</color>?
+DungeonReminderData_Speaker_10060801	 
+DungeonReminderData_Content_10060801	Wow! You've left such an impression on me! Go. Go and claim your reward for completing the final trial!
+DungeonReminderData_Speaker_10060901	 
+DungeonReminderData_Content_10060901	Wow! You've conquered the hidden trial! I can't believe it! You are truly deserving of this treasure! Go and claim it!
+DungeonReminderData_Speaker_10060902	 
+DungeonReminderData_Content_10060902	Fearless warrior! Should you wish to grow stronger, don't hesitate to come back and take on the challenge again!
+DungeonReminderData_Speaker_10050101	Paimon
+DungeonReminderData_Content_10050101	Who's that over there? Let's go see what he's up to!
+DungeonReminderData_Speaker_10050201	 
+DungeonReminderData_Content_10050201	Welcome! Brave adventurer! Let's see what rewards you can reap today!
+DungeonReminderData_Speaker_10050301	 
+DungeonReminderData_Content_10050301	The paths of the First Trial are open to you. Take your pick! <color=#00E1FFFF>Show your courage and take your chosen path</color> to move forward.
+DungeonReminderData_Speaker_10050401	 
+DungeonReminderData_Content_10050401	Ah! You've chosen the <color=#00E1FFFF>Fire Trial</color>! Go forth, your trial awaits you!
+DungeonReminderData_Speaker_10050501	 
+DungeonReminderData_Content_10050501	Ah! You've chosen the <color=#00E1FFFF>Ice Trial</color>! Go forth, your trial awaits you!
+DungeonReminderData_Speaker_10050601	 
+DungeonReminderData_Content_10050601	Ah! You've chosen the <color=#00E1FFFF>Lightning Trial</color>! Go forth, your trial awaits you!
+DungeonReminderData_Speaker_10050701	 
+DungeonReminderData_Content_10050701	That wasn't easy! The paths of the Second Trial are open to you. Which will you pick? <color=#00E1FFFF>Move forth down your chosen path</color> to proceed.
+DungeonReminderData_Speaker_10050801	 
+DungeonReminderData_Content_10050801	Ah! You've chosen <color=#00E1FFFF>Fire Trial — Fury</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10050901	 
+DungeonReminderData_Content_10050901	Ah! You've chosen <color=#00E1FFFF>Fire Trial — Hurdle</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051001	 
+DungeonReminderData_Content_10051001	Ah! You've chosen <color=#00E1FFFF>Fire Trial — Symbiosis</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051101	 
+DungeonReminderData_Content_10051101	Ah! You've chosen <color=#00E1FFFF>Ice Trial — Fury</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051201	 
+DungeonReminderData_Content_10051201	Ah! You've chosen <color=#00E1FFFF>Ice Trial — Hurdle</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051301	 
+DungeonReminderData_Content_10051301	Ah! You've chosen <color=#00E1FFFF>Ice Trial — Symbiosis</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051401	 
+DungeonReminderData_Content_10051401	Ah! You've chosen <color=#00E1FFFF>Lightning Trial — Fury</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051501	 
+DungeonReminderData_Content_10051501	Ah! You've chosen <color=#00E1FFFF>Lightning Trial — Hurdle</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051601	 
+DungeonReminderData_Content_10051601	Ah! You've chosen <color=#00E1FFFF>Lightning Trial — Symbiosis</color>! Go forth and take on the challenge!
+DungeonReminderData_Speaker_10051701	 
+DungeonReminderData_Content_10051701	Convincing performance! These treasure chests are all yours. You're welcome back to the challenge any time!
+DungeonReminderData_Speaker_10051801	 
+DungeonReminderData_Content_10051801	Take a quick break. The next challenge is about to begin!
+DungeonReminderData_Speaker_10051802	 
+DungeonReminderData_Content_10051802	Taking on the Anemo Orbs right now is pointless. Perhaps, try a different approach...
+DungeonReminderData_Speaker_10051803	 
+DungeonReminderData_Content_10051803	Woah! Two more monsters! Definitely need to be careful!
+DungeonReminderData_Speaker_10051804	 
+DungeonReminderData_Content_10051804	The Anemo Orbs' invincibility has worn off. Give them everything you've got! Take 'em out to win!
+DungeonReminderData_Speaker_10051805	 
+DungeonReminderData_Content_10051805	Take on the Hero Trial above, brave adventurer!
+DungeonReminderData_Speaker_10051806	 
+DungeonReminderData_Content_10051806	I feel uneasy... Be careful.
+DungeonReminderData_Speaker_20010001	 
+DungeonReminderData_Content_20010001	There's wind currents connecting the platforms!
+DungeonReminderData_Speaker_20010002	 
+DungeonReminderData_Content_20010002	The wind currents connecting the platforms are getting weaker...
+DungeonReminderData_Speaker_20010003	 
+DungeonReminderData_Content_20010003	The wind currents connecting the platforms have died off
+DungeonReminderData_Speaker_20010004	Venti
+DungeonReminderData_Content_20010004	Look! There are <color=#00E1FFFF>two shining spots</color> on Dvalin!
+DungeonReminderData_Speaker_20010005	Venti
+DungeonReminderData_Content_20010005	That's the poisonous blood clots coagulated on the wound...
+DungeonReminderData_Speaker_20010006	Venti
+DungeonReminderData_Content_20010006	The Abyss Order focused on cursing the wound. That's what corrupts Dvalin's mind.
+DungeonReminderData_Speaker_20010007	Venti
+DungeonReminderData_Content_20010007	To save Dvalin, we first have to get rid of those <color=#00E1FFFF>blood clots</color>.
+DungeonReminderData_Speaker_20010008	Venti
+DungeonReminderData_Content_20010008	I can converge and condense Anemo powers in the storm, for you to unleash them.
+DungeonReminderData_Speaker_20010009	Venti
+DungeonReminderData_Content_20010009	This is a tactic that can only be used under special conditions.
+DungeonReminderData_Speaker_20010010	Venti
+DungeonReminderData_Content_20010010	Anemo, or Wind, can barely scratch Dvalin the Stormterror...
+DungeonReminderData_Speaker_20010011	Venti
+DungeonReminderData_Content_20010011	So let's aim at those shining blood clots!
+DungeonReminderData_Speaker_20010012	Abyss Order
+DungeonReminderData_Content_20010012	Following like nasty rats... how annoying.
+DungeonReminderData_Speaker_20010013	Abyss Order
+DungeonReminderData_Content_20010013	You can't stop the Abyss.
+DungeonReminderData_Speaker_20010014	Abyss Order
+DungeonReminderData_Content_20010014	Take them down.
+DungeonReminderData_Speaker_20010015	Abyss Order
+DungeonReminderData_Content_20010015	The power of Dvalin... is limitless! Hahaha!
+DungeonReminderData_Speaker_20010016	Venti
+DungeonReminderData_Content_20010016	Those monsters are annoying... Let's not waste any time and keep firing.
+DungeonReminderData_Speaker_20010017	Venti
+DungeonReminderData_Content_20010017	Good, let's clean out the <color=#00E1FFFF>poisonous blood</color>now!
+DungeonReminderData_Speaker_20010018	Venti
+DungeonReminderData_Content_20010018	We've gotten rid of them for now! Keep firing!
+DungeonReminderData_Speaker_20010019	Venti
+DungeonReminderData_Content_20010019	Humph... Don't have enough energy. Dvalin is getting away!
+DungeonReminderData_Speaker_20010020	Venti
+DungeonReminderData_Content_20010020	Darn! The Abyss Mages have disturbed the elemental flow!
+DungeonReminderData_Speaker_20010021	Venti
+DungeonReminderData_Content_20010021	Try to <color=#00E1FFFF>evade</color> their attacks while <color=#00E1FFFF>accumulating energy</color>!
+DungeonReminderData_Speaker_20010101	Mysterious Voice
+DungeonReminderData_Content_20010101	Brave adventurer. Up ahead is a forbidden land, for it is the cursed <color=#00E1FFFF>Fog Maze</color>
+DungeonReminderData_Speaker_20010102	Mysterious Voice
+DungeonReminderData_Content_20010102	Sacrifice the spirits of <color=#00E1FFFF>100</color> monsters to me, and I shall <color=#00E1FFFF>open the door to the treasure</color> for you.
+DungeonReminderData_Speaker_20010201	Mysterious Voice
+DungeonReminderData_Content_20010201	The monsters you killed have <color=#00E1FFFF>respawned</color>, and have become <color=#00E1FFFF>even stronger</color>!
+DungeonReminderData_Speaker_20010301	Mysterious Voice
+DungeonReminderData_Content_20010301	Ah! This area's treasure chests have been unsealed, and are now yours!
+DungeonReminderData_Speaker_20010401	Mysterious Voice
+DungeonReminderData_Content_20010401	<color=#00E1FFFF>25</color> spirits. Not bad. But you still have a long way to go!
+DungeonReminderData_Speaker_20010402	Mysterious Voice
+DungeonReminderData_Content_20010402	As a reward, I have placed a little something for you before the treasure door. I'm sure you will like it.
+DungeonReminderData_Speaker_20010501	Mysterious Voice
+DungeonReminderData_Content_20010501	You've sacrificed <color=#00E1FFFF>50</color> spirits! Do you wish to go on?
+DungeonReminderData_Speaker_20010502	Mysterious Voice
+DungeonReminderData_Content_20010502	I've left some incentive before the treasure door. I know you won't be disappointed!
+DungeonReminderData_Speaker_20010601	Mysterious Voice
+DungeonReminderData_Content_20010601	<color=#00E1FFFF>75</color> spirits! Oh, now you've woken the defender of the maze
+DungeonReminderData_Speaker_20010602	Mysterious Voice
+DungeonReminderData_Content_20010602	<color=#00E1FFFF>Look for the defender in the maze</color>! If you defeat him, you will have enough spirits to open the treasure door!
+DungeonReminderData_Speaker_20010603	Mysterious Voice
+DungeonReminderData_Content_20010603	Of course, you can also choose to leave. You can collect your reward from in front of the treasure door.
+DungeonReminderData_Speaker_20010701	Mysterious Voice
+DungeonReminderData_Content_20010701	<color=#00E1FFFF>100</color> spirits! <color=#00E1FFFF>100</color> spirits! I haven't been this satisfied in so long!
+DungeonReminderData_Speaker_20010702	Mysterious Voice
+DungeonReminderData_Content_20010702	Go. I've already opened the treasure door. These legendary treasures are all yours now!
+DungeonReminderData_Speaker_20010703	Mysterious Voice
+DungeonReminderData_Content_20010703	You're welcome back again any time!
+DungeonReminderData_Speaker_20010302	Mysterious Voice
+DungeonReminderData_Content_20010302	Should you come back, the monsters here will be even <color=#00E1FFFF>more difficult</color>!
+DungeonReminderData_Speaker_20011001	Paimon
+DungeonReminderData_Content_20011001	There are three stone seats here, each corresponding to a different <color=#00E1FFFF>element</color>. They may be hiding some sort of secret!
+DungeonReminderData_Speaker_20011002	Paimon
+DungeonReminderData_Content_20011002	Woah! Seems you got a reaction! There are still two more <color=#00E1FFFF>elemental monuments</color> that must also have hidden secrets. Wanna give them a go?
+DungeonReminderData_Speaker_20011003	Paimon
+DungeonReminderData_Content_20011003	Perhaps if all are opened, we might find something! Check out the last <color=#00E1FFFF>elemental monument</color> and see if we can get it open!
+DungeonReminderData_Speaker_20011004	Paimon
+DungeonReminderData_Content_20011004	There are three <color=#00E1FFFF>Pyro</color> monuments here, they may be hiding something secret!
+DungeonReminderData_Speaker_20011005	Paimon
+DungeonReminderData_Content_20011005	There are three <color=#00E1FFFF>Electro</color> monuments here, they may be hiding something secret!
+DungeonReminderData_Speaker_20011006	Paimon
+DungeonReminderData_Content_20011006	Seems like these monuments will deactivate automatically after a while. Perhaps they only work when activated at the same time?
+DungeonReminderData_Speaker_40010101	 
+DungeonReminderData_Content_40010101	Are you ready to take on the challenge? My monsters are already stirring!
+DungeonReminderData_Speaker_40010201	 
+DungeonReminderData_Content_40010201	You barely have time to breathe, but the next wave of monsters is already upon you!
+DungeonReminderData_Speaker_40010301	 
+DungeonReminderData_Content_40010301	You're impressive, but do you have what it takes to take me on?
+DungeonReminderData_Speaker_40010401	 
+DungeonReminderData_Content_40010401	Oh! You are powerful! But we've already got you trapped!
+DungeonReminderData_Speaker_10010101	Amber
+DungeonReminderData_Content_10010101	Oh no! The horn!
+DungeonReminderData_Speaker_10010102	Amber
+DungeonReminderData_Content_10010102	The fighting must have got them riled up.
+DungeonReminderData_Speaker_10010103	Amber
+DungeonReminderData_Content_10010103	This is why I've prepared my secret weapon: <color=#00E1FFFF>Explosive Puppet "Baron Bunny"</color>!
+DungeonReminderData_Speaker_10010201	Amber
+DungeonReminderData_Content_10010201	Are those...<color=#00E1FFFF>explosive barrels</color> over there?
+DungeonReminderData_Speaker_10010202	Amber
+DungeonReminderData_Content_10010202	Well...one shot should be able to blow them up.
+DungeonReminderData_Speaker_10010301	Paimon
+DungeonReminderData_Content_10010301	Seems the road ahead requires us to get on that platform.
+DungeonReminderData_Speaker_10010302	Kaeya
+DungeonReminderData_Content_10010302	Isn't this an...<color=#00E1FFFF>elemental monument</color>?
+DungeonReminderData_Speaker_10010303	Paimon
+DungeonReminderData_Content_10010303	Seems like it contains something...
+DungeonReminderData_Speaker_10010304	Kaeya
+DungeonReminderData_Content_10010304	Yea, seems these old monuments can be activated with the corresponding <color=#00E1FFFF>element</color>
+DungeonReminderData_Speaker_10010305	Kaeya
+DungeonReminderData_Content_10010305	Judging by the color, this should be an <color=#00E1FFFF>Ice monument</color>. Let me take care of it.
+DungeonReminderData_Speaker_10010306	Paimon
+DungeonReminderData_Content_10010306	
+DungeonReminderData_Speaker_20020101	Venti
+DungeonReminderData_Content_20020101	With the help of the best bard in the world, we are now on par with Dvalin.
+DungeonReminderData_Speaker_20020102	Venti
+DungeonReminderData_Content_20020102	But first, let me be clear...
+DungeonReminderData_Speaker_20020103	Venti
+DungeonReminderData_Content_20020103	Even after hundreds of years unattended, the teeth and claws of Dvalin are still dangerous.
+DungeonReminderData_Speaker_20020201	Venti
+DungeonReminderData_Content_20020201	A-ha, this is Dvalin's ace in the hole: Caelestinum Finale Termini!
+DungeonReminderData_Speaker_20020202	Venti
+DungeonReminderData_Content_20020202	Winds shall heed my call. Ride my wind currents between ruin platforms, and dodge Dvalin's attacks.
+DungeonReminderData_Speaker_20020203	Paimon
+DungeonReminderData_Content_20020203	... This dragon has a strange taste in naming.
+DungeonReminderData_Speaker_20020204	Venti
+DungeonReminderData_Content_20020204	I named it for him just now.
+DungeonReminderData_Speaker_20020205	Paimon
+DungeonReminderData_Content_20020205	 ...
+DungeonReminderData_Speaker_20020301	Venti
+DungeonReminderData_Content_20020301	Now is the time! Target the tainted blood clots on the neck!
+CityData_CityName_3	Mondstadt

@@ -1,0 +1,37 @@
+[
+  {
+    "stateName": "ElementBurning",
+    "stateType": 0,
+    "rank": 0
+  },
+  {
+    "stateName": "ElementWet",
+    "stateType": 0,
+    "rank": 0
+  },
+  {
+    "stateName": "ElementGrassGrowing",
+    "stateType": 0,
+    "rank": 0
+  },
+  {
+    "stateName": "ElementFrozen",
+    "stateType": 1,
+    "rank": 1
+  },
+  {
+    "stateName": "Paralyze",
+    "stateType": 1,
+    "rank": 2
+  },
+  {
+    "stateName": "LockHP",
+    "stateType": 0,
+    "rank": 0
+  },
+  {
+    "stateName": "ElementShock",
+    "stateType": 0,
+    "rank": 0
+  }
+]

@@ -1,0 +1,59 @@
+{
+    "_phaseList": [],
+    "_zoneList": [
+        {
+            "_timeSpan": {
+                "x": 0.025800000876188279,
+                "y": 2.0833334922790529
+            },
+            "_name": "RightFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 0.025800000876188279,
+                "y": 2.0833334922790529
+            },
+            "_name": "LeftFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 1.3333334922790528,
+                "y": 2.0833334922790529
+            },
+            "_name": "Idle",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,4279 @@
+[
+  {
+    "rank": 0,
+    "level": 1,
+    "exp": 0,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 40
+      },
+      {
+        "propType": 3,
+        "value": 0.03
+      },
+      {
+        "propType": 5,
+        "value": 3
+      },
+      {
+        "propType": 6,
+        "value": 0.03
+      },
+      {
+        "propType": 8,
+        "value": 2
+      },
+      {
+        "propType": 9,
+        "value": 0.03
+      },
+      {
+        "propType": 20,
+        "value": 0.01
+      },
+      {
+        "propType": 22,
+        "value": 0.03
+      },
+      {
+        "propType": 23,
+        "value": 0.01
+      },
+      {
+        "propType": 26,
+        "value": 0.01
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 1,
+    "exp": 1500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 45
+      },
+      {
+        "propType": 3,
+        "value": 0.03
+      },
+      {
+        "propType": 5,
+        "value": 3
+      },
+      {
+        "propType": 6,
+        "value": 0.03
+      },
+      {
+        "propType": 8,
+        "value": 2
+      },
+      {
+        "propType": 9,
+        "value": 0.03
+      },
+      {
+        "propType": 20,
+        "value": 0.01
+      },
+      {
+        "propType": 22,
+        "value": 0.03
+      },
+      {
+        "propType": 23,
+        "value": 0.01
+      },
+      {
+        "propType": 26,
+        "value": 0.01
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 2,
+    "exp": 3000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 55
+      },
+      {
+        "propType": 3,
+        "value": 0.04
+      },
+      {
+        "propType": 5,
+        "value": 4
+      },
+      {
+        "propType": 6,
+        "value": 0.04
+      },
+      {
+        "propType": 8,
+        "value": 3
+      },
+      {
+        "propType": 9,
+        "value": 0.04
+      },
+      {
+        "propType": 20,
+        "value": 0.02
+      },
+      {
+        "propType": 22,
+        "value": 0.04
+      },
+      {
+        "propType": 23,
+        "value": 0.02
+      },
+      {
+        "propType": 26,
+        "value": 0.02
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 3,
+    "exp": 4500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 64
+      },
+      {
+        "propType": 3,
+        "value": 0.05
+      },
+      {
+        "propType": 5,
+        "value": 5
+      },
+      {
+        "propType": 6,
+        "value": 0.05
+      },
+      {
+        "propType": 8,
+        "value": 4
+      },
+      {
+        "propType": 9,
+        "value": 0.05
+      },
+      {
+        "propType": 20,
+        "value": 0.03
+      },
+      {
+        "propType": 22,
+        "value": 0.05
+      },
+      {
+        "propType": 23,
+        "value": 0.03
+      },
+      {
+        "propType": 26,
+        "value": 0.03
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 4,
+    "exp": 6000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 74
+      },
+      {
+        "propType": 3,
+        "value": 0.06
+      },
+      {
+        "propType": 5,
+        "value": 6
+      },
+      {
+        "propType": 6,
+        "value": 0.06
+      },
+      {
+        "propType": 8,
+        "value": 5
+      },
+      {
+        "propType": 9,
+        "value": 0.06
+      },
+      {
+        "propType": 20,
+        "value": 0.04
+      },
+      {
+        "propType": 22,
+        "value": 0.06
+      },
+      {
+        "propType": 23,
+        "value": 0.04
+      },
+      {
+        "propType": 26,
+        "value": 0.04
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 5,
+    "exp": 7500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 84
+      },
+      {
+        "propType": 3,
+        "value": 0.07
+      },
+      {
+        "propType": 5,
+        "value": 7
+      },
+      {
+        "propType": 6,
+        "value": 0.07
+      },
+      {
+        "propType": 8,
+        "value": 6
+      },
+      {
+        "propType": 9,
+        "value": 0.07
+      },
+      {
+        "propType": 20,
+        "value": 0.05
+      },
+      {
+        "propType": 22,
+        "value": 0.07
+      },
+      {
+        "propType": 23,
+        "value": 0.05
+      },
+      {
+        "propType": 26,
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 6,
+    "exp": 9000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 94
+      },
+      {
+        "propType": 3,
+        "value": 0.08
+      },
+      {
+        "propType": 5,
+        "value": 8
+      },
+      {
+        "propType": 6,
+        "value": 0.08
+      },
+      {
+        "propType": 8,
+        "value": 7
+      },
+      {
+        "propType": 9,
+        "value": 0.08
+      },
+      {
+        "propType": 20,
+        "value": 0.06
+      },
+      {
+        "propType": 22,
+        "value": 0.08
+      },
+      {
+        "propType": 23,
+        "value": 0.06
+      },
+      {
+        "propType": 26,
+        "value": 0.06
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 7,
+    "exp": 10500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 104
+      },
+      {
+        "propType": 3,
+        "value": 0.09
+      },
+      {
+        "propType": 5,
+        "value": 9
+      },
+      {
+        "propType": 6,
+        "value": 0.09
+      },
+      {
+        "propType": 8,
+        "value": 8
+      },
+      {
+        "propType": 9,
+        "value": 0.09
+      },
+      {
+        "propType": 20,
+        "value": 0.07
+      },
+      {
+        "propType": 22,
+        "value": 0.09
+      },
+      {
+        "propType": 23,
+        "value": 0.07
+      },
+      {
+        "propType": 26,
+        "value": 0.07
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 8,
+    "exp": 12000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 114
+      },
+      {
+        "propType": 3,
+        "value": 0.1
+      },
+      {
+        "propType": 5,
+        "value": 10
+      },
+      {
+        "propType": 6,
+        "value": 0.1
+      },
+      {
+        "propType": 8,
+        "value": 9
+      },
+      {
+        "propType": 9,
+        "value": 0.1
+      },
+      {
+        "propType": 20,
+        "value": 0.08
+      },
+      {
+        "propType": 22,
+        "value": 0.1
+      },
+      {
+        "propType": 23,
+        "value": 0.08
+      },
+      {
+        "propType": 26,
+        "value": 0.08
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 9,
+    "exp": 13500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 123
+      },
+      {
+        "propType": 3,
+        "value": 0.11
+      },
+      {
+        "propType": 5,
+        "value": 11
+      },
+      {
+        "propType": 6,
+        "value": 0.11
+      },
+      {
+        "propType": 8,
+        "value": 10
+      },
+      {
+        "propType": 9,
+        "value": 0.11
+      },
+      {
+        "propType": 20,
+        "value": 0.09
+      },
+      {
+        "propType": 22,
+        "value": 0.11
+      },
+      {
+        "propType": 23,
+        "value": 0.09
+      },
+      {
+        "propType": 26,
+        "value": 0.09
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "level": 10,
+    "exp": 0,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 133
+      },
+      {
+        "propType": 3,
+        "value": 0.12
+      },
+      {
+        "propType": 5,
+        "value": 12
+      },
+      {
+        "propType": 6,
+        "value": 0.12
+      },
+      {
+        "propType": 8,
+        "value": 11
+      },
+      {
+        "propType": 9,
+        "value": 0.12
+      },
+      {
+        "propType": 20,
+        "value": 0.1
+      },
+      {
+        "propType": 22,
+        "value": 0.12
+      },
+      {
+        "propType": 23,
+        "value": 0.1
+      },
+      {
+        "propType": 26,
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 1,
+    "exp": 2000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 103
+      },
+      {
+        "propType": 3,
+        "value": 0.05
+      },
+      {
+        "propType": 5,
+        "value": 8
+      },
+      {
+        "propType": 6,
+        "value": 0.05
+      },
+      {
+        "propType": 8,
+        "value": 7
+      },
+      {
+        "propType": 9,
+        "value": 0.05
+      },
+      {
+        "propType": 20,
+        "value": 0.03
+      },
+      {
+        "propType": 22,
+        "value": 0.04
+      },
+      {
+        "propType": 23,
+        "value": 0.03
+      },
+      {
+        "propType": 26,
+        "value": 0.03
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 2,
+    "exp": 4000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 126
+      },
+      {
+        "propType": 3,
+        "value": 0.06
+      },
+      {
+        "propType": 5,
+        "value": 9
+      },
+      {
+        "propType": 6,
+        "value": 0.06
+      },
+      {
+        "propType": 8,
+        "value": 8
+      },
+      {
+        "propType": 9,
+        "value": 0.06
+      },
+      {
+        "propType": 20,
+        "value": 0.04
+      },
+      {
+        "propType": 22,
+        "value": 0.05
+      },
+      {
+        "propType": 23,
+        "value": 0.04
+      },
+      {
+        "propType": 26,
+        "value": 0.04
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 3,
+    "exp": 6000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 148
+      },
+      {
+        "propType": 3,
+        "value": 0.07
+      },
+      {
+        "propType": 5,
+        "value": 11
+      },
+      {
+        "propType": 6,
+        "value": 0.07
+      },
+      {
+        "propType": 8,
+        "value": 10
+      },
+      {
+        "propType": 9,
+        "value": 0.07
+      },
+      {
+        "propType": 20,
+        "value": 0.05
+      },
+      {
+        "propType": 22,
+        "value": 0.05
+      },
+      {
+        "propType": 23,
+        "value": 0.05
+      },
+      {
+        "propType": 26,
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 4,
+    "exp": 8000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 171
+      },
+      {
+        "propType": 3,
+        "value": 0.08
+      },
+      {
+        "propType": 5,
+        "value": 12
+      },
+      {
+        "propType": 6,
+        "value": 0.08
+      },
+      {
+        "propType": 8,
+        "value": 11
+      },
+      {
+        "propType": 9,
+        "value": 0.08
+      },
+      {
+        "propType": 20,
+        "value": 0.06
+      },
+      {
+        "propType": 22,
+        "value": 0.06
+      },
+      {
+        "propType": 23,
+        "value": 0.06
+      },
+      {
+        "propType": 26,
+        "value": 0.06
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 5,
+    "exp": 10000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 194
+      },
+      {
+        "propType": 3,
+        "value": 0.09
+      },
+      {
+        "propType": 5,
+        "value": 14
+      },
+      {
+        "propType": 6,
+        "value": 0.09
+      },
+      {
+        "propType": 8,
+        "value": 13
+      },
+      {
+        "propType": 9,
+        "value": 0.09
+      },
+      {
+        "propType": 20,
+        "value": 0.07
+      },
+      {
+        "propType": 22,
+        "value": 0.07
+      },
+      {
+        "propType": 23,
+        "value": 0.07
+      },
+      {
+        "propType": 26,
+        "value": 0.07
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 6,
+    "exp": 12000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 217
+      },
+      {
+        "propType": 3,
+        "value": 0.1
+      },
+      {
+        "propType": 5,
+        "value": 16
+      },
+      {
+        "propType": 6,
+        "value": 0.1
+      },
+      {
+        "propType": 8,
+        "value": 14
+      },
+      {
+        "propType": 9,
+        "value": 0.1
+      },
+      {
+        "propType": 20,
+        "value": 0.08
+      },
+      {
+        "propType": 22,
+        "value": 0.08
+      },
+      {
+        "propType": 23,
+        "value": 0.08
+      },
+      {
+        "propType": 26,
+        "value": 0.08
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 7,
+    "exp": 14000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 239
+      },
+      {
+        "propType": 3,
+        "value": 0.11
+      },
+      {
+        "propType": 5,
+        "value": 17
+      },
+      {
+        "propType": 6,
+        "value": 0.11
+      },
+      {
+        "propType": 8,
+        "value": 16
+      },
+      {
+        "propType": 9,
+        "value": 0.11
+      },
+      {
+        "propType": 20,
+        "value": 0.09
+      },
+      {
+        "propType": 22,
+        "value": 0.09
+      },
+      {
+        "propType": 23,
+        "value": 0.09
+      },
+      {
+        "propType": 26,
+        "value": 0.09
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 8,
+    "exp": 16000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 262
+      },
+      {
+        "propType": 3,
+        "value": 0.12
+      },
+      {
+        "propType": 5,
+        "value": 19
+      },
+      {
+        "propType": 6,
+        "value": 0.12
+      },
+      {
+        "propType": 8,
+        "value": 18
+      },
+      {
+        "propType": 9,
+        "value": 0.12
+      },
+      {
+        "propType": 20,
+        "value": 0.1
+      },
+      {
+        "propType": 22,
+        "value": 0.09
+      },
+      {
+        "propType": 23,
+        "value": 0.1
+      },
+      {
+        "propType": 26,
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 9,
+    "exp": 18000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 285
+      },
+      {
+        "propType": 3,
+        "value": 0.13
+      },
+      {
+        "propType": 5,
+        "value": 20
+      },
+      {
+        "propType": 6,
+        "value": 0.13
+      },
+      {
+        "propType": 8,
+        "value": 19
+      },
+      {
+        "propType": 9,
+        "value": 0.13
+      },
+      {
+        "propType": 20,
+        "value": 0.11
+      },
+      {
+        "propType": 22,
+        "value": 0.1
+      },
+      {
+        "propType": 23,
+        "value": 0.11
+      },
+      {
+        "propType": 26,
+        "value": 0.11
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 10,
+    "exp": 20000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 308
+      },
+      {
+        "propType": 3,
+        "value": 0.14
+      },
+      {
+        "propType": 5,
+        "value": 22
+      },
+      {
+        "propType": 6,
+        "value": 0.14
+      },
+      {
+        "propType": 8,
+        "value": 21
+      },
+      {
+        "propType": 9,
+        "value": 0.14
+      },
+      {
+        "propType": 20,
+        "value": 0.12
+      },
+      {
+        "propType": 22,
+        "value": 0.11
+      },
+      {
+        "propType": 23,
+        "value": 0.12
+      },
+      {
+        "propType": 26,
+        "value": 0.12
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 11,
+    "exp": 22000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 330
+      },
+      {
+        "propType": 3,
+        "value": 0.15
+      },
+      {
+        "propType": 5,
+        "value": 24
+      },
+      {
+        "propType": 6,
+        "value": 0.15
+      },
+      {
+        "propType": 8,
+        "value": 22
+      },
+      {
+        "propType": 9,
+        "value": 0.15
+      },
+      {
+        "propType": 20,
+        "value": 0.13
+      },
+      {
+        "propType": 22,
+        "value": 0.12
+      },
+      {
+        "propType": 23,
+        "value": 0.13
+      },
+      {
+        "propType": 26,
+        "value": 0.13
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 12,
+    "exp": 24000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 353
+      },
+      {
+        "propType": 3,
+        "value": 0.16
+      },
+      {
+        "propType": 5,
+        "value": 25
+      },
+      {
+        "propType": 6,
+        "value": 0.16
+      },
+      {
+        "propType": 8,
+        "value": 24
+      },
+      {
+        "propType": 9,
+        "value": 0.16
+      },
+      {
+        "propType": 20,
+        "value": 0.14
+      },
+      {
+        "propType": 22,
+        "value": 0.13
+      },
+      {
+        "propType": 23,
+        "value": 0.14
+      },
+      {
+        "propType": 26,
+        "value": 0.14
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 13,
+    "exp": 26000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 376
+      },
+      {
+        "propType": 3,
+        "value": 0.17
+      },
+      {
+        "propType": 5,
+        "value": 27
+      },
+      {
+        "propType": 6,
+        "value": 0.17
+      },
+      {
+        "propType": 8,
+        "value": 25
+      },
+      {
+        "propType": 9,
+        "value": 0.17
+      },
+      {
+        "propType": 20,
+        "value": 0.15
+      },
+      {
+        "propType": 22,
+        "value": 0.13
+      },
+      {
+        "propType": 23,
+        "value": 0.15
+      },
+      {
+        "propType": 26,
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 14,
+    "exp": 28000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 399
+      },
+      {
+        "propType": 3,
+        "value": 0.18
+      },
+      {
+        "propType": 5,
+        "value": 28
+      },
+      {
+        "propType": 6,
+        "value": 0.18
+      },
+      {
+        "propType": 8,
+        "value": 27
+      },
+      {
+        "propType": 9,
+        "value": 0.18
+      },
+      {
+        "propType": 20,
+        "value": 0.16
+      },
+      {
+        "propType": 22,
+        "value": 0.14
+      },
+      {
+        "propType": 23,
+        "value": 0.16
+      },
+      {
+        "propType": 26,
+        "value": 0.16
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 15,
+    "exp": 30000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 421
+      },
+      {
+        "propType": 3,
+        "value": 0.19
+      },
+      {
+        "propType": 5,
+        "value": 30
+      },
+      {
+        "propType": 6,
+        "value": 0.19
+      },
+      {
+        "propType": 8,
+        "value": 29
+      },
+      {
+        "propType": 9,
+        "value": 0.19
+      },
+      {
+        "propType": 20,
+        "value": 0.17
+      },
+      {
+        "propType": 22,
+        "value": 0.15
+      },
+      {
+        "propType": 23,
+        "value": 0.17
+      },
+      {
+        "propType": 26,
+        "value": 0.17
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 16,
+    "exp": 32000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 444
+      },
+      {
+        "propType": 3,
+        "value": 0.2
+      },
+      {
+        "propType": 5,
+        "value": 31
+      },
+      {
+        "propType": 6,
+        "value": 0.2
+      },
+      {
+        "propType": 8,
+        "value": 30
+      },
+      {
+        "propType": 9,
+        "value": 0.2
+      },
+      {
+        "propType": 20,
+        "value": 0.18
+      },
+      {
+        "propType": 22,
+        "value": 0.16
+      },
+      {
+        "propType": 23,
+        "value": 0.18
+      },
+      {
+        "propType": 26,
+        "value": 0.18
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 17,
+    "exp": 34000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 467
+      },
+      {
+        "propType": 3,
+        "value": 0.21
+      },
+      {
+        "propType": 5,
+        "value": 33
+      },
+      {
+        "propType": 6,
+        "value": 0.21
+      },
+      {
+        "propType": 8,
+        "value": 32
+      },
+      {
+        "propType": 9,
+        "value": 0.21
+      },
+      {
+        "propType": 20,
+        "value": 0.19
+      },
+      {
+        "propType": 22,
+        "value": 0.17
+      },
+      {
+        "propType": 23,
+        "value": 0.19
+      },
+      {
+        "propType": 26,
+        "value": 0.19
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 18,
+    "exp": 36000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 490
+      },
+      {
+        "propType": 3,
+        "value": 0.22
+      },
+      {
+        "propType": 5,
+        "value": 35
+      },
+      {
+        "propType": 6,
+        "value": 0.22
+      },
+      {
+        "propType": 8,
+        "value": 33
+      },
+      {
+        "propType": 9,
+        "value": 0.22
+      },
+      {
+        "propType": 20,
+        "value": 0.2
+      },
+      {
+        "propType": 22,
+        "value": 0.17
+      },
+      {
+        "propType": 23,
+        "value": 0.2
+      },
+      {
+        "propType": 26,
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 19,
+    "exp": 38000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 512
+      },
+      {
+        "propType": 3,
+        "value": 0.23
+      },
+      {
+        "propType": 5,
+        "value": 36
+      },
+      {
+        "propType": 6,
+        "value": 0.23
+      },
+      {
+        "propType": 8,
+        "value": 35
+      },
+      {
+        "propType": 9,
+        "value": 0.23
+      },
+      {
+        "propType": 20,
+        "value": 0.21
+      },
+      {
+        "propType": 22,
+        "value": 0.18
+      },
+      {
+        "propType": 23,
+        "value": 0.21
+      },
+      {
+        "propType": 26,
+        "value": 0.21
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "level": 20,
+    "exp": 0,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 535
+      },
+      {
+        "propType": 3,
+        "value": 0.24
+      },
+      {
+        "propType": 5,
+        "value": 38
+      },
+      {
+        "propType": 6,
+        "value": 0.24
+      },
+      {
+        "propType": 8,
+        "value": 37
+      },
+      {
+        "propType": 9,
+        "value": 0.24
+      },
+      {
+        "propType": 20,
+        "value": 0.22
+      },
+      {
+        "propType": 22,
+        "value": 0.19
+      },
+      {
+        "propType": 23,
+        "value": 0.22
+      },
+      {
+        "propType": 26,
+        "value": 0.22
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 1,
+    "exp": 2500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 195
+      },
+      {
+        "propType": 3,
+        "value": 0.07
+      },
+      {
+        "propType": 5,
+        "value": 14
+      },
+      {
+        "propType": 6,
+        "value": 0.07
+      },
+      {
+        "propType": 8,
+        "value": 13
+      },
+      {
+        "propType": 9,
+        "value": 0.07
+      },
+      {
+        "propType": 20,
+        "value": 0.05
+      },
+      {
+        "propType": 22,
+        "value": 0.08
+      },
+      {
+        "propType": 23,
+        "value": 0.05
+      },
+      {
+        "propType": 26,
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 2,
+    "exp": 5000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 238
+      },
+      {
+        "propType": 3,
+        "value": 0.09
+      },
+      {
+        "propType": 5,
+        "value": 17
+      },
+      {
+        "propType": 6,
+        "value": 0.09
+      },
+      {
+        "propType": 8,
+        "value": 16
+      },
+      {
+        "propType": 9,
+        "value": 0.09
+      },
+      {
+        "propType": 20,
+        "value": 0.06
+      },
+      {
+        "propType": 22,
+        "value": 0.09
+      },
+      {
+        "propType": 23,
+        "value": 0.06
+      },
+      {
+        "propType": 26,
+        "value": 0.06
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 3,
+    "exp": 7500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 282
+      },
+      {
+        "propType": 3,
+        "value": 0.11
+      },
+      {
+        "propType": 5,
+        "value": 20
+      },
+      {
+        "propType": 6,
+        "value": 0.11
+      },
+      {
+        "propType": 8,
+        "value": 19
+      },
+      {
+        "propType": 9,
+        "value": 0.11
+      },
+      {
+        "propType": 20,
+        "value": 0.07
+      },
+      {
+        "propType": 22,
+        "value": 0.11
+      },
+      {
+        "propType": 23,
+        "value": 0.07
+      },
+      {
+        "propType": 26,
+        "value": 0.07
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 4,
+    "exp": 10000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 325
+      },
+      {
+        "propType": 3,
+        "value": 0.13
+      },
+      {
+        "propType": 5,
+        "value": 23
+      },
+      {
+        "propType": 6,
+        "value": 0.13
+      },
+      {
+        "propType": 8,
+        "value": 22
+      },
+      {
+        "propType": 9,
+        "value": 0.13
+      },
+      {
+        "propType": 20,
+        "value": 0.08
+      },
+      {
+        "propType": 22,
+        "value": 0.12
+      },
+      {
+        "propType": 23,
+        "value": 0.08
+      },
+      {
+        "propType": 26,
+        "value": 0.08
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 5,
+    "exp": 12500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 368
+      },
+      {
+        "propType": 3,
+        "value": 0.15
+      },
+      {
+        "propType": 5,
+        "value": 26
+      },
+      {
+        "propType": 6,
+        "value": 0.15
+      },
+      {
+        "propType": 8,
+        "value": 25
+      },
+      {
+        "propType": 9,
+        "value": 0.15
+      },
+      {
+        "propType": 20,
+        "value": 0.09
+      },
+      {
+        "propType": 22,
+        "value": 0.14
+      },
+      {
+        "propType": 23,
+        "value": 0.09
+      },
+      {
+        "propType": 26,
+        "value": 0.09
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 6,
+    "exp": 15000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 411
+      },
+      {
+        "propType": 3,
+        "value": 0.17
+      },
+      {
+        "propType": 5,
+        "value": 29
+      },
+      {
+        "propType": 6,
+        "value": 0.17
+      },
+      {
+        "propType": 8,
+        "value": 28
+      },
+      {
+        "propType": 9,
+        "value": 0.17
+      },
+      {
+        "propType": 20,
+        "value": 0.1
+      },
+      {
+        "propType": 22,
+        "value": 0.15
+      },
+      {
+        "propType": 23,
+        "value": 0.1
+      },
+      {
+        "propType": 26,
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 7,
+    "exp": 17500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 455
+      },
+      {
+        "propType": 3,
+        "value": 0.19
+      },
+      {
+        "propType": 5,
+        "value": 32
+      },
+      {
+        "propType": 6,
+        "value": 0.19
+      },
+      {
+        "propType": 8,
+        "value": 31
+      },
+      {
+        "propType": 9,
+        "value": 0.19
+      },
+      {
+        "propType": 20,
+        "value": 0.11
+      },
+      {
+        "propType": 22,
+        "value": 0.17
+      },
+      {
+        "propType": 23,
+        "value": 0.11
+      },
+      {
+        "propType": 26,
+        "value": 0.11
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 8,
+    "exp": 20000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 498
+      },
+      {
+        "propType": 3,
+        "value": 0.21
+      },
+      {
+        "propType": 5,
+        "value": 35
+      },
+      {
+        "propType": 6,
+        "value": 0.21
+      },
+      {
+        "propType": 8,
+        "value": 34
+      },
+      {
+        "propType": 9,
+        "value": 0.21
+      },
+      {
+        "propType": 20,
+        "value": 0.12
+      },
+      {
+        "propType": 22,
+        "value": 0.18
+      },
+      {
+        "propType": 23,
+        "value": 0.12
+      },
+      {
+        "propType": 26,
+        "value": 0.12
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 9,
+    "exp": 22500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 541
+      },
+      {
+        "propType": 3,
+        "value": 0.23
+      },
+      {
+        "propType": 5,
+        "value": 38
+      },
+      {
+        "propType": 6,
+        "value": 0.23
+      },
+      {
+        "propType": 8,
+        "value": 37
+      },
+      {
+        "propType": 9,
+        "value": 0.23
+      },
+      {
+        "propType": 20,
+        "value": 0.13
+      },
+      {
+        "propType": 22,
+        "value": 0.2
+      },
+      {
+        "propType": 23,
+        "value": 0.13
+      },
+      {
+        "propType": 26,
+        "value": 0.13
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 10,
+    "exp": 25000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 584
+      },
+      {
+        "propType": 3,
+        "value": 0.25
+      },
+      {
+        "propType": 5,
+        "value": 41
+      },
+      {
+        "propType": 6,
+        "value": 0.25
+      },
+      {
+        "propType": 8,
+        "value": 40
+      },
+      {
+        "propType": 9,
+        "value": 0.25
+      },
+      {
+        "propType": 20,
+        "value": 0.14
+      },
+      {
+        "propType": 22,
+        "value": 0.21
+      },
+      {
+        "propType": 23,
+        "value": 0.14
+      },
+      {
+        "propType": 26,
+        "value": 0.14
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 11,
+    "exp": 27500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 628
+      },
+      {
+        "propType": 3,
+        "value": 0.27
+      },
+      {
+        "propType": 5,
+        "value": 44
+      },
+      {
+        "propType": 6,
+        "value": 0.27
+      },
+      {
+        "propType": 8,
+        "value": 43
+      },
+      {
+        "propType": 9,
+        "value": 0.27
+      },
+      {
+        "propType": 20,
+        "value": 0.15
+      },
+      {
+        "propType": 22,
+        "value": 0.23
+      },
+      {
+        "propType": 23,
+        "value": 0.15
+      },
+      {
+        "propType": 26,
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 12,
+    "exp": 30000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 671
+      },
+      {
+        "propType": 3,
+        "value": 0.29
+      },
+      {
+        "propType": 5,
+        "value": 47
+      },
+      {
+        "propType": 6,
+        "value": 0.29
+      },
+      {
+        "propType": 8,
+        "value": 46
+      },
+      {
+        "propType": 9,
+        "value": 0.29
+      },
+      {
+        "propType": 20,
+        "value": 0.16
+      },
+      {
+        "propType": 22,
+        "value": 0.24
+      },
+      {
+        "propType": 23,
+        "value": 0.16
+      },
+      {
+        "propType": 26,
+        "value": 0.16
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 13,
+    "exp": 32500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 714
+      },
+      {
+        "propType": 3,
+        "value": 0.31
+      },
+      {
+        "propType": 5,
+        "value": 50
+      },
+      {
+        "propType": 6,
+        "value": 0.31
+      },
+      {
+        "propType": 8,
+        "value": 49
+      },
+      {
+        "propType": 9,
+        "value": 0.31
+      },
+      {
+        "propType": 20,
+        "value": 0.17
+      },
+      {
+        "propType": 22,
+        "value": 0.26
+      },
+      {
+        "propType": 23,
+        "value": 0.17
+      },
+      {
+        "propType": 26,
+        "value": 0.17
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 14,
+    "exp": 35000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 757
+      },
+      {
+        "propType": 3,
+        "value": 0.33
+      },
+      {
+        "propType": 5,
+        "value": 53
+      },
+      {
+        "propType": 6,
+        "value": 0.33
+      },
+      {
+        "propType": 8,
+        "value": 52
+      },
+      {
+        "propType": 9,
+        "value": 0.33
+      },
+      {
+        "propType": 20,
+        "value": 0.18
+      },
+      {
+        "propType": 22,
+        "value": 0.27
+      },
+      {
+        "propType": 23,
+        "value": 0.18
+      },
+      {
+        "propType": 26,
+        "value": 0.18
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 15,
+    "exp": 37500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 800
+      },
+      {
+        "propType": 3,
+        "value": 0.35
+      },
+      {
+        "propType": 5,
+        "value": 56
+      },
+      {
+        "propType": 6,
+        "value": 0.35
+      },
+      {
+        "propType": 8,
+        "value": 55
+      },
+      {
+        "propType": 9,
+        "value": 0.35
+      },
+      {
+        "propType": 20,
+        "value": 0.19
+      },
+      {
+        "propType": 22,
+        "value": 0.29
+      },
+      {
+        "propType": 23,
+        "value": 0.19
+      },
+      {
+        "propType": 26,
+        "value": 0.19
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 16,
+    "exp": 40000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 844
+      },
+      {
+        "propType": 3,
+        "value": 0.37
+      },
+      {
+        "propType": 5,
+        "value": 59
+      },
+      {
+        "propType": 6,
+        "value": 0.37
+      },
+      {
+        "propType": 8,
+        "value": 58
+      },
+      {
+        "propType": 9,
+        "value": 0.37
+      },
+      {
+        "propType": 20,
+        "value": 0.2
+      },
+      {
+        "propType": 22,
+        "value": 0.3
+      },
+      {
+        "propType": 23,
+        "value": 0.2
+      },
+      {
+        "propType": 26,
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 17,
+    "exp": 42500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 887
+      },
+      {
+        "propType": 3,
+        "value": 0.39
+      },
+      {
+        "propType": 5,
+        "value": 62
+      },
+      {
+        "propType": 6,
+        "value": 0.39
+      },
+      {
+        "propType": 8,
+        "value": 61
+      },
+      {
+        "propType": 9,
+        "value": 0.39
+      },
+      {
+        "propType": 20,
+        "value": 0.21
+      },
+      {
+        "propType": 22,
+        "value": 0.32
+      },
+      {
+        "propType": 23,
+        "value": 0.21
+      },
+      {
+        "propType": 26,
+        "value": 0.21
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 18,
+    "exp": 45000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 930
+      },
+      {
+        "propType": 3,
+        "value": 0.41
+      },
+      {
+        "propType": 5,
+        "value": 65
+      },
+      {
+        "propType": 6,
+        "value": 0.41
+      },
+      {
+        "propType": 8,
+        "value": 64
+      },
+      {
+        "propType": 9,
+        "value": 0.41
+      },
+      {
+        "propType": 20,
+        "value": 0.22
+      },
+      {
+        "propType": 22,
+        "value": 0.33
+      },
+      {
+        "propType": 23,
+        "value": 0.22
+      },
+      {
+        "propType": 26,
+        "value": 0.22
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 19,
+    "exp": 47500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 973
+      },
+      {
+        "propType": 3,
+        "value": 0.43
+      },
+      {
+        "propType": 5,
+        "value": 68
+      },
+      {
+        "propType": 6,
+        "value": 0.43
+      },
+      {
+        "propType": 8,
+        "value": 67
+      },
+      {
+        "propType": 9,
+        "value": 0.43
+      },
+      {
+        "propType": 20,
+        "value": 0.23
+      },
+      {
+        "propType": 22,
+        "value": 0.35
+      },
+      {
+        "propType": 23,
+        "value": 0.23
+      },
+      {
+        "propType": 26,
+        "value": 0.23
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "level": 20,
+    "exp": 0,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1017
+      },
+      {
+        "propType": 3,
+        "value": 0.45
+      },
+      {
+        "propType": 5,
+        "value": 72
+      },
+      {
+        "propType": 6,
+        "value": 0.45
+      },
+      {
+        "propType": 8,
+        "value": 70
+      },
+      {
+        "propType": 9,
+        "value": 0.45
+      },
+      {
+        "propType": 20,
+        "value": 0.24
+      },
+      {
+        "propType": 22,
+        "value": 0.36
+      },
+      {
+        "propType": 23,
+        "value": 0.24
+      },
+      {
+        "propType": 26,
+        "value": 0.24
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 1,
+    "exp": 3000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 338
+      },
+      {
+        "propType": 3,
+        "value": 0.09
+      },
+      {
+        "propType": 5,
+        "value": 23
+      },
+      {
+        "propType": 6,
+        "value": 0.09
+      },
+      {
+        "propType": 8,
+        "value": 23
+      },
+      {
+        "propType": 9,
+        "value": 0.09
+      },
+      {
+        "propType": 20,
+        "value": 0.07
+      },
+      {
+        "propType": 22,
+        "value": 0.13
+      },
+      {
+        "propType": 23,
+        "value": 0.07
+      },
+      {
+        "propType": 26,
+        "value": 0.07
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 2,
+    "exp": 6000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 412
+      },
+      {
+        "propType": 3,
+        "value": 0.12
+      },
+      {
+        "propType": 5,
+        "value": 28
+      },
+      {
+        "propType": 6,
+        "value": 0.12
+      },
+      {
+        "propType": 8,
+        "value": 28
+      },
+      {
+        "propType": 9,
+        "value": 0.12
+      },
+      {
+        "propType": 20,
+        "value": 0.085
+      },
+      {
+        "propType": 22,
+        "value": 0.15
+      },
+      {
+        "propType": 23,
+        "value": 0.085
+      },
+      {
+        "propType": 26,
+        "value": 0.085
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 3,
+    "exp": 9000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 487
+      },
+      {
+        "propType": 3,
+        "value": 0.14
+      },
+      {
+        "propType": 5,
+        "value": 34
+      },
+      {
+        "propType": 6,
+        "value": 0.14
+      },
+      {
+        "propType": 8,
+        "value": 34
+      },
+      {
+        "propType": 9,
+        "value": 0.14
+      },
+      {
+        "propType": 20,
+        "value": 0.1
+      },
+      {
+        "propType": 22,
+        "value": 0.18
+      },
+      {
+        "propType": 23,
+        "value": 0.1
+      },
+      {
+        "propType": 26,
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 4,
+    "exp": 12000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 562
+      },
+      {
+        "propType": 3,
+        "value": 0.17
+      },
+      {
+        "propType": 5,
+        "value": 39
+      },
+      {
+        "propType": 6,
+        "value": 0.17
+      },
+      {
+        "propType": 8,
+        "value": 39
+      },
+      {
+        "propType": 9,
+        "value": 0.17
+      },
+      {
+        "propType": 20,
+        "value": 0.115
+      },
+      {
+        "propType": 22,
+        "value": 0.2
+      },
+      {
+        "propType": 23,
+        "value": 0.115
+      },
+      {
+        "propType": 26,
+        "value": 0.115
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 5,
+    "exp": 15000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 636
+      },
+      {
+        "propType": 3,
+        "value": 0.19
+      },
+      {
+        "propType": 5,
+        "value": 44
+      },
+      {
+        "propType": 6,
+        "value": 0.19
+      },
+      {
+        "propType": 8,
+        "value": 44
+      },
+      {
+        "propType": 9,
+        "value": 0.19
+      },
+      {
+        "propType": 20,
+        "value": 0.13
+      },
+      {
+        "propType": 22,
+        "value": 0.23
+      },
+      {
+        "propType": 23,
+        "value": 0.13
+      },
+      {
+        "propType": 26,
+        "value": 0.13
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 6,
+    "exp": 18000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 711
+      },
+      {
+        "propType": 3,
+        "value": 0.22
+      },
+      {
+        "propType": 5,
+        "value": 49
+      },
+      {
+        "propType": 6,
+        "value": 0.22
+      },
+      {
+        "propType": 8,
+        "value": 49
+      },
+      {
+        "propType": 9,
+        "value": 0.22
+      },
+      {
+        "propType": 20,
+        "value": 0.145
+      },
+      {
+        "propType": 22,
+        "value": 0.26
+      },
+      {
+        "propType": 23,
+        "value": 0.145
+      },
+      {
+        "propType": 26,
+        "value": 0.145
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 7,
+    "exp": 21000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 786
+      },
+      {
+        "propType": 3,
+        "value": 0.24
+      },
+      {
+        "propType": 5,
+        "value": 55
+      },
+      {
+        "propType": 6,
+        "value": 0.24
+      },
+      {
+        "propType": 8,
+        "value": 54
+      },
+      {
+        "propType": 9,
+        "value": 0.24
+      },
+      {
+        "propType": 20,
+        "value": 0.16
+      },
+      {
+        "propType": 22,
+        "value": 0.28
+      },
+      {
+        "propType": 23,
+        "value": 0.16
+      },
+      {
+        "propType": 26,
+        "value": 0.16
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 8,
+    "exp": 24000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 860
+      },
+      {
+        "propType": 3,
+        "value": 0.27
+      },
+      {
+        "propType": 5,
+        "value": 60
+      },
+      {
+        "propType": 6,
+        "value": 0.27
+      },
+      {
+        "propType": 8,
+        "value": 59
+      },
+      {
+        "propType": 9,
+        "value": 0.27
+      },
+      {
+        "propType": 20,
+        "value": 0.175
+      },
+      {
+        "propType": 22,
+        "value": 0.31
+      },
+      {
+        "propType": 23,
+        "value": 0.175
+      },
+      {
+        "propType": 26,
+        "value": 0.175
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 9,
+    "exp": 27000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 935
+      },
+      {
+        "propType": 3,
+        "value": 0.29
+      },
+      {
+        "propType": 5,
+        "value": 65
+      },
+      {
+        "propType": 6,
+        "value": 0.29
+      },
+      {
+        "propType": 8,
+        "value": 65
+      },
+      {
+        "propType": 9,
+        "value": 0.29
+      },
+      {
+        "propType": 20,
+        "value": 0.19
+      },
+      {
+        "propType": 22,
+        "value": 0.34
+      },
+      {
+        "propType": 23,
+        "value": 0.19
+      },
+      {
+        "propType": 26,
+        "value": 0.19
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 10,
+    "exp": 30000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1010
+      },
+      {
+        "propType": 3,
+        "value": 0.32
+      },
+      {
+        "propType": 5,
+        "value": 70
+      },
+      {
+        "propType": 6,
+        "value": 0.32
+      },
+      {
+        "propType": 8,
+        "value": 70
+      },
+      {
+        "propType": 9,
+        "value": 0.32
+      },
+      {
+        "propType": 20,
+        "value": 0.205
+      },
+      {
+        "propType": 22,
+        "value": 0.36
+      },
+      {
+        "propType": 23,
+        "value": 0.205
+      },
+      {
+        "propType": 26,
+        "value": 0.205
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 11,
+    "exp": 33000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1084
+      },
+      {
+        "propType": 3,
+        "value": 0.34
+      },
+      {
+        "propType": 5,
+        "value": 75
+      },
+      {
+        "propType": 6,
+        "value": 0.34
+      },
+      {
+        "propType": 8,
+        "value": 75
+      },
+      {
+        "propType": 9,
+        "value": 0.34
+      },
+      {
+        "propType": 20,
+        "value": 0.22
+      },
+      {
+        "propType": 22,
+        "value": 0.39
+      },
+      {
+        "propType": 23,
+        "value": 0.22
+      },
+      {
+        "propType": 26,
+        "value": 0.22
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 12,
+    "exp": 36000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1159
+      },
+      {
+        "propType": 3,
+        "value": 0.36
+      },
+      {
+        "propType": 5,
+        "value": 81
+      },
+      {
+        "propType": 6,
+        "value": 0.36
+      },
+      {
+        "propType": 8,
+        "value": 80
+      },
+      {
+        "propType": 9,
+        "value": 0.36
+      },
+      {
+        "propType": 20,
+        "value": 0.235
+      },
+      {
+        "propType": 22,
+        "value": 0.41
+      },
+      {
+        "propType": 23,
+        "value": 0.235
+      },
+      {
+        "propType": 26,
+        "value": 0.235
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 13,
+    "exp": 39000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1234
+      },
+      {
+        "propType": 3,
+        "value": 0.39
+      },
+      {
+        "propType": 5,
+        "value": 86
+      },
+      {
+        "propType": 6,
+        "value": 0.39
+      },
+      {
+        "propType": 8,
+        "value": 85
+      },
+      {
+        "propType": 9,
+        "value": 0.39
+      },
+      {
+        "propType": 20,
+        "value": 0.25
+      },
+      {
+        "propType": 22,
+        "value": 0.44
+      },
+      {
+        "propType": 23,
+        "value": 0.25
+      },
+      {
+        "propType": 26,
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 14,
+    "exp": 42000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1308
+      },
+      {
+        "propType": 3,
+        "value": 0.41
+      },
+      {
+        "propType": 5,
+        "value": 91
+      },
+      {
+        "propType": 6,
+        "value": 0.41
+      },
+      {
+        "propType": 8,
+        "value": 90
+      },
+      {
+        "propType": 9,
+        "value": 0.41
+      },
+      {
+        "propType": 20,
+        "value": 0.265
+      },
+      {
+        "propType": 22,
+        "value": 0.47
+      },
+      {
+        "propType": 23,
+        "value": 0.265
+      },
+      {
+        "propType": 26,
+        "value": 0.265
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 15,
+    "exp": 45000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1383
+      },
+      {
+        "propType": 3,
+        "value": 0.44
+      },
+      {
+        "propType": 5,
+        "value": 96
+      },
+      {
+        "propType": 6,
+        "value": 0.44
+      },
+      {
+        "propType": 8,
+        "value": 96
+      },
+      {
+        "propType": 9,
+        "value": 0.44
+      },
+      {
+        "propType": 20,
+        "value": 0.28
+      },
+      {
+        "propType": 22,
+        "value": 0.49
+      },
+      {
+        "propType": 23,
+        "value": 0.28
+      },
+      {
+        "propType": 26,
+        "value": 0.28
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 16,
+    "exp": 48000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1458
+      },
+      {
+        "propType": 3,
+        "value": 0.46
+      },
+      {
+        "propType": 5,
+        "value": 102
+      },
+      {
+        "propType": 6,
+        "value": 0.46
+      },
+      {
+        "propType": 8,
+        "value": 101
+      },
+      {
+        "propType": 9,
+        "value": 0.46
+      },
+      {
+        "propType": 20,
+        "value": 0.295
+      },
+      {
+        "propType": 22,
+        "value": 0.52
+      },
+      {
+        "propType": 23,
+        "value": 0.295
+      },
+      {
+        "propType": 26,
+        "value": 0.295
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 17,
+    "exp": 51000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1532
+      },
+      {
+        "propType": 3,
+        "value": 0.49
+      },
+      {
+        "propType": 5,
+        "value": 107
+      },
+      {
+        "propType": 6,
+        "value": 0.49
+      },
+      {
+        "propType": 8,
+        "value": 106
+      },
+      {
+        "propType": 9,
+        "value": 0.49
+      },
+      {
+        "propType": 20,
+        "value": 0.31
+      },
+      {
+        "propType": 22,
+        "value": 0.54
+      },
+      {
+        "propType": 23,
+        "value": 0.31
+      },
+      {
+        "propType": 26,
+        "value": 0.31
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 18,
+    "exp": 54000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1607
+      },
+      {
+        "propType": 3,
+        "value": 0.51
+      },
+      {
+        "propType": 5,
+        "value": 112
+      },
+      {
+        "propType": 6,
+        "value": 0.51
+      },
+      {
+        "propType": 8,
+        "value": 111
+      },
+      {
+        "propType": 9,
+        "value": 0.51
+      },
+      {
+        "propType": 20,
+        "value": 0.325
+      },
+      {
+        "propType": 22,
+        "value": 0.57
+      },
+      {
+        "propType": 23,
+        "value": 0.325
+      },
+      {
+        "propType": 26,
+        "value": 0.325
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 19,
+    "exp": 57000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1681
+      },
+      {
+        "propType": 3,
+        "value": 0.54
+      },
+      {
+        "propType": 5,
+        "value": 117
+      },
+      {
+        "propType": 6,
+        "value": 0.54
+      },
+      {
+        "propType": 8,
+        "value": 116
+      },
+      {
+        "propType": 9,
+        "value": 0.54
+      },
+      {
+        "propType": 20,
+        "value": 0.34
+      },
+      {
+        "propType": 22,
+        "value": 0.6
+      },
+      {
+        "propType": 23,
+        "value": 0.34
+      },
+      {
+        "propType": 26,
+        "value": 0.34
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "level": 20,
+    "exp": 0,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1756
+      },
+      {
+        "propType": 3,
+        "value": 0.56
+      },
+      {
+        "propType": 5,
+        "value": 122
+      },
+      {
+        "propType": 6,
+        "value": 0.56
+      },
+      {
+        "propType": 8,
+        "value": 121
+      },
+      {
+        "propType": 9,
+        "value": 0.56
+      },
+      {
+        "propType": 20,
+        "value": 0.355
+      },
+      {
+        "propType": 22,
+        "value": 0.62
+      },
+      {
+        "propType": 23,
+        "value": 0.355
+      },
+      {
+        "propType": 26,
+        "value": 0.355
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 1,
+    "exp": 3500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 434
+      },
+      {
+        "propType": 3,
+        "value": 0.11
+      },
+      {
+        "propType": 5,
+        "value": 31
+      },
+      {
+        "propType": 6,
+        "value": 0.11
+      },
+      {
+        "propType": 8,
+        "value": 30
+      },
+      {
+        "propType": 9,
+        "value": 0.11
+      },
+      {
+        "propType": 20,
+        "value": 0.09
+      },
+      {
+        "propType": 22,
+        "value": 0.16
+      },
+      {
+        "propType": 23,
+        "value": 0.09
+      },
+      {
+        "propType": 26,
+        "value": 0.09
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 2,
+    "exp": 7000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 530
+      },
+      {
+        "propType": 3,
+        "value": 0.14
+      },
+      {
+        "propType": 5,
+        "value": 37
+      },
+      {
+        "propType": 6,
+        "value": 0.14
+      },
+      {
+        "propType": 8,
+        "value": 36
+      },
+      {
+        "propType": 9,
+        "value": 0.14
+      },
+      {
+        "propType": 20,
+        "value": 0.108
+      },
+      {
+        "propType": 22,
+        "value": 0.2
+      },
+      {
+        "propType": 23,
+        "value": 0.108
+      },
+      {
+        "propType": 26,
+        "value": 0.108
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 3,
+    "exp": 10500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 625
+      },
+      {
+        "propType": 3,
+        "value": 0.17
+      },
+      {
+        "propType": 5,
+        "value": 44
+      },
+      {
+        "propType": 6,
+        "value": 0.17
+      },
+      {
+        "propType": 8,
+        "value": 43
+      },
+      {
+        "propType": 9,
+        "value": 0.17
+      },
+      {
+        "propType": 20,
+        "value": 0.126
+      },
+      {
+        "propType": 22,
+        "value": 0.23
+      },
+      {
+        "propType": 23,
+        "value": 0.126
+      },
+      {
+        "propType": 26,
+        "value": 0.126
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 4,
+    "exp": 14000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 721
+      },
+      {
+        "propType": 3,
+        "value": 0.19
+      },
+      {
+        "propType": 5,
+        "value": 51
+      },
+      {
+        "propType": 6,
+        "value": 0.19
+      },
+      {
+        "propType": 8,
+        "value": 50
+      },
+      {
+        "propType": 9,
+        "value": 0.19
+      },
+      {
+        "propType": 20,
+        "value": 0.144
+      },
+      {
+        "propType": 22,
+        "value": 0.26
+      },
+      {
+        "propType": 23,
+        "value": 0.144
+      },
+      {
+        "propType": 26,
+        "value": 0.144
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 5,
+    "exp": 17500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 817
+      },
+      {
+        "propType": 3,
+        "value": 0.22
+      },
+      {
+        "propType": 5,
+        "value": 58
+      },
+      {
+        "propType": 6,
+        "value": 0.22
+      },
+      {
+        "propType": 8,
+        "value": 56
+      },
+      {
+        "propType": 9,
+        "value": 0.22
+      },
+      {
+        "propType": 20,
+        "value": 0.162
+      },
+      {
+        "propType": 22,
+        "value": 0.3
+      },
+      {
+        "propType": 23,
+        "value": 0.162
+      },
+      {
+        "propType": 26,
+        "value": 0.162
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 6,
+    "exp": 21000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 913
+      },
+      {
+        "propType": 3,
+        "value": 0.25
+      },
+      {
+        "propType": 5,
+        "value": 64
+      },
+      {
+        "propType": 6,
+        "value": 0.25
+      },
+      {
+        "propType": 8,
+        "value": 63
+      },
+      {
+        "propType": 9,
+        "value": 0.25
+      },
+      {
+        "propType": 20,
+        "value": 0.18
+      },
+      {
+        "propType": 22,
+        "value": 0.33
+      },
+      {
+        "propType": 23,
+        "value": 0.18
+      },
+      {
+        "propType": 26,
+        "value": 0.18
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 7,
+    "exp": 24500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1008
+      },
+      {
+        "propType": 3,
+        "value": 0.28
+      },
+      {
+        "propType": 5,
+        "value": 71
+      },
+      {
+        "propType": 6,
+        "value": 0.28
+      },
+      {
+        "propType": 8,
+        "value": 69
+      },
+      {
+        "propType": 9,
+        "value": 0.28
+      },
+      {
+        "propType": 20,
+        "value": 0.198
+      },
+      {
+        "propType": 22,
+        "value": 0.36
+      },
+      {
+        "propType": 23,
+        "value": 0.198
+      },
+      {
+        "propType": 26,
+        "value": 0.198
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 8,
+    "exp": 28000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1104
+      },
+      {
+        "propType": 3,
+        "value": 0.31
+      },
+      {
+        "propType": 5,
+        "value": 78
+      },
+      {
+        "propType": 6,
+        "value": 0.31
+      },
+      {
+        "propType": 8,
+        "value": 76
+      },
+      {
+        "propType": 9,
+        "value": 0.31
+      },
+      {
+        "propType": 20,
+        "value": 0.216
+      },
+      {
+        "propType": 22,
+        "value": 0.4
+      },
+      {
+        "propType": 23,
+        "value": 0.216
+      },
+      {
+        "propType": 26,
+        "value": 0.216
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 9,
+    "exp": 31500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1200
+      },
+      {
+        "propType": 3,
+        "value": 0.34
+      },
+      {
+        "propType": 5,
+        "value": 84
+      },
+      {
+        "propType": 6,
+        "value": 0.34
+      },
+      {
+        "propType": 8,
+        "value": 83
+      },
+      {
+        "propType": 9,
+        "value": 0.34
+      },
+      {
+        "propType": 20,
+        "value": 0.234
+      },
+      {
+        "propType": 22,
+        "value": 0.43
+      },
+      {
+        "propType": 23,
+        "value": 0.234
+      },
+      {
+        "propType": 26,
+        "value": 0.234
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 10,
+    "exp": 35000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1296
+      },
+      {
+        "propType": 3,
+        "value": 0.37
+      },
+      {
+        "propType": 5,
+        "value": 91
+      },
+      {
+        "propType": 6,
+        "value": 0.37
+      },
+      {
+        "propType": 8,
+        "value": 89
+      },
+      {
+        "propType": 9,
+        "value": 0.37
+      },
+      {
+        "propType": 20,
+        "value": 0.252
+      },
+      {
+        "propType": 22,
+        "value": 0.47
+      },
+      {
+        "propType": 23,
+        "value": 0.252
+      },
+      {
+        "propType": 26,
+        "value": 0.252
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 11,
+    "exp": 38500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1391
+      },
+      {
+        "propType": 3,
+        "value": 0.39
+      },
+      {
+        "propType": 5,
+        "value": 98
+      },
+      {
+        "propType": 6,
+        "value": 0.39
+      },
+      {
+        "propType": 8,
+        "value": 96
+      },
+      {
+        "propType": 9,
+        "value": 0.39
+      },
+      {
+        "propType": 20,
+        "value": 0.27
+      },
+      {
+        "propType": 22,
+        "value": 0.5
+      },
+      {
+        "propType": 23,
+        "value": 0.27
+      },
+      {
+        "propType": 26,
+        "value": 0.27
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 12,
+    "exp": 42000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1487
+      },
+      {
+        "propType": 3,
+        "value": 0.42
+      },
+      {
+        "propType": 5,
+        "value": 104
+      },
+      {
+        "propType": 6,
+        "value": 0.42
+      },
+      {
+        "propType": 8,
+        "value": 103
+      },
+      {
+        "propType": 9,
+        "value": 0.42
+      },
+      {
+        "propType": 20,
+        "value": 0.288
+      },
+      {
+        "propType": 22,
+        "value": 0.53
+      },
+      {
+        "propType": 23,
+        "value": 0.288
+      },
+      {
+        "propType": 26,
+        "value": 0.288
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 13,
+    "exp": 45500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1583
+      },
+      {
+        "propType": 3,
+        "value": 0.45
+      },
+      {
+        "propType": 5,
+        "value": 111
+      },
+      {
+        "propType": 6,
+        "value": 0.45
+      },
+      {
+        "propType": 8,
+        "value": 109
+      },
+      {
+        "propType": 9,
+        "value": 0.45
+      },
+      {
+        "propType": 20,
+        "value": 0.306
+      },
+      {
+        "propType": 22,
+        "value": 0.57
+      },
+      {
+        "propType": 23,
+        "value": 0.306
+      },
+      {
+        "propType": 26,
+        "value": 0.306
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 14,
+    "exp": 49000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1679
+      },
+      {
+        "propType": 3,
+        "value": 0.48
+      },
+      {
+        "propType": 5,
+        "value": 118
+      },
+      {
+        "propType": 6,
+        "value": 0.48
+      },
+      {
+        "propType": 8,
+        "value": 116
+      },
+      {
+        "propType": 9,
+        "value": 0.48
+      },
+      {
+        "propType": 20,
+        "value": 0.324
+      },
+      {
+        "propType": 22,
+        "value": 0.6
+      },
+      {
+        "propType": 23,
+        "value": 0.324
+      },
+      {
+        "propType": 26,
+        "value": 0.324
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 15,
+    "exp": 52500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1774
+      },
+      {
+        "propType": 3,
+        "value": 0.51
+      },
+      {
+        "propType": 5,
+        "value": 125
+      },
+      {
+        "propType": 6,
+        "value": 0.51
+      },
+      {
+        "propType": 8,
+        "value": 122
+      },
+      {
+        "propType": 9,
+        "value": 0.51
+      },
+      {
+        "propType": 20,
+        "value": 0.342
+      },
+      {
+        "propType": 22,
+        "value": 0.63
+      },
+      {
+        "propType": 23,
+        "value": 0.342
+      },
+      {
+        "propType": 26,
+        "value": 0.342
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 16,
+    "exp": 56000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1870
+      },
+      {
+        "propType": 3,
+        "value": 0.54
+      },
+      {
+        "propType": 5,
+        "value": 131
+      },
+      {
+        "propType": 6,
+        "value": 0.54
+      },
+      {
+        "propType": 8,
+        "value": 129
+      },
+      {
+        "propType": 9,
+        "value": 0.54
+      },
+      {
+        "propType": 20,
+        "value": 0.36
+      },
+      {
+        "propType": 22,
+        "value": 0.67
+      },
+      {
+        "propType": 23,
+        "value": 0.36
+      },
+      {
+        "propType": 26,
+        "value": 0.36
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 17,
+    "exp": 59500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 1966
+      },
+      {
+        "propType": 3,
+        "value": 0.57
+      },
+      {
+        "propType": 5,
+        "value": 138
+      },
+      {
+        "propType": 6,
+        "value": 0.57
+      },
+      {
+        "propType": 8,
+        "value": 136
+      },
+      {
+        "propType": 9,
+        "value": 0.57
+      },
+      {
+        "propType": 20,
+        "value": 0.378
+      },
+      {
+        "propType": 22,
+        "value": 0.7
+      },
+      {
+        "propType": 23,
+        "value": 0.378
+      },
+      {
+        "propType": 26,
+        "value": 0.378
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 18,
+    "exp": 63000,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 2062
+      },
+      {
+        "propType": 3,
+        "value": 0.59
+      },
+      {
+        "propType": 5,
+        "value": 145
+      },
+      {
+        "propType": 6,
+        "value": 0.59
+      },
+      {
+        "propType": 8,
+        "value": 142
+      },
+      {
+        "propType": 9,
+        "value": 0.59
+      },
+      {
+        "propType": 20,
+        "value": 0.396
+      },
+      {
+        "propType": 22,
+        "value": 0.73
+      },
+      {
+        "propType": 23,
+        "value": 0.396
+      },
+      {
+        "propType": 26,
+        "value": 0.396
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 19,
+    "exp": 66500,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 2157
+      },
+      {
+        "propType": 3,
+        "value": 0.62
+      },
+      {
+        "propType": 5,
+        "value": 151
+      },
+      {
+        "propType": 6,
+        "value": 0.62
+      },
+      {
+        "propType": 8,
+        "value": 149
+      },
+      {
+        "propType": 9,
+        "value": 0.62
+      },
+      {
+        "propType": 20,
+        "value": 0.414
+      },
+      {
+        "propType": 22,
+        "value": 0.77
+      },
+      {
+        "propType": 23,
+        "value": 0.414
+      },
+      {
+        "propType": 26,
+        "value": 0.414
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "level": 20,
+    "exp": 0,
+    "addProps": [
+      {
+        "propType": 2,
+        "value": 2253
+      },
+      {
+        "propType": 3,
+        "value": 0.65
+      },
+      {
+        "propType": 5,
+        "value": 158
+      },
+      {
+        "propType": 6,
+        "value": 0.65
+      },
+      {
+        "propType": 8,
+        "value": 156
+      },
+      {
+        "propType": 9,
+        "value": 0.65
+      },
+      {
+        "propType": 20,
+        "value": 0.432
+      },
+      {
+        "propType": 22,
+        "value": 0.8
+      },
+      {
+        "propType": 23,
+        "value": 0.432
+      },
+      {
+        "propType": 26,
+        "value": 0.432
+      }
+    ]
+  }
+]

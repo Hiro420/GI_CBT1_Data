@@ -1,0 +1,69 @@
+提示台词ID	触发延迟	停留显示时长	下一句id	播放音效资源	Speaker	Content
+1012001	0	4			WorldReminderData_Speaker_1012001	WorldReminderData_Content_1012001
+1020001	0	4			WorldReminderData_Speaker_1020001	WorldReminderData_Content_1020001
+1100001	0	3	1100002		WorldReminderData_Speaker_1100001	WorldReminderData_Content_1100001
+1100002	0	3			WorldReminderData_Speaker_1100002	WorldReminderData_Content_1100002
+1100003	0	3			WorldReminderData_Speaker_1100003	WorldReminderData_Content_1100003
+1101001	1	3	1101002		WorldReminderData_Speaker_1101001	WorldReminderData_Content_1101001
+1101002	0	3			WorldReminderData_Speaker_1101002	WorldReminderData_Content_1101002
+1102001	0	3			WorldReminderData_Speaker_1102001	WorldReminderData_Content_1102001
+1103001	0	3			WorldReminderData_Speaker_1103001	WorldReminderData_Content_1103001
+1104001	1	3			WorldReminderData_Speaker_1104001	WorldReminderData_Content_1104001
+1001	0	5	1002		WorldReminderData_Speaker_1001	WorldReminderData_Content_1001
+1002	0	3			WorldReminderData_Speaker_1002	WorldReminderData_Content_1002
+1003	0	4	1004		WorldReminderData_Speaker_1003	WorldReminderData_Content_1003
+1004	0	5			WorldReminderData_Speaker_1004	WorldReminderData_Content_1004
+1005	0	5			WorldReminderData_Speaker_1005	WorldReminderData_Content_1005
+1006	0	4	1007		WorldReminderData_Speaker_1006	WorldReminderData_Content_1006
+1007	0	3	1008		WorldReminderData_Speaker_1007	WorldReminderData_Content_1007
+1008	0	4			WorldReminderData_Speaker_1008	WorldReminderData_Content_1008
+1009	0	3			WorldReminderData_Speaker_1009	WorldReminderData_Content_1009
+1010	0	3			WorldReminderData_Speaker_1010	WorldReminderData_Content_1010
+1011	0	3	1012		WorldReminderData_Speaker_1011	WorldReminderData_Content_1011
+1012	0	2	1013		WorldReminderData_Speaker_1012	WorldReminderData_Content_1012
+1013	0	3			WorldReminderData_Speaker_1013	WorldReminderData_Content_1013
+1014	0	3			WorldReminderData_Speaker_1014	WorldReminderData_Content_1014
+1015	0	3			WorldReminderData_Speaker_1015	WorldReminderData_Content_1015
+1016	0	3			WorldReminderData_Speaker_1016	WorldReminderData_Content_1016
+1017	0				WorldReminderData_Speaker_1017	WorldReminderData_Content_1017
+1018	0	2			WorldReminderData_Speaker_1018	WorldReminderData_Content_1018
+1019	0	2			WorldReminderData_Speaker_1019	WorldReminderData_Content_1019
+1020	0	10			WorldReminderData_Speaker_1020	WorldReminderData_Content_1020
+1021	0	10			WorldReminderData_Speaker_1021	WorldReminderData_Content_1021
+1022	0	10			WorldReminderData_Speaker_1022	WorldReminderData_Content_1022
+1023	0	5	1024		WorldReminderData_Speaker_1023	WorldReminderData_Content_1023
+1024	0	5			WorldReminderData_Speaker_1024	WorldReminderData_Content_1024
+1025	0	5			WorldReminderData_Speaker_1025	WorldReminderData_Content_1025
+1026	0	4			WorldReminderData_Speaker_1026	WorldReminderData_Content_1026
+1027	0	4			WorldReminderData_Speaker_1027	WorldReminderData_Content_1027
+1028	0	2			WorldReminderData_Speaker_1028	WorldReminderData_Content_1028
+1029	0	2			WorldReminderData_Speaker_1029	WorldReminderData_Content_1029
+1030	0	5			WorldReminderData_Speaker_1030	WorldReminderData_Content_1030
+1031	0	3			WorldReminderData_Speaker_1031	WorldReminderData_Content_1031
+1032	0	4			WorldReminderData_Speaker_1032	WorldReminderData_Content_1032
+1033	0	3			WorldReminderData_Speaker_1033	WorldReminderData_Content_1033
+1034	0	3			WorldReminderData_Speaker_1034	WorldReminderData_Content_1034
+1035	0	3			WorldReminderData_Speaker_1035	WorldReminderData_Content_1035
+1036	0	4			WorldReminderData_Speaker_1036	WorldReminderData_Content_1036
+1037	0	3			WorldReminderData_Speaker_1037	WorldReminderData_Content_1037
+1038	0	4			WorldReminderData_Speaker_1038	WorldReminderData_Content_1038
+1039	0	4			WorldReminderData_Speaker_1039	WorldReminderData_Content_1039
+1040	0	3			WorldReminderData_Speaker_1040	WorldReminderData_Content_1040
+1041	0	5	1045		WorldReminderData_Speaker_1041	WorldReminderData_Content_1041
+1042	0	10			WorldReminderData_Speaker_1042	WorldReminderData_Content_1042
+1043	0	10			WorldReminderData_Speaker_1043	WorldReminderData_Content_1043
+1044	0	10			WorldReminderData_Speaker_1044	WorldReminderData_Content_1044
+1045	0	5			WorldReminderData_Speaker_1045	WorldReminderData_Content_1045
+1105001	1	1			WorldReminderData_Speaker_1105001	WorldReminderData_Content_1105001
+1105002	1	1			WorldReminderData_Speaker_1105002	WorldReminderData_Content_1105002
+1106001	1	1			WorldReminderData_Speaker_1106001	WorldReminderData_Content_1106001
+1106002	1	1			WorldReminderData_Speaker_1106002	WorldReminderData_Content_1106002
+1106003	1	1			WorldReminderData_Speaker_1106003	WorldReminderData_Content_1106003
+1107001	0	6			WorldReminderData_Speaker_1107001	WorldReminderData_Content_1107001
+1107002	0	6			WorldReminderData_Speaker_1107002	WorldReminderData_Content_1107002
+1107003	0	6			WorldReminderData_Speaker_1107003	WorldReminderData_Content_1107003
+1109001	1	15			WorldReminderData_Speaker_1109001	WorldReminderData_Content_1109001
+1109002	0	3			WorldReminderData_Speaker_1109002	WorldReminderData_Content_1109002
+1109003	0	5			WorldReminderData_Speaker_1109003	WorldReminderData_Content_1109003
+1109004	0	5			WorldReminderData_Speaker_1109004	WorldReminderData_Content_1109004
+1110001	0	3			WorldReminderData_Speaker_1110001	WorldReminderData_Content_1110001

@@ -1,0 +1,115 @@
+ID	Ability名称	技能图标	是远程	技能CD	消耗体力	消耗能量类型	消耗能量值	可累积次数	TriggerID	索敌范围	索敌公式权重1	索敌公式权重2	索敌公式权重3	是默认镜头	支持按钮拖动	是否显示箭头	是否监控状态	默认锁定	图标名称	Name	Desc
+10001				0	20			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10001	AvatarSkillData_Desc_10001
+10002				0	25			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10002	AvatarSkillData_Desc_10002
+10003				0	50			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10003	AvatarSkillData_Desc_10003
+10006				0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10006	AvatarSkillData_Desc_10006
+10011		Skill_A_01		0	0			1	1	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10011	AvatarSkillData_Desc_10011
+10101				10	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10101	AvatarSkillData_Desc_10101
+10102				10	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10102	AvatarSkillData_Desc_10102
+10111		Skill_A_01		0	10			1	11	CircleLockEnemy	0.6	1	0.3	1						AvatarSkillData_Name_10111	AvatarSkillData_Desc_10111
+10211		Skill_A_02		0	0			1	11	CircleLockEnemyR10	0.6	1	0.3	1						AvatarSkillData_Name_10211	AvatarSkillData_Desc_10211
+10311		Skill_A_01		0	10			1	11	CircleLockEnemy	0.6	1	0.3	1						AvatarSkillData_Name_10311	AvatarSkillData_Desc_10311
+10012		Skill_S_Kate_01		2	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10012	AvatarSkillData_Desc_10012
+10013		Skill_S_Ayaka_02		0	15			1	3	CircleLockEnemyR5H6HC	0.6	1	0.3		1	1				AvatarSkillData_Name_10013	AvatarSkillData_Desc_10013
+10014		Skill_E_Kate		8	0	4	30	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10014	AvatarSkillData_Desc_10014
+10015		Skill_E_Ayaka		8	0			1	4	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10015	AvatarSkillData_Desc_10015
+10016		Skill_E_Qin		0	0			1	4	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10016	AvatarSkillData_Desc_10016
+10017		Skill_E_Ambor		5	0	1	30	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10017	AvatarSkillData_Desc_10017
+10018		Skill_S_Ayaka_01		6	0			1	2	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10018	AvatarSkillData_Desc_10018
+10019		Skill_E_Ayaka		25	0	5	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10019	AvatarSkillData_Desc_10019
+10020		Skill_S_Ayaka_01		4	0			1	7	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10020	AvatarSkillData_Desc_10020
+10021		Skill_E_Ayaka		25	0	5	60	1	6	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10021	AvatarSkillData_Desc_10021
+10022	Test_CreateSharkTorpedo	Skill_E_Ayaka		5	0			2	0	CircleLockEnemyR10H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10022	AvatarSkillData_Desc_10022
+10023	Test_CreateSteamBang	Skill_S_Ayaka_01		10	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10023	AvatarSkillData_Desc_10023
+10024	Avatar_Ayaka_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10024	AvatarSkillData_Desc_10024
+10031	Avatar_Qin_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10031	AvatarSkillData_Desc_10031
+10032		Skill_S_Ambor_01		15	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1	2	1				AvatarSkillData_Name_10032	AvatarSkillData_Desc_10032
+10033	Avatar_Qin_VortexSmash	Skill_S_Qin_02		6	5			1	2	CircleLockEnemyR8H6HC	0.6	1	0.3	1		1				AvatarSkillData_Name_10033	AvatarSkillData_Desc_10033
+10034	Avatar_Qin_DandelionWind	Skill_E_Qin_01		32	0	7	80	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10034	AvatarSkillData_Desc_10034
+10035		Btn_Recon_Bait		15	0			1	11	CircleLockEnemyR10	0.6	1	0.3	1	2	1				AvatarSkillData_Name_10035	AvatarSkillData_Desc_10035
+10036	Avatar_Qin_EnterSkill	Skill_E_Kate		30				1	0	CircleLockEnemyR10	0.6	1	0.3							AvatarSkillData_Name_10036	AvatarSkillData_Desc_10036
+10037	Avatar_Player_FlyingBomber	Btn_Recon_Bait		0	0			1	0	CircleLockEnemyR10	0.6	1	0.3	1	2	1				AvatarSkillData_Name_10037	AvatarSkillData_Desc_10037
+10041	Avatar_Ambor_PressShoot	Skill_A_02	1	0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10041	AvatarSkillData_Desc_10041
+10042	Avatar_Ambor_AimPressShoot	Skill_A_02	1	0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10042	AvatarSkillData_Desc_10042
+10043		Skill_A_02	1	0	0			1	1	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10043	AvatarSkillData_Desc_10043
+10044	Avatar_GateOfAmbor_TriggerBullet	Skill_E_Kate		30	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10044	AvatarSkillData_Desc_10044
+10051		Skill_A_01	1	0	0			1	21	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10051	AvatarSkillData_Desc_10051
+10052		Skill_A_01		0	0			1	21	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10052	AvatarSkillData_Desc_10052
+10053	Avatar_Ayaka_EndLiquidStrike	Skill_S_Ayaka_02		0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10053	AvatarSkillData_Desc_10053
+10054	Avatar_Player_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10054	AvatarSkillData_Desc_10054
+10055	Avatar_Player_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10055	AvatarSkillData_Desc_10055
+10056	Avatar_Player_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10056	AvatarSkillData_Desc_10056
+10057	Avatar_Player_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10057	AvatarSkillData_Desc_10057
+10058	Avatar_Player_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10058	AvatarSkillData_Desc_10058
+10059	Avatar_Player_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10059	AvatarSkillData_Desc_10059
+10060	Avatar_Lisa_ExtraAttack	Skill_A_Catalyst_MD		0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10060	AvatarSkillData_Desc_10060
+10061		Skill_S_Lisa_01		1	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1	1	1				AvatarSkillData_Name_10061	AvatarSkillData_Desc_10061
+10062		Skill_E_Lisa_01		8	0	4	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10062	AvatarSkillData_Desc_10062
+10063	Test_CreateSharkTorpedo	Skill_E_Ayaka		5	0			2	0	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10063	AvatarSkillData_Desc_10063
+10064	Test_CreateSteamBang	Skill_S_Ayaka_01		10	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10064	AvatarSkillData_Desc_10064
+10065	Avatar_Ambor_ThrowDummy	Skill_S_Ambor_01		5	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10065	AvatarSkillData_Desc_10065
+10066		Skill_E_Kate	1	0	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10066	AvatarSkillData_Desc_10066
+10067	Avatar_Player_UziExplode	Skill_S_PlayerWind_01	1	5	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10067	AvatarSkillData_Desc_10067
+10068	Avatar_Player_WindBreathe	Skill_E_PlayerWind_01	1	25	0	7	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10068	AvatarSkillData_Desc_10068
+10069		Skill_A_01		0	0			1	1	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10069	AvatarSkillData_Desc_10069
+10070	Avatar_Barbara_ExtraAttack	Skill_A_Catalyst_MD		0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10070	AvatarSkillData_Desc_10070
+10071		Skill_S_Barbara_01		1	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1	1	1				AvatarSkillData_Name_10071	AvatarSkillData_Desc_10071
+10072		Skill_E_Barbara_01		5	0	2	90	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10072	AvatarSkillData_Desc_10072
+10073	Avatar_Kaeya_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10073	AvatarSkillData_Desc_10073
+10074		Skill_S_Kaeya_01		6	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10074	AvatarSkillData_Desc_10074
+10075		Skill_E_Kaeya_01		25	0	5	50	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10075	AvatarSkillData_Desc_10075
+10076	Avatar_Barbara_ReBorn	Skill_E_Kate		60	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1			1	1	Skill_E_Kate	AvatarSkillData_Name_10076	AvatarSkillData_Desc_10076
+10077	Avatar_Player_Hogyoku	Skill_S_PlayerRock_01	1	20	0			1	12	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10077	AvatarSkillData_Desc_10077
+10078	Avatar_Player_RockTide	Skill_E_PlayerRock_01	1	25	0	8	60	1	15	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10078	AvatarSkillData_Desc_10078
+10079	Avatar_Barbara_ReBornEffect_01	Skill_E_Kate		60	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10079	AvatarSkillData_Desc_10079
+10080	Avatar_Barbara_ReBornEffect_02	Skill_E_Kate		60	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10080	AvatarSkillData_Desc_10080
+10081	Avatar_Keaya_IceShield	Skill_E_Kate		60	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10081	AvatarSkillData_Desc_10081
+10082	Avatar_Barbara_Trigger_WaterBall	Skill_E_Kate		30	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10082	AvatarSkillData_Desc_10082
+10083	Avatar_Lsai_TeamTalent_Skill	Skill_E_Kate		30	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10083	AvatarSkillData_Desc_10083
+10160	Avatar_Diluc_ExtraAttack	Skill_A_04		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10160	AvatarSkillData_Desc_10160
+10161	Diluc_Fire_Blade	Skill_S_Diluc_01_01		10	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10161	AvatarSkillData_Desc_10161
+10162	Diluc_Fire_Blade	Skill_S_Diluc_01_02		2	0			1	3	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10162	AvatarSkillData_Desc_10162
+10163	Diluc_Fire_Blade	Skill_S_Diluc_01_03		2	0			1	4	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10163	AvatarSkillData_Desc_10163
+10165	Diluc_FireCross	Skill_E_Diluc_01		30	0	1	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10165	AvatarSkillData_Desc_10165
+10166	Diluc_EnterSkill	Skill_E_Kate		30	0			1	0	CircleLockEnemyR10H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10166	AvatarSkillData_Desc_10166
+10201	Avatar_Razor_ExtraAttack	Skill_A_04		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10201	AvatarSkillData_Desc_10201
+10202	Avatar_Razor_ClawMark_Click	Skill_S_Razor_01		6	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10202	AvatarSkillData_Desc_10202
+10203	Avatar_Razor_LycanMode	Skill_E_Razor_01		25	0	4	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10203	AvatarSkillData_Desc_10203
+10204	Avatar_Razor_ClawMark_Click	Skill_S_Ayaka_02		3	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10204	AvatarSkillData_Desc_10204
+10221	Avatar_Venti_PressShoot	Skill_A_02	1	0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10221	AvatarSkillData_Desc_10221
+10222	Avatar_Venti_AimPressShoot	Skill_A_02	1	0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10222	AvatarSkillData_Desc_10222
+10223		Skill_A_02	1	0	0			1	1	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10223	AvatarSkillData_Desc_10223
+10224		Skill_S_Venti_01		15	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10224	AvatarSkillData_Desc_10224
+10225		Skill_E_Venti_01		25	0	7	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10225	AvatarSkillData_Desc_10225
+10231	Avatar_Xiangling_ExtraAttack	Skill_A_03		0	0			1	0	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10231	AvatarSkillData_Desc_10231
+10232		Skill_S_Xiangling_01		6	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10232	AvatarSkillData_Desc_10232
+10235		Skill_E_Xiangling_01		25	0	1	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10235	AvatarSkillData_Desc_10235
+10241	Avatar_Beidou_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10241	AvatarSkillData_Desc_10241
+10242		Skill_S_Ambor_01		9	0			2	2	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10242	AvatarSkillData_Desc_10242
+10245		Skill_E_Beidou		25	0	4	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10245	AvatarSkillData_Desc_10245
+20000		Main_AimActive		0	0			1	99	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_20000	AvatarSkillData_Desc_20000
+10251	Avatar_Aquaria_PressShoot	Skill_A_02	1	2	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10251	AvatarSkillData_Desc_10251
+10252	Avatar_Aquaria_AimPressShoot	Skill_A_02	1	2	0			1	0	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10252	AvatarSkillData_Desc_10252
+10253		Skill_A_02	1	2	0			1	1	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10253	AvatarSkillData_Desc_10253
+10254		Skill_S_Ayaka_01		10	0			1	2	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10254	AvatarSkillData_Desc_10254
+10255		Skill_E_Ayaka		25	0	5	60	1	5	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10255	AvatarSkillData_Desc_10255
+10281	Avatar_Prototype_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10281	AvatarSkillData_Desc_10281
+10282		Skill_A_01		0	0			1	2	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10282	AvatarSkillData_Desc_10282
+10283		Skill_S_Ayaka_01		10	0	1		1	3	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10283	AvatarSkillData_Desc_10283
+10291		Skill_A_01		0	0			1	1	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10291	AvatarSkillData_Desc_10291
+10292		Skill_S_Kate_01		6	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10292	AvatarSkillData_Desc_10292
+10295		Skill_E_Kate		30	0	1	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10295	AvatarSkillData_Desc_10295
+10300		Skill_A_01		0	0			1	3	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10300	AvatarSkillData_Desc_10300
+10256		Skill_S_Ayaka_01		8	0			3	2	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10256	AvatarSkillData_Desc_10256
+10257		Skill_S_Ayaka_01		8	0			3	12	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10257	AvatarSkillData_Desc_10257
+10258		Skill_S_Ayaka_01		10	0			1	2	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10258	AvatarSkillData_Desc_10258
+10259		Skill_E_Ayaka		25	0	5	60	1	5	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10259	AvatarSkillData_Desc_10259
+10362		Skill_E_Ayaka		12	0	5	60	1	2	CircleLockEnemyR8H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10362	AvatarSkillData_Desc_10362
+10371	Avatar_RuoxinTest_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10371	AvatarSkillData_Desc_10371
+10372		Skill_S_Kate_01		8	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10372	AvatarSkillData_Desc_10372
+10373		Skill_E_Kate		25	0	2	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10373	AvatarSkillData_Desc_10373
+10381	Avatar_Xingqiu_ExtraAttack	Skill_A_01		0	0			1	0	CircleLockEnemyR5H6HC	0.6	1	0.3	1						AvatarSkillData_Name_10381	AvatarSkillData_Desc_10381
+10382		Skill_S_Kate_01		8	0			1	2	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10382	AvatarSkillData_Desc_10382
+10383		Skill_E_Kate		25	0	2	60	1	5	CircleLockEnemyR15H10HC	0.6	1	0.3	1						AvatarSkillData_Name_10383	AvatarSkillData_Desc_10383
+20001	Dvalin_S01_AirGun	Skill_A_Dvalin_AirGun		0	999999			1	0	CircleLockEnemyR10	0.6	1	0.3	1	2	1				AvatarSkillData_Name_20001	AvatarSkillData_Desc_20001
+20002	Dvalin_S01_AirGun	Skill_A_Dvalin_AirGun		0	0			1	0	CircleLockEnemyR10	0.6	1	0.3	1	2	1				AvatarSkillData_Name_20002	AvatarSkillData_Desc_20002

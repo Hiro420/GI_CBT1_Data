@@ -1,0 +1,15 @@
+EntityId	类型	[分支掉落]1类型	[分支掉落]1分支掉落池id	[分支掉落]2类型	[分支掉落]2分支掉落池id	[分支掉落]3类型	[分支掉落]3分支掉落池id	[分支掉落]4类型	[分支掉落]4分支掉落池id	[分支掉落]5类型	[分支掉落]5分支掉落池id	[分支掉落]6类型	[分支掉落]6分支掉落池id	[分支掉落]7类型	[分支掉落]7分支掉落池id
+70220001	2	test_1	0	test_2	0										
+70220013	2	WoodenObject_Broken	130												
+70220014	2	WoodenObject_Broken	130												
+28050101	1	Animal_Wisp_Fire_Die	121	Animal_Wisp_Water_Die	122	Animal_Wisp_Ice_Die	123	Animal_Wisp_Electric_Die	124	Animal_Wisp_Grass_Die	125	Animal_Wisp_Rock_Die	126	Animal_Wisp_Wind_Die	127
+70520001	2	Ore_Dig	101												
+70520002	2	Ore_Mithril	103												
+70520003	2	Ore_Crystal	104												
+70510001	2	Water_Bloom	110												
+70510003	2	ElectricRock_Destroy	111												
+70510005	2	ElectricRock_Destroy	111												
+70510006	2	FireFlower_Destroy	112												
+70510007	2	KapokFlower_Destroy	113												
+70510009	2	Gather_Dandelion	110												
+70216666	2	Chest_DropTest	999												

@@ -1,0 +1,7 @@
+试用角色ID	角色参数	武器	天赋	圣遗物	TrialAvatarName
+1	10000021,4,0	15101,4,0	1000,1001,1002,1003	1,2	TrialAvatarData_TrialAvatarName_1
+2	10000015,5,0	11101,5,0	1050,1051,1052,1053	1,2	TrialAvatarData_TrialAvatarName_2
+3	10000006,5,0	14101,5,0	1100,1101,1102,1103	1,2	TrialAvatarData_TrialAvatarName_3
+4	10000016,7,0	12101,7,0	1400,1401,1402,1403	1,2	TrialAvatarData_TrialAvatarName_4
+5	10000022,20,0	15401,20,0	2211,2212	11,12,13,14,15	TrialAvatarData_TrialAvatarName_5
+6	10000015,8,0	11201,5,0	1050,1051,1052,1053	1,2	TrialAvatarData_TrialAvatarName_6

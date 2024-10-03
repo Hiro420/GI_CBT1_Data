@@ -1,0 +1,9 @@
+元素类型	元素图标	排序权重
+1	UI_Buff_Element_Fire	1
+2	UI_Buff_Element_Water	2
+3	UI_Buff_Element_Grass	3
+4	UI_Buff_Element_Elect	4
+7	UI_Buff_Element_Wind	5
+6	UI_Buff_Element_Frost	6
+5	UI_Buff_Element_Frost	7
+8	UI_Buff_Element_Roach	8

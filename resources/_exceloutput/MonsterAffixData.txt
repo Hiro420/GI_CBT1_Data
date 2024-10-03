@@ -1,0 +1,30 @@
+ID	说明	AbilityName	是否通用	图标	雷达提示类型	AffixName
+1001	提升单体50%攻击力	MonsterAffix_Bash	1	Skill_E_PlayerWind_01		MonsterAffixData_AffixName_1001
+1002	提升单体50%防御力	MonsterAffix_IronDefense	1	Skill_S_Qin_01		MonsterAffixData_AffixName_1002
+1003	7秒内没有受到攻击，则每秒回复5%生命值	MonsterAffix_Indomitable	1	Skill_E_Ambor		MonsterAffixData_AffixName_1003
+1004	提升全元素20%抗性	MonsterAffix_Rainbow_01	1	Skill_E_Ayaka		MonsterAffixData_AffixName_1004
+1901	怪物叠加风元素结晶特效	MonsterAffix_Crystal_Wind	1	Skill_E_PlayerWind_01	1	MonsterAffixData_AffixName_1901
+2001	免疫点燃伤害	MonsterAffix_BurningResist		Skill_E_Diluc_01		MonsterAffixData_AffixName_2001
+2002	免疫感电伤害和效果	MonsterAffix_ShockResist		Skill_E_Kate		MonsterAffixData_AffixName_2002
+2003	免疫冰冻和寒元素的减速效果	MonsterAffix_IceAllResist		Skill_E_Ayaka		MonsterAffixData_AffixName_2003
+3001	同系伤害抵抗-水-50%	MonsterAffix_ElementResist_Water_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3001
+3002	同系伤害抵抗-水-70%	MonsterAffix_ElementResist_Water_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3002
+3003	同系伤害抵抗-水-100%	MonsterAffix_ElementResist_Water_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3003
+3004	同系伤害抵抗-火-50%	MonsterAffix_ElementResist_Fire_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3004
+3005	同系伤害抵抗-火-70%	MonsterAffix_ElementResist_Fire_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3005
+3006	同系伤害抵抗-火-100%	MonsterAffix_ElementResist_Fire_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3006
+3007	同系伤害抵抗-冰-50%	MonsterAffix_ElementResist_Ice_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3007
+3008	同系伤害抵抗-冰-70%	MonsterAffix_ElementResist_Ice_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3008
+3009	同系伤害抵抗-冰-100%	MonsterAffix_ElementResist_Ice_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3009
+3010	同系伤害抵抗-电-50%	MonsterAffix_ElementResist_Electric_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3010
+3011	同系伤害抵抗-电-70%	MonsterAffix_ElementResist_Electric_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3011
+3012	同系伤害抵抗-电-100%	MonsterAffix_ElementResist_Electric_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3012
+3013	同系伤害抵抗-风-50%	MonsterAffix_ElementResist_Wind_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3013
+3014	同系伤害抵抗-风-70%	MonsterAffix_ElementResist_Wind_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3014
+3015	同系伤害抵抗-风-100%	MonsterAffix_ElementResist_Wind_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3015
+3016	同系伤害抵抗-草-50%	MonsterAffix_ElementResist_Grass_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3016
+3017	同系伤害抵抗-草-70%	MonsterAffix_ElementResist_Grass_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3017
+3018	同系伤害抵抗-草-100%	MonsterAffix_ElementResist_Grass_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3018
+3019	同系伤害抵抗-岩-50%	MonsterAffix_ElementResist_Rock_01		Skill_S_Diluc_01_01		MonsterAffixData_AffixName_3019
+3020	同系伤害抵抗-岩-70%	MonsterAffix_ElementResist_Rock_02		Skill_S_Diluc_01_02		MonsterAffixData_AffixName_3020
+3021	同系伤害抵抗-岩-100%	MonsterAffix_ElementResist_Rock_03		Skill_S_Diluc_01_03		MonsterAffixData_AffixName_3021

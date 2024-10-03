@@ -1,0 +1,423 @@
+ID	Prefab路径	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	标签	客户端脚本	ItemJSON名称	ItemPrefab路径	雷达提示类型	Name
+70000001		9001	10	Grass01		1				item		Default_Item			GadgetData_Level_Name_70000001
+70000002		9002	20	Water01		1				item		Default_Item			GadgetData_Level_Name_70000002
+70000003		9001	36	Tree01		1				item		Default_Item			GadgetData_Level_Name_70000003
+70000004		9001	37	Bush01		1				item		Default_Item			GadgetData_Level_Name_70000004
+70000005		9001	37	Bush02		1				item		Default_Item			GadgetData_Level_Name_70000005
+70010001		0	13							item		Default_Item			GadgetData_Level_Name_70010001
+70010002		0	15							item		Default_Item			GadgetData_Level_Name_70010002
+70010003	ART/Others/SceneObj/SceneObj_DungeonEntry	0	15							item		Default_Item			GadgetData_Level_Name_70010003
+70010004	ART/Others/SceneObj/SceneObj_DungeonEntry	0	15							item		Default_Item			GadgetData_Level_Name_70010004
+70010005	ART/Others/SceneObj/SceneObj_DungeonQuitPoint	0	15							item		Default_Item			GadgetData_Level_Name_70010005
+70010006		0	18	LocalTrigger						item		Default_Item			GadgetData_Level_Name_70010006
+70020001		4001	19	Enviro01					3	item		Default_Item			GadgetData_Level_Name_70020001
+70020002		4001	19	Enviro02					3	item		Default_Item			GadgetData_Level_Name_70020002
+70020003		4001	19	Enviro03					3	item		Default_Item			GadgetData_Level_Name_70020003
+70110001	ART/Others/SceneObj/SceneObj_NPC_Goddess	0	13	SceneObj_Resident_Goddess		1									GadgetData_Level_Name_70110001
+70110002	ART/Others/SceneObj/SceneObj_Gear_Teleport	0	15	SceneObj_Resident_Teleport		1									GadgetData_Level_Name_70110002
+70110003	ART/Effect/SceneInteractive/Eff_WormHoleGate01	0	15												GadgetData_Level_Name_70110003
+70120001	ART/Others/SceneObj/SceneObj_DungeonEntry_MengDe01	5001	19	SceneObj_Resident_DungeonEntry_MengDe01		1				item					GadgetData_Level_Name_70120001
+70120002	ART/Others/SceneObj/SceneObj_DungeonEntry_MengDe02	5001	19	SceneObj_Resident_DungeonEntry_MengDe02		1				item					GadgetData_Level_Name_70120002
+70120003	ART/Others/SceneObj/SceneObj_Gear_CheckPoint	0	15	SceneObj_Resident_CheckPoint					1						GadgetData_Level_Name_70120003
+70120004	ART/Effect/SceneInteractive/Eff_Dungeon_Exit	0	15						1						GadgetData_Level_Name_70120004
+70120005	ART/Effect/SceneInteractive/Eff_Stages_DvalinDungeonEntry_Idle	0	19	DungeonEntry_Dvalin					1						GadgetData_Level_Name_70120005
+70130001	ART/Others/Gadget/Gadget_Windmill01	5001	19	Windmill	1				2						GadgetData_Level_Name_70130001
+70130002	ART/Others/Gadget/Gadget_Windmill02	5001	19	Windmill	1				2						GadgetData_Level_Name_70130002
+70130003	ART/Others/Gadget/Gadget_Windmill03	5001	19	Windmill	1				2						GadgetData_Level_Name_70130003
+70200011	ART/Others/SceneObj/SceneObj_HealingBarrel	5001	19	HealingBarrel						item		Default_Item			GadgetData_Level_Name_70200011
+70210001	ART/Others/SceneObj/SceneObj_Item_Treasurebox01	5001	26	SceneObj_Chest_NormalChest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210001
+70210002	ART/Others/SceneObj/SceneObj_Item_Treasurebox02	5001	26	SceneObj_Chest_NormalChest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210002
+70210003	ART/Others/SceneObj/SceneObj_Item_Treasurebox03	5001	26	SceneObj_Chest_NormalChest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210003
+70210004	ART/Others/SceneObj/SceneObj_Item_Treasurebox04	5001	26	SceneObj_Chest_NormalChest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210004
+70210005	ART/Others/SceneObj/SceneObj_Item_Treasurebox05	5001	26	SceneObj_Chest_NormalChest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210005
+70210006	ART/Others/SceneObj/SceneObj_Item_Treasurebox03	5001	26	SceneObj_Chest_NormalChest		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210006
+70210007	ART/Others/SceneObj/SceneObj_Item_Treasurebox05	5001	26	SceneObj_Chest_Test_FM02	1	1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210007
+70210008	ART/Others/SceneObj/SceneObj_Item_Treasurebox_Dorp01	5001	26	SceneObj_Chest_Drop_Chest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210008
+70210011	ART/Others/SceneObj/SceneObj_Chest_TreasureBox01_Default	5001	26	SceneObj_Chest_Default_Lv1		1		1		item	Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210011
+70210012	ART/Others/SceneObj/SceneObj_Chest_TreasureBox01_Locked	5001	26	SceneObj_Chest_Locked_Lv1		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210012
+70210013	ART/Others/SceneObj/SceneObj_Chest_TreasureBox01_Bramble	5001	26	SceneObj_Chest_Bramble_Lv1		1		1		item	Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210013
+70210014	ART/Others/SceneObj/SceneObj_Chest_TreasureBox01_Frozen	5001	26	SceneObj_Chest_Frozen_Lv1		1		1		item	Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210014
+70210021	ART/Others/SceneObj/SceneObj_Chest_TreasureBox02_Default	5001	26	SceneObj_Chest_Default_Lv2		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210021
+70210022	ART/Others/SceneObj/SceneObj_Chest_TreasureBox02_Locked	5001	26	SceneObj_Chest_Locked_Lv2		1		1	1		Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210022
+70210023	ART/Others/SceneObj/SceneObj_Chest_TreasureBox02_Bramble	5001	26	SceneObj_Chest_Bramble_Lv2		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210023
+70210024	ART/Others/SceneObj/SceneObj_Chest_TreasureBox02_Frozen	5001	26	SceneObj_Chest_Frozen_Lv2		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210024
+70210031	ART/Others/SceneObj/SceneObj_Chest_TreasureBox03_Default	5001	26	SceneObj_Chest_Default_Lv3		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210031
+70210032	ART/Others/SceneObj/SceneObj_Chest_TreasureBox03_Locked	5001	26	SceneObj_Chest_Locked_Lv3		1		1	1		Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210032
+70210033	ART/Others/SceneObj/SceneObj_Chest_TreasureBox03_Bramble	5001	26	SceneObj_Chest_Bramble_Lv3		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210033
+70210034	ART/Others/SceneObj/SceneObj_Chest_TreasureBox03_Frozen	5001	26	SceneObj_Chest_Frozen_Lv3		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210034
+70210041	ART/Others/SceneObj/SceneObj_Chest_TreasureBox04_Default	5001	26	SceneObj_Chest_Default_Lv4		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210041
+70210042	ART/Others/SceneObj/SceneObj_Chest_TreasureBox04_Locked	5001	26	SceneObj_Chest_Locked_Lv4		1		1	1		Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210042
+70210043	ART/Others/SceneObj/SceneObj_Chest_TreasureBox04_Bramble	5001	26	SceneObj_Chest_Bramble_Lv4		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210043
+70210044	ART/Others/SceneObj/SceneObj_Chest_TreasureBox04_Frozen	5001	26	SceneObj_Chest_Frozen_Lv4		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210044
+70210051	ART/Others/SceneObj/SceneObj_Chest_TreasureBox05_Default	5001	26	SceneObj_Chest_Default_Lv5		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210051
+70210052	ART/Others/SceneObj/SceneObj_Chest_TreasureBox05_Locked	5001	26	SceneObj_Chest_Locked_Lv5		1		1	1		Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210052
+70210053	ART/Others/SceneObj/SceneObj_Chest_TreasureBox05_Bramble	5001	26	SceneObj_Chest_Bramble_Lv5		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210053
+70210054	ART/Others/SceneObj/SceneObj_Chest_TreasureBox05_Frozen	5001	26	SceneObj_Chest_Frozen_Lv5		1		1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70210054
+70210101	ART/Others/SceneObj/SceneObj_Item_SearchPoint	5001	26	SearchPoint		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Level_Name_70210101
+70216666	ART/Others/SceneObj/SceneObj_Chest_DropTest	5001	26	SceneObj_Chest_DropTest				1			Data/ScriptData/Gadget/Chest_Normal				GadgetData_Level_Name_70216666
+70220001	ART/Others/SceneObj/SceneObj_Prop_Leavestacks	5001	19	SceneObj_Environment_GrassMaterial_LeaveStacks		1		1		item		Default_Item			GadgetData_Level_Name_70220001
+70220002	ART/Others/SceneObj/SceneObj_Item_LeafBlanket	5001	19	SceneObj_Environment_GrassMaterial_LeafBlanket		1		1		item		Default_Item			GadgetData_Level_Name_70220002
+70220003	ART/Others/SceneObj/SceneObj_Item_BrambleWall01	5001	19	SceneObj_Environment_WoodenMaterial_BrambleWall01		1		1		item		Default_Item			GadgetData_Level_Name_70220003
+70220004	ART/Others/SceneObj/SceneObj_Item_Plant_PumpkinBomb01	5001	19	SceneObj_CombatInteraction_PumpkinBomb				1		item		Default_Item			GadgetData_Level_Name_70220004
+70220005	ART/Others/SceneObj/SceneObj_Item_Bombbarrel01	5001	19	SceneObj_CombatInteraction_BombBox	1					item		Default_Item			GadgetData_Level_Name_70220005
+70220006	ART/Others/SceneObj/SceneObj_Item_StonePillar	5001	19	SceneObj_Environment_Rock_StonePillar		1				item		Default_Item			GadgetData_Level_Name_70220006
+70220007	ART/Others/SceneObj/SceneObj_Item_StoneWall	5001	19	SceneObj_Environment_Rock_StoneWall		1				item		Default_Item			GadgetData_Level_Name_70220007
+70220008	ART/Others/SceneObj/SceneObj_Item_StonePile	5001	19	SceneObj_Environment_Rock_StonePile		1				item		Default_Item			GadgetData_Level_Name_70220008
+70220009	ART/Others/SceneObj/SceneObj_Item_Stone	5001	19	SceneObj_Environment_Rock_Stone	1					item		Default_Item			GadgetData_Level_Name_70220009
+70220010	ART/Others/SceneObj/SceneObj_Amber_Water	5001	19	SceneObj_Amber_WaterAmber		1		1		item		Default_Item			GadgetData_Level_Name_70220010
+70220011	ART/Others/SceneObj/SceneObj_Amber_Wind	5001	33	SceneObj_Amber_WindAmber		1				item		Default_Item			GadgetData_Level_Name_70220011
+70220012	ART/Others/SceneObj/SceneObj_Amber_Wind_Inactive	5001	33	SceneObj_Amber_WindAmber_Inactive						item		Default_Item			GadgetData_Level_Name_70220012
+70220013	ART/Others/SceneObj/SceneObj_Item_WoodenBox_Big	5001	19	SceneObj_Environment_WoodenMaterial_WoodenObject		1			4	item		Default_Item			GadgetData_Level_Name_70220013
+70220014	ART/Others/SceneObj/SceneObj_Item_WoodenBarrel	5001	19	SceneObj_Environment_WoodenMaterial_WoodenObject					4	item		Default_Item			GadgetData_Level_Name_70220014
+70220015	ART/Others/SceneObj/SceneObj_Prop_Grassstacks	5001	19	SceneObj_Environment_GrassMaterial_GrassStacks		1		1	4	item		Default_Item			GadgetData_Level_Name_70220015
+70220016	ART/Others/SceneObj/SceneObj_Prop_Grassstacks02	5001	19	SceneObj_Environment_GrassMaterial_GrassStacks		1		1	4	item		Default_Item			GadgetData_Level_Name_70220016
+70220017	ART/Others/SceneObj/SceneObj_Prop_Firewoodstacks	5001	19	SceneObj_Environment_WoodenMaterial_FirewoodStacks		1		1	4	item		Default_Item			GadgetData_Level_Name_70220017
+70220018	ART/Others/SceneObj/SceneObj_Item_StonePillar_UnClimbable	5001	19	SceneObj_Environment_Rock_StonePillar		1				item		Default_Item			GadgetData_Level_Name_70220018
+70220019	ART/Others/SceneObj/SceneObj_Item_StonePillar_UnClimbable_UnDestroyable	5001	19	SceneObj_Environment_Rock_StonePillar_Unclimbable_UnDestroyable		1				item		Default_Item			GadgetData_Level_Name_70220019
+70220020	ART/Others/SceneObj/SceneObj_Item_BrambleWorld	5001	19	SceneObj_Environment_WoodenMaterial_BrambleWorld		1		1		item		Default_Item			GadgetData_Level_Name_70220020
+70220021	ART/Others/SceneObj/SceneObj_Item_StonePileWorld	5001	19	SceneObj_Environment_Rock_StonePileWorld		1				item		Default_Item			GadgetData_Level_Name_70220021
+70220022	ART/Others/SceneObj/SceneObj_Prop_Oil	5001	19	Oil		1				item		Default_Item			GadgetData_Level_Name_70220022
+70220023	ART/Others/SceneObj/SceneObj_Item_LeafBlanket02	5001	19	SceneObj_Environment_GrassMaterial_LeafBlanket02											GadgetData_Level_Name_70220023
+70220024	ART/Others/SceneObj/SceneObj_Item_StonePileWorld02	5001	19	SceneObj_Environment_Rock_StonePileWorld		1				item		Default_Item			GadgetData_Level_Name_70220024
+70220025	ART/Others/SceneObj/SceneObj_Item_DropGrass01	5001	19	SceneObj_Environment_GrassMaterial_LeafBlanket		1				item					GadgetData_Level_Name_70220025
+70270001	ART/Others/SceneObj/SceneObj_Item_RainyCloud	5001	19	RainyCloud						item		Default_Item			GadgetData_Level_Name_70270001
+70270002	ART/Others/SceneObj/SceneObj_Null	5001	19	WaterAmber_Mist		1				item		Default_Item			GadgetData_Level_Name_70270002
+70270003	ART/Effect/SceneInteractive/Eff_WindAmber_WindField	5001	23	WindAmberField		1				item		Default_Item			GadgetData_Level_Name_70270003
+70290001	ART/Others/SceneObj/SceneObj_Item_Raspberry01	5001	19	SceneObj_Environment_WoodenMaterial_AppleTree						item		Default_Item			GadgetData_Level_Name_70290001
+70290002	ART/Others/SceneObj/SceneObj_Item_Plant_AppleTree01	5001	19	SceneObj_Environment_WoodenMaterial_AppleTree		1				item		Default_Item			GadgetData_Level_Name_70290002
+70290003	ART/Others/SceneObj/SceneObj_Item_Decoration_BirdNest01	1001	19							item		Default_Item			GadgetData_Level_Name_70290003
+70290004	ART/Others/SceneObj/SceneObj_Item_Decoration_BirdNestBundle01	1001	19							item		Default_Item			GadgetData_Level_Name_70290004
+70290005	ART/Others/SceneObj/Item_Plant_IceFlowerBase_Vo	1001	19												GadgetData_Level_Name_70290005
+70290006	ART/Stages/Item/Item_Plant_FireFlowerBase01_Vo	1001	19												GadgetData_Level_Name_70290006
+70290007	ART/Stages/Item/Item_Ore_ElectricRockBase01_Vo	1001	19												GadgetData_Level_Name_70290007
+70290008	ART/Others/SceneObj/SceneObj_Item_IceflowerBundle01	1001	19												GadgetData_Level_Name_70290008
+70290009	ART/Others/SceneObj/SceneObj_Item_FireFlowerBundle01	1001	19												GadgetData_Level_Name_70290009
+70290010	ART/Others/SceneObj/SceneObj_Item_ElectricRockBundle01	1001	19												GadgetData_Level_Name_70290010
+70290011	ART/Others/SceneObj/SceneObj_Item_Plant_Dandelion_Bundle	1001	19												GadgetData_Level_Name_70290011
+70300001	ART/Others/Gadget/Gadget_MiniRobot	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300001
+70300002	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300002
+70300003	ART/Effect/SceneInteractive/Eff_FlyRace_Marker_Active	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Level_Name_70300003
+70300004	ART/Effect/SceneInteractive/Eff_FlyRace_Goal_Marker	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Level_Name_70300004
+70300005	ART/Effect/SceneInteractive/Eff_FlyRace_Goal_Marker_AS	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Level_Name_70300005
+70300006	ART/Effect/SceneInteractive/Eff_QuestGuide_TargetPoint	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300006
+70300007	ART/Stages/Item/Item_Quest_Dish01	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300007
+70300008	ART/Stages/Item/Item_Quest_Music01	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300008
+70300009	ART/Stages/Item/Item_Quest_Wrap01	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300009
+70300010	ART/Stages/Item/Item_Quest_Book01	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300010
+70300011	ART/Stages/Item/Item_Quest_Letter01	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300011
+70300012	ART/Stages/Item/Item_Quest_Medicine01	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70300012
+70300013	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather		1			2	item		Default_Item			GadgetData_Level_Name_70300013
+70300014	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather_HP		1			1	item		DragonFeather_HP			GadgetData_Level_Name_70300014
+70300015	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather_HP		1			1	item		DragonFeather_HP			GadgetData_Level_Name_70300015
+70300016	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather_HP		1			1	item		DragonFeather_HP			GadgetData_Level_Name_70300016
+70300017	ART/Others/SkillObj/SkillObj_Dummy	1001	18	Dummy_Safe	1	1				item		Default_Item			GadgetData_Level_Name_70300017
+70300018	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather						item		Default_Item			GadgetData_Level_Name_70300018
+70300020	ART/Others/Gadget/Gadget_MiniRobot_Invisible	1001	22							item		Default_Item			GadgetData_Level_Name_70300020
+70300021	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound01	1001	19							item		Default_Item			GadgetData_Level_Name_70300021
+70300022	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound02	1001	19							item		Default_Item			GadgetData_Level_Name_70300022
+70300023	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound03	1001	19							item		Default_Item			GadgetData_Level_Name_70300023
+70300024	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound04	1001	19							item		Default_Item			GadgetData_Level_Name_70300024
+70300031	ART/Others/Gadget/Gadget_WoodBoard_Test	1001	19						2	item		Default_Item			GadgetData_Level_Name_70300031
+70300032	ART/Others/Gadget/Gadget_WoodBoard_Test02	1001	19							item		Default_Item			GadgetData_Level_Name_70300032
+70300036	ART/Others/Gadget/Gadget_MiniRobotRed_CrouchThrow	1001	3	Sneak_Crouch_Throw	1	1				item		Default_Item			GadgetData_Level_Name_70300036
+70300037		1001	19	ElementTrack						item		Default_Item			GadgetData_Level_Name_70300037
+70300038	ART/Effect/SceneInteractive/Eff_Quest_CrystTear02_Dark	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300038
+70300039	ART/Others/SceneObj/SceneObj_Item_DragonFeather02	5001	19	DragonFeather					2	item		Default_Item			GadgetData_Level_Name_70300039
+70300040	ART/Stages/Item/Item_Himmel_Modelnew	1001	19							item		Default_Item			GadgetData_Level_Name_70300040
+70300041	ART/Effect/SceneInteractive/Eff_Quest_CrystTear02_Dark	1001	19							item		Default_Item			GadgetData_Level_Name_70300041
+70300042	ART/Effect/CutScene/Mengde/Eff_CS_CrystTearQuest01	1001	19							item		Default_Item			GadgetData_Level_Name_70300042
+70300043	ART/Others/SceneObj/SceneObj_Item_SearchPoint	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300043
+70300044	ART/Others/SceneObj/SceneObj_Item_SearchPoint	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300044
+70300045	ART/Others/SceneObj/SceneObj_Item_SearchPoint	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300045
+70300046	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather					1	item		Default_Item			GadgetData_Level_Name_70300046
+70300047	ART/Others/SceneObj/SceneObj_Item_TransparentHitSphere_R5	5001	19	TransparentHitSphere					1	item		TransparentHitSphere			GadgetData_Level_Name_70300047
+70300048	ART/Others/SceneObj/SceneObj_Test_SitPoint	1001	19												GadgetData_Level_Name_70300048
+70300049	ART/Effect/SceneInteractive/Eff_Quest_CrystTear_Dialog	1001	19							item		Default_Item			GadgetData_Level_Name_70300049
+70300050	ART/Others/Gadget/Gadget_MiniRobot	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300050
+70300051	ART/Effect/CutScene/Mengde/Eff_CS_GoddessAura_Downtown	5001	19						3	item		Default_NoDrop_Item			GadgetData_Level_Name_70300051
+70300052	ART/Effect/SceneInteractive/Eff_Quest_SiteInteract	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300052
+70300053	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane02	5001	19	SceneObj_Gear_Platform_NormalPlatform						item					GadgetData_Level_Name_70300053
+70300054	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather_HP		1			1	item		DragonFeather_HP			GadgetData_Level_Name_70300054
+70300055	ART/Others/SceneObj/SceneObj_Item_GrapeStick	1001	19	SceneObj_Environment_Quest_GrapeStick						item		Default_Item			GadgetData_Level_Name_70300055
+70300056	ART/Others/SceneObj/SceneObj_Item_DragonFeather01_Move	5001	32	DragonFeather_Move	1				1			DragonFeather_Move			GadgetData_Level_Name_70300056
+70300057		5001	19	Guide_Point_Move	1				3			Guide_Point_Move			GadgetData_Level_Name_70300057
+70300058	ART/Effect/SceneInteractive/Eff_WindField_Vertical_Cushion	1001	23	AirflowFieldBlue					3	item		Default_Item			GadgetData_Level_Name_70300058
+70300059	ART/Effect/SceneInteractive/Eff_Quest_CrystTear_Dialog	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_70300059
+70300060	ART/Effect/Skill/Monster/Monster_Abyss/Eff_Monster_Abyss_Water_Blink_BS	1001	19							item		Default_Item			GadgetData_Level_Name_70300060
+70300061	ART/Effect/Skill/Monster/Monster_Abyss/Eff_Monster_Abyss_Water_Blink	1001	19							item		Default_Item			GadgetData_Level_Name_70300061
+70300062	ART/Effect/Skill/Monster/Monster_Abyss/Eff_Monster_Abyss_Water_Blink_AS	1001	19							item		Default_Item			GadgetData_Level_Name_70300062
+70300063	ART/Others/SceneObj/SceneObj_Item_GrapeStick	1001	19							item		Default_Item			GadgetData_Level_Name_70300063
+70300064	ART/Effect/SceneInteractive/Eff_Quest_CrystTear03_Dark	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Level_Name_70300064
+70300065	ART/Others/Gadget/Gadget_MiniRobot	1001	22	SceneObj_Gather_Task_VisualEffect						item		Default_Item			GadgetData_Level_Name_70300065
+70310001	ART/Others/SceneObj/SceneObj_Item_FireBasin01	5001	19	SceneObj_Environment_FireMaterial_FireBasin		1			4	item		Default_Item			GadgetData_Level_Name_70310001
+70310002	ART/Others/SceneObj/SceneObj_Item_Torch	5001	19	SceneObj_Environment_FireMaterial_Torch01		1				item		Default_Item			GadgetData_Level_Name_70310002
+70310003	ART/Others/SceneObj/SceneObj_Item_FireBasin01	5001	19	SceneObj_Environment_FireMaterial_FireBasin		1			1	item		Default_Item			GadgetData_Level_Name_70310003
+70310004	ART/Others/SceneObj/SceneObj_Item_Bornfires02	5001	19	SceneObj_Environment_FireMaterial_Bornfires		1				item		Default_Item			GadgetData_Level_Name_70310004
+70310005	ART/Others/SceneObj/SceneObj_Item_FireBasin01	5001	19	GearWater		1				item		Default_Item			GadgetData_Level_Name_70310005
+70310006	ART/Others/SceneObj/SceneObj_Item_Cooking01	5001	19	SceneObj_Environment_FireMaterial_CookingPot		1				item	Data/ScriptData/Gadget/CookGadget	Default_Item			GadgetData_Level_Name_70310006
+70310007	ART/Others/SceneObj/SceneObj_Gear_AreaGaurdian	5001	19	SceneObj_Environment_Other_AreaGuardian		1				item		Default_Item			GadgetData_Level_Name_70310007
+70310008	ART/Others/SceneObj/SceneObj_Item_InvisibleFloor	5001	19							item		Default_Item			GadgetData_Level_Name_70310008
+70310009	ART/Others/SceneObj/SceneObj_Item_Cooking02	5001	19	SceneObj_Environment_FireMaterial_CookingPot		1				item	Data/ScriptData/Gadget/CookGadget	Default_Item			GadgetData_Level_Name_70310009
+70310010	ART/Others/SceneObj/SceneObj_Item_Cooking03	5001	19	SceneObj_Environment_FireMaterial_CookingPot_NoLight		1				item	Data/ScriptData/Gadget/CookGadget	Default_Item			GadgetData_Level_Name_70310010
+70320001	ART/Others/SceneObj/SceneObj_Gear_Spray_Fire_Rotating	5001	25	SceneObj_Gear_Combat_Spray_Fire_Rotating		1				item		Default_Item			GadgetData_Level_Name_70320001
+70320002	ART/Others/SceneObj/SceneObj_Gear_Spray_Fire	5001	25	SceneObj_Gear_Combat_Spray_Fire		1				item		Default_Item			GadgetData_Level_Name_70320002
+70350001	ART/Others/SceneObj/SceneObj_Gear_DungeonGate01	5001	25	SceneObj_Gear_Gate_DungeonGate01		1				item		Default_Item			GadgetData_Level_Name_70350001
+70350002	ART/Others/SceneObj/SceneObj_Gear_DungeonGate02	5001	25	SceneObj_Gear_Gate_DungeonGate02		1			1	item		Default_Item			GadgetData_Level_Name_70350002
+70350003	ART/Others/SceneObj/SceneObj_Gear_DungeonGate03	5001	25	SceneObj_Gear_Gate_DungeonGate03		1			1	item		Default_Item			GadgetData_Level_Name_70350003
+70350004	ART/Others/SceneObj/SceneObj_Gear_IronFence	5001	25	SceneObj_Gear_Gate_IronFence		1				item		Default_Item			GadgetData_Level_Name_70350004
+70350005	ART/Others/SceneObj/SceneObj_Gear_PfDungeon_Door02	5001	25	SceneObj_Gear_Gate_PfDungeon_Door02		1			1	item		Default_Item			GadgetData_Level_Name_70350005
+70350006	ART/Others/SceneObj/SceneObj_Gear_IronFence02	5001	25	SceneObj_Gear_Gate_IronFence		1				item		Default_Item			GadgetData_Level_Name_70350006
+70350007	ART/Others/SceneObj/Stages_Gear_HiliSleepingGroup02	5001	25	SceneObj_Gear_Gate_HiliSleepingGroup02		1				item		Default_Item			GadgetData_Level_Name_70350007
+70360001	ART/Others/SceneObj/SceneObj_WorldArea_Operator	5001	30	SceneObj_Gear_Operator_Invisible_Operator				1	4	item		Default_Item			GadgetData_Level_Name_70360001
+70360002	ART/Others/SceneObj/SceneObj_Gear_Operator	5001	30	SceneObj_Gear_Operator_Normal_Operator		1		1		item		Default_Item			GadgetData_Level_Name_70360002
+70360003	ART/Others/SceneObj/SceneObj_Item_Clue01	5001	30	SceneObj_Quest_Clue01				1	2	item		Default_Item			GadgetData_Level_Name_70360003
+70380001	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane01	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1				item					GadgetData_Level_Name_70380001
+70380002	ART/Others/SceneObj/SceneObj_Gear_Platform_WindSlime	5001	32	SceneObj_Gear_Platform_MovingTarget	1					item					GadgetData_Level_Name_70380002
+70380003	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane03	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1				item					GadgetData_Level_Name_70380003
+70500000		1001	21							item		Default_Item			GadgetData_Level_Name_70500000
+70500001		1001	21						2	item		Default_Item			GadgetData_Level_Name_70500001
+70510001	ART/Others/SceneObj/SceneObj_Item_Plant_KapokFlower01	5001	22	SceneObj_Gather_KapokFlower				1		item		Default_Item			GadgetData_Level_Name_70510001
+70510002	ART/Others/SceneObj/SceneObj_Item_Plant_FireFlower01	5001	22	SceneObj_Gather_FireFlower01		1				item		Default_Item			GadgetData_Level_Name_70510002
+70510003	ART/Others/SceneObj/SceneObj_Item_ElectricRock01	5001	22	SceneObj_Gather_ElectricRock01		1		1		item		Default_Item			GadgetData_Level_Name_70510003
+70510004	ART/Others/SceneObj/SceneObj_Item_Plant_Fuchsia01	5001	22	SceneObj_Gather_Fuchsia01				1		item		Default_Item			GadgetData_Level_Name_70510004
+70510005	ART/Others/SceneObj/SceneObj_Item_ElectricRock01	5100	22	SceneObj_Gather_ElectricRock02		1				item		Default_Item			GadgetData_Level_Name_70510005
+70510006	ART/Others/SceneObj/SceneObj_Item_Plant_FireFlower01	5001	22	SceneObj_Gather_FireFlower02		1				item		Default_Item			GadgetData_Level_Name_70510006
+70510007	ART/Others/SceneObj/SceneObj_Item_Plant_IceFlower01	5100	22	SceneObj_Gather_IceFlower02		1				item		Default_Item			GadgetData_Level_Name_70510007
+70510008	ART/Others/SceneObj/SceneObj_Item_Plant_IceFlower01	5001	22	SceneObj_Gather_WaterFlower01		1				item		Default_Item			GadgetData_Level_Name_70510008
+70510009	ART/Others/SceneObj/SceneObj_Item_Plant_Dandelion	5001	22	SceneObj_Gather_Dandelion		1				item		Default_Item			GadgetData_Level_Name_70510009
+70510010	ART/Others/SceneObj/SceneObj_Item_Plant_Dandelion_Flora	5001	3	SceneObj_Gather_Dandelion_Flora	1	1				item		Default_Item			GadgetData_Level_Name_70510010
+70510011	ART/Others/SceneObj/SceneObj_Gather_SlimeFlora	5001	22	SceneObj_Gather_SlimeFlower		1		1		item		Default_Item			GadgetData_Level_Name_70510011
+70520001	ART/Others/SceneObj/SceneObj_Ore_Stone01	5001	22	SceneObj_Gather_Default_Ore		1				item		Default_Item			GadgetData_Level_Name_70520001
+70520002	ART/Others/SceneObj/SceneObj_Ore_Metal01	5001	22	SceneObj_Gather_Default_Ore		1				item		Default_Item			GadgetData_Level_Name_70520002
+70520003	ART/Others/SceneObj/SceneObj_Ore_Crystal01	5001	22	SceneObj_Gather_Advance_Ore		1				item		Default_Item			GadgetData_Level_Name_70520003
+70520004	ART/Others/SceneObj/SceneObj_Item_Plant_Mushroom01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520004
+70520005	ART/Others/SceneObj/SceneObj_Item_Plant_Whiteballet01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520005
+70520006	ART/Others/SceneObj/SceneObj_Item_Plant_Carrot02	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520006
+70520007	ART/Others/SceneObj/SceneObj_Item_Plant_Radish02	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520007
+70520008	ART/Others/SceneObj/SceneObj_Item_Plant_Snapdragon01	1001	22	SceneObj_Gather_Big						item		SceneObj_Item_Big			GadgetData_Level_Name_70520008
+70520009	ART/Others/SceneObj/SceneObj_Item_Plant_Mint01	1001	22	SceneObj_Gather_Big						item		SceneObj_Item_Big			GadgetData_Level_Name_70520009
+70520010	ART/Others/SceneObj/SceneObj_Item_Plant_Wheat01	1001	22	SceneObj_Gather_Big						item		SceneObj_Item_Small			GadgetData_Level_Name_70520010
+70520011	ART/Others/SceneObj/SceneObj_Item_Plant_Cabbage01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520011
+70520012	ART/Others/SceneObj/SceneObj_Item_Plant_Anemone01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520012
+70520013	ART/Others/SceneObj/SceneObj_Item_Food_Matsutake01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520013
+70520014	ART/Others/SceneObj/SceneObj_Item_Plant_Carrot02_Clear	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520014
+70520015	ART/Others/SceneObj/SceneObj_Item_Plant_Radish02_Clear	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520015
+70520016	ART/Others/SceneObj/SceneObj_Item_Food_Meat01_Small	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520016
+70520017	ART/Others/SceneObj/SceneObj_Item_Food_BirdMeat01_Small	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70520017
+70540001	ART/Others/SceneObj/SceneObj_Item_Raspberry02	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540001
+70540002	ART/Others/SceneObj/SceneObj_Plant_Drop_KapokFlower01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540002
+70540003	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_Apple01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540003
+70540004	ART/Others/SceneObj/SceneObj_Item_Food_BirdEgg01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540004
+70540005	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_Pine01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540005
+70540006	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_FireFlower01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540006
+70540007	ART/Others/SceneObj/SceneObj_Item_Drop_Ore_ElectricRock01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70540007
+70560001	ART/Others/SceneObj/SceneObj_Item_Food_Meat01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70560001
+70560002	ART/Others/SceneObj/SceneObj_Ore_Drop_Stone01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70560002
+70560003	ART/Others/SceneObj/SceneObj_Ore_Drop_Metal01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70560003
+70560004	ART/Others/SceneObj/SceneObj_Ore_Drop_Crystal01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70560004
+70590001	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	SceneObj_Gather_Default_Gather								Default_Item			GadgetData_Level_Name_70590001
+70590002	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	SceneObj_Gather_Default_Gather								Default_Item			GadgetData_Level_Name_70590002
+70590003	ART/Others/SceneObj/SceneObj_Item_Plant_Whiteballet_WindCrystal	1001	22	SceneObj_Gather_Small		1				item		SceneObj_Item_Small		1	GadgetData_Level_Name_70590003
+70590004	ART/Effect/SceneInteractive/Eff_WindCrystal_Idle	1001	22	SceneObj_Gather_Radar_Gather		1				item		SceneObj_Gather_Radar_Gather		1	GadgetData_Level_Name_70590004
+70590005	ART/Effect/SceneInteractive/Eff_Item_Hint_Test	1001	22	SceneObj_Gather_Default_Gather		1				item		SceneObj_Gather_Default_Gather			GadgetData_Level_Name_70590005
+70590006	ART/Effect/SceneInteractive/Eff_Animal_Butterfly_Idle	9001	34	SceneObj_Gather_Butterfly				1		item		SceneObj_Gather_Butterfly			GadgetData_Level_Name_70590006
+70590007	ART/Effect/SceneInteractive/Eff_Animal_Butterfly2_Idle	9001	34	SceneObj_Gather_Butterfly2				1		item		SceneObj_Gather_Butterfly2			GadgetData_Level_Name_70590007
+70590008	ART/Effect/SceneInteractive/Eff_Animal_FireFly_Idle	9001	34	SceneObj_Gather_Firefly				1		item		SceneObj_Gather_Firefly			GadgetData_Level_Name_70590008
+70590009	ART/Others/SceneObj/SceneObj_Item_Food_BirdMeat01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70590009
+70590010	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_Wheat01	1001	22	SceneObj_Gather_Big						item		SceneObj_Item_Big			GadgetData_Level_Name_70590010
+70590011	ART/Others/SceneObj/SceneObj_Item_Mora01	1001	19							item		Default_Mora			GadgetData_Level_Name_70590011
+70590012	ART/Others/SceneObj/SceneObj_Item_UncarvedGem01	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590012
+70590013	ART/Others/SceneObj/SceneObj_Item_Plant_Callas01	1001	22	SceneObj_Gather_Small						item		SceneObj_Item_Small			GadgetData_Level_Name_70590013
+70590014	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Wind	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590014
+70590015	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Rock	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590015
+70590016	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Fire	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590016
+70590017	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Water	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590017
+70590018	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Ice	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590018
+70590019	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Grass	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590019
+70590020	ART/Others/SceneObj/SceneObj_Item_ElemCoin_Electric	1001	19							item		Default_UncarvedGem			GadgetData_Level_Name_70590020
+70600001	ART/Others/SceneObj/SceneObj_DropItem_Break_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600001
+70600002	ART/Others/SceneObj/SceneObj_DropItem_Break_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600002
+70600003	ART/Others/SceneObj/SceneObj_DropItem_Break_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600003
+70600004	ART/Others/SceneObj/SceneObj_DropItem_Break_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600004
+70600011	ART/Others/SceneObj/SceneObj_DropItem_Break_Relic	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600011
+70600012	ART/Others/SceneObj/SceneObj_DropItem_Break_Relic	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600012
+70600013	ART/Others/SceneObj/SceneObj_DropItem_Break_Relic	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600013
+70600014	ART/Others/SceneObj/SceneObj_DropItem_Break_Relic	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600014
+70600021	ART/Others/SceneObj/SceneObj_DropItem_Exp_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600021
+70600022	ART/Others/SceneObj/SceneObj_DropItem_Exp_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600022
+70600023	ART/Others/SceneObj/SceneObj_DropItem_Exp_Avatar	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600023
+70600031	ART/Others/SceneObj/SceneObj_DropItem_Exp_Weapon	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600031
+70600032	ART/Others/SceneObj/SceneObj_DropItem_Exp_Weapon	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600032
+70600033	ART/Others/SceneObj/SceneObj_DropItem_Exp_Weapon	1001	19							item		SceneObj_Item_Small			GadgetData_Level_Name_70600033
+70600041	ART/Others/SceneObj/SceneObj_DropItem_Relic_Lv1	1001	19							item		Lv1_Item			GadgetData_Level_Name_70600041
+70600042	ART/Others/SceneObj/SceneObj_DropItem_Relic_Lv2	1001	19							item		Lv2_Item			GadgetData_Level_Name_70600042
+70600043	ART/Others/SceneObj/SceneObj_DropItem_Relic_Lv3	1001	19							item		Lv3_Item			GadgetData_Level_Name_70600043
+70600044	ART/Others/SceneObj/SceneObj_DropItem_Relic_Lv4	1001	19							item		Lv4_Item			GadgetData_Level_Name_70600044
+70600045	ART/Others/SceneObj/SceneObj_DropItem_Relic_Lv5	1001	19							item		Lv5_Item			GadgetData_Level_Name_70600045
+70600064	ART/Others/SceneObj/SceneObj_Item_AllogenesMemory02	1001	22	SceneObj_Gather_Default_Gather					2	item		Default_Item			GadgetData_Level_Name_70600064
+70610001	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Fire02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610001
+70610002	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Water02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610002
+70610003	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Grass02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610003
+70610004	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Electric02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610004
+70610005	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Wind02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610005
+70610006	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Ice02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610006
+70610007	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Rock02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610007
+70610008	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Common02_Lod0	1001	27	SceneObj_Gather_Element_Ball02						item		SceneObj_Gather_Element_Ball02			GadgetData_Level_Name_70610008
+70610009	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Fire01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610009
+70610010	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Water01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610010
+70610011	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Grass01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610011
+70610012	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Electric01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610012
+70610013	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Wind01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610013
+70610014	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Ice01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610014
+70610015	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Rock01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610015
+70610016	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Common01_Lod0	1001	27	SceneObj_Gather_Element_Ball01						item		SceneObj_Gather_Element_Ball01			GadgetData_Level_Name_70610016
+70610101	ART/Effect/SceneInteractive/Eff_WindField_Vertical_01	1001	23							item		Default_Item			GadgetData_Level_Name_70610101
+70610102	ART/Effect/SceneInteractive/Eff_WindField_Dungeon_40	1001	23							item		Default_Item			GadgetData_Level_Name_70610102
+70610103	ART/Effect/SceneInteractive/Eff_WindField_Dungeon_H_40	1001	23							item		Default_Item			GadgetData_Level_Name_70610103
+70620001	ART/Effect/SceneInteractive/Eff_WindTube_01	5001	19	SceneObj_Environment_WindField_PushField01						item		Default_Item			GadgetData_Level_Name_70620001
+70620002	ART/Effect/SceneInteractive/Eff_WindTube_02	5001	19	SceneObj_Environment_WindField_PushField02						item		Default_Item			GadgetData_Level_Name_70620002
+70620003	ART/Effect/SceneInteractive/Eff_WindTube_03	5001	19	SceneObj_Environment_WindField_PushField03						item		Default_Item			GadgetData_Level_Name_70620003
+70620004	ART/Others/SceneObj/SceneObj_DragonNest_WindWallL	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					3	item					GadgetData_Level_Name_70620004
+70620005	ART/Others/SceneObj/SceneObj_Test_StrongWind	5001	19	SceneObj_Environment_WindField_DragonNest_StrongWind					1	item		Default_Item			GadgetData_Level_Name_70620005
+70620006	ART/Others/SceneObj/SceneObj_DragonNest_Tornado	5001	19	SceneObj_Environment_WindField_DragonNest_Tornado_Tiny					1	item					GadgetData_Level_Name_70620006
+70620007	ART/Others/SceneObj/SceneObj_DragonNest_WindWallLDoor	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					1	item					GadgetData_Level_Name_70620007
+70630001	ART/Others/SceneObj/SceneObj_DragonNest_Tornado	5001	3	SceneObj_Environment_WindField_DragonNest_Tornado_Bullet	1				2	item					GadgetData_Level_Name_70630001
+70680001	ART/Others/SceneObj/SceneObj_DragonNest_AirflowAgent	5001	25	SceneObj_Environment_WindField_AirflowAgent						item		Default_Item			GadgetData_Level_Name_70680001
+70680002	ART/Others/SceneObj/SceneObj_DragonNest_AirflowAgent	5001	25	SceneObj_Environment_WindField_AirflowAgent2						item		Default_Item			GadgetData_Level_Name_70680002
+70680003	ART/Others/SceneObj/SceneObj_DragonNest_AirflowAgent	5001	25	SceneObj_Environment_WindField_AirflowAgent3						item		Default_Item			GadgetData_Level_Name_70680003
+70680004	ART/Others/SceneObj/SceneObj_DragonNest_AirflowAgent	5001	25	SceneObj_Environment_WindField_AirflowAgent4						item		Default_Item			GadgetData_Level_Name_70680004
+70680005	ART/Others/SceneObj/SceneObj_DragonNest_AirflowAgent	5001	25	SceneObj_Environment_WindField_AirflowAgent5						item		Default_Item			GadgetData_Level_Name_70680005
+70690001	ART/Effect/SceneInteractive/Eff_WindField_Horizontal_Active	5001	24	SceneObj_Environment_WindField_SpeedupField						item		Default_Item			GadgetData_Level_Name_70690001
+70690002	ART/Effect/SceneInteractive/Eff_WindField_Horizontal_Flow	5001	24	SceneObj_Environment_WindField_SpeedupField						item		Default_Item			GadgetData_Level_Name_70690002
+70690003	ART/Effect/SceneInteractive/Eff_Stage_WindCannon	5001	24	SceneObj_Environment_WindField_CannonField						item		Default_Item			GadgetData_Level_Name_70690003
+70690004	ART/Effect/SceneInteractive/Eff_Stage_StrongWindField	5001	23	SceneObj_Environment_WindField_AirflowField						item		Default_Item			GadgetData_Level_Name_70690004
+70690005	ART/Effect/Environment/Eff_Stage_PeriodVerticalWindField	5001	23	SceneObj_Environment_WindField_PeriodWindField						item		Default_Item			GadgetData_Level_Name_70690005
+70690006	ART/Effect/Environment/Eff_Stage_PeriodVerticalWindField_Continue	5001	23	SceneObj_Environment_WindField_PeriodWindField_Continue						item		Default_Item			GadgetData_Level_Name_70690006
+70690007	ART/Others/SceneObj/SceneObj_DungeonWindField_Controller	5001	25	SceneObj_Environment_DungeonWindField_Controller						item		Default_Item			GadgetData_Level_Name_70690007
+70690008	ART/Effect/Environment/Eff_Stage_PeriodVerticalWindField_Short_Continue	5001	23	SceneObj_Environment_WindField_PeriodWindField_Continue						item		Default_Item			GadgetData_Level_Name_70690008
+70700001	ART/Others/SceneObj/SceneObj_Item_Wall01	9001	19	SceneObj_Environment_Collision_WallCollision					3	item		Default_Item			GadgetData_Level_Name_70700001
+70700002	ART/Effect/Environment/Eff_Skybox_Blustery	9001	19	SceneObj_Environment_Collision_WallCollision						item		Default_Item			GadgetData_Level_Name_70700002
+70700003	ART/Effect/SceneInteractive/Eff_DungeonLight_01	9001	19						2	item		Default_Item			GadgetData_Level_Name_70700003
+70700004	ART/Others/SceneObj/SceneObj_Item_TransparentHitSphere_R5	9001	19	Env_Mengde_WindDragon_01					3	item		Env_Mengde_WindDragon_01			GadgetData_Level_Name_70700004
+70710002	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane02	0	32	SceneObj_Gear_Platform_NormalPlatform	1				1	item					GadgetData_Level_Name_70710002
+70710003	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane02_Form	0	32	SceneObj_Gear_Platform_NormalPlatform	1				1	item					GadgetData_Level_Name_70710003
+70710004	ART/Effect/SceneInteractive/Eff_WindField_Vertical_Feather_02	1001	23	AirflowFieldBlue						item		Default_Item			GadgetData_Level_Name_70710004
+70800001	ART/Others/SceneObj/SceneObj_Item_Seal01	5001	35	SceneObj_Gear_Operator_DragonNest_Seal		1		1	1	item		Default_NoDrop_Item			GadgetData_Level_Name_70800001
+70800002	ART/Others/SceneObj/SceneObj_MsgBoad	0	19	MsgBoard						item		Default_Item			GadgetData_Level_Name_70800002
+70800003	ART/Effect/SceneInteractive/Eff_WindCrystal_Fly	1001	19			1				item		Default_Item			GadgetData_Level_Name_70800003
+70800004	ART/Others/SceneObj/SceneObj_World_Barrier	5001	19	SceneObj_Environment_Collision_World_Barrier		1			1	item					GadgetData_Level_Name_70800004
+70800005	ART/Others/SceneObj/SceneObj_Gear_WindDevice01	1001	19	WindDevice01		1			2						GadgetData_Level_Name_70800005
+70800006	ART/Others/SceneObj/SceneObj_Gear_IceController	5001	35	SceneObj_Gear_Operator_IceController						item					GadgetData_Level_Name_70800006
+70800007	ART/Effect/SceneInteractive/Eff_Stages_DvalinSeal_Idle	5001	25	Dvalin_Tower_Seal_Ring					2						GadgetData_Level_Name_70800007
+70800008	ART/Others/SceneObj/SceneObj_World_Barrier_M	5001	19	SceneObj_Environment_Collision_World_Barrier_M		1			1	item					GadgetData_Level_Name_70800008
+70800009	ART/Others/SceneObj/SceneObj_World_Barrier_S	5001	19	SceneObj_Environment_Collision_World_Barrier_S		1			1	item					GadgetData_Level_Name_70800009
+70800010	ART/Effect/SceneInteractive/Eff_DungeonEntry_MengDe_Entrance02	5001	19							item					GadgetData_Level_Name_70800010
+70800011	ART/Effect/SceneInteractive/Eff_Stages_DvalinBuilding_Idle	5001	19						2						GadgetData_Level_Name_70800011
+70800012	ART/Others/SceneObj/SceneObj_Item_Seal02	1001	35	SceneObj_Gear_Operator_Seal02		1		1		item		Default_NoDrop_Item			GadgetData_Level_Name_70800012
+70900001	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	SceneObj_Gather_Default_Gather						item		Default_Item			GadgetData_Level_Name_70900001
+70900002		1001	19							item		Default_Item			GadgetData_Level_Name_70900002
+70900003	ART/Others/SceneObj/SceneObj_Item_Clue01	1001	19	SceneObj_Gather_Gather_Clue					2	item		SceneObj_Quest_Clue01			GadgetData_Level_Name_70900003
+70900005	ART/Others/SceneObj/SceneObj_Elem_Crystal	5001	28	Element_Crystal						item		Element_Crystal			GadgetData_Level_Name_70900005
+70900006	ART/Others/SceneObj/SceneObj_Gear_Shooter	5001	25	SceneObj_Gear_Combat_Shooter_Elec		1				item		Default_Item			GadgetData_Level_Name_70900006
+70900007	ART/Others/SceneObj/SceneObj_Gear_ElemTotem_Fire	5001	25	SceneObj_Gear_Operator_FireController		1				item					GadgetData_Level_Name_70900007
+70900008	ART/Others/SceneObj/SceneObj_Gear_ElemTotem_Electric	5001	25	SceneObj_Gear_Operator_ElecController		1				item					GadgetData_Level_Name_70900008
+70900009	ART/Others/SceneObj/SceneObj_Gear_ElemTotem_Ice	5001	25	SceneObj_Gear_Operator_IceController		1				item					GadgetData_Level_Name_70900009
+70900010	ART/Others/SceneObj/SceneObj_Test_Rotation02	5001	25	Test_Rotation02											GadgetData_Level_Name_70900010
+70900011	ART/Others/SceneObj/SceneObj_Test_Rotation02	5001	25	Test_Rotation02											GadgetData_Level_Name_70900011
+70900012	ART/Others/SceneObj/SceneObj_Gear_Spray_Ice_Rotating	5001	25	SceneObj_Gear_Combat_Test_FM03	1										GadgetData_Level_Name_70900012
+70900013	ART/Others/SceneObj/SceneObj_Gear_Spray_Fire_Rotating	5001	25	SceneObj_Gear_Combat_Test_FM01	1	1				item		Default_Item			GadgetData_Level_Name_70900013
+70900014	ART/Others/SceneObj/SceneObj_Build_Ruin01	5001	25							item					GadgetData_Level_Name_70900014
+70900015	ART/Others/SceneObj/SceneObj_Build_Ruin02	5001	25							item					GadgetData_Level_Name_70900015
+70900016	ART/Others/SceneObj/SceneObj_Build_Ruin03	5001	25							item					GadgetData_Level_Name_70900016
+70900017	ART/Others/SceneObj/SceneObj_Build_Ruin05	5001	25							item					GadgetData_Level_Name_70900017
+70900018	ART/Others/SceneObj/SceneObj_Build_Ruin06	5001	25							item					GadgetData_Level_Name_70900018
+70900019	ART/Others/SceneObj/SceneObj_Build_Ruin08	5001	25							item					GadgetData_Level_Name_70900019
+70900022	ART/Others/SceneObj/SceneObj_Gear_Fan	5001	25							item		Default_Item			GadgetData_Level_Name_70900022
+70900023	ART/Others/SceneObj/SceneObj_Gear_ThornWall01	5001	19	Test_WhiteBox_ThornWall						item		Default_Item			GadgetData_Level_Name_70900023
+70900024	ART/Others/SceneObj/SceneObj_Item_Poison	5001	19	SceneObj_Environment_WaterMaterial_Poison						item		Default_Item			GadgetData_Level_Name_70900024
+70900025	ART/Others/SceneObj/SceneObj_Test_WoodenShelf	5001	19							item					GadgetData_Level_Name_70900025
+70900026	ART/Others/SceneObj/SceneObj_Gear_WindDevice01	5001	19	SceneObj_Gear_Gate_DungeonGate01											GadgetData_Level_Name_70900026
+70900027	ART/Others/SceneObj/SceneObj_Test_MoveGear	5001	19	SceneObj_Gear_Other_Test_MoveGear	1										GadgetData_Level_Name_70900027
+70900028	ART/Others/SceneObj/SceneObj_Test_StayGear	5001	25	SceneObj_Gear_Other_Test_StayGear											GadgetData_Level_Name_70900028
+70900029	ART/Others/Gadget/Gadget_DropItem_HP	9001	18	SceneObj_Gear_Combat_SpikeTrap						item		Default_Item			GadgetData_Level_Name_70900029
+70900031	ART/Others/SceneObj/SceneObj_Item_WoodenBox_Big	5001	25	SceneObj_Gear_Other_Test_FollowMoveGadget	1			1		item		Default_Item			GadgetData_Level_Name_70900031
+70900033	ART/Others/SceneObj/SceneObj_Test_Gravity	5001	25	SceneObj_Gear_Other_Test_Gravity_Board											GadgetData_Level_Name_70900033
+70900034	ART/Others/SceneObj/SceneObj_DragonNest_WindWallM	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					2	item					GadgetData_Level_Name_70900034
+70900035	ART/Others/SceneObj/SceneObj_DragonNest_WindWallS	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					2	item					GadgetData_Level_Name_70900035
+70900036	ART/Others/SceneObj/SceneObj_Test_Sculpture	5001	25	SceneObj_Gear_Other_Test_Sculpture						item					GadgetData_Level_Name_70900036
+70900037	ART/Others/SceneObj/SceneObj_Gear_Spray_Fire_Reform	5001	25	SceneObj_Gear_Combat_Spray_Fire_Reform						item		Default_Item			GadgetData_Level_Name_70900037
+70900038	ART/Others/SceneObj/SceneObj_Gear_ElemCore_Reform	5001	25	SceneObj_Gear_Combat_ElemCore_Reform	1					item		Default_Item			GadgetData_Level_Name_70900038
+70900039	ART/Others/SceneObj/SceneObj_Gear_ElemTotem_Wind	5001	25	SceneObj_Gear_Operator_WindController	1					item					GadgetData_Level_Name_70900039
+70900040	ART/Others/SceneObj/SceneObj_Barrel	5001	19	SceneObj_Environment_WoodenMaterial_Barrel						item		Default_Item			GadgetData_Level_Name_70900040
+70900041	ART/Others/Gadget/Gadget_GroupTrigger	9001	18	SceneObj_Gear_Combat_GroupTrigger						item		Default_Item			GadgetData_Level_Name_70900041
+70900042	ART/Stages/Level/PFDungeon/Level_PfDungeon_StreetLight02_Lod0	5001	25	SceneObj_Resident_ElementView						item					GadgetData_Level_Name_70900042
+70900043	ART/Stages/Level/PFDungeon/Level_PfDungeon_StreetLight07_Lod0	5001	25							item					GadgetData_Level_Name_70900043
+70900044	ART/Others/SceneObj/SceneObj_World_Fountain	5001	19	SceneObj_Resident_Fountain					2						GadgetData_Level_Name_70900044
+70900045	ART/Others/SkillObj/SkillObj_EmptyGadget	5001	19	Cold_WhiteBox_ChargeDummy	1				3	item		Default_Item			GadgetData_Level_Name_70900045
+70900046	ART/Others/SceneObj/SceneObj_Test_WindField_Grass	5001	19	Test_WhiteBox_AirFlow_Grass											GadgetData_Level_Name_70900046
+70900047	ART/Others/SceneObj/SceneObj_Test_WindField_FireGrass	5001	19	Test_WhiteBox_AirFlow_FireGrass											GadgetData_Level_Name_70900047
+70900201		5001	19	Guide_Point_UI					2						GadgetData_Level_Name_70900201
+70900202		5001	19	Guide_Point_Scene					2						GadgetData_Level_Name_70900202
+70900205	ART/Others/SceneObj/Level_MdDungeon_Basicmodule06_CLX	5001	19						3						GadgetData_Level_Name_70900205
+70900206	ART/Others/SceneObj/SceneObj_Gear_Wind_Creater	5001	25	SceneObj_Gear_Combat_WindCreate_Gear						item		Default_Item			GadgetData_Level_Name_70900206
+70900207	ART/Others/SceneObj/SceneObj_Gear_Power_Charge	6666	25	SceneObj_Gear_Combat_Power_Charge						item		Default_Item			GadgetData_Level_Name_70900207
+70900208	ART/Others/SceneObj/SceneObj_Gear_Electric_Pile	6666	25	SceneObj_Gear_Combat_Electric_Pile02						item		Default_Item			GadgetData_Level_Name_70900208
+70900209	ART/Others/SceneObj/SceneObj_Gear_PowerCharge_Fire	5001	25	SceneObj_Gear_Other_PowerCharge						item		Default_Item			GadgetData_Level_Name_70900209
+70900210	ART/Others/SceneObj/SceneObj_Gear_Electric_Pile_Move	6666	32	SceneObj_Gear_Platform_ElecElf	1					item					GadgetData_Level_Name_70900210
+70900211	ART/Others/SceneObj/SceneObj_Gear_Electric_Pile_Move	5001	32	SceneObj_Gear_Platform_IceElf	1					item					GadgetData_Level_Name_70900211
+70900212	ART/Others/SceneObj/SceneObj_Gear_Electric_Pile_Move	5001	32	SceneObj_Gear_Platform_FireElf	1					item					GadgetData_Level_Name_70900212
+70900213	ART/Others/SceneObj/SceneObj_Gear_Shooter	5001	25	SceneObj_Gear_Combat_Shooter_Laser		1				item		Default_Item			GadgetData_Level_Name_70900213
+70900214	ART/Others/Bullet/Bullet_ShoterGear_Electric	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_Electric	1					item		Default_Item			GadgetData_Level_Name_70900214
+70900215	ART/Others/Bullet/Bullet_ShoterGear_Electric	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_Fire	1					item		Default_Item			GadgetData_Level_Name_70900215
+70900216	ART/Others/SceneObj/SceneObj_Gear_RockFloor	5001	19	SceneObj_Environment_Rock_StoneWall						item					GadgetData_Level_Name_70900216
+70900217	ART/Others/SceneObj/SceneObj_Test_DropIce	5001	25	SceneObj_Gear_Combat_DropIce						item					GadgetData_Level_Name_70900217
+70900218	ART/Others/SceneObj/SceneObj_Test_DropIce_Bullet	5001	3	SceneObj_Gear_Combat_DropIce_Bullet	1										GadgetData_Level_Name_70900218
+70900219	ART/Others/SceneObj/SceneObj_Test_DropedIce	5001	25	SceneObj_Gear_Combat_DropedIce						item					GadgetData_Level_Name_70900219
+70900220	ART/Others/SceneObj/SceneObj_Gear_WarmArea	5001	19	SceneObj_Gear_Other_WarmArea						item					GadgetData_Level_Name_70900220
+70900221	ART/Others/SceneObj/SceneObj_Gear_Shooter_Stable	5001	25	SceneObj_Gear_Combat_Shooter_Laser_Stable											GadgetData_Level_Name_70900221
+70900222	ART/Others/Bullet/Bullet_ShoterGear_Electric	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_None	1										GadgetData_Level_Name_70900222
+70900223	ART/Others/SceneObj/SceneObj_Gear_Laser_Switch	1001	25	SceneObj_Gear_Other_LaserSwitch											GadgetData_Level_Name_70900223
+70900224	ART/Others/SceneObj/SceneObj_Gear_Electric_Switch	1001	25	SceneObj_Gear_Other_Electric_Switch											GadgetData_Level_Name_70900224
+70900225	ART/Others/SceneObj/SceneObj_Gear_Dungeon_HugePlane_Landspace	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1				item					GadgetData_Level_Name_70900225
+70900226	ART/Others/SceneObj/SceneObj_Gear_Dungeon_HugePlane_Vertical	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1				item					GadgetData_Level_Name_70900226
+70900227	ART/Others/SceneObj/SceneObj_Gear_Shooter_Moveable	5001	25	SceneObj_Gear_Combat_Shooter_Laser_Moveable						item					GadgetData_Level_Name_70900227
+70900228	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Carrier	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1				item					GadgetData_Level_Name_70900228
+70950001	ART/Others/SceneObj/SceneObj_Test_DropLight	5001	25	DropLight											GadgetData_Level_Name_70950001
+70950002	ART/Others/SceneObj/SceneObj_Test_DropLight_Bullet	5001	3	DropLight_Bullet	1										GadgetData_Level_Name_70950002
+70950003	ART/Others/SceneObj/SceneObj_Test_DropLight_Bullet	5001	3	DropLight_Bullet02	1										GadgetData_Level_Name_70950003
+70950004	ART/Others/SceneObj/SceneObj_Gear_SpeedUper	5001	25	SceneObj_Gear_Other_SpeedUper						item		Default_Item			GadgetData_Level_Name_70950004
+71000004	ART/Others/SceneObj/SceneObj_Amber_Rock	5001	19	SceneObj_Amber_RockAmber						item		Default_Item			GadgetData_Level_Name_71000004
+71700001	ART/Others/SceneObj/SceneObj_Test_Poster1	9001	19	SceneObj_Environment_Bulletin1		1				item	Data/ScriptData/Gadget/BulletinGadget	Default_NoDrop_Item			GadgetData_Level_Name_71700001
+71700002	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700002
+71700003	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700003
+71700004	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700004
+71700005	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700005
+71700006	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700006
+71700007	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700007
+71700008	ART/Others/SceneObj/SceneObj_Test_Poster2	9001	19	SceneObj_Environment_Bulletin2		1				item	Data/ScriptData/Gadget/BulletinGadget	Default_NoDrop_Item			GadgetData_Level_Name_71700008
+71700009	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700009
+71700010	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700010
+71700011	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700011
+71700012	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700012
+71700013	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700013
+71700014	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700014
+71700015	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700015
+71700016	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700016
+71700017	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700017
+71700018	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700018
+71700019	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700019
+71700020	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700020
+71700021	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700021
+71700022	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700022
+71700023	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700023
+71700024	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700024
+71700025	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700025
+71700026	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700026
+71700027	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700027
+71700028	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700028
+71700029	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700029
+71700030	ART/Effect/SceneInteractive/Eff_Item_Book_Test	1001	22	SceneObj_Gather_Default_Gather						item		Default_NoDrop_Item			GadgetData_Level_Name_71700030
+80000001	ART/Others/Gadget/Gadget_DropItem_HP	0	18	Drop_HP						item		Default_Item			GadgetData_Level_Name_80000001
+90000001	Build/Camera/MainCamera	0	6	Camera						item		Default_Item			GadgetData_Level_Name_90000001
+90000002		0	6	AccountPlayer								Default_Item			GadgetData_Level_Name_90000002
+90000003	ART/Char/NPC/NPC_Guide_Paimon/NPC_Guide_Paimon	0	19	NPC_Guide_Paimon	1	1						Default_Item			GadgetData_Level_Name_90000003

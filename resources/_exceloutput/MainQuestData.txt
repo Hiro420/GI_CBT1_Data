@@ -1,0 +1,103 @@
+父任务ID	任务类型	启用模式	Lua脚本路径	推荐等级	可重复	指引跳转	任务奖励RewardID	显示状态	章节ID	Title	Desc
+347	5	1						1		MainQuestData_Title_347	MainQuestData_Desc_347
+348	5	1			1			1		MainQuestData_Title_348	MainQuestData_Desc_348
+349	5	1			1			1		MainQuestData_Title_349	MainQuestData_Desc_349
+350	5	1	Actor/Quest/AQ350	1				1		MainQuestData_Title_350	MainQuestData_Desc_350
+351	0	1	Actor/Quest/AQ351	1			100351			MainQuestData_Title_351	MainQuestData_Desc_351
+362	5	1	Actor/Quest/MQ362	1				1		MainQuestData_Title_362	MainQuestData_Desc_362
+352	0	1	Actor/Quest/AQ352	1			100352		1001	MainQuestData_Title_352	MainQuestData_Desc_352
+353	0	1	Actor/Quest/AQ353	2			100353		1001	MainQuestData_Title_353	MainQuestData_Desc_353
+361	5	1	Actor/Quest/AQ361	1				1		MainQuestData_Title_361	MainQuestData_Desc_361
+355	0	1	Actor/Quest/AQ355	2			100355		1001	MainQuestData_Title_355	MainQuestData_Desc_355
+354	0	1	Actor/Quest/AQ354	2			100354		1001	MainQuestData_Title_354	MainQuestData_Desc_354
+360	0	1	Actor/Quest/AQ360	3		356				MainQuestData_Title_360	MainQuestData_Desc_360
+356	0	1	Actor/Quest/AQ356	4		357	100356		1001	MainQuestData_Title_356	MainQuestData_Desc_356
+357	0	1	Actor/Quest/AQ357	4		358	100357		1001	MainQuestData_Title_357	MainQuestData_Desc_357
+358	0	1	Actor/Quest/AQ358	5			100358		1001	MainQuestData_Title_358	MainQuestData_Desc_358
+359	0	1	Actor/Quest/AQ359	1				1		MainQuestData_Title_359	MainQuestData_Desc_359
+306	0	1	Actor/Quest/AQ306	5			100306		1001	MainQuestData_Title_306	MainQuestData_Desc_306
+307	0	1	Actor/Quest/AQ307	5			100307		1001	MainQuestData_Title_307	MainQuestData_Desc_307
+308	0	1	Actor/Quest/AQ308	5			100308		1001	MainQuestData_Title_308	MainQuestData_Desc_308
+309	0	1	Actor/Quest/AQ309	5		370	100309	1	1001	MainQuestData_Title_309	MainQuestData_Desc_309
+310	5	1		1						MainQuestData_Title_310	MainQuestData_Desc_310
+311	0	1	Actor/Quest/AQ311	1				1		MainQuestData_Title_311	MainQuestData_Desc_311
+312	0	1		1			100312	1		MainQuestData_Title_312	MainQuestData_Desc_312
+301	0	1		4						MainQuestData_Title_301	MainQuestData_Desc_301
+304	0	1		5						MainQuestData_Title_304	MainQuestData_Desc_304
+305	0	1		6						MainQuestData_Title_305	MainQuestData_Desc_305
+363	0	1		1				1	1001	MainQuestData_Title_363	MainQuestData_Desc_363
+370	0	1	Actor/Quest/MQ370	9		371	100370		1002	MainQuestData_Title_370	MainQuestData_Desc_370
+371	0	1	Actor/Quest/MQ371	9		372	100371		1002	MainQuestData_Title_371	MainQuestData_Desc_371
+372	0	1	Actor/Quest/MQ372	9		373	100372		1002	MainQuestData_Title_372	MainQuestData_Desc_372
+373	0	1	Actor/Quest/MQ373	5		374				MainQuestData_Title_373	MainQuestData_Desc_373
+374	0	1	Actor/Quest/MQ374	9		375	100374		1002	MainQuestData_Title_374	MainQuestData_Desc_374
+375	0	1	Actor/Quest/MQ375	9		376	100375		1002	MainQuestData_Title_375	MainQuestData_Desc_375
+376	0	1	Actor/Quest/MQ376	9		377	100376		1002	MainQuestData_Title_376	MainQuestData_Desc_376
+377	0	1	Actor/Quest/MQ377	9		378	100377		1002	MainQuestData_Title_377	MainQuestData_Desc_377
+378	0	1	Actor/Quest/MQ378	9		395	100378		1002	MainQuestData_Title_378	MainQuestData_Desc_378
+395	0	1	Actor/Quest/MQ395	9		379	100395		1002	MainQuestData_Title_395	MainQuestData_Desc_395
+379	0	1	Actor/Quest/MQ379	9		380	100379		1002	MainQuestData_Title_379	MainQuestData_Desc_379
+385	0	1	Actor/Quest/MQ385	5				1		MainQuestData_Title_385	MainQuestData_Desc_385
+386	0	1		5			100386			MainQuestData_Title_386	MainQuestData_Desc_386
+387	0	1		10			100387			MainQuestData_Title_387	MainQuestData_Desc_387
+380	0	1	Actor/Quest/MQ380	12			100380		1002	MainQuestData_Title_380	MainQuestData_Desc_380
+381	0	1	Actor/Quest/MQ381	12			100381		1002	MainQuestData_Title_381	MainQuestData_Desc_381
+382	0	1	Actor/Quest/MQ382	12			100382		1002	MainQuestData_Title_382	MainQuestData_Desc_382
+383	0	1	Actor/Quest/MQ383	12		384	100383		1002	MainQuestData_Title_383	MainQuestData_Desc_383
+384	0	1	Actor/Quest/MQ384	12		388	100384		1002	MainQuestData_Title_384	MainQuestData_Desc_384
+388	0	1	Actor/Quest/MQ388	18		389	100388		1003	MainQuestData_Title_388	MainQuestData_Desc_388
+389	0	1	Actor/Quest/MQ389	18		390	100389		1003	MainQuestData_Title_389	MainQuestData_Desc_389
+390	0	1	Actor/Quest/MQ390	18		391	100390		1003	MainQuestData_Title_390	MainQuestData_Desc_390
+391	0	1	Actor/Quest/MQ391	18		392	100391		1003	MainQuestData_Title_391	MainQuestData_Desc_391
+392	0	1	Actor/Quest/MQ392	18		393	100392		1003	MainQuestData_Title_392	MainQuestData_Desc_392
+393	0	1	Actor/Quest/MQ393	20		394	100393		1003	MainQuestData_Title_393	MainQuestData_Desc_393
+394	0	1	Actor/Quest/MQ394	20		396	100394		1003	MainQuestData_Title_394	MainQuestData_Desc_394
+396	0	1	Actor/Quest/MQ396	20			100396		1003	MainQuestData_Title_396	MainQuestData_Desc_396
+303	5	1	Actor/Quest/MQ303	8				1		MainQuestData_Title_303	MainQuestData_Desc_303
+401	2	1	Actor/Quest/SQ401	9			100400			MainQuestData_Title_401	MainQuestData_Desc_401
+402	2	1	Actor/Quest/SQ402	9			100400			MainQuestData_Title_402	MainQuestData_Desc_402
+403	2	1	Actor/Quest/SQ403	17	1		100400			MainQuestData_Title_403	MainQuestData_Desc_403
+404	2	1	Actor/Quest/SQ404	8		405	100400			MainQuestData_Title_404	MainQuestData_Desc_404
+405	2	1	Actor/Quest/SQ405	9		406	100400			MainQuestData_Title_405	MainQuestData_Desc_405
+406	2	1	Actor/Quest/SQ406	9			100400			MainQuestData_Title_406	MainQuestData_Desc_406
+407	2	1	Actor/Quest/SQ407	7			100407			MainQuestData_Title_407	MainQuestData_Desc_407
+408	2	1	Actor/Quest/SQ408	5			100408			MainQuestData_Title_408	MainQuestData_Desc_408
+409	2	1	Actor/Quest/SQ409	5			100409			MainQuestData_Title_409	MainQuestData_Desc_409
+410	2	1	Actor/Quest/SQ410	8			100400			MainQuestData_Title_410	MainQuestData_Desc_410
+411	2	1	Actor/Quest/SQ411	13			100400			MainQuestData_Title_411	MainQuestData_Desc_411
+412	2	1	Actor/Quest/SQ412	9			100400			MainQuestData_Title_412	MainQuestData_Desc_412
+413	2	1	Actor/Quest/SQ413	15			100400			MainQuestData_Title_413	MainQuestData_Desc_413
+414	2	1	Actor/Quest/SQ414	9			100400			MainQuestData_Title_414	MainQuestData_Desc_414
+415	2	1	Actor/Quest/SQ415	1			100400			MainQuestData_Title_415	MainQuestData_Desc_415
+416	2	1	Actor/Quest/SQ416	1						MainQuestData_Title_416	MainQuestData_Desc_416
+418	2	1		12						MainQuestData_Title_418	MainQuestData_Desc_418
+419	2	1	Actor/Quest/MQ419	12						MainQuestData_Title_419	MainQuestData_Desc_419
+420	2	1	Actor/Quest/MQ420	12						MainQuestData_Title_420	MainQuestData_Desc_420
+421	5	1	Actor/Quest/MQ421	1				1		MainQuestData_Title_421	MainQuestData_Desc_421
+422	2	1	Actor/Quest/MQ422	12						MainQuestData_Title_422	MainQuestData_Desc_422
+423	2	1		12						MainQuestData_Title_423	MainQuestData_Desc_423
+424	2	1	Actor/Quest/SQ424	1						MainQuestData_Title_424	MainQuestData_Desc_424
+425	2	1	Actor/Quest/SQ425	1						MainQuestData_Title_425	MainQuestData_Desc_425
+426	2	1	Actor/Quest/SQ426	1						MainQuestData_Title_426	MainQuestData_Desc_426
+427	2	1	Actor/Quest/SQ427	1						MainQuestData_Title_427	MainQuestData_Desc_427
+451	2	1	Actor/Quest/LQ451	1		452				MainQuestData_Title_451	MainQuestData_Desc_451
+452	2	1	Actor/Quest/LQ452	1		453				MainQuestData_Title_452	MainQuestData_Desc_452
+453	2	1	Actor/Quest/LQ453	1		454				MainQuestData_Title_453	MainQuestData_Desc_453
+454	2	1	Actor/Quest/LQ454	1						MainQuestData_Title_454	MainQuestData_Desc_454
+461	2	1	Actor/Quest/LQ461	6		462	100461			MainQuestData_Title_461	MainQuestData_Desc_461
+462	2	1	Actor/Quest/LQ462	9		463	100462			MainQuestData_Title_462	MainQuestData_Desc_462
+463	2	1	Actor/Quest/LQ463	11			100463			MainQuestData_Title_463	MainQuestData_Desc_463
+464	2	1	Actor/Quest/LQ464	1		465				MainQuestData_Title_464	MainQuestData_Desc_464
+465	2	1	Actor/Quest/LQ465	1		466				MainQuestData_Title_465	MainQuestData_Desc_465
+466	2	1	Actor/Quest/LQ466	1						MainQuestData_Title_466	MainQuestData_Desc_466
+467	5	1	Actor/Quest/IQ467	1			100467	1		MainQuestData_Title_467	MainQuestData_Desc_467
+468	5	1		1						MainQuestData_Title_468	MainQuestData_Desc_468
+469	5	1	Actor/Quest/IQ469	1						MainQuestData_Title_469	MainQuestData_Desc_469
+470	5	1	Actor/Quest/IQ470	1			100470	1		MainQuestData_Title_470	MainQuestData_Desc_470
+484	2	1	Actor/Quest/LQ484							MainQuestData_Title_484	MainQuestData_Desc_484
+994	5	1	Actor/Quest/SQ994	1						MainQuestData_Title_994	MainQuestData_Desc_994
+995	2	1	Actor/Quest/LQ995	1						MainQuestData_Title_995	MainQuestData_Desc_995
+996	5	1	Actor/Quest/SQ996	1						MainQuestData_Title_996	MainQuestData_Desc_996
+997	5	1	Actor/Quest/SQ997	1						MainQuestData_Title_997	MainQuestData_Desc_997
+998	5	1	Actor/Quest/SQ998	1			100400			MainQuestData_Title_998	MainQuestData_Desc_998
+999	5	1	Actor/Quest/SQ999	1			100400			MainQuestData_Title_999	MainQuestData_Desc_999

@@ -1,0 +1,101 @@
+ID	文本
+MonsterData_Name_21010101	츄츄족
+MonsterData_Name_21020101	츄츄족 폭도-방벽
+MonsterData_Name_21020201	츄츄족 폭도-불도끼
+MonsterData_Name_20010101	플로라 슬라임
+MonsterData_Name_20010201	거대 플로라 슬라임
+MonsterData_Name_20010302	윈드 슬라임
+MonsterData_Name_20010301	윈드 슬라임
+MonsterData_Name_20010401	거대 윈드 슬라임
+MonsterData_Name_29010101	풍마룡 드발린
+MonsterData_Name_29010102	풍마룡 드발린
+MonsterData_Name_29010103	풍마룡 드발린
+MonsterData_Name_20020101	광풍의 핵
+MonsterData_Name_20010501	썬더 슬라임
+MonsterData_Name_20010601	거대 썬더 슬라임
+MonsterData_Name_20010701	돌연변이 썬더 슬라임
+MonsterData_Name_20010801	아이스 슬라임
+MonsterData_Name_20010901	거대 아이스 슬라임
+MonsterData_Name_20011001	워터 슬라임
+MonsterData_Name_20011101	거대 워터 슬라임
+MonsterData_Name_20011002	test_슬라임-물-중-AI없음-미니 게임용
+MonsterData_Name_21010201	졸개 츄츄
+MonsterData_Name_21010301	방패 츄츄
+MonsterData_Name_21010401	궁수 츄츄
+MonsterData_Name_21010501	불화살 츄츄
+MonsterData_Name_21010601	폭탄 츄츄
+MonsterData_Name_21010701	돌격 츄츄
+MonsterData_Name_21010901	얼음화살 츄츄
+MonsterData_Name_21011001	번개화살 츄츄
+MonsterData_Name_21011101	test_츄츄-풀-근접
+MonsterData_Name_20011202	파이어 슬라임
+MonsterData_Name_20011201	파이어 슬라임
+MonsterData_Name_20011301	거대 파이어 슬라임
+MonsterData_Name_20011401	바위 슬라임
+MonsterData_Name_20011501	거대 바위 슬라임
+MonsterData_Name_22010101	심연의 메이지-불
+MonsterData_Name_22010201	심연의 메이지-얼음
+MonsterData_Name_22010301	심염의 메이지-물
+MonsterData_Name_21030101	츄츄 샤먼-물
+MonsterData_Name_21030201	츄츄 샤먼-풀
+MonsterData_Name_21030301	츄츄 샤먼-바람
+MonsterData_Name_23040101	유적 가디언
+MonsterData_Name_21010801	test_츄츄-제어-풀
+MonsterData_Name_21010102	츄츄족 테스트
+MonsterData_Name_28010101	골드크랩
+MonsterData_Name_28010102	썬크랩
+MonsterData_Name_28010103	블루크랩
+MonsterData_Name_28020101	눈꽃여우
+MonsterData_Name_28020102	붉은여우
+MonsterData_Name_28020201	다람쥐
+MonsterData_Name_28030101	푸른 학
+MonsterData_Name_28050101	수정 나비
+MonsterData_Name_28010201	파랑뿔 도마뱀
+MonsterData_Name_28010202	빨강뿔 도마뱀
+MonsterData_Name_28010203	초록뿔 도마뱀
+MonsterData_Name_28010301	청개구리
+MonsterData_Name_28010302	늪개구리
+MonsterData_Name_28010303	파랑개구리
+MonsterData_Name_28020301	멧돼지
+MonsterData_Name_28020302	새끼 멧돼지
+MonsterData_Name_28030301	흰비둘기
+MonsterData_Name_28030302	회색 비둘기
+MonsterData_Name_28030303	파랑깃 비둘기
+MonsterData_Name_28030304	붉은깃 비둘기
+MonsterData_Name_28030305	초록깃 비둘기
+MonsterData_Name_28030401	스패로우
+MonsterData_Name_28030402	레드 스패로우
+MonsterData_Name_28030403	스노우 스패로우
+MonsterData_Name_28030404	그린 스패로우
+MonsterData_Name_28040101	검정 농어
+MonsterData_Name_28040102	파랑 농어
+MonsterData_Name_28040103	황금 농어
+MonsterAffixData_AffixName_1001	강공
+MonsterAffixData_AffixName_1002	철벽
+MonsterAffixData_AffixName_1003	불굴
+MonsterAffixData_AffixName_1004	무지개(소)
+MonsterAffixData_AffixName_1901	바람 원소 결정
+MonsterAffixData_AffixName_2001	점화 면역
+MonsterAffixData_AffixName_2002	감전 면역
+MonsterAffixData_AffixName_2003	냉기 면역
+MonsterAffixData_AffixName_3001	물 내성-50%
+MonsterAffixData_AffixName_3002	물 내성-70%
+MonsterAffixData_AffixName_3003	물 내성-100%
+MonsterAffixData_AffixName_3004	불 내성-50%
+MonsterAffixData_AffixName_3005	불 내성-70%
+MonsterAffixData_AffixName_3006	불 내성-100%
+MonsterAffixData_AffixName_3007	얼음 내성-50%
+MonsterAffixData_AffixName_3008	얼음 내성-70%
+MonsterAffixData_AffixName_3009	얼음 내성-100%
+MonsterAffixData_AffixName_3010	번개 내성-50%
+MonsterAffixData_AffixName_3011	번개 내성-70%
+MonsterAffixData_AffixName_3012	번개 내성-100%
+MonsterAffixData_AffixName_3013	바람 내성-50%
+MonsterAffixData_AffixName_3014	바람 내성-70%
+MonsterAffixData_AffixName_3015	바람 내성-100%
+MonsterAffixData_AffixName_3016	풀 내성-50%
+MonsterAffixData_AffixName_3017	풀 내성-70%
+MonsterAffixData_AffixName_3018	풀 내성-100%
+MonsterAffixData_AffixName_3019	바위 내성-50%
+MonsterAffixData_AffixName_3020	바위 내성-70%
+MonsterAffixData_AffixName_3021	바위 내성-100%

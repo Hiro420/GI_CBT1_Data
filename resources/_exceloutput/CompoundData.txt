@@ -1,0 +1,17 @@
+ID	阶数	加工类型	默认解锁	加工时长	队列上限	材料1ID	材料1数量	材料2ID	材料2数量	材料3ID	材料3数量	材料4ID	材料4数量	材料5ID	材料5数量	产出1ID	产出1数量	产出2ID	产出2数量	配方图标	Name	Desc
+1001	1	1	1	60	5	100017	1									110001	1			UI_ItemIcon_110001	CompoundData_Name_1001	CompoundData_Desc_1001
+1002	2	1	1	180	5	100078	1									110002	1			UI_ItemIcon_110002	CompoundData_Name_1002	CompoundData_Desc_1002
+1003	2	1	1	300	3	100064	2	100075	1							110003	1			UI_ItemIcon_110003	CompoundData_Name_1003	CompoundData_Desc_1003
+1004	2	1	1	300	5	100078	2									110004	1			UI_ItemIcon_110004	CompoundData_Name_1004	CompoundData_Desc_1004
+1005	2	1	1	300	3	100061	2	100075	1							110005	1			UI_ItemIcon_110005	CompoundData_Name_1005	CompoundData_Desc_1005
+1006	2	1	1	180	5	100012	2									110006	1			UI_ItemIcon_110006	CompoundData_Name_1006	CompoundData_Desc_1006
+1007	3	1	1	1200	1	100073	3									110007	1			UI_ItemIcon_110007	CompoundData_Name_1007	CompoundData_Desc_1007
+1008	3	1	1	600	2	100001	2	100051	2	110006	1					110008	1			UI_ItemIcon_110008	CompoundData_Name_1008	CompoundData_Desc_1008
+1009	3	1	1	600	2	100078	3									110009	1			UI_ItemIcon_110009	CompoundData_Name_1009	CompoundData_Desc_1009
+1010	3	1	1	900	2	100061	2	100075	2							110010	1			UI_ItemIcon_110010	CompoundData_Name_1010	CompoundData_Desc_1010
+1011	3	1	1	1200	1	100061	3									110011	1			UI_ItemIcon_110011	CompoundData_Name_1011	CompoundData_Desc_1011
+2001	3	1	1	300	3	100081	1									111001	1			UI_ItemIcon_111001	CompoundData_Name_2001	CompoundData_Desc_2001
+2002	3	1	1	300	3	100072	3									111002	1			UI_ItemIcon_111002	CompoundData_Name_2002	CompoundData_Desc_2002
+2003	3	1	1	300	3	100082	2									111003	1			UI_ItemIcon_111003	CompoundData_Name_2003	CompoundData_Desc_2003
+2004	3	1	1	300	3	100083	3									111004	1			UI_ItemIcon_111004	CompoundData_Name_2004	CompoundData_Desc_2004
+2005	3	1	1	300	3	100085	1									111005	1			UI_ItemIcon_111005	CompoundData_Name_2005	CompoundData_Desc_2005

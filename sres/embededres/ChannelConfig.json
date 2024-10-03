@@ -1,0 +1,17 @@
+{
+	"ChannelName" : "CHNWIN",
+	"ProvisionProfile" : "HK4E InHouse",
+	"BundleIdentifier" : "com.miHoYo.enterprise.HK4E",
+	"SigningIdentity" : "iPhone Distribution: miHoYo Co., Ltd.",
+	"PreDefines" : "GAIA_ADDON_TOOLS;GAIA_MULTI_TERRAINS;CTS_GAIA_RELOCATE;HOTFIX_ENABLE;UNITY_RELEASE_BUILD;CB1_CHECKDEVICE",
+	"ProductName" : "原神",
+	"TimeZones" : "eur,-2,12,+1;usa,-11,-3,-5",
+	"DispatchUrls" :
+	[
+		"http://dispatch.cnglobal.yuanshen.com:12401/query_region_list"
+	],
+	"DataUseAssetBundle" : false,
+	"EventUseAssetBundle" : false,
+	"AccountBranch" : "Original",
+	"PaymentBranch" : "ORIGINAL_ANDROID_PAY"
+}

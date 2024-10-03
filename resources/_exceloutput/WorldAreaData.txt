@@ -1,0 +1,25 @@
+条目ID	场景ID	区域类型	一级区域ID	二级区域ID	默认解锁	区域灰度	对应地标ID	元素属性	地形类型	是否显示跳字	AreaName
+1	3	1	1		0	155	7	7		1	WorldAreaData_AreaName_1
+2	3	2	1	101	0	30				1	WorldAreaData_AreaName_2
+3	3	2	1	102	0	60			1	1	WorldAreaData_AreaName_3
+4	3	2	1	103	0	110			2	1	WorldAreaData_AreaName_4
+5	3	2	1	104	0	130			2	1	WorldAreaData_AreaName_5
+6	3	2	1	105	0	190			2	1	WorldAreaData_AreaName_6
+7	3	2	1	106	0	15			2	1	WorldAreaData_AreaName_7
+8	3	2	1	107	0	45			2	1	WorldAreaData_AreaName_8
+9	3	2	1	108	0	75			2	1	WorldAreaData_AreaName_9
+10	3	2	1	109	0	95			2	0	WorldAreaData_AreaName_10
+11	3	1	2		0	50	4	7		1	WorldAreaData_AreaName_11
+12	3	2	2	201	0	81			2	1	WorldAreaData_AreaName_12
+13	3	2	2	202	0	111			2	1	WorldAreaData_AreaName_13
+14	3	2	2	203	0	131			2	1	WorldAreaData_AreaName_14
+15	3	2	2	204	0	161			2	1	WorldAreaData_AreaName_15
+16	3	2	2	205	0	191			2	1	WorldAreaData_AreaName_16
+17	3	1	3		0	83	3	7		1	WorldAreaData_AreaName_17
+18	3	2	3	301	0	23			1	1	WorldAreaData_AreaName_18
+19	3	2	3	302	0	63			1	1	WorldAreaData_AreaName_19
+20	3	2	3	303	0	103			2	1	WorldAreaData_AreaName_20
+21	3	1	4		0	120	29	7		1	WorldAreaData_AreaName_21
+22	3	2	4	401	0	14			2	1	WorldAreaData_AreaName_22
+23	3	2	4	402	0	44			2	1	WorldAreaData_AreaName_23
+24	3	2	4	403	0	74			2	1	WorldAreaData_AreaName_24

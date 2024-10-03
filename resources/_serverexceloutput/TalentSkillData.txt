@@ -1,0 +1,332 @@
+天赋ID	天赋组ID	等级	升级消耗金币	前置天赋1	前置天赋2	突破等级	角色等级	消耗天赋点类型	消耗天赋点数	[增加属性]1类型	[增加属性]1值	[增加属性]2类型	[增加属性]2值	筛选条件1	筛选条件2	开启天赋配置	是否队长技
+1000	100	1	23			0	1	1	1	40	0.05	50	0.06				1
+1001	100	2	23	1000		0	1	1	1	40	0.05	50	0.03				1
+1002	100	3	23	1001		0	1	1	1	40	0.05	50	0.03				1
+1003	100	4	23	1002		0	1	1	1	40	0.05	50	0.03				1
+1004	101	1	23	1000		0	1	1	1							Ambor_FlyChampion1	
+1005	101	2	23	1004		0	1	1	1							Ambor_FlyChampion2	
+1006	101	3	23	1005		0	1	1	2							Ambor_FlyChampion3	
+1007	102	1	23	1000		0	1	1	1							Ambor_Shooter1	
+1008	102	2	23	1007		0	1	1	1							Ambor_Shooter2	
+1009	102	3	23	1008		0	1	1	2							Ambor_Shooter3	
+1016	103	1	23	1000		0	1	1	1							Ambor_SuperDummy1	
+1017	103	2	23	1016		0	1	1	1							Ambor_SuperDummy2	
+1018	103	3	23	1017		0	1	1	2							Ambor_SuperDummy3	
+1012	104	1	23	1000		0	1	2	1							Ambor_SuperArrowRain1	
+1013	104	2	23	1012		0	1	2	1							Ambor_SuperArrowRain2	
+1014	104	3	23	1013		0	1	2	1							Ambor_SuperArrowRain3	
+1015	104	4	23	1014		0	1	2	1							Ambor_SuperArrowRain4	
+1010	105	1	23	1000		0	1	2	2							Ambor_ReserveDummy2	
+1011	105	2	23	1010		0	1	2	2							Ambor_ReserveDummy1	
+1019	106	1	23	1000		0	1	2	1							Ambor_DoubleArrow1	
+1020	106	2	23	1019		0	1	2	1							Ambor_DoubleArrow2	
+1021	106	3	23	1020		0	1	2	2							Ambor_DoubleArrow3	
+1022	107	1	23	1000		0	1	2	1							Ambor_Dexterous1	
+1023	107	2	23	1022		0	1	2	1							Ambor_Dexterous2	
+1024	107	3	23	1023		0	1	2	2							Ambor_Dexterous3	
+1100	108	1	23			0	1	1	1	41	0.05	51	0.06				1
+1101	108	2	23	1100		0	1	1	1	41	0.05	51	0.03				1
+1102	108	3	23	1101		0	1	1	1	41	0.05	51	0.03				1
+1103	108	4	23	1102		0	1	1	1	41	0.05	51	0.03				1
+1104	109	1	23	1100		0	1	1	1							Lisa_ExtraAttack_StaticElecField1	
+1105	109	2	23	1104		0	1	1	1							Lisa_ExtraAttack_StaticElecField2	
+1106	109	3	23	1105		0	1	1	2							Lisa_ExtraAttack_StaticElecField3	
+1107	110	1	23	1100		0	1	1	1							Lisa_ThunderFall_ReviveElemEnergy1	
+1108	110	2	23	1107		0	1	1	1							Lisa_ThunderFall_ReviveElemEnergy2	
+1109	110	3	23	1108		0	1	1	2							Lisa_ThunderFall_ReviveElemEnergy3	
+1110	111	1	23	1100		0	1	2	1							Lisa_Magic_TriStars1	
+1111	111	2	23	1110		0	1	2	1							Lisa_Magic_TriStars2	
+1112	111	3	23	1111		0	1	2	2							Lisa_Magic_TriStars3	
+1113	112	1	23	1100		0	1	2	1							Lisa_ThunderClap1	
+1114	112	2	23	1113		0	1	2	1							Lisa_ThunderClap2	
+1115	112	3	23	1114		0	1	2	1							Lisa_ThunderClap3	
+1116	112	4	23	1115		0	1	2	1							Lisa_ThunderClap4	
+1117	113	1	23	1100		0	1	1	1							Lisa_SuperPierceLightning1	
+1118	113	2	23	1117		0	1	1	1							Lisa_SuperPierceLightning2	
+1119	113	3	23	1118		0	1	1	2							Lisa_SuperPierceLightning3	
+1120	114	1	23	1100		0	1	2	1							Lisa_Efficiency_Control1	
+1121	114	2	23	1120		0	1	2	1							Lisa_Efficiency_Control2	
+1122	114	3	23	1121		0	1	2	1							Lisa_Efficiency_Control3	
+1123	114	4	23	1122		0	1	2	1							Lisa_Efficiency_Control4	
+1124	115	1	23	1100		0	1	2	2							Lisa_Super_FlickerWave1	
+1125	115	2	23	1124		0	1	2	2							Lisa_Super_FlickerWave2	
+1050	120	1	23			0	1	1	1	46	0.05	56	0.06				1
+1051	120	2	23	1050		0	1	1	1	46	0.05	56	0.03				1
+1052	120	3	23	1051		0	1	1	1	46	0.05	56	0.03				1
+1053	120	4	23	1052		0	1	1	1	46	0.05	56	0.03				1
+1054	121	1	23	1050		0	1	1	1							Keaya_StrongBody1	
+1055	121	2	23	1054		0	1	1	1							Keaya_StrongBody2	
+1056	121	3	23	1055		0	1	1	2							Keaya_StrongBody3	
+1057	122	1	23	1050		0	1	1	1							Keaya_GracefulAttack1	
+1058	122	2	23	1057		0	1	1	1							Keaya_GracefulAttack2	
+1059	122	3	23	1058		0	1	1	2							Keaya_GracefulAttack3	
+1060	123	1	23	1050		0	1	1	1							Kaeya_FrozenHeal1	
+1061	123	2	23	1060		0	1	1	1							Kaeya_FrozenHeal2	
+1062	123	3	23	1061		0	1	1	2							Kaeya_FrozenHeal3	
+1063	124	1	23	1050		0	1	2	1							Keaya_Condensation1	
+1064	124	2	23	1063		0	1	2	1							Keaya_Condensation2	
+1065	124	3	23	1064		0	1	2	1							Keaya_Condensation3	
+1066	124	4	23	1065		0	1	2	1							Keaya_Condensation4	
+1067	125	1	23	1050		0	1	2	1							Keaya_Cunning1	
+1068	125	2	23	1067		0	1	2	1							Keaya_Cunning2	
+1069	125	3	23	1068		0	1	2	2							Keaya_Cunning3	
+1070	126	1	23	1050		0	1	2	1							Keaya_TasteOfCold1	
+1071	126	2	23	1070		0	1	2	1							Keaya_TasteOfCold2	
+1072	126	3	23	1071		0	1	2	2							Keaya_TasteOfCold3	
+1073	127	1	23	1050		0	1	2	1							Keaya_IceHeart1	
+1074	127	2	23	1073		0	1	2	1							Keaya_IceHeart2	
+1075	127	3	23	1074		0	1	2	2							Keaya_IceHeart3	
+1300	130	1	23			0	1	1	1	3	0.04	20	0.02				1
+1301	130	2	23	1300		0	1	1	1	3	0.04	20	0.02				1
+1302	130	3	23	1301		0	1	1	1	3	0.04	20	0.02				1
+1303	130	4	23	1302		0	1	1	1	3	0.04	20	0.02				1
+1310	131	1	23	1300		0	1	1	1							Qin_Talent_1310	
+1311	131	2	23	1310		0	1	1	1							Qin_Talent_1311	
+1312	131	3	23	1311		0	1	1	1							Qin_Talent_1312	
+1313	131	4	23	1312		0	1	1	1							Qin_Talent_1313	
+1320	132	1	23	1300		0	1	1	1							Qin_Talent_1320	
+1321	132	2	23	1320		0	1	1	1							Qin_Talent_1321	
+1322	132	3	23	1321		0	1	1	2							Qin_Talent_1322	
+1330	133	1	23	1300		0	1	1	1	3	0.02					Qin_Talent_1330	
+1331	133	2	23	1330		0	1	1	1	3	0.03					Qin_Talent_1331	
+1332	133	3	23	1331		0	1	1	2	3	0.03					Qin_Talent_1332	
+1340	134	1	23	1300		0	1	2	1							Qin_Talent_1340	
+1341	134	2	23	1340		0	1	2	1							Qin_Talent_1341	
+1342	134	3	23	1341		0	1	2	2							Qin_Talent_1342	
+1350	135	1	23	1300		0	1	2	1							Qin_Talent_1350	
+1351	135	2	23	1350		0	1	2	1							Qin_Talent_1351	
+1352	135	3	23	1351		0	1	2	2							Qin_Talent_1352	
+1360	136	1	23	1300		0	1	2	1							Qin_Talent_1360	
+1361	136	2	23	1360		0	1	2	1							Qin_Talent_1361	
+1362	136	3	23	1361		0	1	2	2							Qin_Talent_1362	
+1370	137	1	23	1300		0	1	2	1							Qin_Talent_1370	
+1371	137	2	23	1370		0	1	2	1							Qin_Talent_1371	
+1372	137	3	23	1371		0	1	2	2							Qin_Talent_1372	
+1400	140	1	23			0	1	1	1	6	0.05						1
+1401	140	2	23	1400		0	1	1	1	6	0.05						1
+1402	140	3	23	1401		0	1	1	1	6	0.05						1
+1403	140	4	23	1402		0	1	1	1	6	0.05						1
+1410	141	1	23	1400		0	1	1	1							Diluc_Talent_1410	
+1411	141	2	23	1410		0	1	1	1							Diluc_Talent_1411	
+1412	141	3	23	1411		0	1	1	2							Diluc_Talent_1412	
+1420	142	1	23	1400		0	1	1	1	6	0.03						
+1421	142	2	23	1420		0	1	1	1	6	0.03						
+1422	142	3	23	1421		0	1	1	2	6	0.04						
+1430	143	1	23	1400		0	1	2	1							Diluc_Talent_1430	
+1431	143	2	23	1430		0	1	2	1							Diluc_Talent_1431	
+1432	143	3	23	1431		0	1	2	2							Diluc_Talent_1432	
+1440	144	1	23	1400		0	1	2	1							Diluc_Talent_1440	
+1441	144	2	23	1440		0	1	2	1							Diluc_Talent_1441	
+1442	144	3	23	1441		0	1	2	1							Diluc_Talent_1442	
+1443	144	4	23	1442		0	1	2	1							Diluc_Talent_1443	
+1450	145	1	23	1400		0	1	1	1							Diluc_Talent_1450	
+1451	145	2	23	1450		0	1	1	1							Diluc_Talent_1451	
+1452	145	3	23	1451		0	1	1	2							Diluc_Talent_1452	
+1460	146	1	23	1400		0	1	2	1							Diluc_Talent_1460	
+1461	146	2	23	1460		0	1	2	1							Diluc_Talent_1461	
+1462	146	3	23	1461		0	1	2	2							Diluc_Talent_1462	
+1470	147	1	23	1400		0	1	2	1							Diluc_Talent_1470	
+1471	147	2	23	1470		0	1	2	1							Diluc_Talent_1471	
+1472	147	3	23	1471		0	1	2	2							Diluc_Talent_1472	
+1481	148	1	23			0	1	1	1	3	0.06	54	0.06				1
+1482	148	2	23	1481		0	1	1	1	3	0.03	54	0.03				1
+1483	148	3	23	1482		0	1	1	1	3	0.03	54	0.03				1
+1484	148	4	23	1483		0	1	1	1	3	0.03	54	0.03				1
+1491	149	1	23	1481		0	1	1	1							Player_Wind_WindWalk_1	
+1492	149	2	23	1491		0	1	1	1							Player_Wind_WindWalk_2	
+1493	149	3	23	1492		0	1	1	2							Player_Wind_WindWalk_3	
+1501	150	1	23	1481		0	1	1	1							Player_Wind_Element_Embrace_1	
+1502	150	2	23	1501		0	1	1	1							Player_Wind_Element_Embrace_2	
+1503	150	3	23	1502		0	1	1	2							Player_Wind_Element_Embrace_3	
+1511	151	1	23	1481		0	1	1	1							Player_Wind_StormEye_1	
+1512	151	2	23	1511		0	1	1	1							Player_Wind_StormEye_2	
+1513	151	3	23	1512		0	1	1	2							Player_Wind_StormEye_3	
+1521	152	1	23	1481		0	1	2	1							Player_Wind_Arashi_1	
+1522	152	2	23	1521		0	1	2	1							Player_Wind_Arashi_2	
+1523	152	3	23	1522		0	1	2	2							Player_Wind_Arashi_3	
+1531	153	1	23	1481		0	1	2	1	23	0.16						
+1532	153	2	23	1531		0	1	2	1	23	0.09						
+1533	153	3	23	1532		0	1	2	2	23	0.08						
+1541	154	1	23	1481		0	1	2	1							Player_Wind_SubVacuum_1	
+1542	154	2	23	1541		0	1	2	1							Player_Wind_SubVacuum_2	
+1543	154	3	23	1542		0	1	2	2							Player_Wind_SubVacuum_3	
+1551	155	1	23	1481		0	1	2	1							Player_Wind_HowlingBlade_1	
+1552	155	2	23	1551		0	1	2	1							Player_Wind_HowlingBlade_2	
+1553	155	3	23	1552		0	1	2	2							Player_Wind_HowlingBlade_3	
+1560	156	1	23			0	1	1	1	27	0.1						1
+1561	156	2	23	1560		0	1	1	1	27	0.1						1
+1562	156	3	23	1561		0	1	1	2	27	0.1						1
+1570	157	1	23	1560		0	1	1	1							Barbara_ExtraAttack_StaminaCost_Reduce1	
+1571	157	2	23	1570		0	1	1	1							Barbara_ExtraAttack_StaminaCost_Reduce2	
+1572	157	3	23	1571		0	1	1	2							Barbara_ExtraAttack_StaminaCost_Reduce3	
+1580	158	1	23	1560		0	1	1	1							Barbara_EnhancedShield1	
+1581	158	2	23	1580		0	1	1	1							Barbara_EnhancedShield2	
+1582	158	3	23	1581		0	1	1	1							Barbara_EnhancedShield3	
+1583	158	4	23	1582		0	1	1	1							Barbara_EnhancedShield4	
+1590	159	1	23	1560		0	1	2	1							Barbara_GiantStage1	
+1591	159	2	23	1590		0	1	2	1							Barbara_GiantStage2	
+1592	159	3	23	1591		0	1	2	2							Barbara_GiantStage3	
+1600	160	1	23	1560		0	1	2	1							Barbara_ActivatedShield1	
+1601	160	2	23	1600		0	1	2	1							Barbara_ActivatedShield2	
+1602	160	3	23	1601		0	1	2	2							Barbara_ActivatedShield3	
+1610	161	1	23	1560		0	1	2	1							Barbara_RebornSupport1	
+1611	161	2	23	1610		0	1	2	1							Barbara_RebornSupport2	
+1612	161	3	23	1611		0	1	2	2							Barbara_RebornSupport3	
+1620	162	1	23	1560		0	1	1	1							Barbara_ExpandShield1	
+1621	162	2	23	1620		0	1	1	1							Barbara_ExpandShield2	
+1622	162	3	23	1621		0	1	1	1							Barbara_ExpandShield3	
+1623	162	4	23	1622		0	1	1	1							Barbara_ExpandShield4	
+1630	163	1	23	1560		0	1	2	1							Barbara_EnhancedIdolHeal1	
+1631	163	2	23	1630		0	1	2	1							Barbara_EnhancedIdolHeal2	
+1632	163	3	23	1631		0	1	2	1							Barbara_EnhancedIdolHeal3	
+1633	163	4	23	1632		0	1	2	1							Barbara_EnhancedIdolHeal4	
+1641	164	1	23			0	1	1	1	3	0.06	55	0.1				1
+1642	164	2	23	1641		0	1	1	1	3	0.03	55	0.1				1
+1643	164	3	23	1642		0	1	1	1	3	0.03	55	0.1				1
+1644	164	4	23	1643		0	1	1	1	3	0.03	55	0.1				1
+1651	165	1	23	1641		0	1	1	1							Player_Rock_GaeaAnthem_1	
+1652	165	2	23	1651		0	1	1	1							Player_Rock_GaeaAnthem_2	
+1653	165	3	23	1652		0	1	1	2							Player_Rock_GaeaAnthem_3	
+1661	166	1	23	1641		0	1	1	1							Player_Rock_UnstablePrime_1	
+1662	166	2	23	1661		0	1	1	1							Player_Rock_UnstablePrime_2	
+1663	166	3	23	1662		0	1	1	2							Player_Rock_UnstablePrime_3	
+1671	167	1	23	1641		0	1	1	1							Player_Rock_Climber_1	
+1672	167	2	23	1671		0	1	1	1							Player_Rock_Climber_2	
+1673	167	3	23	1672		0	1	1	2							Player_Rock_Climber_3	
+1681	168	1	23	1641		0	1	2	1							Player_Rock_GoldenExprience_1	
+1682	168	2	23	1681		0	1	2	1							Player_Rock_GoldenExprience_2	
+1683	168	3	23	1682		0	1	2	2							Player_Rock_GoldenExprience_3	
+1691	169	1	23	1641		0	1	2	1							Player_Rock_StarDustReturn_1	
+1692	169	2	23	1691		0	1	2	1							Player_Rock_StarDustReturn_2	
+1693	169	3	23	1692		0	1	2	2							Player_Rock_StarDustReturn_3	
+1701	170	1	23	1641		0	1	2	1							Player_Rock_CrystalWall_1	
+1702	170	2	23	1701		0	1	2	1							Player_Rock_CrystalWall_2	
+1703	170	3	23	1702		0	1	2	2							Player_Rock_CrystalWall_3	
+1711	171	1	23	1641		0	1	2	1							Player_Rock_Avalanche_1	
+1712	171	2	23	1711		0	1	2	1							Player_Rock_Avalanche_2	
+1713	171	3	23	1712		0	1	2	2							Player_Rock_Avalanche_3	
+2011	201	1	23			0	1	1	1	41	0.05	51	0.06				1
+2012	201	2	23	2011		0	1	1	1	41	0.05	51	0.03				1
+2013	201	3	23	2012		0	1	1	1	41	0.05	51	0.03				1
+2014	201	4	23	2013		0	1	1	1	41	0.05	51	0.03				1
+2021	202	1	23	2011		0	1	1	1							Razor_RunningWild_1	
+2022	202	2	23	2021		0	1	1	1							Razor_RunningWild_2	
+2023	202	3	23	2022		0	1	1	2							Razor_RunningWild_3	
+2031	203	1	23	2011		0	1	1	1							Razor_CombatReadiness_1	
+2032	203	2	23	2031		0	1	1	1							Razor_CombatReadiness_2	
+2033	203	3	23	2032		0	1	1	2							Razor_CombatReadiness_3	
+2041	204	1	23	2011		0	1	1	1							Razor_ChargedBlade_1	
+2042	204	2	23	2041		0	1	1	1							Razor_ChargedBlade_2	
+2043	204	3	23	2042		0	1	1	2							Razor_ChargedBlade_3	
+2051	205	1	23	2011		0	1	2	1							Razor_Capacitor_1	
+2052	205	2	23	2051		0	1	2	1							Razor_Capacitor_2	
+2053	205	3	23	2052		0	1	2	2							Razor_Capacitor_3	
+2061	206	1	23	2011		0	1	2	1							Razor_ArcaneFeast_1	
+2062	206	2	23	2061		0	1	2	1							Razor_ArcaneFeast_2	
+2063	206	3	23	2062		0	1	2	2							Razor_ArcaneFeast_3	
+2071	207	1	23	2011		0	1	2	1							Razor_ElectrifiedScar_1	
+2072	207	2	23	2071		0	1	2	1							Razor_ElectrifiedScar_2	
+2073	207	3	23	2072		0	1	2	2							Razor_ElectrifiedScar_3	
+2081	208	1	23	2011		0	1	2	1							Razor_FlashStrike_1	
+2082	208	2	23	2081		0	1	2	1							Razor_FlashStrike_2	
+2083	208	3	23	2082		0	1	2	2							Razor_FlashStrike_3	
+2211	221	1	23			0	1	1	2	24	0.1			5			1
+2212	221	2	23	2211		0	1	1	2	24	0.1			5			1
+2221	222	1	23	2211		0	1	1	1							Venti_FlyChampion_1	
+2222	222	2	23	2221		0	1	1	1							Venti_FlyChampion_2	
+2223	222	3	23	2222		0	1	1	1							Venti_FlyChampion_3	
+2224	222	4	23	2223		0	1	1	1							Venti_FlyChampion_4	
+2231	223	1	23	2211		0	1	1	1							Venti_Shooter_1	
+2232	223	2	23	2231		0	1	1	1							Venti_Shooter_2	
+2233	223	3	23	2232		0	1	1	1							Venti_Shooter_3	
+2234	223	4	23	2233		0	1	1	1							Venti_Shooter_4	
+2241	224	1	23	2211		0	1	2	1							Venti_KageBunshinShoot_1	
+2242	224	2	23	2241		0	1	2	1							Venti_KageBunshinShoot_2	
+2243	224	3	23	2242		0	1	2	2							Venti_KageBunshinShoot_3	
+2251	225	1	23	2211		0	1	2	1							Venti_Enhanced_WindBlade_1	
+2252	225	2	23	2251		0	1	2	1							Venti_Enhanced_WindBlade_2	
+2253	225	3	23	2252		0	1	2	2							Venti_Enhanced_WindBlade_3	
+2261	226	1	23	2211		0	1	2	1							Venti_Enhanced_Hurricane_1	
+2262	226	2	23	2261		0	1	2	1							Venti_Enhanced_Hurricane_2	
+2263	226	3	23	2262		0	1	2	2							Venti_Enhanced_Hurricane_3	
+2271	227	1	23	2211		0	1	1	1							Venti_Windfury_1	
+2272	227	2	23	2271		0	1	1	1							Venti_Windfury_2	
+2273	227	3	23	2272		0	1	1	2							Venti_Windfury_3	
+2281	228	1	23	2211		0	1	2	1							Venti_Insight_1	
+2282	228	2	23	2281		0	1	2	1							Venti_Insight_2	
+2283	228	3	23	2282		0	1	2	2							Venti_Insight_3	
+2311	231	1	23			0	1	1	1	3	0.06	50	0.06				1
+2312	231	2	23	2311		0	1	1	1	3	0.03	50	0.03				1
+2313	231	3	23	2312		0	1	1	1	3	0.03	50	0.03				1
+2314	231	4	23	2313		0	1	1	1	3	0.03	50	0.03				1
+2321	232	1	23	2311		0	1	1	1							Xiangling_Talent_2321	
+2322	232	2	23	2321		0	1	1	1							Xiangling_Talent_2322	
+2323	232	3	23	2322		0	1	1	2							Xiangling_Talent_2323	
+2331	233	1	23	2311		0	1	1	1							Xiangling_Talent_2331	
+2332	233	2	23	2331		0	1	1	1							Xiangling_Talent_2332	
+2333	233	3	23	2332		0	1	1	2							Xiangling_Talent_2333	
+2341	234	1	23	2311		0	1	1	1							Xiangling_Talent_2341	
+2342	234	2	23	2341		0	1	1	1							Xiangling_Talent_2342	
+2343	234	3	23	2342		0	1	1	2							Xiangling_Talent_2343	
+2351	235	1	23	2311		0	1	2	1							Xiangling_Talent_2351	
+2352	235	2	23	2351		0	1	2	1							Xiangling_Talent_2352	
+2353	235	3	23	2352		0	1	2	2							Xiangling_Talent_2353	
+2361	236	1	23	2311		0	1	2	1							Xiangling_Talent_2361	
+2362	236	2	23	2361		0	1	2	1							Xiangling_Talent_2362	
+2363	236	3	23	2362		0	1	2	2							Xiangling_Talent_2363	
+2371	237	1	23	2311		0	1	2	1							Xiangling_Talent_2371	
+2372	237	2	23	2371		0	1	2	1							Xiangling_Talent_2372	
+2373	237	3	23	2372		0	1	2	2							Xiangling_Talent_2373	
+2381	238	1	23	2311		0	1	2	1							Xiangling_Talent_2381	
+2382	238	2	23	2381		0	1	2	1							Xiangling_Talent_2382	
+2383	238	3	23	2382		0	1	2	2							Xiangling_Talent_2383	
+211	21	1	23			0	1	1	1	46	0.05	56	0.06				1
+212	21	2	23	211		0	1	1	1	46	0.05	56	0.03				1
+213	21	3	23	212		0	1	1	1	46	0.05	56	0.03				1
+214	21	4	23	213		0	1	1	1	46	0.05	56	0.03				1
+221	22	1	23	211		0	1	1	1							Ayaka_RinRenka_1	
+222	22	2	23	221		0	1	1	1							Ayaka_RinRenka_2	
+223	22	3	23	222		0	1	1	2							Ayaka_RinRenka_3	
+231	23	1	23	211		0	1	1	1							Ayaka_IceDance_1	
+232	23	2	23	231		0	1	1	1							Ayaka_IceDance_2	
+233	23	3	23	232		0	1	1	2							Ayaka_IceDance_3	
+241	24	1	23	211		0	1	1	1							Ayaka_Oboro_1	
+242	24	2	23	241		0	1	1	1							Ayaka_Oboro_2	
+243	24	3	23	242		0	1	1	2							Ayaka_Oboro_3	
+251	25	1	23	211		0	1	2	1	23	0.16					Ayaka_HyouShin_1	
+252	25	2	23	251		0	1	2	1	23	0.09					Ayaka_HyouShin_2	
+253	25	3	23	252		0	1	2	2	23	0.08					Ayaka_HyouShin_3	
+261	26	1	23	211		0	1	2	1							Ayaka_YayoiKaeshi_1	
+262	26	2	23	261		0	1	2	1							Ayaka_YayoiKaeshi_2	
+263	26	3	23	262		0	1	2	2							Ayaka_YayoiKaeshi_3	
+271	27	1	23	211		0	1	2	1							Ayaka_EarlyWinter_1	
+272	27	2	23	271		0	1	2	1							Ayaka_EarlyWinter_2	
+273	27	3	23	272		0	1	2	2							Ayaka_EarlyWinter_3	
+281	28	1	23	211		0	1	2	1							Ayaka_EbbAndFlow_1	
+282	28	2	23	281		0	1	2	1							Ayaka_EbbAndFlow_2	
+283	28	3	23	282		0	1	2	2							Ayaka_EbbAndFlow_3	
+2411	241	1	23			0	1	1	1	3	0.06	51	0.05				1
+2412	241	2	23	2411		0	1	1	1	3	0.06	51	0.05				1
+2413	241	3	23	2412		0	1	1	1	3	0.06	51	0.05				1
+2414	241	4	23	2413		0	1	1	1	3	0.06	51	0.05				1
+2421	242	1	23	2411		0	1	1	1							Beidou_Talent_2421	
+2422	242	2	23	2421		0	1	1	1							Beidou_Talent_2422	
+2423	242	3	23	2422		0	1	1	2							Beidou_Talent_2423	
+2431	243	1	23	2411		0	1	1	1							Beidou_Talent_2431	
+2432	243	2	23	2431		0	1	1	1							Beidou_Talent_2432	
+2433	243	3	23	2432		0	1	1	2							Beidou_Talent_2433	
+2441	244	1	23	2411		0	1	1	1							Beidou_Talent_2441	
+2442	244	2	23	2441		0	1	1	1							Beidou_Talent_2442	
+2443	244	3	23	2442		0	1	1	2							Beidou_Talent_2443	
+2451	245	1	23	2411		0	1	2	1							Beidou_Talent_2451	
+2452	245	2	23	2451		0	1	2	1							Beidou_Talent_2452	
+2453	245	3	23	2452		0	1	2	2							Beidou_Talent_2453	
+2461	246	1	23	2411		0	1	2	1							Beidou_Talent_2461	
+2462	246	2	23	2461		0	1	2	1							Beidou_Talent_2462	
+2463	246	3	23	2462		0	1	2	2							Beidou_Talent_2463	
+2471	247	1	23	2411		0	1	2	1							Beidou_Talent_2471	
+2472	247	2	23	2471		0	1	2	1							Beidou_Talent_2472	
+2473	247	3	23	2472		0	1	2	2							Beidou_Talent_2473	
+2481	248	1	23	2411		0	1	2	1							Beidou_Talent_2481	
+2482	248	2	23	2481		0	1	2	1							Beidou_Talent_2482	
+2483	248	3	23	2482		0	1	2	2							Beidou_Talent_2483	

@@ -1,0 +1,6 @@
+ID	Prefab路径	navMesh路径	Name
+2	ART/Stages/Area/mengde/Whitebox/IndoorRoomTest1		RoomData_Name_2
+3	ART/Stages/Area/mengde/Whitebox/IndoorRoomTest2		RoomData_Name_3
+4	ART/Stages/Area/mengde/Whitebox/Knight_Inside_Library_Test		RoomData_Name_4
+100401	ART/Stages/IndoorScene/IndoorScene_Md_Library		RoomData_Name_100401
+100402	ART/Stages/IndoorScene/IndoorScene_Md_Knightoffice		RoomData_Name_100402

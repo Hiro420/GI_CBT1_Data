@@ -1,0 +1,132 @@
+{
+  "Actor_MaxHPRatio": {
+    "propName": "Actor_MaxHPRatio",
+    "min": -0.5,
+    "max": 1
+  },
+  "Actor_DefenceRatio": {
+    "propName": "Actor_DefenceRatio",
+    "min": -0.5,
+    "max": 1
+  },
+  "Actor_AttackRatio": {
+    "propName": "Actor_AttackRatio",
+    "min": -0.5,
+    "max": 1
+  },
+  "Actor_CriticalDelta": {
+    "propName": "Actor_CriticalDelta",
+    "min": -0.5,
+    "max": 0.5
+  },
+  "Actor_AntiCriticalDelta": {
+    "propName": "Actor_AntiCriticalDelta",
+    "min": -0.5,
+    "max": 0.5
+  },
+  "Actor_CriticalHurtDelta": {
+    "propName": "Actor_CriticalHurtDelta",
+    "min": -0.5,
+    "max": 1
+  },
+  "Actor_ChargeEfficiencyDelta": {
+    "propName": "Actor_ChargeEfficiencyDelta",
+    "min": -0.5,
+    "max": 0.5
+  },
+  "Actor_AddHurtDelta": {
+    "propName": "Actor_AddHurtDelta",
+    "min": -0.95,
+    "max": 3
+  },
+  "Actor_SubHurtDelta": {
+    "propName": "Actor_SubHurtDelta",
+    "min": -0.95,
+    "max": 3
+  },
+  "Actor_HealAddDelta": {
+    "propName": "Actor_HealAddDelta",
+    "min": -0.5,
+    "max": 0.5
+  },
+  "Actor_HealedAddDelta": {
+    "propName": "Actor_HealedAddDelta",
+    "min": -0.5,
+    "max": 0.5
+  },
+  "Actor_FireAddHurtDelta": {
+    "propName": "Actor_FireAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_ElecAddHurtDelta": {
+    "propName": "Actor_ElecAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_WaterAddHurtDelta": {
+    "propName": "Actor_WaterAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_GrassAddHurtDelta": {
+    "propName": "Actor_GrassAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_WindAddHurtDelta": {
+    "propName": "Actor_WindAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_IceAddHurtDelta": {
+    "propName": "Actor_IceAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_RockAddHurtDelta": {
+    "propName": "Actor_RockAddHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_FireSubHurtDelta": {
+    "propName": "Actor_FireSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_ElecSubHurtDelta": {
+    "propName": "Actor_ElecSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_WaterSubHurtDelta": {
+    "propName": "Actor_WaterSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_GrassSubHurtDelta": {
+    "propName": "Actor_GrassSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_WindSubHurtDelta": {
+    "propName": "Actor_WindSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_IceSubHurtDelta": {
+    "propName": "Actor_IceSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_RockSubHurtDelta": {
+    "propName": "Actor_RockSubHurtDelta",
+    "min": -0.95,
+    "max": 2
+  },
+  "Actor_AddGravityScale": {
+    "propName": "Actor_AddGravityScale",
+    "min": -2,
+    "max": 99
+  }
+}

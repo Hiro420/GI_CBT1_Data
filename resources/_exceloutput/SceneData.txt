@@ -1,0 +1,56 @@
+ID	类型	ScriptData	LevelEntityConfig	entity排序	指定角色列表	指定角色上限	Name
+1001	2	ClimbTest1					SceneData_Name_1001
+1002	1	ClimbTest2					SceneData_Name_1002
+1003	1	TheBigWorld					SceneData_Name_1003
+1004	3	Knight_Inside_Test					SceneData_Name_1004
+1005	3	ChurchSteal	Level_Sneak		10000005,10000007	1	SceneData_Name_1005
+1006	2	Level_PFDungeon01					SceneData_Name_1006
+1007	2	Level_FireFlyForese02_XYD					SceneData_Name_1007
+1008	3	ChurchLobby					SceneData_Name_1008
+1009	3	AngelShare					SceneData_Name_1009
+1010	2	BigWorld_1_-5_XYD					SceneData_Name_1010
+1011	2	Level_Gameplay_Test					SceneData_Name_1011
+1012	2	Level_Gameplay_Test					SceneData_Name_1012
+1013	3	SneakAdvancedTest	Level_Sneak		10000005,10000007	1	SceneData_Name_1013
+1015	3	WindZone	Level_Sneak				SceneData_Name_1015
+1	1	MengdeSmall_LevelStreaming					SceneData_Name_1
+2	1	MengdeSmall_LevelStreaming					SceneData_Name_2
+3	1	BigWorld_LevelStreaming	Level_BigWorld				SceneData_Name_3
+20000	2	Level_Gameplay_Test					SceneData_Name_20000
+20001	2	Dragon_Dungeon					SceneData_Name_20001
+20002	2	TacticsScene_Forest					SceneData_Name_20002
+20003	2	TacticsScene_Lake					SceneData_Name_20003
+20004	2	TacticsScene_Plain					SceneData_Name_20004
+20005	2	TacticsScene_River					SceneData_Name_20005
+20006	2	Level_UCDungeon01					SceneData_Name_20006
+20007	2	PlotLevel_BarbaraMission02_Xyd					SceneData_Name_20007
+20008	2	Level_KaeyaTutorialMission01					SceneData_Name_20008
+20009	2	Level_AmborTutorialMission01					SceneData_Name_20009
+20010	2	Level_LisaTutorialMission02					SceneData_Name_20010
+20011	2	Level_LisaTutorialMission02					SceneData_Name_20011
+20012	2	Level_UCDungeon01					SceneData_Name_20012
+20013	2	Level_KaeyaTutorialMission02					SceneData_Name_20013
+20014	2	Level_UCDungeon01					SceneData_Name_20014
+20015	2	Level_LisaTutorialMission02					SceneData_Name_20015
+20016	2	Level_KaeyaTutorialMission02					SceneData_Name_20016
+20017	2	DvalinTest_S01	Level_Dvalin_S01	1	10000005,10000007	1	SceneData_Name_20017
+20018	2	DvalinTest_S04	Level_Dvalin_S04	1			SceneData_Name_20018
+20019	2	Level_Dungeon01_DLK					SceneData_Name_20019
+20020	2	DvalinTest_S00	Level_Dvalin_S00	1	10000005,10000007	1	SceneData_Name_20020
+20021	2	Level_PFDungeon02_Lisa					SceneData_Name_20021
+30001	2	LevelTest_CurseMaze					SceneData_Name_30001
+30002	2	Level_KaeyaTutorialMission02					SceneData_Name_30002
+30003	2	Level_KaeyaTutorialMission01					SceneData_Name_30003
+40001	2	Level_UCDungeon02					SceneData_Name_40001
+40002	2	Level_UCDungeon01					SceneData_Name_40002
+40003	2	Level_UCDungeon01					SceneData_Name_40003
+40004	2	Level_KaeyaTutorialMission02					SceneData_Name_40004
+40005	2	Level_KaeyaTutorialMission01					SceneData_Name_40005
+40006	2	Level_KaeyaTutorialMission01					SceneData_Name_40006
+40007	2	Level_PFDungeon01					SceneData_Name_40007
+50000	3	IndoorHallTest					SceneData_Name_50000
+50001	2	Level_UCDungeon01					SceneData_Name_50001
+50002	2	TestLevel_Cold_LYX	TestLevel_Cold				SceneData_Name_50002
+50003	2	TestLevel_Battle_CLX					SceneData_Name_50003
+50004	2	Level_PowerCharge_Test					SceneData_Name_50004
+50005	2	Level_ElementGameplay_Test					SceneData_Name_50005

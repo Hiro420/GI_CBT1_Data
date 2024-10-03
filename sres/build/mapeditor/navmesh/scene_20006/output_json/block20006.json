@@ -1,0 +1,17 @@
+{
+    "navMeshDatas": [
+        {
+            "_center": {
+                "x": 114.56605529785156,
+                "y": 49.887290954589847,
+                "z": 184.8023223876953
+            },
+            "_size": {
+                "x": 289.09625244140627,
+                "y": 36.25785827636719,
+                "z": 446.20672607421877
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_20006/block_20006/navmesh000_agent0"
+        }
+    ]
+}

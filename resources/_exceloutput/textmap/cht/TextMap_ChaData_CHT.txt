@@ -1,0 +1,965 @@
+ID	文本
+AvatarData_Name_10000002	神里綾華
+AvatarSkillData_Name_10013	神里流·霰步
+AvatarSkillData_Desc_10013	神里流中靈動的一式。\n隱入碎冰，化為激流快速移動。替代衝刺。\n在這個狀態下，神里綾華可以在水面上高速移動。\n現身的瞬間會對附近的敵人附加寒冷狀態，並暫時將普通攻擊轉為冰屬性傷害。\n\n附加寒冷影響範圍：3公尺\n冰屬性普通攻擊持續時間：4秒\n體力消耗：啟動時15點，之後每秒25點
+AvatarSkillData_Name_10018	神里流·冰華
+AvatarSkillData_Desc_10018	神里流中優雅的一式。\n將冰元素迅速散佈在身邊。短暫間隔後，造成冰屬性傷害並擊飛周圍的敵人。\n\n技能傷害：340%攻擊力\n影響範圍：3公尺\n冷卻時間：6秒\n元素類型：冰
+AvatarSkillData_Name_10019	神里流·霜滅
+AvatarSkillData_Desc_10019	神里流中淩厲的一式。\n以摺扇與刀劍造出向前方行進的冰刃風暴，對路徑上的敵人持續造成冰屬性傷害。\n冰刃風暴會在持續時間結束時爆裂，對更大範圍內的敵人造成冰屬性傷害。\n\n持續傷害：每秒259%攻擊力\n影響範圍：3公尺\n移動速度：每秒4.5公尺\n持續時間：5秒\n爆裂傷害：500%攻擊力\n爆裂範圍：5公尺\n冷卻時間：25秒\n元素能量：60\n元素類型：冰
+AvatarSkillData_Name_10024	綾華五連擊
+AvatarSkillData_Desc_10024	單手劍五連擊
+TalentSkillData_Name_211	白鷺公主[1]
+TalentSkillData_Desc_211	隊伍中所有角色獲得5%的冰元素傷害加成和6%的冰元素抗性提升。
+TalentSkillData_Name_212	白鷺公主[2]
+TalentSkillData_Desc_212	隊伍中所有角色獲得10%的冰元素傷害加成和9%的冰元素抗性提升。
+TalentSkillData_Name_213	白鷺公主[3]
+TalentSkillData_Desc_213	隊伍中所有角色獲得15%的冰元素傷害加成和12%的冰元素抗性提升。
+TalentSkillData_Name_214	白鷺公主[4]
+TalentSkillData_Desc_214	隊伍中所有角色獲得20%的冰元素傷害加成和15%的冰元素抗性提升。
+TalentSkillData_Name_221	薄冰舞踏[1]
+TalentSkillData_Desc_221	神里流·霰步的移動速度提升10%。
+TalentSkillData_Name_222	薄冰舞踏[2]
+TalentSkillData_Desc_222	神里流·霰步的移動速度提升20%，現身衝擊範圍擴大15%。
+TalentSkillData_Name_223	薄冰舞踏[3]
+TalentSkillData_Desc_223	神里流·霰步的移動速度提升30%，現身衝擊範圍擴大30%。
+TalentSkillData_Name_231	寒天宣命祝詞[1]
+TalentSkillData_Desc_231	普通攻擊命中處於寒冷或凍結狀態下的敵人時，分別有6%/18%的機率縮短神里流·冰華0.5秒冷卻時間。
+TalentSkillData_Name_232	寒天宣命祝詞[2]
+TalentSkillData_Desc_232	普通攻擊命中處於寒冷或凍結狀態下的敵人時，分別有9%/27%的機率縮短神里流·冰華0.5秒冷卻時間。
+TalentSkillData_Name_233	寒天宣命祝詞[3]
+TalentSkillData_Desc_233	普通攻擊命中處於寒冷或凍結狀態下的敵人時，分別有12%/36%的機率縮短神里流·冰華1秒冷卻時間。
+TalentSkillData_Name_241	三重雪關扉[1]
+TalentSkillData_Desc_241	施放神里流·霜滅時，會向側面放出額外2個較小的冰刃風暴，各自能造成20%的傷害。
+TalentSkillData_Name_242	三重雪關扉[2]
+TalentSkillData_Desc_242	施放神里流·霜滅時，會向側面放出額外2個較小的冰刃風暴，各自能造成35%的傷害。
+TalentSkillData_Name_243	三重雪關扉[3]
+TalentSkillData_Desc_243	施放神里流·霜滅時，會向側面放出額外2個較小的冰刃風暴，各自能造成50%的傷害。
+TalentSkillData_Name_251	間水月[1]
+TalentSkillData_Desc_251	元素充能效率提高16%，神里流·霜滅的冷卻時間減少2秒。
+TalentSkillData_Name_252	間水月[2]
+TalentSkillData_Desc_252	元素充能效率提高25%，神里流·霜滅的冷卻時間減少4秒。
+TalentSkillData_Name_253	間水月[3]
+TalentSkillData_Desc_253	元素充能效率提高33%，神里流·霜滅的冷卻時間減少6秒。
+TalentSkillData_Name_261	天罪國罪鎮詞[1]
+TalentSkillData_Desc_261	在神里流·霰步的狀態下，神里綾華會標記周圍生命值低於20%的敵人。在被標記的敵人附近現身並立刻普通攻擊，能造成等同於攻擊力300%的冰屬性傷害。此次攻擊視為重擊。
+TalentSkillData_Name_262	天罪國罪鎮詞[2]
+TalentSkillData_Desc_262	在神里流·霰步的狀態下，神里綾華會標記周圍生命值低於25%的敵人。在被標記的敵人附近現身並立刻普通攻擊，能造成等同於攻擊力350%的冰屬性傷害。此次攻擊視為重擊。
+TalentSkillData_Name_263	天罪國罪鎮詞[3]
+TalentSkillData_Desc_263	在神里流·霰步的狀態下，神里綾華會標記周圍生命值低於30%的敵人。在被標記的敵人附近現身並立刻普通攻擊，能造成等同於攻擊力400%的冰屬性傷害。此次攻擊視為重擊。
+TalentSkillData_Name_271	霜殺墨染櫻[1]
+TalentSkillData_Desc_271	神里流·冰華對處於寒冷或凍結狀態下的敵人造成的傷害提高20%。
+TalentSkillData_Name_272	霜殺墨染櫻[2]
+TalentSkillData_Desc_272	神里流·冰華對處於寒冷或凍結狀態下的敵人造成的傷害提高35%。
+TalentSkillData_Name_273	霜殺墨染櫻[3]
+TalentSkillData_Desc_273	神里流·冰華對處於寒冷或凍結狀態下的敵人造成的傷害提高50%。
+TalentSkillData_Name_281	盈缺流返[1]
+TalentSkillData_Desc_281	元素能量高於50%時，普通攻擊造成的傷害提高10%；元素能量低於50%時，普通攻擊的暴擊率提升5%。
+TalentSkillData_Name_282	盈缺流返[2]
+TalentSkillData_Desc_282	元素能量高於50%時，普通攻擊造成的傷害提高20%；元素能量低於50%時，普通攻擊的暴擊率提升10%。
+TalentSkillData_Name_283	盈缺流返[3]
+TalentSkillData_Desc_283	元素能量高於50%時，普通攻擊造成的傷害提高30%；元素能量低於50%時，普通攻擊的暴擊率提升15%。
+AvatarData_Desc_10000002	1
+AvatarData_Name_10000003	琴
+AvatarSkillData_Name_10031	琴五連擊
+AvatarSkillData_Desc_10031	
+AvatarSkillData_Name_10033	風壓劍
+AvatarSkillData_Desc_10033	與一心守護的琴同行，是能將危險驅離夥伴身邊的守護之風。\n喚出旋風，將周圍的敵人吸至面前，施加受困狀態，並將其向前擊飛，造成風屬性傷害。\n長按以吸附更多的敵人，或調整擊飛敵人的方向。技能作用期間無法移動。\n\n技能傷害：275%攻擊力\n影響範圍：10公尺\n最大持續時間：5秒\n體力消耗：每秒25點\n冷卻時間：6秒\n元素類型：風
+AvatarSkillData_Name_10034	蒲公英之風
+AvatarSkillData_Desc_10034	風的恩澤如同廣佈大地的蒲公英，這就是琴守護的根源與心意。\n以自身為中心造出和風湧動的蒲公英領域，擊退並對周圍的敵人造成風屬性傷害，並為範圍內的友軍與隊伍中的所有角色恢復生命值。\n此後，蒲公英領域會持續為其中的友軍與角色恢復生命值，對出入領域的敵人造成風屬性傷害。\n\n技能傷害：375%攻擊力\n瞬間生命值恢復：425%攻擊力\n持續生命值恢復：每1秒60%攻擊力\n影響範圍：6公尺\n持續時間：10秒\n出入領域傷害：100%攻擊力\n冷卻時間：32秒\n元素能量：80\n元素類型：風
+TalentSkillData_Name_1300	守護眾人的堅盾[1]
+TalentSkillData_Desc_1300	隊伍中所有角色的生命值上限提高4%，暴擊率提高2%。
+TalentSkillData_Name_1301	守護眾人的堅盾[2]
+TalentSkillData_Desc_1301	隊伍中所有角色的生命值上限提高8%，暴擊率提高4%。
+TalentSkillData_Name_1302	守護眾人的堅盾[3]
+TalentSkillData_Desc_1302	隊伍中所有角色的生命值上限提高12%，暴擊率提高6%。
+TalentSkillData_Name_1303	守護眾人的堅盾[4]
+TalentSkillData_Desc_1303	隊伍中所有角色的生命值上限提高16%，暴擊率提高8%。
+TalentSkillData_Name_1310	聽憑風引[1]
+TalentSkillData_Desc_1310	體力恢復速度提高10%。
+TalentSkillData_Name_1311	聽憑風引[2]
+TalentSkillData_Desc_1311	體力恢復速度提高17%。
+TalentSkillData_Name_1312	聽憑風引[3]
+TalentSkillData_Desc_1312	體力恢復速度提高25%。
+TalentSkillData_Name_1313	聽憑風引[4]
+TalentSkillData_Desc_1313	體力恢復速度提高35%。
+TalentSkillData_Name_1320	暴風一瞬[1]
+TalentSkillData_Desc_1320	風壓劍造成的傷害提高8%，並小幅提升旋風的吸引速度。
+TalentSkillData_Name_1321	暴風一瞬[2]
+TalentSkillData_Desc_1321	風壓劍造成的傷害提高14%，並提升旋風的吸引速度。
+TalentSkillData_Name_1322	暴風一瞬[3]
+TalentSkillData_Desc_1322	風壓劍造成的傷害提高20%，並大幅提升旋風的吸引速度。
+TalentSkillData_Name_1330	復甦之風[1]
+TalentSkillData_Desc_1330	生命值上限提高2%。此外，當生命值低於35%時，受治療加成提高10%。
+TalentSkillData_Name_1331	復甦之風[2]
+TalentSkillData_Desc_1331	生命值上限提高5%。此外，當生命值低於35%時，受治療加成提高15%。
+TalentSkillData_Name_1332	復甦之風[3]
+TalentSkillData_Desc_1332	生命值上限提高8%。此外，當生命值低於35%時，受治療加成提高20%。
+TalentSkillData_Name_1340	守護眾人的劍鋒[1]
+TalentSkillData_Desc_1340	普通攻擊暴擊率提高10%。普通攻擊造成暴擊時，為隊伍中所有角色恢復等同於琴的攻擊力10%的生命值。
+TalentSkillData_Name_1341	守護眾人的劍鋒[2]
+TalentSkillData_Desc_1341	普通攻擊暴擊率提高15%。普通攻擊造成暴擊時，為隊伍中所有角色恢復等同於琴的攻擊力15%的生命值。
+TalentSkillData_Name_1342	守護眾人的劍鋒[3]
+TalentSkillData_Desc_1342	普通攻擊暴擊率提高20%。普通攻擊造成暴擊時，為隊伍中所有角色恢復等同於琴的攻擊力20%的生命值。
+TalentSkillData_Name_1350	順風而行[1]
+TalentSkillData_Desc_1350	獲得元素晶球或元素微粒時，隊伍中的所有角色將獲得5%移動速度和普通攻擊速度提升，持續10秒。連續觸發刷新持續時間。
+TalentSkillData_Name_1351	順風而行[2]
+TalentSkillData_Desc_1351	獲得元素晶球或元素微粒時，隊伍中的所有角色將獲得10%移動速度和普通攻擊速度提升，持續10秒。連續觸發刷新持續時間。
+TalentSkillData_Name_1352	順風而行[3]
+TalentSkillData_Desc_1352	獲得元素晶球或元素微粒時，隊伍中的所有角色將獲得15%移動速度和普通攻擊速度提升，持續10秒。連續觸發刷新持續時間。
+TalentSkillData_Name_1360	蒲公英領域[1]
+TalentSkillData_Desc_1360	在蒲公英之風中，敵人移動速度和攻擊速度降低25%，風元素抗性降低20%。
+TalentSkillData_Name_1361	蒲公英領域[2]
+TalentSkillData_Desc_1361	在蒲公英之風中，敵人移動速度和攻擊速度降低25%，風元素抗性降低40%。
+TalentSkillData_Name_1362	蒲公英領域[3]
+TalentSkillData_Desc_1362	在蒲公英之風中，敵人移動速度和攻擊速度降低25%，風元素抗性降低60%。
+TalentSkillData_Name_1370	眷顧萬民的獅之牙[1]
+TalentSkillData_Desc_1370	蒲公英之風中的友軍單位與角色獲得風之守護，減少12%所受傷害。離開蒲公英之風後，風之守護會在承受3次攻擊或10秒後消失。
+TalentSkillData_Name_1371	眷顧萬民的獅之牙[2]
+TalentSkillData_Desc_1371	蒲公英之風中的友軍單位與角色獲得風之守護，減少24%所受傷害。離開蒲公英之風後，風之守護會在承受3次攻擊或10秒後消失。
+TalentSkillData_Name_1372	眷顧萬民的獅之牙[3]
+TalentSkillData_Desc_1372	蒲公英之風中的友軍單位與角色獲得風之守護，減少36%所受傷害。離開蒲公英之風後，風之守護會在承受3次攻擊或10秒後消失。
+AvatarData_Desc_10000003	蒙德西風騎士團的代理團長。她是引領著眾人的風，是個十分可靠的人。
+AvatarData_Name_10000005	旅行者
+AvatarSkillData_Name_10054	主角五連擊
+AvatarSkillData_Desc_10054	單手劍五連擊
+AvatarSkillData_Name_10067	風渦劍
+AvatarSkillData_Desc_10067	和派蒙討論過如何握住無形的風。\n在身前凝聚風的力量，造成持續切割敵人的風球，持續造成風屬性傷害。\n風球爆裂時，造成一次強力的風屬性傷害，並擊退範圍內的敵人。\n長按時，風球的傷害和範圍會隨時間提升，並在爆裂時造成更強的傷害和擊退效果，最多持續1.6秒。\n若風球接觸到水/火/冰/雷元素，則獲得對應屬性，造成對應屬性的附加傷害。這種轉化僅發生一次。\n\n基礎持續傷害：每0.25秒25%攻擊力\n最大持續傷害：每0.25秒45%攻擊力\n基礎爆裂傷害：240%攻擊力\n最大爆裂傷害：300%攻擊力\n風球基礎範圍：1.7公尺\n風球最大範圍：3公尺\n基礎冷卻時間：5秒\n最大蓄力冷卻時間：8秒\n元素類型：風
+AvatarSkillData_Name_10068	風息激蕩
+AvatarSkillData_Desc_10068	和派蒙一起研究過蝴蝶的振翅。\n在前方喚出一個持續前進的龍捲風，將沿途的物體與敵人捲入，對其施加受困狀態，並持續造成風元素傷害。\n若行進途中接觸到水/火/冰/雷元素，則獲得對應屬性，造成對應屬性的附加傷害。這種轉化僅發生一次。\n\n技能傷害：每0.5秒80%攻擊力\n影響範圍：2.5公尺\n移動速度：每秒4.5公尺\n持續時間：6秒\n冷卻時間：25秒\n元素能量：60\n元素類型：風
+AvatarSkillData_Name_10077	主角岩屬性-崩玉
+AvatarSkillData_Desc_10077	
+AvatarSkillData_Name_10078	主角岩屬性-岩潮
+AvatarSkillData_Desc_10078	
+TalentSkillData_Name_1481	旅者之風[1]
+TalentSkillData_Desc_1481	隊伍中所有角色的生命值上限提高6%，風元素抗性提升6%。
+TalentSkillData_Name_1482	旅者之風[2]
+TalentSkillData_Desc_1482	隊伍中所有角色的生命值上限提高9%，風元素抗性提高9%。
+TalentSkillData_Name_1483	旅者之風[3]
+TalentSkillData_Desc_1483	隊伍中所有角色的生命值上限提高12%，風元素抗性提高12%。
+TalentSkillData_Name_1484	旅者之風[4]
+TalentSkillData_Desc_1484	隊伍中所有角色的生命值上限提高15%，風元素抗性提高15%。
+TalentSkillData_Name_1491	高揚之風[1]
+TalentSkillData_Desc_1491	衝刺時的移動速度提高15%。
+TalentSkillData_Name_1492	高揚之風[2]
+TalentSkillData_Desc_1492	衝刺時的移動速度提高30%。
+TalentSkillData_Name_1493	高揚之風[3]
+TalentSkillData_Desc_1493	衝刺時的移動速度提高45%。
+TalentSkillData_Name_1501	天地之風[1]
+TalentSkillData_Desc_1501	風息激蕩造成的傷害提高8%。
+TalentSkillData_Name_1502	天地之風[2]
+TalentSkillData_Desc_1502	風息激蕩造成的傷害提高14%。
+TalentSkillData_Name_1503	天地之風[3]
+TalentSkillData_Desc_1503	風息激蕩造成的傷害提高20%。
+TalentSkillData_Name_1511	群星之風[1]
+TalentSkillData_Desc_1511	風渦劍造成的傷害提高6%。
+TalentSkillData_Name_1512	群星之風[2]
+TalentSkillData_Desc_1512	風渦劍造成的傷害提高12%。
+TalentSkillData_Name_1513	群星之風[3]
+TalentSkillData_Desc_1513	風渦劍造成的傷害提高20%。
+TalentSkillData_Name_1521	裂空的疾風[1]
+TalentSkillData_Desc_1521	普通攻擊的最後一擊有60%機率打出一道風刃，對沿途敵人造成等同於40%攻擊力的風屬性傷害。
+TalentSkillData_Name_1522	裂空的疾風[2]
+TalentSkillData_Desc_1522	普通攻擊的最後一擊有80%機率打出一道風刃，對沿途敵人造成等同於60%攻擊力的風屬性傷害。
+TalentSkillData_Name_1523	裂空的疾風[3]
+TalentSkillData_Desc_1523	普通攻擊的最後一擊有100%機率打出一道風刃，對沿途敵人造成等同於80%攻擊力的風屬性傷害。
+TalentSkillData_Name_1531	革新的旋風[1]
+TalentSkillData_Desc_1531	元素充能效率提升16%。
+TalentSkillData_Name_1532	革新的旋風[2]
+TalentSkillData_Desc_1532	元素充能效率提升25%。
+TalentSkillData_Name_1533	革新的旋風[3]
+TalentSkillData_Desc_1533	元素充能效率提升33%。
+TalentSkillData_Name_1541	回轉的怒風[1]
+TalentSkillData_Desc_1541	風渦劍長按超過1秒後，可吸引周圍5公尺內的敵人，造成的傷害提高10%。
+TalentSkillData_Name_1542	回轉的怒風[2]
+TalentSkillData_Desc_1542	風渦劍長按超過1秒後，可吸引周圍5公尺內的敵人，造成的傷害提高20%。
+TalentSkillData_Name_1543	回轉的怒風[3]
+TalentSkillData_Desc_1543	風渦劍始終可吸引周圍5公尺內的敵人，造成的傷害提高30%。
+TalentSkillData_Name_1551	劍脊的蒼風[1]
+TalentSkillData_Desc_1551	普通攻擊的暴擊率提高4%，暴擊傷害提高20%。
+TalentSkillData_Name_1552	劍脊的蒼風[2]
+TalentSkillData_Desc_1552	普通攻擊的暴擊率提高8%，暴擊傷害提高40%。
+TalentSkillData_Name_1553	劍脊的蒼風[3]
+TalentSkillData_Desc_1553	普通攻擊的暴擊率提高12%，暴擊傷害提高60%。
+TalentSkillData_Name_1641	莫納卡之隱忍[1]
+TalentSkillData_Desc_1641	全隊角色生命值上限提升6%，岩元素抗性提升10%
+TalentSkillData_Name_1642	莫納卡之隱忍[2]
+TalentSkillData_Desc_1642	全隊角色生命值上限提升9%，岩元素抗性提升20%
+TalentSkillData_Name_1643	莫納卡之隱忍[3]
+TalentSkillData_Desc_1643	全隊角色生命值上限提升12%，岩元素抗性提升30%
+TalentSkillData_Name_1644	莫納卡之隱忍[4]
+TalentSkillData_Desc_1644	全隊角色生命值上限提升15%，岩元素抗性提升40%
+TalentSkillData_Name_1651	大地讚頌[1]
+TalentSkillData_Desc_1651	璃月塵·岩潮範圍內的抗打斷能力略微提高，暴擊率提高5%
+TalentSkillData_Name_1652	大地讚頌[2]
+TalentSkillData_Desc_1652	璃月塵·岩潮範圍內抗打斷能力顯著提高，暴擊率提高10%
+TalentSkillData_Name_1653	大地讚頌[3]
+TalentSkillData_Desc_1653	璃月塵·岩潮範圍內抗打斷能力大幅提高，暴擊率提高15%
+TalentSkillData_Name_1661	不穩定源質[1]
+TalentSkillData_Desc_1661	破岩樁·崩玉在持續時間結束後會再引爆一次，造成生成時30%的岩元素爆炸傷害
+TalentSkillData_Name_1662	不穩定源質[2]
+TalentSkillData_Desc_1662	破岩樁·崩玉在持續時間結束後會再引爆一次，造成生成時50%的岩元素爆炸傷害
+TalentSkillData_Name_1663	不穩定源質[3]
+TalentSkillData_Desc_1663	破岩樁·崩玉在持續時間結束後會再引爆一次，造成生成時100%的岩元素爆炸傷害
+TalentSkillData_Name_1671	登山家[1]
+TalentSkillData_Desc_1671	攀爬時的體力消耗降低8%
+TalentSkillData_Name_1672	登山家[2]
+TalentSkillData_Desc_1672	攀爬時的體力消耗降低12%
+TalentSkillData_Name_1673	登山家[3]
+TalentSkillData_Desc_1673	攀爬時的體力消耗降低20%
+TalentSkillData_Name_1681	黃金體驗[1]
+TalentSkillData_Desc_1681	破岩樁·崩玉的寶石衝擊的岩元素傷害提高10%
+TalentSkillData_Name_1682	黃金體驗[2]
+TalentSkillData_Desc_1682	破岩樁·崩玉的寶石衝擊的岩元素傷害提高18%
+TalentSkillData_Name_1683	黃金體驗[3]
+TalentSkillData_Desc_1683	破岩樁·崩玉的寶石衝擊的岩元素傷害提高30%
+TalentSkillData_Name_1691	星屑回歸[1]
+TalentSkillData_Desc_1691	璃月塵·岩潮的地震波每擊中一名敵人，恢復自身1.5點能量，最多7.5點。
+TalentSkillData_Name_1692	星屑回歸[2]
+TalentSkillData_Desc_1692	璃月塵·岩潮的地震波每擊中一名敵人，恢復自身3點能量，最多15點。
+TalentSkillData_Name_1693	星屑回歸[3]
+TalentSkillData_Desc_1693	璃月塵·岩潮的地震波每擊中一名敵人，恢復自身5點能量，最多25點。
+TalentSkillData_Name_1701	水晶之壁[1]
+TalentSkillData_Desc_1701	璃月塵·岩潮的岩壁持續時間延長1秒，衝擊波造成的岩元素傷害提升5%
+TalentSkillData_Name_1702	水晶之壁[2]
+TalentSkillData_Desc_1702	璃月塵·岩潮的岩壁持續時間延長2秒，衝擊波造成的岩元素傷害提升10%
+TalentSkillData_Name_1703	水晶之壁[3]
+TalentSkillData_Desc_1703	璃月塵·岩潮的岩壁持續時間延長4秒，衝擊波造成的岩元素傷害提升20%
+TalentSkillData_Name_1711	崩擊[1]
+TalentSkillData_Desc_1711	普攻第五擊有15%機率觸發岩崩，造成15%攻擊力的岩屬性範圍鈍擊傷害
+TalentSkillData_Name_1712	崩擊[2]
+TalentSkillData_Desc_1712	普攻第五擊有25%機率觸發岩崩，造成15%攻擊力的岩屬性範圍鈍擊傷害
+TalentSkillData_Name_1713	崩擊[3]
+TalentSkillData_Desc_1713	普攻第五擊有35%機率觸發岩崩，造成25%攻擊力的岩屬性範圍鈍擊傷害
+AvatarData_Desc_10000005	
+AvatarData_Name_10000006	麗莎
+AvatarSkillData_Name_10060	普攻
+AvatarSkillData_Desc_10060	
+AvatarSkillData_Name_10061	蒼雷
+AvatarSkillData_Desc_10061	雷電的顏色就是薔薇魔女的顏色。\n點按：放出能自行索敵的球形閃電。命中後，對目標造成雷屬性傷害，並對目標及其周圍的敵人施加引雷效果，至多能疊加3層。\n長按：短暫詠唱後，召喚雷電從天而降，對附近的所有敵人造成雷屬性傷害。若敵人處在引雷狀態下，則清除引雷的效果，並依據層數造成額外的雷屬性傷害。\n\n點按：\n技能傷害：120%攻擊力\n影響範圍：2公尺\n持續時間：15秒\n元素類型：雷\n冷卻時間：1秒\n\n長按：\n基礎傷害：450%攻擊力\n引雷造成額外傷害：\n一層：140%攻擊力\n二層：270%攻擊力\n三層：450%攻擊力\n影響範圍：10公尺\n冷卻時間：16秒\n元素類型：雷
+AvatarSkillData_Name_10062	薔薇的雷光
+AvatarSkillData_Desc_10062	這朵薔薇固然美麗，卻也有著致命的刺。\n召喚出薔薇雷光，釋放強大的雷電之力，擊退周圍的敵人並造成雷屬性傷害。\n在存在期間內，薔薇雷光會持續放電攻擊進入攻擊範圍的敵人，造成雷屬性傷害。\n\n攻擊傷害：每次50.9%攻擊力\n攻擊間隔：0.5秒\n攻擊範圍：7公尺\n持續時間：15秒\n冷卻時間：32秒\n元素能量：60\n元素類型：雷
+TalentSkillData_Name_1100	紫電魔女[1]
+TalentSkillData_Desc_1100	隊伍中所有角色獲得5%的雷元素傷害加成和6%的雷元素抗性提升。
+TalentSkillData_Name_1101	紫電魔女[2]
+TalentSkillData_Desc_1101	隊伍中所有角色獲得10%的雷元素傷害加成和9%的雷元素抗性提升。
+TalentSkillData_Name_1102	紫電魔女[3]
+TalentSkillData_Desc_1102	隊伍中所有角色獲得15%的雷元素傷害加成和12%的雷元素抗性提升。
+TalentSkillData_Name_1103	紫電魔女[4]
+TalentSkillData_Desc_1103	隊伍中所有角色獲得20%的雷元素傷害加成和15%的雷元素抗性提升。
+TalentSkillData_Name_1104	雷光[1]
+TalentSkillData_Desc_1104	重擊造成的傷害提升4%，並有30%的機率為目標附加引雷效果。
+TalentSkillData_Name_1105	雷光[2]
+TalentSkillData_Desc_1105	重擊造成的傷害提升7%，並有55%的機率為目標附加引雷效果。
+TalentSkillData_Name_1106	雷光[3]
+TalentSkillData_Desc_1106	重擊造成的傷害提升10%，並有80%的機率為目標附加引雷效果。
+TalentSkillData_Name_1107	無限的電迴路[1]
+TalentSkillData_Desc_1107	蒼雷長按時，每個命中的敵人都會為麗莎恢復2點元素能量。
+TalentSkillData_Name_1108	無限的電迴路[2]
+TalentSkillData_Desc_1108	蒼雷長按時，每個命中的敵人都會為麗莎恢復4點元素能量。
+TalentSkillData_Name_1109	無限的電迴路[3]
+TalentSkillData_Desc_1109	蒼雷長按時，每個命中的敵人都會為麗莎恢復6點元素能量。
+TalentSkillData_Name_1110	電光靈動[1]
+TalentSkillData_Desc_1110	普通攻擊造成的傷害提高8%，並能擊退處於引雷效果下的敵人。
+TalentSkillData_Name_1111	電光靈動[2]
+TalentSkillData_Desc_1111	普通攻擊造成的傷害提高14%，並能擊退處於引雷效果下的敵人。
+TalentSkillData_Name_1112	電光靈動[3]
+TalentSkillData_Desc_1112	普通攻擊造成的傷害提高20%，並能擊退處於引雷效果下的敵人。
+TalentSkillData_Name_1113	超導態的降雷[1]
+TalentSkillData_Desc_1113	蒼雷長按造成的傷害提高8%。
+TalentSkillData_Name_1114	超導態的降雷[2]
+TalentSkillData_Desc_1114	蒼雷長按造成的傷害提高16%。
+TalentSkillData_Name_1115	超導態的降雷[3]
+TalentSkillData_Desc_1115	蒼雷長按造成的傷害提高24%。
+TalentSkillData_Name_1116	超導態的降雷[4]
+TalentSkillData_Desc_1116	蒼雷長按造成的傷害提高32%。
+TalentSkillData_Name_1117	空間電勢的結界[1]
+TalentSkillData_Desc_1117	薔薇的雷光施放時，會對周圍的敵人施加易傷效果，使其受到的傷害提高30%，持續6秒。
+TalentSkillData_Name_1118	空間電勢的結界[2]
+TalentSkillData_Desc_1118	薔薇的雷光施放時，會對周圍的敵人施加易傷效果，使其受到的傷害提高40%，持續8秒。
+TalentSkillData_Name_1119	空間電勢的結界[3]
+TalentSkillData_Desc_1119	薔薇的雷光施放時，會對周圍的敵人施加易傷效果，使其受到的傷害提高50%，持續10秒。
+TalentSkillData_Name_1120	諧振的雷光[1]
+TalentSkillData_Desc_1120	薔薇的雷光放電攻擊造成的傷害提升8%。
+TalentSkillData_Name_1121	諧振的雷光[2]
+TalentSkillData_Desc_1121	薔薇的雷光放電攻擊造成的傷害提升16%。
+TalentSkillData_Name_1122	諧振的雷光[3]
+TalentSkillData_Desc_1122	薔薇的雷光放電攻擊造成的傷害提升24%。
+TalentSkillData_Name_1123	諧振的雷光[4]
+TalentSkillData_Desc_1123	薔薇的雷光放電攻擊造成的傷害提升32%。
+TalentSkillData_Name_1124	電漿暴雨[1]
+TalentSkillData_Desc_1124	蒼雷的球形閃電造成的傷害提高15%。
+TalentSkillData_Name_1125	電漿暴雨[2]
+TalentSkillData_Desc_1125	蒼雷的球形閃電造成的傷害提高30%，並使引雷狀態的施加範圍擴大100%。
+AvatarData_Desc_10000006	蒙德城西風騎士團的圖書管理員。看到她使用雷電作戰的機會不多。
+AvatarData_Name_10000007	旅行者
+AvatarData_Desc_10000007	
+AvatarData_Name_10000014	芭芭拉
+AvatarSkillData_Name_10070	普攻
+AvatarSkillData_Desc_10070	
+AvatarSkillData_Name_10071	演唱，開始♪
+AvatarSkillData_Desc_10071	芭芭拉的音樂就是治療大家的魔法。\n以自身為中心，喚出躍動的水珠，對周圍的敵人造成水屬性傷害，並施加潮濕狀態。\n短暫的間隔後，水珠會轉為持續治療的歌聲之環，為其中的角色持續恢復生命值，並對觸及的敵人施加潮濕狀態。\n\n技能傷害：60%攻擊力\n影響範圍：2公尺\n生命值恢復：每1.5秒70%攻擊力\n持續時間：15秒\n冷卻時間：20秒\n元素類型：水
+AvatarSkillData_Name_10072	閃耀奇蹟♪
+AvatarSkillData_Desc_10072	治癒大家的心就是芭芭拉戰鬥與歌唱的力量。\n為範圍內的友軍和隊伍中所有角色恢復大量生命值。\n\n生命值恢復：900%攻擊力\n冷卻時間：40秒\n元素能量：90\n元素類型：水
+TalentSkillData_Name_1560	光輝的季節[1]
+TalentSkillData_Desc_1560	隊伍中所有角色受治療加成提高10%。
+TalentSkillData_Name_1561	光輝的季節[2]
+TalentSkillData_Desc_1561	隊伍中所有角色受治療加成提高20%。
+TalentSkillData_Name_1562	光輝的季節[3]
+TalentSkillData_Desc_1562	隊伍中所有角色受治療加成提高30%。
+TalentSkillData_Name_1570	明日之星[1]
+TalentSkillData_Desc_1570	重擊的體力消耗降低20%。
+TalentSkillData_Name_1571	明日之星[2]
+TalentSkillData_Desc_1571	重擊的體力消耗降低30%。
+TalentSkillData_Name_1572	明日之星[3]
+TalentSkillData_Desc_1572	重擊的體力消耗降低40%。
+TalentSkillData_Name_1580	心之旋律[1]
+TalentSkillData_Desc_1580	在演唱，開始♪的歌聲之環持續期間內，體力消耗降低5%。歌聲之環的治療效果提高5%。
+TalentSkillData_Name_1581	心之旋律[2]
+TalentSkillData_Desc_1581	在演唱，開始♪的歌聲之環持續期間內，體力消耗降低10%。歌聲之環的治療效果提高10%。
+TalentSkillData_Name_1582	心之旋律[3]
+TalentSkillData_Desc_1582	在演唱，開始♪的歌聲之環持續期間內，體力消耗降低15%。歌聲之環的治療效果提高15%。
+TalentSkillData_Name_1583	心之旋律[4]
+TalentSkillData_Desc_1583	在演唱，開始♪的歌聲之環持續期間內，體力消耗降低20%。歌聲之環的治療效果提高20%。
+TalentSkillData_Name_1590	彩色歌謠[1]
+TalentSkillData_Desc_1590	每20秒自動恢復1點元素能量。此外，閃耀奇蹟♪的冷卻時間降低5%。
+TalentSkillData_Name_1591	彩色歌謠[2]
+TalentSkillData_Desc_1591	每20秒自動恢復2點元素能量。此外，閃耀奇蹟♪的冷卻時間降低10%。
+TalentSkillData_Name_1592	彩色歌謠[3]
+TalentSkillData_Desc_1592	每20秒自動恢復4點元素能量。此外，閃耀奇蹟♪的冷卻時間降低15%。
+TalentSkillData_Name_1600	元氣迸發[1]
+TalentSkillData_Desc_1600	演唱，開始♪的歌聲之環會提升全體角色生命值上限2%，持續15秒，恢復對應的生命值，同時治療5公尺範圍內的友軍。
+TalentSkillData_Name_1601	元氣迸發[2]
+TalentSkillData_Desc_1601	演唱，開始♪的歌聲之環會提升全體角色生命值上限4%，持續15秒，恢復對應的生命值，同時治療10公尺範圍內的友軍。
+TalentSkillData_Name_1602	元氣迸發[3]
+TalentSkillData_Desc_1602	演唱，開始♪的歌聲之環會提升全體角色生命值上限6%，持續15秒，恢復對應的生命值，同時治療20公尺範圍內的友軍。
+TalentSkillData_Name_1610	純真的羈絆[1]
+TalentSkillData_Desc_1610	當芭芭拉在後臺時，若場上角色倒下，則立即復甦該角色，並為其恢復等同於生命值上限20%的生命值。每30分鐘只能觸發一次。
+TalentSkillData_Name_1611	純真的羈絆[2]
+TalentSkillData_Desc_1611	當芭芭拉在後臺時，若場上角色倒下，則立即復甦該角色，並為其恢復等同於生命值上限40%的生命值。每30分鐘只能觸發一次。
+TalentSkillData_Name_1612	純真的羈絆[3]
+TalentSkillData_Desc_1612	當芭芭拉在後臺時，若場上角色倒下，則立即復甦該角色，並為其恢復等同於生命值上限60%的生命值。每30分鐘只能觸發一次。
+TalentSkillData_Name_1620	安可[1]
+TalentSkillData_Desc_1620	獲得元素晶球或元素微粒時，延長演唱，開始♪的持續時間0.5秒，至多能延長2秒。
+TalentSkillData_Name_1621	安可[2]
+TalentSkillData_Desc_1621	獲得元素晶球或元素微粒時，延長演唱，開始♪的持續時間1秒，至多能延長4秒。
+TalentSkillData_Name_1622	安可[3]
+TalentSkillData_Desc_1622	獲得元素晶球或元素微粒時，延長演唱，開始♪的持續時間1.5秒，至多能延長6秒。
+TalentSkillData_Name_1623	安可[4]
+TalentSkillData_Desc_1623	獲得元素晶球或元素微粒時，延長演唱，開始♪的持續時間2秒，至多能延長8秒。
+TalentSkillData_Name_1630	將一切美好獻給你[1]
+TalentSkillData_Desc_1630	閃耀奇蹟♪的治療效果提高8%。
+TalentSkillData_Name_1631	將一切美好獻給你[2]
+TalentSkillData_Desc_1631	閃耀奇蹟♪的治療效果提高16%。
+TalentSkillData_Name_1632	將一切美好獻給你[3]
+TalentSkillData_Desc_1632	閃耀奇蹟♪的治療效果提高24%。
+TalentSkillData_Name_1633	將一切美好獻給你[4]
+TalentSkillData_Desc_1633	閃耀奇蹟♪的治療效果提高32%。
+AvatarData_Desc_10000014	蒙德教會的牧師，用水的元素力與微笑為人療傷。大家都喜歡她。
+AvatarData_Name_10000015	凱亞
+AvatarSkillData_Name_10073	Kaeya普攻鍵
+AvatarSkillData_Desc_10073	
+AvatarSkillData_Name_10074	霜襲
+AvatarSkillData_Desc_10074	看上去如此親切的凱亞，是誰也無法融化的堅冰。\n放出急凍的寒氣，對正前方扇形區域內的敵人造成冰屬性傷害。\n\n技能傷害：315%攻擊力\n影響範圍：8公尺扇形\n冷卻時間：6秒\n元素類型：冰
+AvatarSkillData_Name_10075	凜冽輪舞
+AvatarSkillData_Desc_10075	凱亞是騎士團裡可靠的前輩。但若是親近他，就會撞上這樣冰錐。\n召喚三枚冰錐，圍繞自身旋轉，對路徑上的敵人造成冰屬性傷害。\n\n技能傷害：111%攻擊力\n持續時間：8秒\n影響範圍：2公尺\n冷卻時間：25秒\n元素能量：50\n元素類型：冰
+TalentSkillData_Name_1050	游刃有餘[1]
+TalentSkillData_Desc_1050	隊伍中所有角色獲得5%的冰元素傷害加成和6%的冰元素抗性提升。
+TalentSkillData_Name_1051	游刃有餘[2]
+TalentSkillData_Desc_1051	隊伍中所有角色獲得10%的冰元素傷害加成和9%的冰元素抗性提升。
+TalentSkillData_Name_1052	游刃有餘[3]
+TalentSkillData_Desc_1052	隊伍中所有角色獲得15%的冰元素傷害加成和12%的冰元素抗性提升。
+TalentSkillData_Name_1053	游刃有餘[4]
+TalentSkillData_Desc_1053	隊伍中所有角色獲得20%的冰元素傷害加成和15%的冰元素抗性提升。
+TalentSkillData_Name_1054	疾如流冰[1]
+TalentSkillData_Desc_1054	衝刺消耗的體力降低10%。
+TalentSkillData_Name_1055	疾如流冰[2]
+TalentSkillData_Desc_1055	衝刺消耗的體力降低15%。
+TalentSkillData_Name_1056	疾如流冰[3]
+TalentSkillData_Desc_1056	衝刺消耗的體力降低25%。
+TalentSkillData_Name_1057	儀典劍術[1]
+TalentSkillData_Desc_1057	普通攻擊造成的傷害提高4%。
+TalentSkillData_Name_1058	儀典劍術[2]
+TalentSkillData_Desc_1058	普通攻擊造成的傷害提高6%，暴擊率提升3%。
+TalentSkillData_Name_1059	儀典劍術[3]
+TalentSkillData_Desc_1059	普通攻擊造成的傷害提高8%，暴擊率提升5%。
+TalentSkillData_Name_1060	卓越的血脈[1]
+TalentSkillData_Desc_1060	普通攻擊與重擊對處於寒冷或凍結狀態下的敵人造成傷害時，為隊伍中的所有角色恢復等同於攻擊力3%生命值。
+TalentSkillData_Name_1061	卓越的血脈[2]
+TalentSkillData_Desc_1061	普通攻擊與重擊對處於寒冷或凍結狀態下的敵人造成傷害時，為隊伍中的所有角色恢復等同於攻擊力5%生命值。
+TalentSkillData_Name_1062	卓越的血脈[3]
+TalentSkillData_Desc_1062	普通攻擊與重擊對處於寒冷或凍結狀態下的敵人造成傷害時，為隊伍中的所有角色恢復等同於攻擊力7%生命值。
+TalentSkillData_Name_1063	霜風刺髓[1]
+TalentSkillData_Desc_1063	霜襲造成的傷害提高8%。
+TalentSkillData_Name_1064	霜風刺髓[2]
+TalentSkillData_Desc_1064	霜襲造成的傷害提高16%。
+TalentSkillData_Name_1065	霜風刺髓[3]
+TalentSkillData_Desc_1065	霜襲造成的傷害提高24%。
+TalentSkillData_Name_1066	霜風刺髓[4]
+TalentSkillData_Desc_1066	霜襲造成的傷害提高32%。
+TalentSkillData_Name_1067	不破堅冰[1]
+TalentSkillData_Desc_1067	凜冽輪舞造成的傷害提高10%。
+TalentSkillData_Name_1068	不破堅冰[2]
+TalentSkillData_Desc_1068	凜冽輪舞造成的傷害提高20%。
+TalentSkillData_Name_1069	不破堅冰[3]
+TalentSkillData_Desc_1069	凜冽輪舞造成的傷害提高20%，持續時間增加3秒。
+TalentSkillData_Name_1070	冷血劍[1]
+TalentSkillData_Desc_1070	霜襲每擊中一個單位便為凱亞回復等同於攻擊力40%的生命值。
+TalentSkillData_Name_1071	冷血劍[2]
+TalentSkillData_Desc_1071	霜襲每擊中一個單位便為凱亞回復等同於攻擊力70%的生命值。
+TalentSkillData_Name_1072	冷血劍[3]
+TalentSkillData_Desc_1072	霜襲每擊中一個單位便為凱亞回復等同於攻擊力100%的生命值。
+TalentSkillData_Name_1073	極寒的輕吻[1]
+TalentSkillData_Desc_1073	生命值低於20%時自動觸發。生成一個傷害吸收量等於生命值上限15%的護盾，持續20秒。每60秒只能觸發一次。
+TalentSkillData_Name_1074	極寒的輕吻[2]
+TalentSkillData_Desc_1074	生命值低於20%時自動觸發。生成一個傷害吸收量等於生命值上限30%的護盾，持續20秒。每60秒只能觸發一次。
+TalentSkillData_Name_1075	極寒的輕吻[3]
+TalentSkillData_Desc_1075	生命值低於20%時自動觸發。生成一個傷害吸收量等於生命值上限30%的護盾，持續20秒。護盾生效期間，受到的傷害轉為生命值恢復。每60秒只能觸發一次。
+AvatarData_Desc_10000015	蒙德城西風騎士團的騎士。看起來十分親切，卻是冰元素力的使用者。
+AvatarData_Name_10000016	迪盧克
+AvatarSkillData_Name_10160	Diluc普攻鍵
+AvatarSkillData_Desc_10160	
+AvatarSkillData_Name_10161	逆焰之刃
+AvatarSkillData_Desc_10161	分別象徵迪盧克所秉持的正義、勇氣與責任。\n揮舞大劍，向前方進行火屬性劈砍。這個技能最多可以連續使用3次。4秒之內沒有繼續使用，則會進入冷卻。\n\n技能傷害：200%/200%/250%攻擊力 冷卻時間：10秒\n元素類型：火
+AvatarSkillData_Name_10165	黎明
+AvatarSkillData_Desc_10165	在黑暗中行走，是為了帶來光明。看遠方那在靜夜中亮起的火光，是破曉的先兆。\n週身爆發出烈焰，擊退周圍的敵人。並將烈焰凝聚在大劍上，揮出向前飛行的火之鳥，對路徑上的敵人持續造成火屬性傷害。火之鳥爆裂時會擊飛周圍敵人。\n\n技能傷害：每0.2秒120%攻擊力\n影響範圍：16公尺\n持續時間：1.7秒\n爆裂傷害：240%攻擊力\n冷卻時間：30秒\n元素能量：60\n元素類型：火
+TalentSkillData_Name_1400	長夜的守望[1]
+TalentSkillData_Desc_1400	隊伍中所有角色的基礎攻擊力提高5%。
+TalentSkillData_Name_1401	長夜的守望[2]
+TalentSkillData_Desc_1401	隊伍中所有角色的基礎攻擊力提高10%。
+TalentSkillData_Name_1402	長夜的守望[3]
+TalentSkillData_Desc_1402	隊伍中所有角色的基礎攻擊力提高15%。
+TalentSkillData_Name_1403	長夜的守望[4]
+TalentSkillData_Desc_1403	隊伍中所有角色的基礎攻擊力提高20%。
+TalentSkillData_Name_1410	永不休止[1]
+TalentSkillData_Desc_1410	生命值低於50%時，每10秒恢復生命值上限的3%點生命值。
+TalentSkillData_Name_1411	永不休止[2]
+TalentSkillData_Desc_1411	生命值低於70%時，每10秒恢復生命值上限的3.5%點生命值。
+TalentSkillData_Name_1412	永不休止[3]
+TalentSkillData_Desc_1412	生命值低於100%時，每10秒恢復生命值上限的4%點生命值。
+TalentSkillData_Name_1420	淬煉[1]
+TalentSkillData_Desc_1420	基礎攻擊力提高3%。
+TalentSkillData_Name_1421	淬煉[2]
+TalentSkillData_Desc_1421	基礎攻擊力提高6%。
+TalentSkillData_Name_1422	淬煉[3]
+TalentSkillData_Desc_1422	基礎攻擊力提高10%。
+TalentSkillData_Name_1430	灼熱劍鋒[1]
+TalentSkillData_Desc_1430	施放逆焰之刃的2秒後，下一次逆焰之刃的傷害提高40%，最多持續2秒。
+TalentSkillData_Name_1431	灼熱劍鋒[2]
+TalentSkillData_Desc_1431	施放逆焰之刃的2秒後，下一次逆焰之刃的傷害提高70%，最多持續2秒。
+TalentSkillData_Name_1432	灼熱劍鋒[3]
+TalentSkillData_Desc_1432	施放逆焰之刃的2秒後，下一次逆焰之刃的傷害提高100%，最多持續2秒。
+TalentSkillData_Name_1440	炙熱餘燼[1]
+TalentSkillData_Desc_1440	受到火屬性傷害時，提高8%的基礎攻擊力和2%的普通攻擊速度，持續10秒。這個效果至多可疊加2層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1441	炙熱餘燼[2]
+TalentSkillData_Desc_1441	受到火屬性傷害時，提高10%的基礎攻擊力和3%的普通攻擊速度，持續10秒。這個效果至多可疊加2層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1442	炙熱餘燼[3]
+TalentSkillData_Desc_1442	受到火屬性傷害時，提高12%的基礎攻擊力和3%的普通攻擊速度，持續10秒。這個效果至多可疊加3層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1443	炙熱餘燼[4]
+TalentSkillData_Desc_1443	受到火屬性傷害時，提高15%的基礎攻擊力和4%的普通攻擊速度，持續10秒。這個效果至多可疊加3層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1450	鋼鐵與熾焰[1]
+TalentSkillData_Desc_1450	逆焰之刃時會獲得2層破曉之焰效果，持續10秒。普通攻擊會消耗1層該效果，使本次攻擊造成的傷害提高15%。這個效果至多可疊加4層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1451	鋼鐵與熾焰[2]
+TalentSkillData_Desc_1451	逆焰之刃時會獲得2層破曉之焰效果，持續10秒。普通攻擊會消耗1層該效果，使本次攻擊造成的傷害提高30%。這個效果至多可疊加4層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1452	鋼鐵與熾焰[3]
+TalentSkillData_Desc_1452	逆焰之刃時會獲得2層破曉之焰效果，持續10秒。普通攻擊會消耗1層該效果，使本次攻擊造成的傷害提高45%。這個效果至多可疊加4層，疊加時刷新剩餘時間。
+TalentSkillData_Name_1460	清算黑暗的炎之劍[1]
+TalentSkillData_Desc_1460	施放黎明後的10秒內，獲得12%火元素傷害加成，並將普通攻擊和重擊轉為火屬性。
+TalentSkillData_Name_1461	清算黑暗的炎之劍[2]
+TalentSkillData_Desc_1461	施放黎明後的10秒內，獲得22%火元素傷害加成，並將普通攻擊和重擊轉為火屬性。
+TalentSkillData_Name_1462	清算黑暗的炎之劍[3]
+TalentSkillData_Desc_1462	施放黎明後的10秒內，獲得32%火元素傷害加成，並將普通攻擊和重擊轉為火屬性。
+TalentSkillData_Name_1470	昭告黎明的火之鳥[1]
+TalentSkillData_Desc_1470	黎明的火之鳥造成的傷害提高11%。
+TalentSkillData_Name_1471	昭告黎明的火之鳥[2]
+TalentSkillData_Desc_1471	黎明的火之鳥造成的傷害提高22%。
+TalentSkillData_Name_1472	昭告黎明的火之鳥[3]
+TalentSkillData_Desc_1472	黎明的火之鳥造成的傷害提高33%。
+AvatarData_Desc_10000016	蒙德城坐擁晨曦酒莊的貴公子，前騎士團成員。戰鬥方式和火一樣爆烈。
+AvatarData_Name_10000020	雷澤
+AvatarSkillData_Name_10201	雷澤普通攻擊
+AvatarSkillData_Desc_10201	
+AvatarSkillData_Name_10202	利爪與蒼雷
+AvatarSkillData_Desc_10202	雷擊落下的一瞬，偶爾能瞥見雷澤靈魂深處那頭狼打量獵物的眼神。\n點按：向前揮動雷狼之爪，對前方的敵人造成雷屬性傷害。若擊中了至少一個敵人，則會為雷澤累積一個雷之印，提高雷澤的元素充能效率。雷之印最多同時存在3個，獲取新的雷之印會刷新所有雷之印的持續時間。\n長按：積聚雷電力量引發雷爆，對周圍敵人造成一次雷屬性傷害，並清除雷之印。每個被清除的雷之印，都會轉為雷澤的元素能量。\n\n點按：\n技能傷害：410%攻擊力\n影響範圍：2.4公尺扇形\n元素充能效率提升：25%\n冷卻時間：6秒\n元素類型：雷\n\n長按：\n技能傷害：640%攻擊力\n影響範圍：5公尺\n元素能量恢復：每個雷之印5點\n冷卻時間：10秒\n元素類型：雷
+AvatarSkillData_Name_10203	雷牙
+AvatarSkillData_Desc_10203	狼甦醒了。狩獵的時候到了。\n喚醒無形的雷狼，對周圍的敵人造成雷屬性傷害。\n雷狼存在期間會與雷澤共同戰鬥，提升利爪與蒼雷的傷害；雷澤進行普通攻擊時，雷狼也會同時攻擊，造成額外的雷屬性傷害；\n雷狼存在期間，雷澤的雷元素抗性、普通攻擊速度提升，免於感電效果傷害，但不能施放重擊。\n雷狼將在雷澤死亡或退場時消失。若雷澤退場時，雷狼持續時間尚未結束，則依據剩餘時間，歸還雷澤至多10點元素能量。\n\n雷狼降臨傷害：30%攻擊力\n雷狼普通攻擊傷害：51%/44%/55%/72%攻擊力\n攻擊速度提升：40%\n雷元素抗性提升：80%\n持續時間：15秒\n冷卻時間：25秒\n元素能量：60\n元素屬性：雷
+TalentSkillData_Name_2011	狼瞳[1]
+TalentSkillData_Desc_2011	隊伍中所有角色獲得5%的雷元素傷害加成和6%的雷元素抗性提升。
+TalentSkillData_Name_2012	狼瞳[2]
+TalentSkillData_Desc_2012	隊伍中所有角色獲得10%的雷元素傷害加成和9%的雷元素抗性提升。
+TalentSkillData_Name_2013	狼瞳[3]
+TalentSkillData_Desc_2013	隊伍中所有角色獲得15%的雷元素傷害加成和12%的雷元素抗性提升。
+TalentSkillData_Name_2014	狼瞳[4]
+TalentSkillData_Desc_2014	隊伍中所有角色獲得20%的雷元素傷害加成和15%的雷元素抗性提升。
+TalentSkillData_Name_2021	狂奔[1]
+TalentSkillData_Desc_2021	衝刺與游泳時，體力消耗降低9%。
+TalentSkillData_Name_2022	狂奔[2]
+TalentSkillData_Desc_2022	衝刺與游泳時，體力消耗降低18%。
+TalentSkillData_Name_2023	狂奔[3]
+TalentSkillData_Desc_2023	衝刺與游泳時，體力消耗降低33%。
+TalentSkillData_Name_2031	覺醒[1]
+TalentSkillData_Desc_2031	施放雷牙時，重置利爪與蒼雷的冷卻時間。
+TalentSkillData_Name_2032	覺醒[2]
+TalentSkillData_Desc_2032	施放雷牙時，重置利爪與蒼雷的冷卻時間。此外，在雷牙的持續時間內，利爪與蒼雷的冷卻時間減少9%。
+TalentSkillData_Name_2033	覺醒[3]
+TalentSkillData_Desc_2033	施放雷牙時，重置利爪與蒼雷的冷卻時間。此外，在雷牙的持續時間內，利爪與蒼雷的冷卻時間減少18%。
+TalentSkillData_Name_2041	雷與鐵[1]
+TalentSkillData_Desc_2041	每15秒，雷澤的大劍將自動充能，使下一次普通攻擊引發落雷，造成60%攻擊力的雷屬性傷害。
+TalentSkillData_Name_2042	雷與鐵[2]
+TalentSkillData_Desc_2042	每12秒，雷澤的大劍將自動充能，使下一次普通攻擊引發落雷，造成80%攻擊力的雷屬性傷害。
+TalentSkillData_Name_2043	雷與鐵[3]
+TalentSkillData_Desc_2043	每10秒，雷澤的大劍將自動充能，使下一次普通攻擊引發落雷，造成100%攻擊力的雷屬性傷害。
+TalentSkillData_Name_2051	饑餓[1]
+TalentSkillData_Desc_2051	雷澤的元素能量在50%以下時，元素充能效率提高50%。
+TalentSkillData_Name_2052	饑餓[2]
+TalentSkillData_Desc_2052	雷澤的元素能量在50%以下時，元素充能效率提高100%。
+TalentSkillData_Name_2053	饑餓[3]
+TalentSkillData_Desc_2053	雷澤的元素能量在50%以下時，元素充能效率提高150%。
+TalentSkillData_Name_2061	狼性[1]
+TalentSkillData_Desc_2061	雷澤獲取元素晶球或元素微粒後的8秒內，造成的傷害提高15%。連續觸發刷新持續時間。
+TalentSkillData_Name_2062	狼性[2]
+TalentSkillData_Desc_2062	雷澤獲取元素晶球或元素微粒後的10秒內，造成的傷害提高20%。連續觸發刷新持續時間。
+TalentSkillData_Name_2063	狼性[3]
+TalentSkillData_Desc_2063	雷澤獲取元素晶球或元素微粒後的12秒內，造成的傷害提高25%。連續觸發刷新持續時間。
+TalentSkillData_Name_2071	撕咬[1]
+TalentSkillData_Desc_2071	利爪與蒼雷點按時，會使命中的敵人防禦力降低10%，持續7秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2072	撕咬[2]
+TalentSkillData_Desc_2072	利爪與蒼雷點按時，會使命中的敵人防禦力降低20%，持續7秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2073	撕咬[3]
+TalentSkillData_Desc_2073	利爪與蒼雷點按時，會使命中的敵人防禦力降低30%，持續7秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2081	解禁[1]
+TalentSkillData_Desc_2081	利爪與蒼雷造成的傷害提高10%。
+TalentSkillData_Name_2082	解禁[2]
+TalentSkillData_Desc_2082	利爪與蒼雷造成的傷害提高20%。
+TalentSkillData_Name_2083	解禁[3]
+TalentSkillData_Desc_2083	利爪與蒼雷造成的傷害提高33%。
+AvatarData_Desc_10000020	住在蒙德地區的奔狼領、與狼一同生活的少年。迅捷如雷。
+AvatarData_Name_10000021	安柏
+AvatarSkillData_Name_10017	箭雨
+AvatarSkillData_Desc_10017	滿心熱誠的安柏真的很熱。\n向身前射出火焰箭雨，在持續時間內持續造成火元素傷害。\n\n技能傷害：總計965%攻擊力\n影響範圍：2公尺\n持續時間：2秒\n冷卻時間：15秒\n元素能量：30\n元素類型：火
+AvatarSkillData_Name_10032	爆彈玩偶
+AvatarSkillData_Desc_10032	兔兔伯爵有著悠久的家系。但從兔兔八百九十三世開始，安柏就停止計數了。\n扔出兔兔伯爵布偶。兔兔伯爵會在存在期間持續嘲諷周圍的敵人，吸引攻擊。\n兔兔伯爵將按比例繼承安柏的生命值上限。被摧毀或持續時間結束時會爆炸，對周圍的敵人造成火元素傷害。\n長按以調整方向，並增加投擲距離。\n\n最大投擲距離：10公尺\n持續時間：8秒\n技能傷害：375%攻擊力\n爆炸範圍：3公尺\n生命值繼承比例：100%\n冷卻時間：16秒\n元素類型：火
+AvatarSkillData_Name_10041	
+AvatarSkillData_Desc_10041	
+TalentSkillData_Name_1000	加油！偵查騎士[1]
+TalentSkillData_Desc_1000	隊伍中所有角色獲得5%的火元素傷害加成和6%的火元素抗性提升。
+TalentSkillData_Name_1001	加油！偵查騎士[2]
+TalentSkillData_Desc_1001	隊伍中所有角色獲得10%的火元素傷害加成和9%的火元素抗性提升。
+TalentSkillData_Name_1002	加油！偵查騎士[3]
+TalentSkillData_Desc_1002	隊伍中所有角色獲得15%的火元素傷害加成和12%的火元素抗性提升。
+TalentSkillData_Name_1003	加油！偵查騎士[4]
+TalentSkillData_Desc_1003	隊伍中所有角色獲得20%的火元素傷害加成和15%的火元素抗性提升。
+TalentSkillData_Name_1004	飛行冠軍[1]
+TalentSkillData_Desc_1004	滑翔消耗的體力降低9%。
+TalentSkillData_Name_1005	飛行冠軍[2]
+TalentSkillData_Desc_1005	滑翔消耗的體力降低18%。
+TalentSkillData_Name_1006	飛行冠軍[3]
+TalentSkillData_Desc_1006	滑翔消耗的體力降低33%。
+TalentSkillData_Name_1007	神射手[1]
+TalentSkillData_Desc_1007	普通攻擊與瞄準射擊造成的傷害提高4%。
+TalentSkillData_Name_1008	神射手[2]
+TalentSkillData_Desc_1008	普通攻擊與瞄準射擊造成的傷害提高7%。
+TalentSkillData_Name_1009	神射手[3]
+TalentSkillData_Desc_1009	普通攻擊與瞄準射擊造成的傷害提高10%。
+TalentSkillData_Name_1016	才不是普通的布偶[1]
+TalentSkillData_Desc_1016	爆彈玩偶的布偶生命值上限提高40%，造成傷害提高10%。
+TalentSkillData_Name_1017	才不是普通的布偶[2]
+TalentSkillData_Desc_1017	爆彈玩偶的布偶生命值上限提高70%，造成傷害提高20%。
+TalentSkillData_Name_1018	才不是普通的布偶[3]
+TalentSkillData_Desc_1018	爆彈玩偶的布偶生命值上限提高100%，造成傷害提高30%。
+TalentSkillData_Name_1012	燒起來啦！[1]
+TalentSkillData_Desc_1012	箭雨的暴擊率提高4%，造成傷害提高6%。
+TalentSkillData_Name_1013	燒起來啦！[2]
+TalentSkillData_Desc_1013	箭雨的暴擊率提高6%，造成傷害提高12%。
+TalentSkillData_Name_1014	燒起來啦！[3]
+TalentSkillData_Desc_1014	箭雨的暴擊率提高8%，造成傷害提高18%。
+TalentSkillData_Name_1015	燒起來啦！[4]
+TalentSkillData_Desc_1015	箭雨的暴擊率提高10%，造成傷害提高24%。
+TalentSkillData_Name_1010	是兔兔伯爵[1]
+TalentSkillData_Desc_1010	爆彈玩偶的冷卻時間減少20%。
+TalentSkillData_Name_1011	是兔兔伯爵[2]
+TalentSkillData_Desc_1011	爆彈玩偶的冷卻時間減少25%，且擁有2次可使用次數。
+TalentSkillData_Name_1019	一箭雙丘丘！[1]
+TalentSkillData_Desc_1019	瞄準射擊時，會連續射出2支箭。第二支箭造成原本20%的傷害。
+TalentSkillData_Name_1020	一箭雙丘丘！[2]
+TalentSkillData_Desc_1020	瞄準射擊時，會連續射出2支箭。第二支箭造成原本30%的傷害。
+TalentSkillData_Name_1021	一箭雙丘丘！[3]
+TalentSkillData_Desc_1021	瞄準射擊時，會連續射出2支箭。第二支箭造成原本40%的傷害。
+TalentSkillData_Name_1022	疾如野火[1]
+TalentSkillData_Desc_1022	使用箭雨會提升10%移動速度與15%基礎攻擊力，持續10秒。
+TalentSkillData_Name_1023	疾如野火[2]
+TalentSkillData_Desc_1023	使用箭雨會提升20%移動速度與30%基礎攻擊力，持續10秒。
+TalentSkillData_Name_1024	疾如野火[3]
+TalentSkillData_Desc_1024	使用箭雨會提升30%移動速度與45%基礎攻擊力，持續10秒。
+AvatarData_Desc_10000021	蒙德城西風騎士團的唯一偵查騎士。紅色的身影很顯眼，真的能好好完成潛伏偵查工作嗎？
+AvatarData_Name_10000022	溫蒂
+AvatarSkillData_Name_10221	溫蒂點射
+AvatarSkillData_Desc_10221	
+AvatarSkillData_Name_10224	高天之歌
+AvatarSkillData_Desc_10224	在人與神還同行於大地的時代，無數的歌曲傳遍四方的天空。這是早已被遺忘的曲調。\n點按：在目標位置處喚出能瞬間擊飛其中所有敵人的風域，造成風屬性傷害並使其漂浮。\n長按：以自身為中心喚出風域，乘風飛到空中，並將身邊所有敵人擊飛，造成風屬性傷害並使其漂浮。\n\n點按：\n技能傷害：385%攻擊力\n影響範圍：3公尺\n漂浮狀態持續時間：3秒\n冷卻時間：5秒\n元素類型：風\n\n長按：\n技能傷害：445%攻擊力\n影響範圍：6公尺\n漂浮狀態持續時間：3秒\n冷卻時間：12秒\n元素類型：風
+AvatarSkillData_Name_10225	風神之詩
+AvatarSkillData_Desc_10225	稱頌風之神的詩篇有許多已經佚失。其中這一首描述的是他與風的力量。\n射出千風匯聚而成的箭矢，在前方造出巨大的暴風。暴風會持續捲入周圍敵人，並對其造成風屬性傷害，附加受困狀態。\n若暴風接觸到水/火/冰/雷元素，則獲得對應屬性，造成對應屬性的附加傷害。這種轉化僅發生一次。\n\n技能傷害：每0.4秒47.6%攻擊力\n持續時間：8秒\n影響範圍：6公尺\n冷卻時間：25秒\n元素能量：60\n元素類型：風
+TalentSkillData_Name_2211	千風的傳頌[1]
+TalentSkillData_Desc_2211	隊伍中所有風屬性角色造成的傷害提高10%。
+TalentSkillData_Name_2212	千風的傳頌[2]
+TalentSkillData_Desc_2212	隊伍中所有風屬性角色造成的傷害提高20%。
+TalentSkillData_Name_2221	與風同行[1]
+TalentSkillData_Desc_2221	滑翔時消耗的體力降低8%。
+TalentSkillData_Name_2222	與風同行[2]
+TalentSkillData_Desc_2222	滑翔時消耗的體力降低16%。
+TalentSkillData_Name_2223	與風同行[3]
+TalentSkillData_Desc_2223	滑翔時消耗的體力降低24%。
+TalentSkillData_Name_2224	與風同行[4]
+TalentSkillData_Desc_2224	滑翔時消耗的體力降低33%。
+TalentSkillData_Name_2231	神代射術[1]
+TalentSkillData_Desc_2231	瞄準射擊造成的傷害提高5%。
+TalentSkillData_Name_2232	神代射術[2]
+TalentSkillData_Desc_2232	瞄準射擊造成的傷害提高10%。
+TalentSkillData_Name_2233	神代射術[3]
+TalentSkillData_Desc_2233	瞄準射擊造成的傷害提高15%。
+TalentSkillData_Name_2234	神代射術[4]
+TalentSkillData_Desc_2234	瞄準射擊造成的傷害提高20%。
+TalentSkillData_Name_2241	弦發蒼風[1]
+TalentSkillData_Desc_2241	瞄準射擊會發射兩枚分裂箭，分別造成原本10%的傷害。
+TalentSkillData_Name_2242	弦發蒼風[2]
+TalentSkillData_Desc_2242	瞄準射擊會發射兩枚分裂箭，分別造成原本20%的傷害。
+TalentSkillData_Name_2243	弦發蒼風[3]
+TalentSkillData_Desc_2243	瞄準射擊會發射兩枚分裂箭，分別造成原本30%的傷害。
+TalentSkillData_Name_2251	高天的重奏[1]
+TalentSkillData_Desc_2251	高天之歌造成的傷害提高11%。
+TalentSkillData_Name_2252	高天的重奏[2]
+TalentSkillData_Desc_2252	高天之歌造成的傷害提高22%。
+TalentSkillData_Name_2253	高天的重奏[3]
+TalentSkillData_Desc_2253	高天之歌造成的傷害提高33%。
+TalentSkillData_Name_2261	眷戀的泠風[1]
+TalentSkillData_Desc_2261	風神之詩效果結束後，會產生能回復12點能量的風屬性元素微粒；若發生了屬性轉換，則會額外產生等量的對應屬性元素微粒。
+TalentSkillData_Name_2262	眷戀的泠風[2]
+TalentSkillData_Desc_2262	風神之詩效果結束後，會產生能回復15點能量的風屬性元素微粒；若發生了屬性轉換，則會額外產生等量的對應屬性元素微粒。
+TalentSkillData_Name_2263	眷戀的泠風[3]
+TalentSkillData_Desc_2263	風神之詩效果結束後，會產生能回復21點能量的風屬性元素微粒；若發生了屬性轉換，則會額外產生等量的對應屬性元素微粒。
+TalentSkillData_Name_2271	自由的凜風[1]
+TalentSkillData_Desc_2271	獲取元素晶球或元素微粒後，獲得9%的風元素傷害加成，持續8秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2272	自由的凜風[2]
+TalentSkillData_Desc_2272	獲取元素晶球或元素微粒後，獲得17%的風元素傷害加成，持續8秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2273	自由的凜風[3]
+TalentSkillData_Desc_2273	獲取元素晶球或元素微粒後，獲得25%的風元素傷害加成，持續8秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2281	抗爭的暴風[1]
+TalentSkillData_Desc_2281	風神之詩影響下的敵人受到傷害的暴擊率提高8%。
+TalentSkillData_Name_2282	抗爭的暴風[2]
+TalentSkillData_Desc_2282	風神之詩影響下的敵人受到傷害的暴擊率提高16%。
+TalentSkillData_Name_2283	抗爭的暴風[3]
+TalentSkillData_Desc_2283	風神之詩影響下的敵人受到傷害的暴擊率提高24%。
+AvatarData_Desc_10000022	最近來到蒙德城的神秘遊吟詩人。他輕撫琴弦，奏出想要訴說的詩篇。
+AvatarData_Name_10000023	香菱
+AvatarSkillData_Name_10231	香菱普攻
+AvatarSkillData_Desc_10231	
+AvatarSkillData_Name_10232	鍋巴出擊
+AvatarSkillData_Desc_10232	鍋巴喜歡吃火辣的食物。但鍋巴承受不了如此火辣的食物。\n喚出熊貓鍋巴。鍋巴每1.6秒對前方扇形中的敵人噴火，造成火屬性傷害。\n\n技能傷害：110%攻擊力\n影響範圍：5公尺扇形\n持續時間：7秒\n冷卻時間：6秒\n元素類型：火
+AvatarSkillData_Name_10235	旋火輪
+AvatarSkillData_Desc_10235	火力永遠不夠。遠遠不夠。\n以控制火候與槍術的精湛技巧，甩出圍繞自己快速旋轉的旋火輪。旋火輪會跟隨角色運動，並對其路徑上的敵人造成火屬性傷害。\n\n揮舞傷害：60%/60%/100%攻擊力\n技能傷害：300%攻擊力\n影響範圍：4公尺\n持續時間：5.4秒\n冷卻時間：25秒\n元素能量：60\n元素類型：火
+TalentSkillData_Name_2311	爐火純青[1]
+TalentSkillData_Desc_2311	隊伍中所有角色的生命值上限提高6%，火元素抗性提升6%。
+TalentSkillData_Name_2312	爐火純青[2]
+TalentSkillData_Desc_2312	隊伍中所有角色的生命值上限提高9%，火元素抗性提升9%。
+TalentSkillData_Name_2313	爐火純青[3]
+TalentSkillData_Desc_2313	隊伍中所有角色的生命值上限提高12%，火元素抗性提升12%。
+TalentSkillData_Name_2314	爐火純青[4]
+TalentSkillData_Desc_2314	隊伍中所有角色的生命值上限提高15%，火元素抗性提升15%。
+TalentSkillData_Name_2321	跑堂基本功[1]
+TalentSkillData_Desc_2321	跑步與走路速度提高3%。
+TalentSkillData_Name_2322	跑堂基本功[2]
+TalentSkillData_Desc_2322	跑步與走路速度提高6%。
+TalentSkillData_Name_2323	跑堂基本功[3]
+TalentSkillData_Desc_2323	跑步與走路速度提高9%。
+TalentSkillData_Name_2331	鍋巴兇猛[1]
+TalentSkillData_Desc_2331	鍋巴出擊的噴火距離提高10%。
+TalentSkillData_Name_2332	鍋巴兇猛[2]
+TalentSkillData_Desc_2332	鍋巴出擊的噴火距離提高20%。
+TalentSkillData_Name_2333	鍋巴兇猛[3]
+TalentSkillData_Desc_2333	鍋巴出擊的噴火距離提高30%。
+TalentSkillData_Name_2341	大火寬油[1]
+TalentSkillData_Desc_2341	普通攻擊的最後一擊會對敵人施加持續2秒的內爆效果。效果結束時，對2公尺範圍內的所有敵人造成20%火屬性傷害。
+TalentSkillData_Name_2342	大火寬油[2]
+TalentSkillData_Desc_2342	普通攻擊的最後一擊會對敵人施加持續2秒的內爆效果。效果結束時，對2公尺範圍內的所有敵人造成40%火屬性傷害。
+TalentSkillData_Name_2343	大火寬油[3]
+TalentSkillData_Desc_2343	普通攻擊的最後一擊會對敵人施加持續2秒的內爆效果。效果結束時，對2公尺範圍內的所有敵人造成60%火屬性傷害。
+TalentSkillData_Name_2351	白案功夫[1]
+TalentSkillData_Desc_2351	旋火輪持續期間，當前角色獲得10%的火元素傷害加成。
+TalentSkillData_Name_2352	白案功夫[2]
+TalentSkillData_Desc_2352	旋火輪持續期間，當前角色獲得20%的火元素傷害加成。
+TalentSkillData_Name_2353	白案功夫[3]
+TalentSkillData_Desc_2353	旋火輪持續期間，當前角色獲得30%的火元素傷害加成。
+TalentSkillData_Name_2361	外酥裡嫩[1]
+TalentSkillData_Desc_2361	鍋巴出擊的攻擊擊中的敵人火元素抗性降低20%，持續6秒。
+TalentSkillData_Name_2362	外酥裡嫩[2]
+TalentSkillData_Desc_2362	鍋巴出擊的攻擊擊中的敵人火元素抗性降低30%，持續6秒。
+TalentSkillData_Name_2363	外酥裡嫩[3]
+TalentSkillData_Desc_2363	鍋巴出擊的攻擊擊中的敵人火元素抗性降低40%，持續6秒。
+TalentSkillData_Name_2371	絕雲朝天椒[1]
+TalentSkillData_Desc_2371	鍋巴出擊效果結束時，鍋巴會在消失的位置留下辣椒。拾取辣椒會提高8%攻擊力，持續10秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2372	絕雲朝天椒[2]
+TalentSkillData_Desc_2372	鍋巴出擊效果結束時，鍋巴會在消失的位置留下辣椒。拾取辣椒會提高12%攻擊力，持續10秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2373	絕雲朝天椒[3]
+TalentSkillData_Desc_2373	鍋巴出擊效果結束時，鍋巴會在消失的位置留下辣椒。拾取辣椒會提高20%攻擊力，持續10秒。連續觸發刷新持續時間。
+TalentSkillData_Name_2381	大龍捲旋火輪[1]
+TalentSkillData_Desc_2381	旋火輪造成的傷害提高10%，持續時間延長10%。
+TalentSkillData_Name_2382	大龍捲旋火輪[2]
+TalentSkillData_Desc_2382	旋火輪造成的傷害提高15%，持續時間延長15%。
+TalentSkillData_Name_2383	大龍捲旋火輪[3]
+TalentSkillData_Desc_2383	旋火輪造成的傷害提高20%，持續時間延長20%。
+AvatarData_Desc_10000023	在璃月港小有名氣的見習廚師。竟然把控制火候的技巧直接運用到槍術之中。
+AvatarData_Name_10000024	北斗
+AvatarSkillData_Name_10241	北斗普攻
+AvatarSkillData_Desc_10241	
+AvatarSkillData_Name_10242	北斗小技能
+AvatarSkillData_Desc_10242	
+AvatarSkillData_Name_10245	北斗充能技
+AvatarSkillData_Desc_10245	
+AvatarData_Desc_10000024	
+AvatarData_Name_10000025	
+AvatarSkillData_Name_10381	
+AvatarSkillData_Desc_10381	
+AvatarSkillData_Name_10382	
+AvatarSkillData_Desc_10382	
+AvatarSkillData_Name_10383	
+AvatarSkillData_Desc_10383	
+AvatarData_Desc_10000025	
+AvatarData_Name_10000001	凱特
+AvatarSkillData_Name_10011	五連擊
+AvatarSkillData_Desc_10011	
+AvatarSkillData_Name_10012	凱特測試技能
+AvatarSkillData_Desc_10012	
+AvatarSkillData_Name_10014	凱特-穿透電流
+AvatarSkillData_Desc_10014	
+AvatarData_Desc_10000001	
+AvatarData_Name_11000008	隊伍測試4號
+AvatarData_Desc_11000008	
+AvatarData_Name_11000009	場景測試
+AvatarData_Desc_11000009	
+AvatarData_Name_11000010	裸模1號
+AvatarData_Desc_11000010	
+AvatarData_Name_11000011	裸男
+AvatarData_Desc_11000011	
+AvatarData_Name_11000013	連線測試
+AvatarData_Desc_11000013	
+AvatarData_Name_11000017	成男體型測試
+AvatarData_Desc_11000017	
+AvatarData_Name_11000018	成女體型測試
+AvatarData_Desc_11000018	
+AvatarData_Name_11000019	少女體型測試
+AvatarData_Desc_11000019	
+AvatarData_Name_11000025	阿葵麗雅
+AvatarSkillData_Name_10251	阿葵麗雅點射
+AvatarSkillData_Desc_10251	
+AvatarSkillData_Name_10255	霜寒病毒
+AvatarSkillData_Desc_10255	
+AvatarSkillData_Name_10362	重雲小技能白盒測試
+AvatarSkillData_Desc_10362	
+AvatarData_Desc_11000025	
+AvatarData_Name_11000026	瑤瑤
+AvatarData_Desc_11000026	
+AvatarData_Name_11000027	少女體型測試-二號機
+AvatarData_Desc_11000027	
+AvatarData_Name_11000028	白盒少女
+AvatarSkillData_Name_10281	白盒普攻
+AvatarSkillData_Desc_10281	長槍五連擊
+AvatarSkillData_Name_10282	白盒小技能
+AvatarSkillData_Desc_10282	長槍五連擊
+AvatarSkillData_Name_10283	穿刺攻
+AvatarSkillData_Desc_10283	
+AvatarData_Desc_11000028	
+AvatarData_Name_11000029	可莉
+AvatarSkillData_Name_10292	可莉測試小技能
+AvatarSkillData_Desc_10292	
+AvatarSkillData_Name_10295	可莉測試充能技
+AvatarSkillData_Desc_10295	
+AvatarData_Desc_11000029	
+AvatarData_Name_11000030	大劍少女
+AvatarData_Desc_11000030	
+AvatarData_Name_11000031	後武器測試A
+AvatarData_Desc_11000031	
+AvatarData_Name_11000032	後武器測試B
+AvatarData_Desc_11000032	
+AvatarData_Name_11000033	後武器測試C
+AvatarData_Desc_11000033	
+AvatarData_Name_11000034	後武器測試D
+AvatarData_Desc_11000034	
+AvatarData_Name_10000035	長槍成女
+AvatarData_Desc_10000035	
+AvatarData_Name_10000036	單手劍成女測試
+AvatarData_Desc_10000036	
+AvatarData_Name_11000037	行秋白盒
+AvatarSkillData_Name_10371	行秋普攻
+AvatarSkillData_Desc_10371	
+AvatarSkillData_Name_10372	行秋小技能
+AvatarSkillData_Desc_10372	
+AvatarSkillData_Name_10373	行秋充能技
+AvatarSkillData_Desc_10373	
+AvatarData_Desc_11000037	
+AvatarData_Name_11000038	少男體型測試
+AvatarData_Desc_11000038	
+AvatarSkillData_Name_10001	單手劍重攻擊
+AvatarSkillData_Desc_10001	用於觸發消耗體力
+AvatarSkillData_Name_10002	長槍重攻擊
+AvatarSkillData_Desc_10002	用於觸發消耗體力
+AvatarSkillData_Name_10003	法器重擊
+AvatarSkillData_Desc_10003	用於觸發消耗體力
+AvatarSkillData_Name_10006	蓄力技能教學觸發器
+AvatarSkillData_Desc_10006	用於觸發基礎教學裡小技能長按的效果
+AvatarSkillData_Name_10101	武器技能CD
+AvatarSkillData_Desc_10101	用於記錄武器機制進入冷卻，保證冷卻完成之前，換上來的武器機制不會再觸發。
+AvatarSkillData_Name_10102	隊伍天賦共CD
+AvatarSkillData_Desc_10102	用於處理隊伍天賦共CD的冷卻
+AvatarSkillData_Name_10111	神裡綾華空中連斬
+AvatarSkillData_Desc_10111	
+AvatarSkillData_Name_10211	安柏空中連射
+AvatarSkillData_Desc_10211	
+AvatarSkillData_Name_10311	琴下劈
+AvatarSkillData_Desc_10311	
+AvatarSkillData_Name_10015	冰風魔
+AvatarSkillData_Desc_10015	
+AvatarSkillData_Name_10016	木錠壁
+AvatarSkillData_Desc_10016	
+AvatarSkillData_Name_10020	水激流冰華
+AvatarSkillData_Desc_10020	
+AvatarSkillData_Name_10021	水激流霜滅
+AvatarSkillData_Desc_10021	
+AvatarSkillData_Name_10022	
+AvatarSkillData_Desc_10022	
+AvatarSkillData_Name_10023	
+AvatarSkillData_Desc_10023	
+AvatarSkillData_Name_10035	潛入誘餌
+AvatarSkillData_Desc_10035	
+AvatarSkillData_Name_10036	琴隊伍機制
+AvatarSkillData_Desc_10036	
+AvatarSkillData_Name_10037	空中投彈
+AvatarSkillData_Desc_10037	
+AvatarSkillData_Name_10042	
+AvatarSkillData_Desc_10042	
+AvatarSkillData_Name_10043	
+AvatarSkillData_Desc_10043	
+AvatarSkillData_Name_10044	安柏隊伍天賦技能
+AvatarSkillData_Desc_10044	
+AvatarSkillData_Name_10051	
+AvatarSkillData_Desc_10051	
+AvatarSkillData_Name_10052	
+AvatarSkillData_Desc_10052	
+AvatarSkillData_Name_10053	水激流-破隱一擊
+AvatarSkillData_Desc_10053	
+AvatarSkillData_Name_10055	主角(火)
+AvatarSkillData_Desc_10055	單手劍五連擊
+AvatarSkillData_Name_10056	主角(水)
+AvatarSkillData_Desc_10056	單手劍五連擊
+AvatarSkillData_Name_10057	主角(風)
+AvatarSkillData_Desc_10057	單手劍五連擊
+AvatarSkillData_Name_10058	主角(冰)
+AvatarSkillData_Desc_10058	單手劍五連擊
+AvatarSkillData_Name_10059	主角(岩)
+AvatarSkillData_Desc_10059	單手劍五連擊
+AvatarSkillData_Name_10063	測試角色5-01
+AvatarSkillData_Desc_10063	
+AvatarSkillData_Name_10064	測試角色5-02
+AvatarSkillData_Desc_10064	
+AvatarSkillData_Name_10065	測試角色5-03
+AvatarSkillData_Desc_10065	
+AvatarSkillData_Name_10066	kevin震擊
+AvatarSkillData_Desc_10066	
+AvatarSkillData_Name_10069	kate測試普通攻擊
+AvatarSkillData_Desc_10069	
+AvatarSkillData_Name_10076	Barbara天賦技能
+AvatarSkillData_Desc_10076	
+AvatarSkillData_Name_10079	Barbara天賦技能
+AvatarSkillData_Desc_10079	
+AvatarSkillData_Name_10080	Barbara天賦技能
+AvatarSkillData_Desc_10080	
+AvatarSkillData_Name_10081	Kaeya天賦技能
+AvatarSkillData_Desc_10081	
+AvatarSkillData_Name_10082	Barbara隊伍天賦技能
+AvatarSkillData_Desc_10082	
+AvatarSkillData_Name_10083	Lisa隊伍天賦技能
+AvatarSkillData_Desc_10083	
+AvatarSkillData_Name_10162	逆焰之刃
+AvatarSkillData_Desc_10162	分別象徵迪盧克所秉持的正義、勇氣與責任。\n揮舞大劍，向前方進行火屬性劈砍。這個技能最多可以連續使用3次。4秒之內沒有繼續使用，則會進入冷卻。\n\n技能傷害：200%/200%/250%攻擊力 冷卻時間：10秒\n元素類型：火
+AvatarSkillData_Name_10163	逆焰之刃
+AvatarSkillData_Desc_10163	分別象徵迪盧克所秉持的正義、勇氣與責任。\n揮舞大劍，向前方進行火屬性劈砍。這個技能最多可以連續使用3次。4秒之內沒有繼續使用，則會進入冷卻。\n\n技能傷害：200%/200%/250%攻擊力 冷卻時間：10秒\n元素類型：火
+AvatarSkillData_Name_10166	Diluc隊伍機制
+AvatarSkillData_Desc_10166	
+AvatarSkillData_Name_10204	雷澤小技能（狼神）
+AvatarSkillData_Desc_10204	
+AvatarSkillData_Name_10222	溫蒂長按瞄準
+AvatarSkillData_Desc_10222	
+AvatarSkillData_Name_10223	溫蒂瞄準模式
+AvatarSkillData_Desc_10223	
+AvatarSkillData_Name_20000	進入瞄準模式
+AvatarSkillData_Desc_20000	
+AvatarSkillData_Name_10252	阿葵麗雅長按瞄準
+AvatarSkillData_Desc_10252	
+AvatarSkillData_Name_10253	阿葵麗雅瞄準模式
+AvatarSkillData_Desc_10253	
+AvatarSkillData_Name_10254	冰爆弓
+AvatarSkillData_Desc_10254	
+AvatarSkillData_Name_10291	可莉測試小技能
+AvatarSkillData_Desc_10291	
+AvatarSkillData_Name_10300	白盒技能連續爆彈
+AvatarSkillData_Desc_10300	
+AvatarSkillData_Name_10256	風魔遁-地面
+AvatarSkillData_Desc_10256	
+AvatarSkillData_Name_10257	風魔遁-空遁
+AvatarSkillData_Desc_10257	
+AvatarSkillData_Name_10258	冰爆弓
+AvatarSkillData_Desc_10258	
+AvatarSkillData_Name_10259	霜寒病毒
+AvatarSkillData_Desc_10259	
+AvatarSkillData_Name_20001	風魔炮
+AvatarSkillData_Desc_20001	
+AvatarSkillData_Name_20002	風魔炮
+AvatarSkillData_Desc_20002	
+TalentSkillData_Name_2411	雷獸守護[1]
+TalentSkillData_Desc_2411	生命提升6%，雷元素抗性提升5%
+TalentSkillData_Name_2412	雷獸守護[2]
+TalentSkillData_Desc_2412	生命提升12%，雷元素抗性提升10%
+TalentSkillData_Name_2413	雷獸守護[3]
+TalentSkillData_Desc_2413	生命提升18%，雷元素抗性提升15%
+TalentSkillData_Name_2414	雷獸守護[4]
+TalentSkillData_Desc_2414	生命提升24%，雷元素抗性提升20%
+TalentSkillData_Name_2421	浪裡白條[1]
+TalentSkillData_Desc_2421	消耗體力減少10%
+TalentSkillData_Name_2422	浪裡白條[2]
+TalentSkillData_Desc_2422	消耗體力減少20%
+TalentSkillData_Name_2423	浪裡白條[3]
+TalentSkillData_Desc_2423	消耗體力減少30%
+TalentSkillData_Name_2431	雷馳電掣[1]
+TalentSkillData_Desc_2431	傷害+8%，
+TalentSkillData_Name_2432	雷馳電掣[2]
+TalentSkillData_Desc_2432	傷害+15%，
+TalentSkillData_Name_2433	雷馳電掣[3]
+TalentSkillData_Desc_2433	傷害+15%，可釋放次數+1。
+TalentSkillData_Name_2441	海獸守護[1]
+TalentSkillData_Desc_2441	技能開啟時會獲得8%血量的護盾。反彈30%攻擊力的雷屬性傷害。
+TalentSkillData_Name_2442	海獸守護[2]
+TalentSkillData_Desc_2442	技能開啟時會獲得12%血量的護盾，反彈40%攻擊力的雷屬性傷害。
+TalentSkillData_Name_2443	海獸守護[3]
+TalentSkillData_Desc_2443	技能開啟時會獲得16%血量的護盾，反彈50%攻擊力的雷屬性傷害。
+TalentSkillData_Name_2451	水上霸主[1]
+TalentSkillData_Desc_2451	自身攻擊和移動速度提升7%
+TalentSkillData_Name_2452	水上霸主[2]
+TalentSkillData_Desc_2452	自身攻擊和移動速度提升10%
+TalentSkillData_Name_2453	水上霸主[3]
+TalentSkillData_Desc_2453	自身攻擊和移動速度提升15%
+TalentSkillData_Name_2461	雙重降雷[1]
+TalentSkillData_Desc_2461	敵人5秒內再次被小技能雷擊，雷擊傷害為基礎傷害的130%
+TalentSkillData_Name_2462	雙重降雷[2]
+TalentSkillData_Desc_2462	敵人5秒內再次被小技能雷擊，雷擊傷害為基礎傷害的160%
+TalentSkillData_Name_2463	雙重降雷[3]
+TalentSkillData_Desc_2463	敵人5秒內再次被小技能雷擊，雷擊傷害為基礎傷害的200%
+TalentSkillData_Name_2471	璃月英傑[1]
+TalentSkillData_Desc_2471	傷害提升10%
+TalentSkillData_Name_2472	璃月英傑[2]
+TalentSkillData_Desc_2472	傷害提升17%
+TalentSkillData_Name_2473	璃月英傑[3]
+TalentSkillData_Desc_2473	傷害提升25%
+TalentSkillData_Name_2481	雷光閃耀[1]
+TalentSkillData_Desc_2481	敵人雷屬性抗性下降11%，攻擊和移動速度下降30%
+TalentSkillData_Name_2482	雷光閃耀[2]
+TalentSkillData_Desc_2482	敵人雷屬性抗性下降22%，攻擊和移動速度下降30%
+TalentSkillData_Name_2483	雷光閃耀[3]
+TalentSkillData_Desc_2483	敵人雷屬性抗性下降33%，攻擊和移動速度下降30%

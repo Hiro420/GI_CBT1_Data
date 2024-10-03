@@ -1,0 +1,703 @@
+{
+  "10101": {
+    "id": 10101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Teamtutorial1",
+      "UI_Teamtutorial2"
+    ]
+  },
+  "10102": {
+    "id": 10102,
+    "type": 0,
+    "imageNameList": [
+      "UI_Teamtutorial3",
+      "UI_Teamtutorial4"
+    ]
+  },
+  "10201": {
+    "id": 10201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Maintutorial"
+    ]
+  },
+  "10301": {
+    "id": 10301,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial01_01"
+    ]
+  },
+  "10302": {
+    "id": 10302,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial01_02"
+    ]
+  },
+  "10401": {
+    "id": 10401,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial02_01"
+    ]
+  },
+  "10402": {
+    "id": 10402,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial02_02"
+    ]
+  },
+  "10403": {
+    "id": 10403,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial02_03"
+    ]
+  },
+  "10501": {
+    "id": 10501,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial03_01"
+    ]
+  },
+  "10502": {
+    "id": 10502,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial03_02"
+    ]
+  },
+  "10503": {
+    "id": 10503,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial03_03"
+    ]
+  },
+  "10601": {
+    "id": 10601,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial01_01"
+    ]
+  },
+  "10602": {
+    "id": 10602,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial01_02"
+    ]
+  },
+  "10701": {
+    "id": 10701,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial02_01"
+    ]
+  },
+  "10702": {
+    "id": 10702,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial02_02"
+    ]
+  },
+  "10801": {
+    "id": 10801,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial03_01"
+    ]
+  },
+  "10802": {
+    "id": 10802,
+    "type": 0,
+    "imageNameList": [
+      "UI_AmberTutorial01_01"
+    ]
+  },
+  "10901": {
+    "id": 10901,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial1_01"
+    ]
+  },
+  "10902": {
+    "id": 10902,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial1_02"
+    ]
+  },
+  "11001": {
+    "id": 11001,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial2_01"
+    ]
+  },
+  "11002": {
+    "id": 11002,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial2_02"
+    ]
+  },
+  "11101": {
+    "id": 11101,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial3_01"
+    ]
+  },
+  "11102": {
+    "id": 11102,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial3_02"
+    ]
+  },
+  "11201": {
+    "id": 11201,
+    "type": 0,
+    "imageNameList": [
+      "UI_ElementVisual_01"
+    ]
+  },
+  "11202": {
+    "id": 11202,
+    "type": 0,
+    "imageNameList": [
+      "UI_ElementVisual_02"
+    ]
+  },
+  "11301": {
+    "id": 11301,
+    "type": 0,
+    "imageNameList": [
+      "UI_CharLevel01"
+    ]
+  },
+  "11302": {
+    "id": 11302,
+    "type": 0,
+    "imageNameList": [
+      "UI_CharLevel02"
+    ]
+  },
+  "11303": {
+    "id": 11303,
+    "type": 0,
+    "imageNameList": [
+      "UI_CharLevel03"
+    ]
+  },
+  "11304": {
+    "id": 11304,
+    "type": 0,
+    "imageNameList": [
+      "UI_CharLevel04"
+    ]
+  },
+  "11401": {
+    "id": 11401,
+    "type": 0,
+    "imageNameList": [
+      "UI_WeaponUpgrade01"
+    ]
+  },
+  "11402": {
+    "id": 11402,
+    "type": 0,
+    "imageNameList": [
+      "UI_WeaponUpgrade02"
+    ]
+  },
+  "11403": {
+    "id": 11403,
+    "type": 0,
+    "imageNameList": [
+      "UI_WeaponUpgrade03"
+    ]
+  },
+  "11404": {
+    "id": 11404,
+    "type": 0,
+    "imageNameList": [
+      "UI_WeaponUpgrade04"
+    ]
+  },
+  "11405": {
+    "id": 11405,
+    "type": 0,
+    "imageNameList": [
+      "UI_WeaponUpgrade05"
+    ]
+  },
+  "11501": {
+    "id": 11501,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Water_03_Tutorial01"
+    ]
+  },
+  "11601": {
+    "id": 11601,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Water_02_Tutorial01"
+    ]
+  },
+  "11701": {
+    "id": 11701,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Ice_03_Tutorial01"
+    ]
+  },
+  "11801": {
+    "id": 11801,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Ice_02_Tutorial01"
+    ]
+  },
+  "11901": {
+    "id": 11901,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Wind_03_Tutorial01"
+    ]
+  },
+  "12001": {
+    "id": 12001,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Wind_02_Tutorial01"
+    ]
+  },
+  "12101": {
+    "id": 12101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Electric_03_Positive_Tutorial01"
+    ]
+  },
+  "12201": {
+    "id": 12201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Electric_03_Tutorial01"
+    ]
+  },
+  "12301": {
+    "id": 12301,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Electric_02_Tutorial01"
+    ]
+  },
+  "12401": {
+    "id": 12401,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Grass_03_Tutorial01"
+    ]
+  },
+  "12501": {
+    "id": 12501,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Grass_02_Tutorial01"
+    ]
+  },
+  "12601": {
+    "id": 12601,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Fire_03_Tutorial01"
+    ]
+  },
+  "12701": {
+    "id": 12701,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Fire_02_Tutorial01"
+    ]
+  },
+  "12801": {
+    "id": 12801,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Rock_03_Tutorial01"
+    ]
+  },
+  "12901": {
+    "id": 12901,
+    "type": 0,
+    "imageNameList": [
+      "UI_Slime_Rock_02_Tutorial01"
+    ]
+  },
+  "13001": {
+    "id": 13001,
+    "type": 0,
+    "imageNameList": [
+      "UI_Abyss_Fire_01_Tutorial01"
+    ]
+  },
+  "13101": {
+    "id": 13101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Abyss_Ice_01_Tutorial01"
+    ]
+  },
+  "13201": {
+    "id": 13201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Abyss_Water_01_Tutorial01"
+    ]
+  },
+  "13301": {
+    "id": 13301,
+    "type": 0,
+    "imageNameList": [
+      "UI_Shaman_Water_01_Tutorial01"
+    ]
+  },
+  "13401": {
+    "id": 13401,
+    "type": 0,
+    "imageNameList": [
+      "UI_Shaman_Grass_01_Tutorial01"
+    ]
+  },
+  "13501": {
+    "id": 13501,
+    "type": 0,
+    "imageNameList": [
+      "UI_Shaman_Wind_01_Tutorial01"
+    ]
+  },
+  "13601": {
+    "id": 13601,
+    "type": 0,
+    "imageNameList": [
+      "UI_Defender_None_01_Tutorial01"
+    ]
+  },
+  "13701": {
+    "id": 13701,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_None_01_Tutorial01"
+    ]
+  },
+  "13801": {
+    "id": 13801,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_None_01_Club_Tutorial01"
+    ]
+  },
+  "13901": {
+    "id": 13901,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_None_01_Shield_Tutorial01"
+    ]
+  },
+  "14001": {
+    "id": 14001,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_Fire_Bomb_Tutorial01"
+    ]
+  },
+  "14101": {
+    "id": 14101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_Fire_Rush_Tutorial01"
+    ]
+  },
+  "14201": {
+    "id": 14201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_None_01_Range_Tutorial01"
+    ]
+  },
+  "14301": {
+    "id": 14301,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_Fire_Range_Tutorial01"
+    ]
+  },
+  "14401": {
+    "id": 14401,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_Ice_Range_Tutorial01"
+    ]
+  },
+  "14501": {
+    "id": 14501,
+    "type": 0,
+    "imageNameList": [
+      "UI_Hili_Electric_Range_Tutorial01"
+    ]
+  },
+  "14601": {
+    "id": 14601,
+    "type": 0,
+    "imageNameList": [
+      "UI_Brute_None_Shield_Tutorial01"
+    ]
+  },
+  "14701": {
+    "id": 14701,
+    "type": 0,
+    "imageNameList": [
+      "UI_Brute_None_Axe_Tutorial01"
+    ]
+  },
+  "14801": {
+    "id": 14801,
+    "type": 0,
+    "imageNameList": [
+      "UI_Elemental_Wind_01_Tutorial01"
+    ]
+  },
+  "14901": {
+    "id": 14901,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial4_02"
+    ]
+  },
+  "14902": {
+    "id": 14902,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial4_03"
+    ]
+  },
+  "14903": {
+    "id": 14903,
+    "type": 0,
+    "imageNameList": [
+      "UI_LisaTutorial4_03"
+    ]
+  },
+  "15001": {
+    "id": 15001,
+    "type": 0,
+    "imageNameList": [
+      "UI_FlyTutorial01"
+    ]
+  },
+  "16001": {
+    "id": 16001,
+    "type": 0,
+    "imageNameList": [
+      "UI_TimeCheck_03"
+    ]
+  },
+  "16002": {
+    "id": 16002,
+    "type": 0,
+    "imageNameList": [
+      "UI_TimeCheck_01"
+    ]
+  },
+  "16003": {
+    "id": 16003,
+    "type": 0,
+    "imageNameList": [
+      "UI_TimeCheck_02"
+    ]
+  },
+  "17001": {
+    "id": 17001,
+    "type": 0,
+    "imageNameList": [
+      "UI_GameGuide01a",
+      "UI_GameGuide01b",
+      "UI_GameGuide01c"
+    ]
+  },
+  "17002": {
+    "id": 17002,
+    "type": 0,
+    "imageNameList": [
+      "UI_GameGuide02"
+    ]
+  },
+  "17003": {
+    "id": 17003,
+    "type": 0,
+    "imageNameList": [
+      "UI_GameGuide03a",
+      "UI_GameGuide03b",
+      "UI_GameGuide03c"
+    ]
+  },
+  "17004": {
+    "id": 17004,
+    "type": 0,
+    "imageNameList": [
+      "UI_GameGuide04"
+    ]
+  },
+  "17005": {
+    "id": 17005,
+    "type": 0,
+    "imageNameList": [
+      "UI_GameGuide05"
+    ]
+  },
+  "18001": {
+    "id": 18001,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaPuzzle1"
+    ]
+  },
+  "18101": {
+    "id": 18101,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaPuzzle2"
+    ]
+  },
+  "18201": {
+    "id": 18201,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaPuzzle3"
+    ]
+  },
+  "18301": {
+    "id": 18301,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial04_01"
+    ]
+  },
+  "18302": {
+    "id": 18302,
+    "type": 0,
+    "imageNameList": [
+      "UI_KaeyaTutorial04_02"
+    ]
+  },
+  "19001": {
+    "id": 19001,
+    "type": 0,
+    "imageNameList": [
+      "UI_Playerlevel01",
+      "UI_GeneralArrow",
+      "UI_Playerlevel02"
+    ]
+  },
+  "20101": {
+    "id": 20101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_Attribute"
+    ]
+  },
+  "20201": {
+    "id": 20201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_AttributeUpgrade1"
+    ]
+  },
+  "21101": {
+    "id": 21101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_Weapon"
+    ]
+  },
+  "21102": {
+    "id": 21102,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_WeaponReplace"
+    ]
+  },
+  "21201": {
+    "id": 21201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_WeaponUpgrade1"
+    ]
+  },
+  "22101": {
+    "id": 22101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_Artifact1"
+    ]
+  },
+  "22102": {
+    "id": 22102,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_Artifact2"
+    ]
+  },
+  "22103": {
+    "id": 22103,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_ArtifactReplace"
+    ]
+  },
+  "22201": {
+    "id": 22201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_ArtifactUpgrade1"
+    ]
+  },
+  "23101": {
+    "id": 23101,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_Talent"
+    ]
+  },
+  "23102": {
+    "id": 23102,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_TalentUpgrade1"
+    ]
+  },
+  "23103": {
+    "id": 23103,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_TalentUpgrade2"
+    ]
+  },
+  "23201": {
+    "id": 23201,
+    "type": 0,
+    "imageNameList": [
+      "UI_Helps_TransferPoint"
+    ]
+  }
+}

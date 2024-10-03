@@ -1,0 +1,2759 @@
+ID	文本
+WeaponData_Name_11101	무인검
+WeaponData_Desc_11101	소년의 꿈, 여정에 오른 흥분——이 두 가지의 소중한 자질이 아직 날카롭지 않다면 용기로 때우자
+WeaponData_Name_11201	실버 소드
+WeaponData_Desc_11201	퇴마에 사용되는 실버 소드. 모두가 알고 있는 것처럼 사용 재료는 순은이 아니라 은 합금이다
+WeaponData_Name_11301	암강검
+WeaponData_Desc_11301	해남의 신흥 공예로 만들어진 각종 전장에서 사용할 수 있는 한손 무기
+WeaponData_Name_11302	여명신검
+WeaponData_Desc_11302	오래전에 아침 햇살처럼 빛나던 보검. 이 검을 가진 자는 근거 없는 자신감에 가득 차게 된다. 검신의 빛나던 발광 재료는 이미 사라졌다
+WeaponData_Name_11303	여행자의 검
+WeaponData_Desc_11303	손에 맞는 강철검. 칼자루에 가위, 확대경, 부싯깃 등 작은 여행 용품들이 들어있다
+WeaponData_Name_11304	암철검
+WeaponData_Desc_11304	그저 조금 검은 강철검일 뿐이다
+WeaponData_Name_11305	착호 생선회칼
+WeaponData_Desc_11305	회를 뜨는데 쓰이는 좁고 긴 예리한 철검. 무뎌지기 쉽지만 정말 예리하다
+WeaponData_Name_11306	비천어검
+WeaponData_Desc_11306	믿음직한 강철검, 예전에 이 검을 이용해 하늘을 날려고 시도를 한 사람이 있었다
+WeaponData_Name_11401	페보니우스 소드
+WeaponData_Desc_11401	페보니우스 기사단의 제식 장검. 가볍고 예리한 것 이외에 원소의 힘을 쉽게 끌어낼 수 있다
+WeaponData_Name_11402	피리검
+WeaponData_Desc_11402	가는 검의 녹슨 표면 아래에 화려한 장식이 은은히 드러난다. 너무 가벼워 휘두를 때 손에 아무런 느낌이 안 든다
+WeaponData_Name_11403	제례검
+WeaponData_Desc_11403	기나긴 세월을 거쳐 석화한 검은 의례적인 장식이 여전히 선명하게 보인다. 시간의 바람에 씻긴 축복의 힘을 보유하고 있다
+WeaponData_Name_11404	로얄 롱소드
+WeaponData_Desc_11404	몬드를 지배했던 옛 귀족의 패검. 정교한 장식과 문양은 소유자의 신분을 보여준다
+WeaponData_Name_11405	용의 포효
+WeaponData_Desc_11405	조각 문양은 조금 과장된 느낌이 있지만 검의 유연도와 예리함은 손색이 없다. 공기를 가를 때 용의 포효가 들린다
+WeaponData_Name_11406	참암검 프로토타입
+WeaponData_Desc_11406	흑암 공장에 비밀히 보관된 장검. 수많은 바위를 베어도 칼날이 휘지 않는다. 공예나 소재, 모두가 걸출하다
+WeaponData_Name_11407	강철 가시
+WeaponData_Desc_11407	외형이 유려하고 늘씬한 래피어는 이국에서 상로를 거쳐 루니아로 전해져 온 기이한 병기이다. 경쾌하기 그지없고 검날이 매우 날카롭다
+WeaponData_Name_11408	흑암검
+WeaponData_Desc_11408	흑암 공장의 최고 규격의 양산 병기는 테스트 수치로 볼 때 강철도 절단할 수 있다. 매우 날카롭다
+WeaponData_Name_11501	매의 검
+WeaponData_Desc_11501	페보니우스 기사단의 영혼은 천 년이 지난 지금도, 예전에 이 검을 휘둘렀던 여걸처럼 정의의 바람으로 간악한 자들을 물리쳐줄 주인을 부르고 있다
+WeaponData_Name_11502	천공의 칼날
+WeaponData_Desc_11502	풍마룡의 되찾은 영광을 상징하는 기사검. 검에 바람 신의 축복이 깃들어 있으며, 하늘과 바람의 힘을 지니고 있다
+WeaponData_Name_11503	보레알레스의 애가
+WeaponData_Desc_11503	원래는 보레알레스의 기사들이 사용하던 강철검이었지만 그의 전설과 출신의 미스터리에서 신화적인 힘이 탄생했다
+WeaponData_Name_11504	방랑하는 전원시
+WeaponData_Desc_11504	전설에 따르면, 바람의 신과 동행한 시인이 하사받은 가는 검으로, 하사받은 이유는 그의 자유로움과 전원의 고요함 때문이라고 한다
+WeaponData_Name_11505	곤오 무명
+WeaponData_Desc_11505	유리를 종잇장처럼 벨 수 있는 장검은 명장 곤오의 전성시기 재능이 들어있다. 휘두를 때 검객과 무명이 일심동체가 된다
+WeaponData_Name_11506	이끼 대검
+WeaponData_Desc_11506	이끼가 파릇파릇한 바위칼은 바위의 신의 훈계와 축복을 받았다. 외형의 굵기는 치명적인 기만성을 가지고 있다
+WeaponData_Name_11507	공허한 운명
+WeaponData_Desc_11507	최초에 선인은 잃어버린 힘을 이 검으로 메꿨다고 한다. 수많은 요괴를 참살하고, 결국에는 과거의 동족들도 멸망시켰다고 한다
+WeaponData_Name_12101	훈련용 대검
+WeaponData_Desc_12101	비록 그저 검 모양으로 만든 두꺼운 쇠붙이일 뿐이지만, 의지가 강한 사람은 이 대검으로 거대한 바위도 벨 수 있다
+WeaponData_Name_12201	용병 중검
+WeaponData_Desc_12201	수많은 전쟁과 오랜 세월을 견뎌낸 무겁고 단단한 대검
+WeaponData_Name_12301	아이언 섀도우 클레이모어
+WeaponData_Desc_12301	이 검은 유명한 빛의 사자 앨런 델린의 패검의 모조품이다. 그것을 움켜쥐고 전설적인 대영웅의 힘을 느껴보세요! 주의: 환상은 적당히
+WeaponData_Name_12302	드래곤 블러드 소드
+WeaponData_Desc_12302	북쪽의 영웅이 용혈에 적셨다는 강철 대검으로 칼과 총알이 꿰뚫을 수 없는 신력이 깃들어있다... 하지만 이런 가호는 휘두르는 사람의 몸에까지 적용되지 않는다
+WeaponData_Name_12303	백주철 대검
+WeaponData_Desc_12303	백주철로 단조한 양손검으로 무게와 강도가 견고하다. 평범한 사람도 쉽게 다룰 수 있고 힘센 사람의 손에 들어가면 위력이 더욱 강력해진다
+WeaponData_Name_12304	석영대검
+WeaponData_Desc_12304	단순하면서도 품격이 있는 대검으로 해안 상회의 전임 수석 회계사 양석영이 설계했다. 비록 양 회계사는 뇌물 수수로 파면되었지만 이 손에 맞는 중병기는 아직도 루니아 모험가들 사이에서 유행하고 있다
+WeaponData_Name_12305	도리의 몽둥이
+WeaponData_Desc_12305	파인 스틸로 만들어진 쇠몽둥이. 가장 좋은 이론의 근거이다
+WeaponData_Name_12306	비천대어검
+WeaponData_Desc_12306	믿음직한 대검. 도리는 클수록 좋다, 그러니 검도 클수록 좋다
+WeaponData_Name_12401	페보니우스 클레이모어
+WeaponData_Desc_12401	페보니우스 기사단의 제식 중형 무기. 원소의 힘을 쉽게 끌어낼 수 있고 파괴력이 상당하다
+WeaponData_Name_12402	시간의 검
+WeaponData_Desc_12402	상처투성이의 대검, 원래 가득했던 장식물과 추억은 모두 사라진 지 오래다
+WeaponData_Name_12403	제례 대검
+WeaponData_Desc_12403	기나긴 세월을 거쳐 석화한 대검은 의례적인 장식이 여전히 선명하게 보인다. 시간의 바람에 씻긴 축복의 힘을 보유하고 있다
+WeaponData_Name_12404	로얄 그레이트소드
+WeaponData_Desc_12404	몬드를 지배했던 옛 귀족의 대검. 재료가 아주 훌륭하고, 오랜 세월이 지나도 여전히 새롭다. 귀족의 전투 병기이다
+WeaponData_Name_12405	호랑이의 포효
+WeaponData_Desc_12405	조각 문양은 수수하지만 중량과 단단함을 잃지 않았다. 공기를 가를 때 호랑이의 포효가 들린다
+WeaponData_Name_12406	고대 중검 프로토타입
+WeaponData_Desc_12406	흑암 공장에 비밀히 보관된 대도. 휘두를 때의 위력은 공간마저 베어버릴 기세이다
+WeaponData_Name_12407	백영검
+WeaponData_Desc_12407	일부분이 날이 세워있지 않은 이국적인 대검은 상로를 거쳐 루니아로 전해져왔다. 이 검을 잘 이해하고 있는 사람의 손에 들어가면 파괴력이 대단하다
+WeaponData_Name_12408	흑암참도
+WeaponData_Desc_12408	흑암 공장의 최고 규격의 양산 병기는 테스트 수치로 볼 때 강철도 절단할 수 있다. 매우 날카롭다
+WeaponData_Name_12501	천공의 자부심
+WeaponData_Desc_12501	풍마룡의 자부심을 상징하는 양손검. 바람을 가르는 소리는 마치 풍마룡의 기세처럼 하늘과 바람의 힘을 지니고 있다
+WeaponData_Name_12502	늑대의 말로
+WeaponData_Desc_12502	늑대의 기사가 사용하던 대검. 원래는 성안의 대장장이가 증여한 두터운 철조각이었지만 기사와 늑대의 우정 속에서 신화적인 힘이 탄생했다
+WeaponData_Name_12503	혁신의 풍자문
+WeaponData_Desc_12503	전설에 따르면, 바람의 신과 동행한 시인이 하사받은 대검으로, 하사받은 이유는 그의 혁신의 용기와 신랄한 풍자 때문이라고 한다
+WeaponData_Name_12504	곤오 쐐기검
+WeaponData_Desc_12504	명장 곤오가 밀랍으로 만든 중검은 요괴를 물리칠 수 있다. 손에 쥐고 있으면 요괴들을 두려움에 떨게 하는 위엄을 느낄 수 있다
+WeaponData_Name_12505	고래 비녀
+WeaponData_Desc_12505	시간이라는 개념이 생길 때부터 마신과 함께한 고래 비녀. 지금은 대검의 크기로 변해버렸다
+WeaponData_Name_12506	괴사
+WeaponData_Desc_12506	최초의 선인과 최후의 신수의 이야기의 또 다른 결말로 양자간 화해의 징검다리이다. 날은 없지만 힘차다
+WeaponData_Name_13101	초보자의 창
+WeaponData_Desc_13101	깃대처럼 곧은 창은 휘두를 때 자못 기세가 있어 능히 대부분의 상황에 대응할 수 있다
+WeaponData_Name_13201	철촉창
+WeaponData_Desc_13201	한 쪽이 날카로운 공수를 겸비한 호신용 무기. 여행자들 사이에서 매우 유행하고 있다
+WeaponData_Name_13301	백술창
+WeaponData_Desc_13301	창의 술은 더렵혀지기 쉽지만 더러운 창 술이야말로 장병들이 수많은 전투를 겪은 증명이다
+WeaponData_Name_13302	할버드
+WeaponData_Desc_13302	도끼와 창을 결합시킨 형태의 무기. 무시할 수 없는 파괴력을 가지고 있다
+WeaponData_Name_13303	흑술창
+WeaponData_Desc_13303	백술창의 더러워지기 쉬운 문제를 해결한 절세의 창
+WeaponData_Name_13401	용학살창
+WeaponData_Desc_13401	매우 날카로운 금빛 용이 휘감긴 창. 쉽게 용을 죽일 수 있다
+WeaponData_Name_13402	별의 낫 프로토타입
+WeaponData_Desc_13402	흑암 공장에 비밀히 보관된 낫. 휘두를 때의 위력은 공간마저 베어버릴 기세이다
+WeaponData_Name_13403	반월창
+WeaponData_Desc_13403	창끝이 매우 길고 뿌리 부분이 반달 모양의 칼날로 갈라진 이국의 병기. 상로를 거쳐 루니아로 전해져왔다. 조금만 연습하면 아주 뛰어난 살상력을 발휘할 수 있다
+WeaponData_Name_13404	흑암 스피어
+WeaponData_Desc_13404	최고 규격의 양산 병기 자랑스럽게 공장의 이름을 붙였다. 칼날은 길고 날카로우며 길이와 균형을 이루는 힘이 아주 적절하다 
+WeaponData_Name_13504	곤오 무지개베기
+WeaponData_Desc_13504	명장 곤오가 운석으로 만든 장창, 예리함은 무지개도 벨 수 있을 정도다. 휘두를 때 마치 창의 날로 공기를 가르는듯한 착각이 든다
+WeaponData_Name_13505	제이드 호크
+WeaponData_Desc_13505	옥으로 만든 창, 창술은 날개를 펼친 독수리와 같다. 고대 괴수를 무찌를 수 있는 무게와 예리함을 가지고 있다
+WeaponData_Name_13506	주신 학살자
+WeaponData_Desc_13506	마신을 무찌를 때 사용되었던 창. 그리움과 결의, 그리고 마신을 죽일 수 있는 엄청난 힘이 들어있다
+WeaponData_Name_14101	학도 노트
+WeaponData_Desc_14101	어느 우등생이 남긴 학습노트, 아담한 글씨가 매우 아름답다. 실용적인 주문이 적지 않게 기록되어 있다
+WeaponData_Name_14201	포켓 매직노트
+WeaponData_Desc_14201	열심히 적었다. 졸업고사 내용만 남긴 마법 가이드북
+WeaponData_Name_14301	마도학 개론
+WeaponData_Desc_14301	제12판. 시대 발전과 결합하여 새로운 내용을 추가하고 제11판의 오자를 수정하였다
+WeaponData_Name_14302	드래곤 슬레이어 영웅담
+WeaponData_Desc_14302	드래곤을 퇴치하는 모험길에 오른 다섯 영웅의 이야기를 다룬 소설. 글솜씨가 형편없고 구조가 엉망이다. 실패의 교훈은 이 책이 보유한 위대한 힘이다
+WeaponData_Name_14303	이세계 여행기
+WeaponData_Desc_14303	양판 소설, 아무런 참고 가치가 없다. 법구로써도 아주 약하다.
+WeaponData_Name_14304	비취 오브
+WeaponData_Desc_14304	루니아 북부에 위치한 청운산에서 채굴된 옥으로 조각한 법구. 아주 가볍고 내구도가 뛰어나 '비옥환'이라고 불린다
+WeaponData_Name_14305	1등급 오브
+WeaponData_Desc_14305	싸구려 옥으로 만든 옥패.
+WeaponData_Name_14306	호박 오브
+WeaponData_Desc_14306	호박으로 조각하여 만든 법구. 햇빛을 받으면 은은한 빛을 뿜어낸다
+WeaponData_Name_14401	페보니우스 코덱스
+WeaponData_Desc_14401	페보니우스 기사단 연금학자들 사이에 전해 내려오는 비전. 물질의 이치와 힘, 그리고 약간의 다른 것들을 기술하고 있다
+WeaponData_Name_14402	음유시인의 악장
+WeaponData_Desc_14402	가사가 적혀있는 노트. 낡긴 했지만 필적에 힘이 느껴진다
+WeaponData_Name_14403	제례의 악장
+WeaponData_Desc_14403	오랜 역사를 지닌 대본. 적혀 있는 찬송가와 시나리오는 더 이상 식별이 불가능하다. 시간의 풍파를 제대로 맞은 대본이다
+WeaponData_Name_14404	로얄 그리모어
+WeaponData_Desc_14404	몬드를 지배했던 귀족의 휘하에 있던 궁정 마법사의 마법서이다. 안에 기재된 역사는 마법과 마찬가지로 매우 상세하다
+WeaponData_Name_14405	태양의 오브
+WeaponData_Desc_14405	청녹색의 보주. 태양과 달의 빛을 머금어 따뜻한 힘이 요동치는 오브
+WeaponData_Name_14406	흑암 비취
+WeaponData_Desc_14406	흑암 공장에서 악을 내쫓기 위해 만든 보주. 아직 악의 힘에 물들지 않아 검푸른 빛을 발산한다
+WeaponData_Name_14407	씨 로즈
+WeaponData_Desc_14407	장밋빛 보석, 이국에서 상로를 거쳐 루니아로 전해져 온 기이한 법구. 사용된 소재는 알 수 없지만 은은하게 보이는 안개가 법구 속에 갇혀있다
+WeaponData_Name_14408	칠흑 프로토타입
+WeaponData_Desc_14408	칠흑같이 어두운 옥패, 모든 빛을 빨아드리는 것 같은 느낌을 준다. 아주 강력한 마력을 지닌 법구
+WeaponData_Name_14501	천공의 두루마리
+WeaponData_Desc_14501	풍마룡과 옛 주인 바람의 신을 상징하는 두루마리. 북쪽 하늘의 바람과 구름이 기재되어 있으며, 하늘과 바람의 힘을 지니고 있다
+WeaponData_Name_14502	페보니우스 바이블
+WeaponData_Desc_14502	신의 바람을 섬기던 신도가 작성한 경전. 몇 천년 전부터 내려져 오던 신앙심에 축복과 힘이 깃들었다
+WeaponData_Name_14503	산실된 서사시
+WeaponData_Desc_14503	전설에 의하면 바람의 신을 추종하던 시인이 전 세계를 모두 둘러보며 만들었다던 시가집. 시가집에는 수 많은 기경들이 기록되어 있어서 거대한 힘을 품고 있다. 몇몇 악장이 유실되어 있어서 일부 내용만을 추려 위대한 모험일기를 만들었다
+WeaponData_Name_14504	곤오 별부름
+WeaponData_Desc_14504	곤오의 유물로 안에는 마신의 힘과 기억이 은연히 느껴진다. 조금만 이끌어준다면 그중의 위대한 힘을 끌어낼 수 있다
+WeaponData_Name_14505	루니아의 진주
+WeaponData_Desc_14505	위대한 도시의 시작을 상징하는 보석. 현재까지도 마신의 힘을 발산하고 있다
+WeaponData_Name_14506	광천유리
+WeaponData_Desc_14506	매끄럽게 절단한 다이아몬드, 모든 면마다 다른 세계의 풍경이 보인다. 게다가 설명할 수 없는 빛과 힘을 뿜어낸다
+WeaponData_Name_15101	사냥활
+WeaponData_Desc_15101	사냥꾼이 연주하는 곡은 두 개의 멜로디로 이루어졌다. 하나는 활시위를 튕기는 소리고 다른 하나는 화살이 공기를 가르며 날아가는 소리이다
+WeaponData_Name_15201	역전의 수렵 활
+WeaponData_Desc_15201	아주 오래전에 만들어졌으나 새로 만든 것처럼 정비가 잘된 활
+WeaponData_Name_15301	까마귀깃 활
+WeaponData_Desc_15301	까마귀는 죽음의 사자라고 한다. 까마귀 깃털장식이 림에 부착되어 있다. 쏠 때마다 사냥감의 죽음을 불러온다
+WeaponData_Name_15302	신궁의 서약
+WeaponData_Desc_15302	신궁이라 불리던 명사수가 사용하던 활. 강렬한 기운을 내뿜어 사냥에 사용하기에 부적합하다
+WeaponData_Name_15303	곡궁
+WeaponData_Desc_15303	창공을 가르는 매도 사냥할 수 있다는 활. 진짜로 성공할지는 누가 사용하냐에 달려 있다
+WeaponData_Name_15304	탄궁
+WeaponData_Desc_15304	일반적인 활. 궁극적인 활을 만들려고 오랜 실험과 개선을 통해 제작됐으나 만들어진 건 그냥 일반적인 활이다
+WeaponData_Name_15305	사절
+WeaponData_Desc_15305	나무로 간단하게 만든 활. 예전에는 통신 수단으로 사용됐다고 한다
+WeaponData_Name_15306	흑단궁
+WeaponData_Desc_15306	단목으로 제작한 롱보우. 다른 일반적인 활보다 훨씬 더 단단하여 더 강력한 힘을 지니고 있다
+WeaponData_Name_15401	페보니우스 보우
+WeaponData_Desc_15401	페보니우스 기사단의 제식 리커브드 보우. 뛰어난 궁수들만이 그 뛰어난 성능에 어울린다
+WeaponData_Name_15402	무현궁
+WeaponData_Desc_15402	시위가 없는 활. 다른 용도로 제작된 것 같은 구조다. 화살을 발사했던 건 아주 오래전 일이다
+WeaponData_Name_15403	제례활
+WeaponData_Desc_15403	기나긴 세월을 거쳐 석화한 활은 의례적인 장식이 여전히 선명하게 보인다. 시간의 바람에 씻긴 축복의 힘을 보유하고 있다
+WeaponData_Name_15404	로얄 롱보우
+WeaponData_Desc_15404	몬드를 지배했던 귀족의 활. 수많은 세대를 거쳤어도 활시위는 여전히 힘차고 위력이 강하다
+WeaponData_Name_15405	녹슨 활
+WeaponData_Desc_15405	활 전체에 녹이 슬어있다. 평범한 사람은 들지도, 쏘지도 못한다
+WeaponData_Name_15406	흑암의 장궁 프로토타입
+WeaponData_Desc_15406	흑암 공장에 비밀히 보관된 프로토타입 롱보우. 궁사의 영혼도 함께 발사된다고 한다
+WeaponData_Name_15407	강철궁
+WeaponData_Desc_15407	금속으로 만들어진 복합궁. 관리하기가 매우 어려우나 시위를 당기기가 무척 쉽고 위력도 엄청나다
+WeaponData_Name_15408	흑암 배틀 보우
+WeaponData_Desc_15408	최고의 양산형 무기. 제작사의 이름이 당당히 세겨져 있다. 강철로 만들어져 힘과 내구성이 나무로 만들어진 활보다 훨씬 뛰어나다
+WeaponData_Name_15501	천공의 날개
+WeaponData_Desc_15501	풍마룡이 바바토스의 권속임을 상징하는 큰 활. 바람의 신은 활시위를 놓을 때 울리는 소리를 아주 좋아한다. 하늘과 바람의 힘을 지니고 있다
+WeaponData_Name_15502	아모스의 활
+WeaponData_Desc_15502	소녀와 함께 동행하는 사냥꾼이 사용하는 활. 순박함과 경박함이 모두 서려있다. 주인의 힘이 예전만 못하지만 최강의 활 중 하나이다
+WeaponData_Name_15503	평온의 진혼곡
+WeaponData_Desc_15503	전설에 따르면, 바람의 신과 동행한 시인이 하사받은 큰 활로, 하사받은 이유는 그의 이별할 때의 소탈함과 삶에 대한 열정 때문이라고 한다
+WeaponData_Name_15504	곤오 용의 몰락
+WeaponData_Desc_15504	명장 곤오가 아다만티움으로 만든 활. 벼락 같은 화살로 용도 쏴 죽일 수 있는 위력을 지니고 있다
+WeaponData_Name_15505	고대 마노의 대궁
+WeaponData_Desc_15505	고대의 마노 덩어리로 제작한 활. 마신이 인간을 돌보는 그림과 인간이 마신을 숭배하는 그림이 새겨져 있다
+WeaponData_Name_15506	부서진 거울
+WeaponData_Desc_15506	고대의 정복자가 천지를 뒤 흔들던 전투 중에 떨어뜨린 무기의 조각. 달빛을 소멸하는 힘을 지니고 있었었다
+ReliquaryData_Name_20002	초심자의 깃털
+ReliquaryData_Desc_20002	인생의 첫 번째 단검 자루에 장식되는 깃털. 여행자의 자그마한 꿈을 간직하고 있다
+ReliquaryData_Name_20004	초심자의 꽃
+ReliquaryData_Desc_20004	꽃 한송이. 티바트 대륙의 봄과 같이 귀엽다
+ReliquaryData_Name_23333	테스트 모래
+ReliquaryData_Desc_23333	테스트용
+ReliquaryData_Name_51110	여행자의 나무잔
+ReliquaryData_Desc_51110	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51111	여행자의 나무잔
+ReliquaryData_Desc_51111	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51112	여행자의 나무잔
+ReliquaryData_Desc_51112	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51113	여행자의 나무잔
+ReliquaryData_Desc_51113	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51114	여행자의 나무잔
+ReliquaryData_Desc_51114	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51120	여행자의 깃털장식
+ReliquaryData_Desc_51120	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51121	여행자의 깃털장식
+ReliquaryData_Desc_51121	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51122	여행자의 깃털장식
+ReliquaryData_Desc_51122	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51123	여행자의 깃털장식
+ReliquaryData_Desc_51123	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51124	여행자의 깃털장식
+ReliquaryData_Desc_51124	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51130	여행자의 월계관
+ReliquaryData_Desc_51130	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51131	여행자의 월계관
+ReliquaryData_Desc_51131	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51132	여행자의 월계관
+ReliquaryData_Desc_51132	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51133	여행자의 월계관
+ReliquaryData_Desc_51133	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51134	여행자의 월계관
+ReliquaryData_Desc_51134	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51140	여행자의 야생화
+ReliquaryData_Desc_51140	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51141	여행자의 야생화
+ReliquaryData_Desc_51141	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51142	여행자의 야생화
+ReliquaryData_Desc_51142	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51143	여행자의 야생화
+ReliquaryData_Desc_51143	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51144	여행자의 야생화
+ReliquaryData_Desc_51144	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51150	여행자의 시계
+ReliquaryData_Desc_51150	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51151	여행자의 시계
+ReliquaryData_Desc_51151	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51152	여행자의 시계
+ReliquaryData_Desc_51152	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51153	여행자의 시계
+ReliquaryData_Desc_51153	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51154	여행자의 시계
+ReliquaryData_Desc_51154	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51210	여행자의 나무잔
+ReliquaryData_Desc_51210	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51211	여행자의 나무잔
+ReliquaryData_Desc_51211	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51212	여행자의 나무잔
+ReliquaryData_Desc_51212	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51213	여행자의 나무잔
+ReliquaryData_Desc_51213	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51214	여행자의 나무잔
+ReliquaryData_Desc_51214	자주 사용하는 물 용기로 사람을 안심하게 하는 친숙함이 있다
+ReliquaryData_Name_51220	여행자의 깃털장식
+ReliquaryData_Desc_51220	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51221	여행자의 깃털장식
+ReliquaryData_Desc_51221	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51222	여행자의 깃털장식
+ReliquaryData_Desc_51222	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51223	여행자의 깃털장식
+ReliquaryData_Desc_51223	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51224	여행자의 깃털장식
+ReliquaryData_Desc_51224	맑고 고운 조류의 꽁지깃털, 나그네가 여정에 오르도록 격려해준다
+ReliquaryData_Name_51230	여행자의 월계관
+ReliquaryData_Desc_51230	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51231	여행자의 월계관
+ReliquaryData_Desc_51231	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51232	여행자의 월계관
+ReliquaryData_Desc_51232	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51233	여행자의 월계관
+ReliquaryData_Desc_51233	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51234	여행자의 월계관
+ReliquaryData_Desc_51234	은은한 향기가 나는 월계관은 귀신을 쫓는 힘이 있다고 전해진다
+ReliquaryData_Name_51240	여행자의 야생화
+ReliquaryData_Desc_51240	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51241	여행자의 야생화
+ReliquaryData_Desc_51241	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51242	여행자의 야생화
+ReliquaryData_Desc_51242	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51243	여행자의 야생화
+ReliquaryData_Desc_51243	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51244	여행자의 야생화
+ReliquaryData_Desc_51244	들꽃 사이로 유난히 눈길을 끄는 꽃 한 송이. 향긋한 향기를 풍긴다
+ReliquaryData_Name_51250	여행자의 시계
+ReliquaryData_Desc_51250	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51251	여행자의 시계
+ReliquaryData_Desc_51251	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51252	여행자의 시계
+ReliquaryData_Desc_51252	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51253	여행자의 시계
+ReliquaryData_Desc_51253	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_51254	여행자의 시계
+ReliquaryData_Desc_51254	간단하고 정확한 모래시계. 모래가 다 흘러도 시간은 영원히 흐른다
+ReliquaryData_Name_52110	용사의 돌잔
+ReliquaryData_Desc_52110	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52111	용사의 돌잔
+ReliquaryData_Desc_52111	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52112	용사의 돌잔
+ReliquaryData_Desc_52112	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52113	용사의 돌잔
+ReliquaryData_Desc_52113	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52114	용사의 돌잔
+ReliquaryData_Desc_52114	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52120	용사의 까마귀 깃털
+ReliquaryData_Desc_52120	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52121	용사의 까마귀 깃털
+ReliquaryData_Desc_52121	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52122	용사의 까마귀 깃털
+ReliquaryData_Desc_52122	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52123	용사의 까마귀 깃털
+ReliquaryData_Desc_52123	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52124	용사의 까마귀 깃털
+ReliquaryData_Desc_52124	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52130	용사의 모자
+ReliquaryData_Desc_52130	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52131	용사의 모자
+ReliquaryData_Desc_52131	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52132	용사의 모자
+ReliquaryData_Desc_52132	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52133	용사의 모자
+ReliquaryData_Desc_52133	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52134	용사의 모자
+ReliquaryData_Desc_52134	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52140	용사의 메달
+ReliquaryData_Desc_52140	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52141	용사의 메달
+ReliquaryData_Desc_52141	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52142	용사의 메달
+ReliquaryData_Desc_52142	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52143	용사의 메달
+ReliquaryData_Desc_52143	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52144	용사의 메달
+ReliquaryData_Desc_52144	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52150	용사의 시계
+ReliquaryData_Desc_52150	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52151	용사의 시계
+ReliquaryData_Desc_52151	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52152	용사의 시계
+ReliquaryData_Desc_52152	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52153	용사의 시계
+ReliquaryData_Desc_52153	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52154	용사의 시계
+ReliquaryData_Desc_52154	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52210	용사의 돌잔
+ReliquaryData_Desc_52210	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52211	용사의 돌잔
+ReliquaryData_Desc_52211	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52212	용사의 돌잔
+ReliquaryData_Desc_52212	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52213	용사의 돌잔
+ReliquaryData_Desc_52213	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52214	용사의 돌잔
+ReliquaryData_Desc_52214	돌 재질의 거친 용기, 그 속에는 추억이 휑하니 담겨 있다
+ReliquaryData_Name_52220	용사의 까마귀 깃털
+ReliquaryData_Desc_52220	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52221	용사의 까마귀 깃털
+ReliquaryData_Desc_52221	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52222	용사의 까마귀 깃털
+ReliquaryData_Desc_52222	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52223	용사의 까마귀 깃털
+ReliquaryData_Desc_52223	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52224	용사의 까마귀 깃털
+ReliquaryData_Desc_52224	칠흑 같이 어두운 갈까마귀 꽁지깃털, 착용자에게 죽음의 손길을 피하게 해준다고 한다
+ReliquaryData_Name_52230	용사의 모자
+ReliquaryData_Desc_52230	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52231	용사의 모자
+ReliquaryData_Desc_52231	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52232	용사의 모자
+ReliquaryData_Desc_52232	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52233	용사의 모자
+ReliquaryData_Desc_52233	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52234	용사의 모자
+ReliquaryData_Desc_52234	버들가지로 대충 엮은 둥근 고리는 모험 속의 사람들을 보호해 준다
+ReliquaryData_Name_52240	용사의 메달
+ReliquaryData_Desc_52240	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52241	용사의 메달
+ReliquaryData_Desc_52241	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52242	용사의 메달
+ReliquaryData_Desc_52242	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52243	용사의 메달
+ReliquaryData_Desc_52243	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52244	용사의 메달
+ReliquaryData_Desc_52244	가슴에 있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다
+ReliquaryData_Name_52250	용사의 시계
+ReliquaryData_Desc_52250	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52251	용사의 시계
+ReliquaryData_Desc_52251	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52252	용사의 시계
+ReliquaryData_Desc_52252	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52253	용사의 시계
+ReliquaryData_Desc_52253	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_52254	용사의 시계
+ReliquaryData_Desc_52254	거친 소형 해시계로 실용성이 없다, 이는 시간의 불가해함을 상징하기도 한다
+ReliquaryData_Name_53110	수호자의 술주전자
+ReliquaryData_Desc_53110	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53111	수호자의 술주전자
+ReliquaryData_Desc_53111	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53112	수호자의 술주전자
+ReliquaryData_Desc_53112	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53113	수호자의 술주전자
+ReliquaryData_Desc_53113	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53114	수호자의 술주전자
+ReliquaryData_Desc_53114	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53120	수호자의 깃털
+ReliquaryData_Desc_53120	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53121	수호자의 깃털
+ReliquaryData_Desc_53121	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53122	수호자의 깃털
+ReliquaryData_Desc_53122	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53123	수호자의 깃털
+ReliquaryData_Desc_53123	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53124	수호자의 깃털
+ReliquaryData_Desc_53124	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53130	수호자의 밴드
+ReliquaryData_Desc_53130	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53131	수호자의 밴드
+ReliquaryData_Desc_53131	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53132	수호자의 밴드
+ReliquaryData_Desc_53132	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53133	수호자의 밴드
+ReliquaryData_Desc_53133	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53134	수호자의 밴드
+ReliquaryData_Desc_53134	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53140	수호자의 꽃
+ReliquaryData_Desc_53140	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53141	수호자의 꽃
+ReliquaryData_Desc_53141	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53142	수호자의 꽃
+ReliquaryData_Desc_53142	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53143	수호자의 꽃
+ReliquaryData_Desc_53143	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53144	수호자의 꽃
+ReliquaryData_Desc_53144	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53150	수호자의 탁상시계
+ReliquaryData_Desc_53150	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53151	수호자의 탁상시계
+ReliquaryData_Desc_53151	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53152	수호자의 탁상시계
+ReliquaryData_Desc_53152	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53153	수호자의 탁상시계
+ReliquaryData_Desc_53153	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53154	수호자의 탁상시계
+ReliquaryData_Desc_53154	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53210	수호자의 술주전자
+ReliquaryData_Desc_53210	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53211	수호자의 술주전자
+ReliquaryData_Desc_53211	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53212	수호자의 술주전자
+ReliquaryData_Desc_53212	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53213	수호자의 술주전자
+ReliquaryData_Desc_53213	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53214	수호자의 술주전자
+ReliquaryData_Desc_53214	기나긴 고독의 시간을 달래주기 위한 용기. 지금은 텅 비어 있다
+ReliquaryData_Name_53220	수호자의 깃털
+ReliquaryData_Desc_53220	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53221	수호자의 깃털
+ReliquaryData_Desc_53221	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53222	수호자의 깃털
+ReliquaryData_Desc_53222	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53223	수호자의 깃털
+ReliquaryData_Desc_53223	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53224	수호자의 깃털
+ReliquaryData_Desc_53224	수호자의 신분을 상징하는 한 줌의 깃털에 깃들어있는 의식이 견고한 방패가 되었다
+ReliquaryData_Name_53230	수호자의 밴드
+ReliquaryData_Desc_53230	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53231	수호자의 밴드
+ReliquaryData_Desc_53231	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53232	수호자의 밴드
+ReliquaryData_Desc_53232	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53233	수호자의 밴드
+ReliquaryData_Desc_53233	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53234	수호자의 밴드
+ReliquaryData_Desc_53234	머리카락을 묶는 데 쓰이는 직물. 급할 때 임시 붕대로 쓸 수 있는 것 같다
+ReliquaryData_Name_53240	수호자의 꽃
+ReliquaryData_Desc_53240	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53241	수호자의 꽃
+ReliquaryData_Desc_53241	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53242	수호자의 꽃
+ReliquaryData_Desc_53242	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53243	수호자의 꽃
+ReliquaryData_Desc_53243	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53244	수호자의 꽃
+ReliquaryData_Desc_53244	수호자의 신분을 상징하는 붓꽃. 이 배지의 의미는 시간을 두고 소멸됐다
+ReliquaryData_Name_53250	수호자의 탁상시계
+ReliquaryData_Desc_53250	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53251	수호자의 탁상시계
+ReliquaryData_Desc_53251	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53252	수호자의 탁상시계
+ReliquaryData_Desc_53252	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53253	수호자의 탁상시계
+ReliquaryData_Desc_53253	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_53254	수호자의 탁상시계
+ReliquaryData_Desc_53254	현재 시간을 보여주는 소도구. 달이 없는 어두운 밤에 유일하게 시간을 알려준다
+ReliquaryData_Name_54210	기적의 잔
+ReliquaryData_Desc_54210	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54211	기적의 잔
+ReliquaryData_Desc_54211	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54212	기적의 잔
+ReliquaryData_Desc_54212	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54213	기적의 잔
+ReliquaryData_Desc_54213	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54214	기적의 잔
+ReliquaryData_Desc_54214	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54220	기적의 깃털
+ReliquaryData_Desc_54220	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54221	기적의 깃털
+ReliquaryData_Desc_54221	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54222	기적의 깃털
+ReliquaryData_Desc_54222	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54223	기적의 깃털
+ReliquaryData_Desc_54223	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54224	기적의 깃털
+ReliquaryData_Desc_54224	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54230	기적의 귀걸이
+ReliquaryData_Desc_54230	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54231	기적의 귀걸이
+ReliquaryData_Desc_54231	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54232	기적의 귀걸이
+ReliquaryData_Desc_54232	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54233	기적의 귀걸이
+ReliquaryData_Desc_54233	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54234	기적의 귀걸이
+ReliquaryData_Desc_54234	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54240	기적의 꽃
+ReliquaryData_Desc_54240	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54241	기적의 꽃
+ReliquaryData_Desc_54241	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54242	기적의 꽃
+ReliquaryData_Desc_54242	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54243	기적의 꽃
+ReliquaryData_Desc_54243	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54244	기적의 꽃
+ReliquaryData_Desc_54244	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54250	기적의 모래
+ReliquaryData_Desc_54250	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54251	기적의 모래
+ReliquaryData_Desc_54251	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54252	기적의 모래
+ReliquaryData_Desc_54252	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54253	기적의 모래
+ReliquaryData_Desc_54253	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54254	기적의 모래
+ReliquaryData_Desc_54254	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54310	기적의 잔
+ReliquaryData_Desc_54310	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54311	기적의 잔
+ReliquaryData_Desc_54311	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54312	기적의 잔
+ReliquaryData_Desc_54312	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54313	기적의 잔
+ReliquaryData_Desc_54313	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54314	기적의 잔
+ReliquaryData_Desc_54314	민간에서 점쟁이 의식에 사용된다고 전해지는 컵. 물을 담을 수도 있다
+ReliquaryData_Name_54320	기적의 깃털
+ReliquaryData_Desc_54320	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54321	기적의 깃털
+ReliquaryData_Desc_54321	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54322	기적의 깃털
+ReliquaryData_Desc_54322	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54323	기적의 깃털
+ReliquaryData_Desc_54323	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54324	기적의 깃털
+ReliquaryData_Desc_54324	속도가 매우 빠른 맹금류에서 얻은 깃털. 그 기적적인 일격은 육안으로는 거의 포착되지 않는다
+ReliquaryData_Name_54330	기적의 귀걸이
+ReliquaryData_Desc_54330	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54331	기적의 귀걸이
+ReliquaryData_Desc_54331	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54332	기적의 귀걸이
+ReliquaryData_Desc_54332	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54333	기적의 귀걸이
+ReliquaryData_Desc_54333	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54334	기적의 귀걸이
+ReliquaryData_Desc_54334	값싼 장신구, 하지만 이 귀걸이는 먼 옛날의 별똥별이 가져온 기이한 금속으로 만들어졌다
+ReliquaryData_Name_54340	기적의 꽃
+ReliquaryData_Desc_54340	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54341	기적의 꽃
+ReliquaryData_Desc_54341	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54342	기적의 꽃
+ReliquaryData_Desc_54342	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54343	기적의 꽃
+ReliquaryData_Desc_54343	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54344	기적의 꽃
+ReliquaryData_Desc_54344	바위에서 자라는 꽃. 이 연약한 꽃이 단단한 암벽을 뚫을 수 있었던 것은 빛을 쫓았기 때문이다
+ReliquaryData_Name_54350	기적의 모래
+ReliquaryData_Desc_54350	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54351	기적의 모래
+ReliquaryData_Desc_54351	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54352	기적의 모래
+ReliquaryData_Desc_54352	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54353	기적의 모래
+ReliquaryData_Desc_54353	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_54354	기적의 모래
+ReliquaryData_Desc_54354	흔한 모래시계로 보인다. 떨어지는 마른 모래는 물처럼 흐른다
+ReliquaryData_Name_55210	전쟁광의 해골잔
+ReliquaryData_Desc_55210	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55211	전쟁광의 해골잔
+ReliquaryData_Desc_55211	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55212	전쟁광의 해골잔
+ReliquaryData_Desc_55212	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55213	전쟁광의 해골잔
+ReliquaryData_Desc_55213	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55214	전쟁광의 해골잔
+ReliquaryData_Desc_55214	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55220	전쟁광의 검은 깃털
+ReliquaryData_Desc_55220	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55221	전쟁광의 검은 깃털
+ReliquaryData_Desc_55221	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55222	전쟁광의 검은 깃털
+ReliquaryData_Desc_55222	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55223	전쟁광의 검은 깃털
+ReliquaryData_Desc_55223	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55224	전쟁광의 검은 깃털
+ReliquaryData_Desc_55224	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55230	전쟁광의 귀신 가면
+ReliquaryData_Desc_55230	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55231	전쟁광의 귀신 가면
+ReliquaryData_Desc_55231	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55232	전쟁광의 귀신 가면
+ReliquaryData_Desc_55232	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55233	전쟁광의 귀신 가면
+ReliquaryData_Desc_55233	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55234	전쟁광의 귀신 가면
+ReliquaryData_Desc_55234	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55240	전쟁광의 장미
+ReliquaryData_Desc_55240	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55241	전쟁광의 장미
+ReliquaryData_Desc_55241	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55242	전쟁광의 장미
+ReliquaryData_Desc_55242	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55243	전쟁광의 장미
+ReliquaryData_Desc_55243	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55244	전쟁광의 장미
+ReliquaryData_Desc_55244	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55250	전쟁광의 시계
+ReliquaryData_Desc_55250	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55251	전쟁광의 시계
+ReliquaryData_Desc_55251	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55252	전쟁광의 시계
+ReliquaryData_Desc_55252	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55253	전쟁광의 시계
+ReliquaryData_Desc_55253	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55254	전쟁광의 시계
+ReliquaryData_Desc_55254	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55310	전쟁광의 해골잔
+ReliquaryData_Desc_55310	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55311	전쟁광의 해골잔
+ReliquaryData_Desc_55311	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55312	전쟁광의 해골잔
+ReliquaryData_Desc_55312	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55313	전쟁광의 해골잔
+ReliquaryData_Desc_55313	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55314	전쟁광의 해골잔
+ReliquaryData_Desc_55314	이름 모를 거대한 짐승의 뼈로 만든 컵. 속은 무언가에 의해 녹슨 것처럼 되어있다
+ReliquaryData_Name_55320	전쟁광의 검은 깃털
+ReliquaryData_Desc_55320	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55321	전쟁광의 검은 깃털
+ReliquaryData_Desc_55321	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55322	전쟁광의 검은 깃털
+ReliquaryData_Desc_55322	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55323	전쟁광의 검은 깃털
+ReliquaryData_Desc_55323	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55324	전쟁광의 검은 깃털
+ReliquaryData_Desc_55324	원래 초상을 알리던 새의 검은 깃털이다. 정벌 속에서 피를 칠갑한듯한 암홍색으로 변해버렸다
+ReliquaryData_Name_55330	전쟁광의 귀신 가면
+ReliquaryData_Desc_55330	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55331	전쟁광의 귀신 가면
+ReliquaryData_Desc_55331	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55332	전쟁광의 귀신 가면
+ReliquaryData_Desc_55332	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55333	전쟁광의 귀신 가면
+ReliquaryData_Desc_55333	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55334	전쟁광의 귀신 가면
+ReliquaryData_Desc_55334	생사를 가리지 않는 싸움에서 검은 피에 물든 반쯤 부서진 흉측한 강철 가면
+ReliquaryData_Name_55340	전쟁광의 장미
+ReliquaryData_Desc_55340	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55341	전쟁광의 장미
+ReliquaryData_Desc_55341	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55342	전쟁광의 장미
+ReliquaryData_Desc_55342	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55343	전쟁광의 장미
+ReliquaryData_Desc_55343	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55344	전쟁광의 장미
+ReliquaryData_Desc_55344	핏빛의 정교한 꽃송이는 버서커의 기질과 미묘하게 어울린다
+ReliquaryData_Name_55350	전쟁광의 시계
+ReliquaryData_Desc_55350	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55351	전쟁광의 시계
+ReliquaryData_Desc_55351	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55352	전쟁광의 시계
+ReliquaryData_Desc_55352	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55353	전쟁광의 시계
+ReliquaryData_Desc_55353	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_55354	전쟁광의 시계
+ReliquaryData_Desc_55354	안의 모래가 무정하게 흐르며 버서커 자신이 전쟁터, 그리고 인간 세상에서의 시간이 얼마 남지 않았음을 일깨워준다
+ReliquaryData_Name_56210	무인의 술잔
+ReliquaryData_Desc_56210	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56211	무인의 술잔
+ReliquaryData_Desc_56211	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56212	무인의 술잔
+ReliquaryData_Desc_56212	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56213	무인의 술잔
+ReliquaryData_Desc_56213	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56214	무인의 술잔
+ReliquaryData_Desc_56214	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56220	무인의 깃털장식
+ReliquaryData_Desc_56220	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56221	무인의 깃털장식
+ReliquaryData_Desc_56221	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56222	무인의 깃털장식
+ReliquaryData_Desc_56222	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56223	무인의 깃털장식
+ReliquaryData_Desc_56223	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56224	무인의 깃털장식
+ReliquaryData_Desc_56224	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56230	무인의 두건
+ReliquaryData_Desc_56230	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정기신" 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56231	무인의 두건
+ReliquaryData_Desc_56231	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정기신" 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56232	무인의 두건
+ReliquaryData_Desc_56232	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정기신" 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56233	무인의 두건
+ReliquaryData_Desc_56233	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정기신" 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56234	무인의 두건
+ReliquaryData_Desc_56234	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정.기.신." 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56240	무인의 붉은 꽃
+ReliquaryData_Desc_56240	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56241	무인의 붉은 꽃
+ReliquaryData_Desc_56241	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56242	무인의 붉은 꽃
+ReliquaryData_Desc_56242	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56243	무인의 붉은 꽃
+ReliquaryData_Desc_56243	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56244	무인의 붉은 꽃
+ReliquaryData_Desc_56244	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56250	무인의 물시계
+ReliquaryData_Desc_56250	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56251	무인의 물시계
+ReliquaryData_Desc_56251	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56252	무인의 물시계
+ReliquaryData_Desc_56252	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56253	무인의 물시계
+ReliquaryData_Desc_56253	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56254	무인의 물시계
+ReliquaryData_Desc_56254	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56310	무인의 술잔
+ReliquaryData_Desc_56310	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56311	무인의 술잔
+ReliquaryData_Desc_56311	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56312	무인의 술잔
+ReliquaryData_Desc_56312	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56313	무인의 술잔
+ReliquaryData_Desc_56313	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56314	무인의 술잔
+ReliquaryData_Desc_56314	이 정교해 보이는 잔은 무인이 등장하기 전에만 사용하는 의식 도구이다
+ReliquaryData_Name_56320	무인의 깃털장식
+ReliquaryData_Desc_56320	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56321	무인의 깃털장식
+ReliquaryData_Desc_56321	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56322	무인의 깃털장식
+ReliquaryData_Desc_56322	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56323	무인의 깃털장식
+ReliquaryData_Desc_56323	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56324	무인의 깃털장식
+ReliquaryData_Desc_56324	도처에서 볼 수 있는 땅에 떨어진 새의 깃털, 고수들은 힘의 세기를 연습하는데 사용하고, 신참들은 부채를 만드는데 사용한다
+ReliquaryData_Name_56330	무인의 두건
+ReliquaryData_Desc_56330	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정.기.신." 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56331	무인의 두건
+ReliquaryData_Desc_56331	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정.기.신." 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56332	무인의 두건
+ReliquaryData_Desc_56332	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정.기.신." 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56333	무인의 두건
+ReliquaryData_Desc_56333	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정.기.신." 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56334	무인의 두건
+ReliquaryData_Desc_56334	입문 후 첫 번째로 해야 할 일은 두건을 묶어 수시로 자신에게 "정.기.신." 이 세글자를 일깨우는 것이다
+ReliquaryData_Name_56340	무인의 붉은 꽃
+ReliquaryData_Desc_56340	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56341	무인의 붉은 꽃
+ReliquaryData_Desc_56341	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56342	무인의 붉은 꽃
+ReliquaryData_Desc_56342	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56343	무인의 붉은 꽃
+ReliquaryData_Desc_56343	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56344	무인의 붉은 꽃
+ReliquaryData_Desc_56344	무예를 닦는 자와 꽃은 별 관계가 없지만 이 꽃엔 통증을 완화할 수 있는 성분이 들어있다
+ReliquaryData_Name_56350	무인의 물시계
+ReliquaryData_Desc_56350	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56351	무인의 물시계
+ReliquaryData_Desc_56351	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56352	무인의 물시계
+ReliquaryData_Desc_56352	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56353	무인의 물시계
+ReliquaryData_Desc_56353	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_56354	무인의 물시계
+ReliquaryData_Desc_56354	지구력 훈련할 때 사용하는 소도구, 모래시계의 흐름보다 안정적이다
+ReliquaryData_Name_57210	교관의 찻잔
+ReliquaryData_Desc_57210	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57211	교관의 찻잔
+ReliquaryData_Desc_57211	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57212	교관의 찻잔
+ReliquaryData_Desc_57212	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57213	교관의 찻잔
+ReliquaryData_Desc_57213	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57214	교관의 찻잔
+ReliquaryData_Desc_57214	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57220	교관의 깃털장식
+ReliquaryData_Desc_57220	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57221	교관의 깃털장식
+ReliquaryData_Desc_57221	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57222	교관의 깃털장식
+ReliquaryData_Desc_57222	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57223	교관의 깃털장식
+ReliquaryData_Desc_57223	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57224	교관의 깃털장식
+ReliquaryData_Desc_57224	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57230	교관의 모자
+ReliquaryData_Desc_57230	제식 교관 모자
+ReliquaryData_Name_57231	교관의 모자
+ReliquaryData_Desc_57231	제식 교관 모자
+ReliquaryData_Name_57232	교관의 모자
+ReliquaryData_Desc_57232	제식 교관 모자
+ReliquaryData_Name_57233	교관의 모자
+ReliquaryData_Desc_57233	제식 교관 모자
+ReliquaryData_Name_57234	교관의 모자
+ReliquaryData_Desc_57234	제식 교관 모자
+ReliquaryData_Name_57240	교관의 브로치
+ReliquaryData_Desc_57240	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57241	교관의 브로치
+ReliquaryData_Desc_57241	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57242	교관의 브로치
+ReliquaryData_Desc_57242	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57243	교관의 브로치
+ReliquaryData_Desc_57243	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57244	교관의 브로치
+ReliquaryData_Desc_57244	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57250	교관의 회중시계
+ReliquaryData_Desc_57250	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57251	교관의 회중시계
+ReliquaryData_Desc_57251	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57252	교관의 회중시계
+ReliquaryData_Desc_57252	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57253	교관의 회중시계
+ReliquaryData_Desc_57253	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57254	교관의 회중시계
+ReliquaryData_Desc_57254	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57310	교관의 찻잔
+ReliquaryData_Desc_57310	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57311	교관의 찻잔
+ReliquaryData_Desc_57311	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57312	교관의 찻잔
+ReliquaryData_Desc_57312	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57313	교관의 찻잔
+ReliquaryData_Desc_57313	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57314	교관의 찻잔
+ReliquaryData_Desc_57314	외부인의 눈에는 평범한 찻잔이지만 수강생의 눈에는 교관 권력의 상징으로 비친다
+ReliquaryData_Name_57320	교관의 깃털장식
+ReliquaryData_Desc_57320	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57321	교관의 깃털장식
+ReliquaryData_Desc_57321	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57322	교관의 깃털장식
+ReliquaryData_Desc_57322	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57323	교관의 깃털장식
+ReliquaryData_Desc_57323	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57324	교관의 깃털장식
+ReliquaryData_Desc_57324	받는 힘을 무력화하는 방법을 익히 알고 있는 교관은 아무리 강한 바람이 불어도 깃털장식이 날아가게 하지 않는다
+ReliquaryData_Name_57330	교관의 모자
+ReliquaryData_Desc_57330	제식 교관 모자
+ReliquaryData_Name_57331	교관의 모자
+ReliquaryData_Desc_57331	제식 교관 모자
+ReliquaryData_Name_57332	교관의 모자
+ReliquaryData_Desc_57332	제식 교관 모자
+ReliquaryData_Name_57333	교관의 모자
+ReliquaryData_Desc_57333	제식 교관 모자
+ReliquaryData_Name_57334	교관의 모자
+ReliquaryData_Desc_57334	제식 교관 모자
+ReliquaryData_Name_57340	교관의 브로치
+ReliquaryData_Desc_57340	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57341	교관의 브로치
+ReliquaryData_Desc_57341	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57342	교관의 브로치
+ReliquaryData_Desc_57342	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57343	교관의 브로치
+ReliquaryData_Desc_57343	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57344	교관의 브로치
+ReliquaryData_Desc_57344	가슴에 이런 꽃을 꽂았을 때는 오늘의 훈련은 없다는 것을 의미한다
+ReliquaryData_Name_57350	교관의 회중시계
+ReliquaryData_Desc_57350	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57351	교관의 회중시계
+ReliquaryData_Desc_57351	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57352	교관의 회중시계
+ReliquaryData_Desc_57352	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57353	교관의 회중시계
+ReliquaryData_Desc_57353	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_57354	교관의 회중시계
+ReliquaryData_Desc_57354	시간은 확인할 수 없는 훈련에만 사용하는 타임워치다
+ReliquaryData_Name_58210	노름꾼의 주사위
+ReliquaryData_Desc_58210	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58211	노름꾼의 주사위
+ReliquaryData_Desc_58211	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58212	노름꾼의 주사위
+ReliquaryData_Desc_58212	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58213	노름꾼의 주사위
+ReliquaryData_Desc_58213	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58214	노름꾼의 주사위
+ReliquaryData_Desc_58214	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58220	노름꾼의 깃털장식
+ReliquaryData_Desc_58220	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58221	노름꾼의 깃털장식
+ReliquaryData_Desc_58221	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58222	노름꾼의 깃털장식
+ReliquaryData_Desc_58222	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58223	노름꾼의 깃털장식
+ReliquaryData_Desc_58223	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58224	노름꾼의 깃털장식
+ReliquaryData_Desc_58224	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58230	노름꾼의 귀걸이
+ReliquaryData_Desc_58230	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58231	노름꾼의 귀걸이
+ReliquaryData_Desc_58231	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58232	노름꾼의 귀걸이
+ReliquaryData_Desc_58232	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58233	노름꾼의 귀걸이
+ReliquaryData_Desc_58233	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58234	노름꾼의 귀걸이
+ReliquaryData_Desc_58234	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58240	노름꾼의 브로치
+ReliquaryData_Desc_58240	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58241	노름꾼의 브로치
+ReliquaryData_Desc_58241	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58242	노름꾼의 브로치
+ReliquaryData_Desc_58242	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58243	노름꾼의 브로치
+ReliquaryData_Desc_58243	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58244	노름꾼의 브로치
+ReliquaryData_Desc_58244	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58250	노름꾼의 회중시계
+ReliquaryData_Desc_58250	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58251	노름꾼의 회중시계
+ReliquaryData_Desc_58251	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58252	노름꾼의 회중시계
+ReliquaryData_Desc_58252	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58253	노름꾼의 회중시계
+ReliquaryData_Desc_58253	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58254	노름꾼의 회중시계
+ReliquaryData_Desc_58254	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58310	노름꾼의 주사위
+ReliquaryData_Desc_58310	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58311	노름꾼의 주사위
+ReliquaryData_Desc_58311	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58312	노름꾼의 주사위
+ReliquaryData_Desc_58312	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58313	노름꾼의 주사위
+ReliquaryData_Desc_58313	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58314	노름꾼의 주사위
+ReliquaryData_Desc_58314	용도가 하나뿐인 특제 용기. 하지만 내부에 아무런 사기 장치가 없다
+ReliquaryData_Name_58320	노름꾼의 깃털장식
+ReliquaryData_Desc_58320	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58321	노름꾼의 깃털장식
+ReliquaryData_Desc_58321	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58322	노름꾼의 깃털장식
+ReliquaryData_Desc_58322	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58323	노름꾼의 깃털장식
+ReliquaryData_Desc_58323	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58324	노름꾼의 깃털장식
+ReliquaryData_Desc_58324	큰 새의 꽁지깃털, 그 속에는 하늘의 뜻을 바꿀 수 있는 패를 숨길 수 있다
+ReliquaryData_Name_58330	노름꾼의 귀걸이
+ReliquaryData_Desc_58330	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58331	노름꾼의 귀걸이
+ReliquaryData_Desc_58331	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58332	노름꾼의 귀걸이
+ReliquaryData_Desc_58332	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58333	노름꾼의 귀걸이
+ReliquaryData_Desc_58333	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58334	노름꾼의 귀걸이
+ReliquaryData_Desc_58334	냉정하게 정세와 위험을 평가하고 위기를 모면하게 하는 청록색 귀걸이
+ReliquaryData_Name_58340	노름꾼의 브로치
+ReliquaryData_Desc_58340	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58341	노름꾼의 브로치
+ReliquaryData_Desc_58341	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58342	노름꾼의 브로치
+ReliquaryData_Desc_58342	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58343	노름꾼의 브로치
+ReliquaryData_Desc_58343	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58344	노름꾼의 브로치
+ReliquaryData_Desc_58344	화려한 꽃송이. 안에는 자신이 미리 준비한 주사위를 숨길 수 있다
+ReliquaryData_Name_58350	노름꾼의 회중시계
+ReliquaryData_Desc_58350	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58351	노름꾼의 회중시계
+ReliquaryData_Desc_58351	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58352	노름꾼의 회중시계
+ReliquaryData_Desc_58352	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58353	노름꾼의 회중시계
+ReliquaryData_Desc_58353	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_58354	노름꾼의 회중시계
+ReliquaryData_Desc_58354	파손된 회중시계. 예전에 주인을 위해 치명적인 공격을 막아내줬다
+ReliquaryData_Name_59110	유배자의 잔
+ReliquaryData_Desc_59110	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59111	유배자의 잔
+ReliquaryData_Desc_59111	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59112	유배자의 잔
+ReliquaryData_Desc_59112	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59113	유배자의 잔
+ReliquaryData_Desc_59113	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59114	유배자의 잔
+ReliquaryData_Desc_59114	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59120	유배자의 깃털
+ReliquaryData_Desc_59120	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59121	유배자의 깃털
+ReliquaryData_Desc_59121	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59122	유배자의 깃털
+ReliquaryData_Desc_59122	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59123	유배자의 깃털
+ReliquaryData_Desc_59123	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59124	유배자의 깃털
+ReliquaryData_Desc_59124	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59130	유배자의 왕관
+ReliquaryData_Desc_59130	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59131	유배자의 왕관
+ReliquaryData_Desc_59131	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59132	유배자의 왕관
+ReliquaryData_Desc_59132	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59133	유배자의 왕관
+ReliquaryData_Desc_59133	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59134	유배자의 왕관
+ReliquaryData_Desc_59134	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59140	유배자의 꽃
+ReliquaryData_Desc_59140	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59141	유배자의 꽃
+ReliquaryData_Desc_59141	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59142	유배자의 꽃
+ReliquaryData_Desc_59142	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59143	유배자의 꽃
+ReliquaryData_Desc_59143	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59144	유배자의 꽃
+ReliquaryData_Desc_59144	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59150	유배자의 회중시계
+ReliquaryData_Desc_59150	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59151	유배자의 회중시계
+ReliquaryData_Desc_59151	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59152	유배자의 회중시계
+ReliquaryData_Desc_59152	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59153	유배자의 회중시계
+ReliquaryData_Desc_59153	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59154	유배자의 회중시계
+ReliquaryData_Desc_59154	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59210	유배자의 잔
+ReliquaryData_Desc_59210	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59211	유배자의 잔
+ReliquaryData_Desc_59211	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59212	유배자의 잔
+ReliquaryData_Desc_59212	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59213	유배자의 잔
+ReliquaryData_Desc_59213	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59214	유배자의 잔
+ReliquaryData_Desc_59214	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59220	유배자의 깃털
+ReliquaryData_Desc_59220	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59221	유배자의 깃털
+ReliquaryData_Desc_59221	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59222	유배자의 깃털
+ReliquaryData_Desc_59222	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59223	유배자의 깃털
+ReliquaryData_Desc_59223	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59224	유배자의 깃털
+ReliquaryData_Desc_59224	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59230	유배자의 왕관
+ReliquaryData_Desc_59230	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59231	유배자의 왕관
+ReliquaryData_Desc_59231	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59232	유배자의 왕관
+ReliquaryData_Desc_59232	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59233	유배자의 왕관
+ReliquaryData_Desc_59233	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59234	유배자의 왕관
+ReliquaryData_Desc_59234	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59240	유배자의 꽃
+ReliquaryData_Desc_59240	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59241	유배자의 꽃
+ReliquaryData_Desc_59241	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59242	유배자의 꽃
+ReliquaryData_Desc_59242	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59243	유배자의 꽃
+ReliquaryData_Desc_59243	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59244	유배자의 꽃
+ReliquaryData_Desc_59244	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59250	유배자의 회중시계
+ReliquaryData_Desc_59250	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59251	유배자의 회중시계
+ReliquaryData_Desc_59251	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59252	유배자의 회중시계
+ReliquaryData_Desc_59252	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59253	유배자의 회중시계
+ReliquaryData_Desc_59253	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59254	유배자의 회중시계
+ReliquaryData_Desc_59254	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59310	유배자의 잔
+ReliquaryData_Desc_59310	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59311	유배자의 잔
+ReliquaryData_Desc_59311	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59312	유배자의 잔
+ReliquaryData_Desc_59312	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59313	유배자의 잔
+ReliquaryData_Desc_59313	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59314	유배자의 잔
+ReliquaryData_Desc_59314	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59320	유배자의 깃털
+ReliquaryData_Desc_59320	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59321	유배자의 깃털
+ReliquaryData_Desc_59321	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59322	유배자의 깃털
+ReliquaryData_Desc_59322	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59323	유배자의 깃털
+ReliquaryData_Desc_59323	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59324	유배자의 깃털
+ReliquaryData_Desc_59324	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59330	유배자의 왕관
+ReliquaryData_Desc_59330	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59331	유배자의 왕관
+ReliquaryData_Desc_59331	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59332	유배자의 왕관
+ReliquaryData_Desc_59332	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59333	유배자의 왕관
+ReliquaryData_Desc_59333	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59334	유배자의 왕관
+ReliquaryData_Desc_59334	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59340	유배자의 꽃
+ReliquaryData_Desc_59340	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59341	유배자의 꽃
+ReliquaryData_Desc_59341	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59342	유배자의 꽃
+ReliquaryData_Desc_59342	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59343	유배자의 꽃
+ReliquaryData_Desc_59343	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59344	유배자의 꽃
+ReliquaryData_Desc_59344	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59350	유배자의 회중시계
+ReliquaryData_Desc_59350	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59351	유배자의 회중시계
+ReliquaryData_Desc_59351	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59352	유배자의 회중시계
+ReliquaryData_Desc_59352	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59353	유배자의 회중시계
+ReliquaryData_Desc_59353	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59354	유배자의 회중시계
+ReliquaryData_Desc_59354	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59410	유배자의 잔
+ReliquaryData_Desc_59410	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59411	유배자의 잔
+ReliquaryData_Desc_59411	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59412	유배자의 잔
+ReliquaryData_Desc_59412	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59413	유배자의 잔
+ReliquaryData_Desc_59413	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59414	유배자의 잔
+ReliquaryData_Desc_59414	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_59420	유배자의 깃털
+ReliquaryData_Desc_59420	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59421	유배자의 깃털
+ReliquaryData_Desc_59421	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59422	유배자의 깃털
+ReliquaryData_Desc_59422	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59423	유배자의 깃털
+ReliquaryData_Desc_59423	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59424	유배자의 깃털
+ReliquaryData_Desc_59424	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_59430	유배자의 왕관
+ReliquaryData_Desc_59430	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59431	유배자의 왕관
+ReliquaryData_Desc_59431	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59432	유배자의 왕관
+ReliquaryData_Desc_59432	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59433	유배자의 왕관
+ReliquaryData_Desc_59433	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59434	유배자의 왕관
+ReliquaryData_Desc_59434	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_59440	유배자의 꽃
+ReliquaryData_Desc_59440	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59441	유배자의 꽃
+ReliquaryData_Desc_59441	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59442	유배자의 꽃
+ReliquaryData_Desc_59442	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59443	유배자의 꽃
+ReliquaryData_Desc_59443	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59444	유배자의 꽃
+ReliquaryData_Desc_59444	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_59450	유배자의 회중시계
+ReliquaryData_Desc_59450	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59451	유배자의 회중시계
+ReliquaryData_Desc_59451	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59452	유배자의 회중시계
+ReliquaryData_Desc_59452	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59453	유배자의 회중시계
+ReliquaryData_Desc_59453	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_59454	유배자의 회중시계
+ReliquaryData_Desc_59454	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_60110	탐험가의 황금잔
+ReliquaryData_Desc_60110	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60111	탐험가의 황금잔
+ReliquaryData_Desc_60111	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60112	탐험가의 황금잔
+ReliquaryData_Desc_60112	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60113	탐험가의 황금잔
+ReliquaryData_Desc_60113	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60114	탐험가의 황금잔
+ReliquaryData_Desc_60114	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60120	탐험가의 꽁지깃털
+ReliquaryData_Desc_60120	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60121	탐험가의 꽁지깃털
+ReliquaryData_Desc_60121	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60122	탐험가의 꽁지깃털
+ReliquaryData_Desc_60122	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60123	탐험가의 꽁지깃털
+ReliquaryData_Desc_60123	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60124	탐험가의 꽁지깃털
+ReliquaryData_Desc_60124	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60130	탐험가의 머리띠
+ReliquaryData_Desc_60130	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60131	탐험가의 머리띠
+ReliquaryData_Desc_60131	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60132	탐험가의 머리띠
+ReliquaryData_Desc_60132	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60133	탐험가의 머리띠
+ReliquaryData_Desc_60133	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60134	탐험가의 머리띠
+ReliquaryData_Desc_60134	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60140	탐험가의 꽃
+ReliquaryData_Desc_60140	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60141	탐험가의 꽃
+ReliquaryData_Desc_60141	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60142	탐험가의 꽃
+ReliquaryData_Desc_60142	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60143	탐험가의 꽃
+ReliquaryData_Desc_60143	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60144	탐험가의 꽃
+ReliquaryData_Desc_60144	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60150	탐험가의 회중시계
+ReliquaryData_Desc_60150	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60151	탐험가의 회중시계
+ReliquaryData_Desc_60151	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60152	탐험가의 회중시계
+ReliquaryData_Desc_60152	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60153	탐험가의 회중시계
+ReliquaryData_Desc_60153	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60154	탐험가의 회중시계
+ReliquaryData_Desc_60154	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60210	탐험가의 황금잔
+ReliquaryData_Desc_60210	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60211	탐험가의 황금잔
+ReliquaryData_Desc_60211	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60212	탐험가의 황금잔
+ReliquaryData_Desc_60212	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60213	탐험가의 황금잔
+ReliquaryData_Desc_60213	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60214	탐험가의 황금잔
+ReliquaryData_Desc_60214	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60220	탐험가의 꽁지깃털
+ReliquaryData_Desc_60220	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60221	탐험가의 꽁지깃털
+ReliquaryData_Desc_60221	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60222	탐험가의 꽁지깃털
+ReliquaryData_Desc_60222	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60223	탐험가의 꽁지깃털
+ReliquaryData_Desc_60223	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60224	탐험가의 꽁지깃털
+ReliquaryData_Desc_60224	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60230	탐험가의 머리띠
+ReliquaryData_Desc_60230	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60231	탐험가의 머리띠
+ReliquaryData_Desc_60231	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60232	탐험가의 머리띠
+ReliquaryData_Desc_60232	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60233	탐험가의 머리띠
+ReliquaryData_Desc_60233	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60234	탐험가의 머리띠
+ReliquaryData_Desc_60234	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60240	탐험가의 꽃
+ReliquaryData_Desc_60240	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60241	탐험가의 꽃
+ReliquaryData_Desc_60241	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60242	탐험가의 꽃
+ReliquaryData_Desc_60242	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60243	탐험가의 꽃
+ReliquaryData_Desc_60243	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60244	탐험가의 꽃
+ReliquaryData_Desc_60244	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60250	탐험가의 회중시계
+ReliquaryData_Desc_60250	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60251	탐험가의 회중시계
+ReliquaryData_Desc_60251	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60252	탐험가의 회중시계
+ReliquaryData_Desc_60252	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60253	탐험가의 회중시계
+ReliquaryData_Desc_60253	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60254	탐험가의 회중시계
+ReliquaryData_Desc_60254	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60310	탐험가의 황금잔
+ReliquaryData_Desc_60310	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60311	탐험가의 황금잔
+ReliquaryData_Desc_60311	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60312	탐험가의 황금잔
+ReliquaryData_Desc_60312	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60313	탐험가의 황금잔
+ReliquaryData_Desc_60313	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60314	탐험가의 황금잔
+ReliquaryData_Desc_60314	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60320	탐험가의 꽁지깃털
+ReliquaryData_Desc_60320	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60321	탐험가의 꽁지깃털
+ReliquaryData_Desc_60321	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60322	탐험가의 꽁지깃털
+ReliquaryData_Desc_60322	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60323	탐험가의 꽁지깃털
+ReliquaryData_Desc_60323	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60324	탐험가의 꽁지깃털
+ReliquaryData_Desc_60324	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60330	탐험가의 머리띠
+ReliquaryData_Desc_60330	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60331	탐험가의 머리띠
+ReliquaryData_Desc_60331	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60332	탐험가의 머리띠
+ReliquaryData_Desc_60332	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60333	탐험가의 머리띠
+ReliquaryData_Desc_60333	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60334	탐험가의 머리띠
+ReliquaryData_Desc_60334	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60340	탐험가의 꽃
+ReliquaryData_Desc_60340	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60341	탐험가의 꽃
+ReliquaryData_Desc_60341	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60342	탐험가의 꽃
+ReliquaryData_Desc_60342	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60343	탐험가의 꽃
+ReliquaryData_Desc_60343	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60344	탐험가의 꽃
+ReliquaryData_Desc_60344	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60350	탐험가의 회중시계
+ReliquaryData_Desc_60350	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60351	탐험가의 회중시계
+ReliquaryData_Desc_60351	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60352	탐험가의 회중시계
+ReliquaryData_Desc_60352	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60353	탐험가의 회중시계
+ReliquaryData_Desc_60353	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60354	탐험가의 회중시계
+ReliquaryData_Desc_60354	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60410	탐험가의 황금잔
+ReliquaryData_Desc_60410	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60411	탐험가의 황금잔
+ReliquaryData_Desc_60411	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60412	탐험가의 황금잔
+ReliquaryData_Desc_60412	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60413	탐험가의 황금잔
+ReliquaryData_Desc_60413	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60414	탐험가의 황금잔
+ReliquaryData_Desc_60414	어떤 모험에서 얻은 황금잔. 비록 흠이 있더라도 여전히 자랑스러운 전리품이다
+ReliquaryData_Name_60420	탐험가의 꽁지깃털
+ReliquaryData_Desc_60420	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60421	탐험가의 꽁지깃털
+ReliquaryData_Desc_60421	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60422	탐험가의 꽁지깃털
+ReliquaryData_Desc_60422	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60423	탐험가의 꽁지깃털
+ReliquaryData_Desc_60423	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60424	탐험가의 꽁지깃털
+ReliquaryData_Desc_60424	이국의 기묘한 조류의 깃털, 이 대륙에선 매우 희귀하다
+ReliquaryData_Name_60430	탐험가의 머리띠
+ReliquaryData_Desc_60430	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60431	탐험가의 머리띠
+ReliquaryData_Desc_60431	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60432	탐험가의 머리띠
+ReliquaryData_Desc_60432	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60433	탐험가의 머리띠
+ReliquaryData_Desc_60433	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60434	탐험가의 머리띠
+ReliquaryData_Desc_60434	이마에 묶인 장식 띠는 모험에서 흘린 땀과 먼지를 빨아들인다. 약간 더럽기도 하지만 탐험가의 자랑이기도 하다
+ReliquaryData_Name_60440	탐험가의 꽃
+ReliquaryData_Desc_60440	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60441	탐험가의 꽃
+ReliquaryData_Desc_60441	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60442	탐험가의 꽃
+ReliquaryData_Desc_60442	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60443	탐험가의 꽃
+ReliquaryData_Desc_60443	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60444	탐험가의 꽃
+ReliquaryData_Desc_60444	깊은 고대 도시에서 얻은 절체절명의 위기에서 핀 꽃. 자랑스러운 훈장으로 가슴에 달아졌다
+ReliquaryData_Name_60450	탐험가의 회중시계
+ReliquaryData_Desc_60450	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60451	탐험가의 회중시계
+ReliquaryData_Desc_60451	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60452	탐험가의 회중시계
+ReliquaryData_Desc_60452	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60453	탐험가의 회중시계
+ReliquaryData_Desc_60453	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_60454	탐험가의 회중시계
+ReliquaryData_Desc_60454	늘 하늘이 보이지 않는 거대 심연과 고대 도시에서 시간을 보내는 탐험가는 시간을 자주 잊는다
+ReliquaryData_Name_61210	행운아의 잔
+ReliquaryData_Desc_61210	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61211	행운아의 잔
+ReliquaryData_Desc_61211	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61212	행운아의 잔
+ReliquaryData_Desc_61212	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61213	행운아의 잔
+ReliquaryData_Desc_61213	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61214	행운아의 잔
+ReliquaryData_Desc_61214	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61220	행운아의 매 깃털
+ReliquaryData_Desc_61220	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61221	행운아의 매 깃털
+ReliquaryData_Desc_61221	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61222	행운아의 매 깃털
+ReliquaryData_Desc_61222	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61223	행운아의 매 깃털
+ReliquaryData_Desc_61223	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61224	행운아의 매 깃털
+ReliquaryData_Desc_61224	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61230	행운아의 은관
+ReliquaryData_Desc_61230	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61231	행운아의 은관
+ReliquaryData_Desc_61231	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61232	행운아의 은관
+ReliquaryData_Desc_61232	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61233	행운아의 은관
+ReliquaryData_Desc_61233	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61234	행운아의 은관
+ReliquaryData_Desc_61234	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61240	행운아의 네 잎 클로버
+ReliquaryData_Desc_61240	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61241	행운아의 네 잎 클로버
+ReliquaryData_Desc_61241	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61242	행운아의 네 잎 클로버
+ReliquaryData_Desc_61242	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61243	행운아의 네 잎 클로버
+ReliquaryData_Desc_61243	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61244	행운아의 네 잎 클로버
+ReliquaryData_Desc_61244	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61250	행운아의 모래시계
+ReliquaryData_Desc_61250	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61251	행운아의 모래시계
+ReliquaryData_Desc_61251	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61252	행운아의 모래시계
+ReliquaryData_Desc_61252	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61253	행운아의 모래시계
+ReliquaryData_Desc_61253	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61254	행운아의 모래시계
+ReliquaryData_Desc_61254	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61310	행운아의 잔
+ReliquaryData_Desc_61310	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61311	행운아의 잔
+ReliquaryData_Desc_61311	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61312	행운아의 잔
+ReliquaryData_Desc_61312	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61313	행운아의 잔
+ReliquaryData_Desc_61313	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61314	행운아의 잔
+ReliquaryData_Desc_61314	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_61320	행운아의 매 깃털
+ReliquaryData_Desc_61320	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61321	행운아의 매 깃털
+ReliquaryData_Desc_61321	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61322	행운아의 매 깃털
+ReliquaryData_Desc_61322	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61323	행운아의 매 깃털
+ReliquaryData_Desc_61323	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61324	행운아의 매 깃털
+ReliquaryData_Desc_61324	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_61330	행운아의 은관
+ReliquaryData_Desc_61330	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61331	행운아의 은관
+ReliquaryData_Desc_61331	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61332	행운아의 은관
+ReliquaryData_Desc_61332	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61333	행운아의 은관
+ReliquaryData_Desc_61333	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61334	행운아의 은관
+ReliquaryData_Desc_61334	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_61340	행운아의 네 잎 클로버
+ReliquaryData_Desc_61340	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61341	행운아의 네 잎 클로버
+ReliquaryData_Desc_61341	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61342	행운아의 네 잎 클로버
+ReliquaryData_Desc_61342	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61343	행운아의 네 잎 클로버
+ReliquaryData_Desc_61343	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61344	행운아의 네 잎 클로버
+ReliquaryData_Desc_61344	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_61350	행운아의 모래시계
+ReliquaryData_Desc_61350	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61351	행운아의 모래시계
+ReliquaryData_Desc_61351	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61352	행운아의 모래시계
+ReliquaryData_Desc_61352	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61353	행운아의 모래시계
+ReliquaryData_Desc_61353	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_61354	행운아의 모래시계
+ReliquaryData_Desc_61354	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_62210	학자의 먹잔
+ReliquaryData_Desc_62210	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62211	학자의 먹잔
+ReliquaryData_Desc_62211	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62212	학자의 먹잔
+ReliquaryData_Desc_62212	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62213	학자의 먹잔
+ReliquaryData_Desc_62213	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62214	학자의 먹잔
+ReliquaryData_Desc_62214	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62220	학자의 깃펜
+ReliquaryData_Desc_62220	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62221	학자의 깃펜
+ReliquaryData_Desc_62221	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62222	학자의 깃펜
+ReliquaryData_Desc_62222	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62223	학자의 깃펜
+ReliquaryData_Desc_62223	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62224	학자의 깃펜
+ReliquaryData_Desc_62224	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62230	학자의 렌즈
+ReliquaryData_Desc_62230	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62231	학자의 렌즈
+ReliquaryData_Desc_62231	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62232	학자의 렌즈
+ReliquaryData_Desc_62232	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62233	학자의 렌즈
+ReliquaryData_Desc_62233	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62234	학자의 렌즈
+ReliquaryData_Desc_62234	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62240	학자의 책갈피
+ReliquaryData_Desc_62240	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62241	학자의 책갈피
+ReliquaryData_Desc_62241	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62242	학자의 책갈피
+ReliquaryData_Desc_62242	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62243	학자의 책갈피
+ReliquaryData_Desc_62243	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62244	학자의 책갈피
+ReliquaryData_Desc_62244	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62250	학자의 탁상시계
+ReliquaryData_Desc_62250	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62251	학자의 탁상시계
+ReliquaryData_Desc_62251	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62252	학자의 탁상시계
+ReliquaryData_Desc_62252	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62253	학자의 탁상시계
+ReliquaryData_Desc_62253	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62254	학자의 탁상시계
+ReliquaryData_Desc_62254	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62310	학자의 먹잔
+ReliquaryData_Desc_62310	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62311	학자의 먹잔
+ReliquaryData_Desc_62311	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62312	학자의 먹잔
+ReliquaryData_Desc_62312	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62313	학자의 먹잔
+ReliquaryData_Desc_62313	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62314	학자의 먹잔
+ReliquaryData_Desc_62314	본디 물을 마시는데 사용하는 용기였는데 펜을 자주 헹궈 검게 물들었다
+ReliquaryData_Name_62320	학자의 깃펜
+ReliquaryData_Desc_62320	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62321	학자의 깃펜
+ReliquaryData_Desc_62321	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62322	학자의 깃펜
+ReliquaryData_Desc_62322	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62323	학자의 깃펜
+ReliquaryData_Desc_62323	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62324	학자의 깃펜
+ReliquaryData_Desc_62324	필기도구로 쓰이는 어떤 조류의 꽁지깃털은 이미 검게 물들어 있다
+ReliquaryData_Name_62330	학자의 렌즈
+ReliquaryData_Desc_62330	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62331	학자의 렌즈
+ReliquaryData_Desc_62331	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62332	학자의 렌즈
+ReliquaryData_Desc_62332	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62333	학자의 렌즈
+ReliquaryData_Desc_62333	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62334	학자의 렌즈
+ReliquaryData_Desc_62334	엄청난 양의 독서는 독자의 시력을 상하게 한다. 이런 손상을 보완하기 위해 맞춤화된 도구이다
+ReliquaryData_Name_62340	학자의 책갈피
+ReliquaryData_Desc_62340	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62341	학자의 책갈피
+ReliquaryData_Desc_62341	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62342	학자의 책갈피
+ReliquaryData_Desc_62342	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62343	학자의 책갈피
+ReliquaryData_Desc_62343	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62344	학자의 책갈피
+ReliquaryData_Desc_62344	책갈피로 사용하는 말린 꽃은 책의 향을 듬뿍 빨아들인다
+ReliquaryData_Name_62350	학자의 탁상시계
+ReliquaryData_Desc_62350	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62351	학자의 탁상시계
+ReliquaryData_Desc_62351	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62352	학자의 탁상시계
+ReliquaryData_Desc_62352	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62353	학자의 탁상시계
+ReliquaryData_Desc_62353	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_62354	학자의 탁상시계
+ReliquaryData_Desc_62354	테이블에 놓기에 적합한 작은 시계는 방안에서만 시간을 보내는 학자들에게 시간을 알려주는 유일한 도구이다
+ReliquaryData_Name_63210	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63210	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63211	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63211	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63212	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63212	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63213	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63213	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63214	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63214	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63220	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63220	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63221	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63221	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63222	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63222	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63223	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63223	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63224	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63224	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63230	떠돌이 의사의 두건
+ReliquaryData_Desc_63230	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63231	떠돌이 의사의 두건
+ReliquaryData_Desc_63231	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63232	떠돌이 의사의 두건
+ReliquaryData_Desc_63232	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63233	떠돌이 의사의 두건
+ReliquaryData_Desc_63233	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63234	떠돌이 의사의 두건
+ReliquaryData_Desc_63234	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63240	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63240	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63241	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63241	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63242	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63242	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63243	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63243	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63244	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63244	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63250	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63250	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63251	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63251	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63252	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63252	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63253	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63253	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63254	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63254	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63310	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63310	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63311	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63311	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63312	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63312	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63313	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63313	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63314	떠돌이 의사의 약주전자
+ReliquaryData_Desc_63314	원래는 정제된 약으로 가득 차 있었는데, 지금은 강한 약 냄새만 남아 있다
+ReliquaryData_Name_63320	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63320	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63321	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63321	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63322	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63322	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63323	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63323	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63324	떠돌이 의사의 올빼미깃
+ReliquaryData_Desc_63324	올빼미의 단단한 깃털. 야간 진료하러 갈 때 야행성 맹금을 떠올리며 자신을 격려한다
+ReliquaryData_Name_63330	떠돌이 의사의 두건
+ReliquaryData_Desc_63330	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63331	떠돌이 의사의 두건
+ReliquaryData_Desc_63331	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63332	떠돌이 의사의 두건
+ReliquaryData_Desc_63332	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63333	떠돌이 의사의 두건
+ReliquaryData_Desc_63333	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63334	떠돌이 의사의 두건
+ReliquaryData_Desc_63334	평소에는 진료할 때 헝클어진 머리를 묶을 수 있고, 유사시에는 접질리고 부러진 팔을 받치는 데 사용할 수도 있다
+ReliquaryData_Name_63340	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63340	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63341	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63341	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63342	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63342	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63343	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63343	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63344	떠돌이 의사의 바람꽃
+ReliquaryData_Desc_63344	진귀한 약재. 하지만 시간이 너무 오래 지나 약용 가치가 사라졌다
+ReliquaryData_Name_63350	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63350	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63351	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63351	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63352	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63352	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63353	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63353	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_63354	떠돌이 의사의 회중시계
+ReliquaryData_Desc_63354	정확한 시간을 확인하기 위한 도구. 의사한테는 1초도 소중하다
+ReliquaryData_Name_71410	유배자의 잔
+ReliquaryData_Desc_71410	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_71411	유배자의 잔
+ReliquaryData_Desc_71411	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_71412	유배자의 잔
+ReliquaryData_Desc_71412	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_71413	유배자의 잔
+ReliquaryData_Desc_71413	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_71414	유배자의 잔
+ReliquaryData_Desc_71414	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_71420	유배자의 깃털
+ReliquaryData_Desc_71420	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_71421	유배자의 깃털
+ReliquaryData_Desc_71421	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_71422	유배자의 깃털
+ReliquaryData_Desc_71422	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_71423	유배자의 깃털
+ReliquaryData_Desc_71423	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_71424	유배자의 깃털
+ReliquaryData_Desc_71424	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_71430	유배자의 왕관
+ReliquaryData_Desc_71430	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_71431	유배자의 왕관
+ReliquaryData_Desc_71431	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_71432	유배자의 왕관
+ReliquaryData_Desc_71432	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_71433	유배자의 왕관
+ReliquaryData_Desc_71433	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_71434	유배자의 왕관
+ReliquaryData_Desc_71434	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_71440	유배자의 꽃
+ReliquaryData_Desc_71440	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_71441	유배자의 꽃
+ReliquaryData_Desc_71441	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_71442	유배자의 꽃
+ReliquaryData_Desc_71442	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_71443	유배자의 꽃
+ReliquaryData_Desc_71443	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_71444	유배자의 꽃
+ReliquaryData_Desc_71444	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_71450	유배자의 회중시계
+ReliquaryData_Desc_71450	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_71451	유배자의 회중시계
+ReliquaryData_Desc_71451	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_71452	유배자의 회중시계
+ReliquaryData_Desc_71452	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_71453	유배자의 회중시계
+ReliquaryData_Desc_71453	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_71454	유배자의 회중시계
+ReliquaryData_Desc_71454	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_72410	유배자의 잔
+ReliquaryData_Desc_72410	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_72411	유배자의 잔
+ReliquaryData_Desc_72411	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_72412	유배자의 잔
+ReliquaryData_Desc_72412	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_72413	유배자의 잔
+ReliquaryData_Desc_72413	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_72414	유배자의 잔
+ReliquaryData_Desc_72414	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_72420	유배자의 깃털
+ReliquaryData_Desc_72420	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_72421	유배자의 깃털
+ReliquaryData_Desc_72421	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_72422	유배자의 깃털
+ReliquaryData_Desc_72422	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_72423	유배자의 깃털
+ReliquaryData_Desc_72423	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_72424	유배자의 깃털
+ReliquaryData_Desc_72424	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_72430	유배자의 왕관
+ReliquaryData_Desc_72430	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_72431	유배자의 왕관
+ReliquaryData_Desc_72431	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_72432	유배자의 왕관
+ReliquaryData_Desc_72432	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_72433	유배자의 왕관
+ReliquaryData_Desc_72433	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_72434	유배자의 왕관
+ReliquaryData_Desc_72434	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_72440	유배자의 꽃
+ReliquaryData_Desc_72440	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_72441	유배자의 꽃
+ReliquaryData_Desc_72441	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_72442	유배자의 꽃
+ReliquaryData_Desc_72442	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_72443	유배자의 꽃
+ReliquaryData_Desc_72443	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_72444	유배자의 꽃
+ReliquaryData_Desc_72444	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_72450	유배자의 회중시계
+ReliquaryData_Desc_72450	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_72451	유배자의 회중시계
+ReliquaryData_Desc_72451	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_72452	유배자의 회중시계
+ReliquaryData_Desc_72452	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_72453	유배자의 회중시계
+ReliquaryData_Desc_72453	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_72454	유배자의 회중시계
+ReliquaryData_Desc_72454	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_73410	유배자의 잔
+ReliquaryData_Desc_73410	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_73411	유배자의 잔
+ReliquaryData_Desc_73411	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_73412	유배자의 잔
+ReliquaryData_Desc_73412	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_73413	유배자의 잔
+ReliquaryData_Desc_73413	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_73414	유배자의 잔
+ReliquaryData_Desc_73414	어두운 중금속으로 만든 잔 모양의 그릇. 외벽에 보석이 박혀 있다가 다시 도려낸 것을 알 수 있다
+ReliquaryData_Name_73420	유배자의 깃털
+ReliquaryData_Desc_73420	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_73421	유배자의 깃털
+ReliquaryData_Desc_73421	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_73422	유배자의 깃털
+ReliquaryData_Desc_73422	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_73423	유배자의 깃털
+ReliquaryData_Desc_73423	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_73424	유배자의 깃털
+ReliquaryData_Desc_73424	일부러 꾸민 장식물이 아니라, 그저 황야를 떠돌다가 우연히 묻은 이름 모를 새의 깃털이다
+ReliquaryData_Name_73430	유배자의 왕관
+ReliquaryData_Desc_73430	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_73431	유배자의 왕관
+ReliquaryData_Desc_73431	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_73432	유배자의 왕관
+ReliquaryData_Desc_73432	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_73433	유배자의 왕관
+ReliquaryData_Desc_73433	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_73434	유배자의 왕관
+ReliquaryData_Desc_73434	존귀한 왕관, 신분을 드러내는 휘장이 칼로 그어지면서 원래의 존귀한 신분이 박탈되었다
+ReliquaryData_Name_73440	유배자의 꽃
+ReliquaryData_Desc_73440	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_73441	유배자의 꽃
+ReliquaryData_Desc_73441	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_73442	유배자의 꽃
+ReliquaryData_Desc_73442	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_73443	유배자의 꽃
+ReliquaryData_Desc_73443	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_73444	유배자의 꽃
+ReliquaryData_Desc_73444	몸에 지니고 있는 어둡고 희미한 꽃. 유배자의 신분으로 아직도 지니고 있는 걸 보면 분명 중요한 의미가 담겨 있는 것 같다
+ReliquaryData_Name_73450	유배자의 회중시계
+ReliquaryData_Desc_73450	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_73451	유배자의 회중시계
+ReliquaryData_Desc_73451	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_73452	유배자의 회중시계
+ReliquaryData_Desc_73452	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_73453	유배자의 회중시계
+ReliquaryData_Desc_73453	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_73454	유배자의 회중시계
+ReliquaryData_Desc_73454	수정으로 만들어진 유리는 이미 부서져 있고 시곗바늘까지 전부 떨어져 나갔지만, 여전히 버리려 하지 않는다
+ReliquaryData_Name_74410	행운아의 잔
+ReliquaryData_Desc_74410	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_74411	행운아의 잔
+ReliquaryData_Desc_74411	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_74412	행운아의 잔
+ReliquaryData_Desc_74412	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_74413	행운아의 잔
+ReliquaryData_Desc_74413	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_74414	행운아의 잔
+ReliquaryData_Desc_74414	정교한 금속 그릇. 밤에 찾아오는 도둑을 때려눕히는 데 사용되기도 했다
+ReliquaryData_Name_74420	행운아의 매 깃털
+ReliquaryData_Desc_74420	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_74421	행운아의 매 깃털
+ReliquaryData_Desc_74421	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_74422	행운아의 매 깃털
+ReliquaryData_Desc_74422	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_74423	행운아의 매 깃털
+ReliquaryData_Desc_74423	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_74424	행운아의 매 깃털
+ReliquaryData_Desc_74424	앞을 가로막는 마물이 오히려 사냥감을 찾는 매의 눈에 포착되는 정도의 운을 가져다주는 깃털
+ReliquaryData_Name_74430	행운아의 은관
+ReliquaryData_Desc_74430	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_74431	행운아의 은관
+ReliquaryData_Desc_74431	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_74432	행운아의 은관
+ReliquaryData_Desc_74432	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_74433	행운아의 은관
+ReliquaryData_Desc_74433	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_74434	행운아의 은관
+ReliquaryData_Desc_74434	우연히 떨어진 구멍이 추방된 옛 종족의 보물이 숨겨진 땅굴이었다. 그때에 얻은 기념품이다
+ReliquaryData_Name_74440	행운아의 네 잎 클로버
+ReliquaryData_Desc_74440	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_74441	행운아의 네 잎 클로버
+ReliquaryData_Desc_74441	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_74442	행운아의 네 잎 클로버
+ReliquaryData_Desc_74442	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_74443	행운아의 네 잎 클로버
+ReliquaryData_Desc_74443	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_74444	행운아의 네 잎 클로버
+ReliquaryData_Desc_74444	들판에서 걱정 없이 자라는 네 잎 클로버. 꺾인 건 행운이 가져다 온다는 설이 있기 때문이다
+ReliquaryData_Name_74450	행운아의 모래시계
+ReliquaryData_Desc_74450	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_74451	행운아의 모래시계
+ReliquaryData_Desc_74451	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_74452	행운아의 모래시계
+ReliquaryData_Desc_74452	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_74453	행운아의 모래시계
+ReliquaryData_Desc_74453	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_74454	행운아의 모래시계
+ReliquaryData_Desc_74454	구멍이 뚫려 텅 빈 모래시계. 시간이 가는 것은 아무런 걱정이 없는 사람에게 의미가 없다
+ReliquaryData_Name_75510	천공의 성배
+ReliquaryData_Desc_75510	5단계 성배
+ReliquaryData_Name_75511	천공의 성배
+ReliquaryData_Desc_75511	5단계 성배
+ReliquaryData_Name_75512	천공의 성배
+ReliquaryData_Desc_75512	5단계 성배
+ReliquaryData_Name_75513	천공의 성배
+ReliquaryData_Desc_75513	5단계 성배
+ReliquaryData_Name_75514	천공의 성배
+ReliquaryData_Desc_75514	5단계 성배
+ReliquaryData_Name_75520	천공의 깃털
+ReliquaryData_Desc_75520	5단계 깃털
+ReliquaryData_Name_75521	천공의 깃털
+ReliquaryData_Desc_75521	5단계 깃털
+ReliquaryData_Name_75522	천공의 깃털
+ReliquaryData_Desc_75522	5단계 깃털
+ReliquaryData_Name_75523	천공의 깃털
+ReliquaryData_Desc_75523	5단계 깃털
+ReliquaryData_Name_75524	천공의 깃털
+ReliquaryData_Desc_75524	5단계 깃털
+ReliquaryData_Name_75530	천공의 왕관
+ReliquaryData_Desc_75530	5단계 왕관
+ReliquaryData_Name_75531	천공의 왕관
+ReliquaryData_Desc_75531	5단계 왕관
+ReliquaryData_Name_75532	천공의 왕관
+ReliquaryData_Desc_75532	5단계 왕관
+ReliquaryData_Name_75533	천공의 왕관
+ReliquaryData_Desc_75533	5단계 왕관
+ReliquaryData_Name_75534	천공의 왕관
+ReliquaryData_Desc_75534	5단계 왕관
+ReliquaryData_Name_75540	천공의 꽃
+ReliquaryData_Desc_75540	5단계 꽃
+ReliquaryData_Name_75541	천공의 꽃
+ReliquaryData_Desc_75541	5단계 꽃
+ReliquaryData_Name_75542	천공의 꽃
+ReliquaryData_Desc_75542	5단계 꽃
+ReliquaryData_Name_75543	천공의 꽃
+ReliquaryData_Desc_75543	5단계 꽃
+ReliquaryData_Name_75544	천공의 꽃
+ReliquaryData_Desc_75544	5단계 꽃
+ReliquaryData_Name_75550	천공의 모래
+ReliquaryData_Desc_75550	5단계 모래
+ReliquaryData_Name_75551	천공의 모래
+ReliquaryData_Desc_75551	5단계 모래
+ReliquaryData_Name_75552	천공의 모래
+ReliquaryData_Desc_75552	5단계 모래
+ReliquaryData_Name_75553	천공의 모래
+ReliquaryData_Desc_75553	5단계 모래
+ReliquaryData_Name_75554	천공의 모래
+ReliquaryData_Desc_75554	5단계 모래
+ReliquaryData_Name_76510	천공의 성배
+ReliquaryData_Desc_76510	5단계 성배
+ReliquaryData_Name_76511	천공의 성배
+ReliquaryData_Desc_76511	5단계 성배
+ReliquaryData_Name_76512	천공의 성배
+ReliquaryData_Desc_76512	5단계 성배
+ReliquaryData_Name_76513	천공의 성배
+ReliquaryData_Desc_76513	5단계 성배
+ReliquaryData_Name_76514	천공의 성배
+ReliquaryData_Desc_76514	5단계 성배
+ReliquaryData_Name_76520	천공의 깃털
+ReliquaryData_Desc_76520	5단계 깃털
+ReliquaryData_Name_76521	천공의 깃털
+ReliquaryData_Desc_76521	5단계 깃털
+ReliquaryData_Name_76522	천공의 깃털
+ReliquaryData_Desc_76522	5단계 깃털
+ReliquaryData_Name_76523	천공의 깃털
+ReliquaryData_Desc_76523	5단계 깃털
+ReliquaryData_Name_76524	천공의 깃털
+ReliquaryData_Desc_76524	5단계 깃털
+ReliquaryData_Name_76530	천공의 왕관
+ReliquaryData_Desc_76530	5단계 왕관
+ReliquaryData_Name_76531	천공의 왕관
+ReliquaryData_Desc_76531	5단계 왕관
+ReliquaryData_Name_76532	천공의 왕관
+ReliquaryData_Desc_76532	5단계 왕관
+ReliquaryData_Name_76533	천공의 왕관
+ReliquaryData_Desc_76533	5단계 왕관
+ReliquaryData_Name_76534	천공의 왕관
+ReliquaryData_Desc_76534	5단계 왕관
+ReliquaryData_Name_76540	천공의 꽃
+ReliquaryData_Desc_76540	5단계 꽃
+ReliquaryData_Name_76541	천공의 꽃
+ReliquaryData_Desc_76541	5단계 꽃
+ReliquaryData_Name_76542	천공의 꽃
+ReliquaryData_Desc_76542	5단계 꽃
+ReliquaryData_Name_76543	천공의 꽃
+ReliquaryData_Desc_76543	5단계 꽃
+ReliquaryData_Name_76544	천공의 꽃
+ReliquaryData_Desc_76544	5단계 꽃
+ReliquaryData_Name_76550	천공의 모래
+ReliquaryData_Desc_76550	5단계 모래
+ReliquaryData_Name_76551	천공의 모래
+ReliquaryData_Desc_76551	5단계 모래
+ReliquaryData_Name_76552	천공의 모래
+ReliquaryData_Desc_76552	5단계 모래
+ReliquaryData_Name_76553	천공의 모래
+ReliquaryData_Desc_76553	5단계 모래
+ReliquaryData_Name_76554	천공의 모래
+ReliquaryData_Desc_76554	5단계 모래
+ReliquaryData_Name_77510	천공의 성배
+ReliquaryData_Desc_77510	5단계 성배
+ReliquaryData_Name_77511	천공의 성배
+ReliquaryData_Desc_77511	5단계 성배
+ReliquaryData_Name_77512	천공의 성배
+ReliquaryData_Desc_77512	5단계 성배
+ReliquaryData_Name_77513	천공의 성배
+ReliquaryData_Desc_77513	5단계 성배
+ReliquaryData_Name_77514	천공의 성배
+ReliquaryData_Desc_77514	5단계 성배
+ReliquaryData_Name_77520	천공의 깃털
+ReliquaryData_Desc_77520	5단계 깃털
+ReliquaryData_Name_77521	천공의 깃털
+ReliquaryData_Desc_77521	5단계 깃털
+ReliquaryData_Name_77522	천공의 깃털
+ReliquaryData_Desc_77522	5단계 깃털
+ReliquaryData_Name_77523	천공의 깃털
+ReliquaryData_Desc_77523	5단계 깃털
+ReliquaryData_Name_77524	천공의 깃털
+ReliquaryData_Desc_77524	5단계 깃털
+ReliquaryData_Name_77530	천공의 왕관
+ReliquaryData_Desc_77530	5단계 왕관
+ReliquaryData_Name_77531	천공의 왕관
+ReliquaryData_Desc_77531	5단계 왕관
+ReliquaryData_Name_77532	천공의 왕관
+ReliquaryData_Desc_77532	5단계 왕관
+ReliquaryData_Name_77533	천공의 왕관
+ReliquaryData_Desc_77533	5단계 왕관
+ReliquaryData_Name_77534	천공의 왕관
+ReliquaryData_Desc_77534	5단계 왕관
+ReliquaryData_Name_77540	천공의 꽃
+ReliquaryData_Desc_77540	5단계 꽃
+ReliquaryData_Name_77541	천공의 꽃
+ReliquaryData_Desc_77541	5단계 꽃
+ReliquaryData_Name_77542	천공의 꽃
+ReliquaryData_Desc_77542	5단계 꽃
+ReliquaryData_Name_77543	천공의 꽃
+ReliquaryData_Desc_77543	5단계 꽃
+ReliquaryData_Name_77544	천공의 꽃
+ReliquaryData_Desc_77544	5단계 꽃
+ReliquaryData_Name_77550	천공의 모래
+ReliquaryData_Desc_77550	5단계 모래
+ReliquaryData_Name_77551	천공의 모래
+ReliquaryData_Desc_77551	5단계 모래
+ReliquaryData_Name_77552	천공의 모래
+ReliquaryData_Desc_77552	5단계 모래
+ReliquaryData_Name_77553	천공의 모래
+ReliquaryData_Desc_77553	5단계 모래
+ReliquaryData_Name_77554	천공의 모래
+ReliquaryData_Desc_77554	5단계 모래
+ReliquaryData_Name_78510	천공의 성배
+ReliquaryData_Desc_78510	5단계 성배
+ReliquaryData_Name_78511	천공의 성배
+ReliquaryData_Desc_78511	5단계 성배
+ReliquaryData_Name_78512	천공의 성배
+ReliquaryData_Desc_78512	5단계 성배
+ReliquaryData_Name_78513	천공의 성배
+ReliquaryData_Desc_78513	5단계 성배
+ReliquaryData_Name_78514	천공의 성배
+ReliquaryData_Desc_78514	5단계 성배
+ReliquaryData_Name_78520	천공의 깃털
+ReliquaryData_Desc_78520	5단계 깃털
+ReliquaryData_Name_78521	천공의 깃털
+ReliquaryData_Desc_78521	5단계 깃털
+ReliquaryData_Name_78522	천공의 깃털
+ReliquaryData_Desc_78522	5단계 깃털
+ReliquaryData_Name_78523	천공의 깃털
+ReliquaryData_Desc_78523	5단계 깃털
+ReliquaryData_Name_78524	천공의 깃털
+ReliquaryData_Desc_78524	5단계 깃털
+ReliquaryData_Name_78530	천공의 왕관
+ReliquaryData_Desc_78530	5단계 왕관
+ReliquaryData_Name_78531	천공의 왕관
+ReliquaryData_Desc_78531	5단계 왕관
+ReliquaryData_Name_78532	천공의 왕관
+ReliquaryData_Desc_78532	5단계 왕관
+ReliquaryData_Name_78533	천공의 왕관
+ReliquaryData_Desc_78533	5단계 왕관
+ReliquaryData_Name_78534	천공의 왕관
+ReliquaryData_Desc_78534	5단계 왕관
+ReliquaryData_Name_78540	천공의 꽃
+ReliquaryData_Desc_78540	5단계 꽃
+ReliquaryData_Name_78541	천공의 꽃
+ReliquaryData_Desc_78541	5단계 꽃
+ReliquaryData_Name_78542	천공의 꽃
+ReliquaryData_Desc_78542	5단계 꽃
+ReliquaryData_Name_78543	천공의 꽃
+ReliquaryData_Desc_78543	5단계 꽃
+ReliquaryData_Name_78544	천공의 꽃
+ReliquaryData_Desc_78544	5단계 꽃
+ReliquaryData_Name_78550	천공의 모래
+ReliquaryData_Desc_78550	5단계 모래
+ReliquaryData_Name_78551	천공의 모래
+ReliquaryData_Desc_78551	5단계 모래
+ReliquaryData_Name_78552	천공의 모래
+ReliquaryData_Desc_78552	5단계 모래
+ReliquaryData_Name_78553	천공의 모래
+ReliquaryData_Desc_78553	5단계 모래
+ReliquaryData_Name_78554	천공의 모래
+ReliquaryData_Desc_78554	5단계 모래
+ReliquaryData_Name_79510	천공의 성배
+ReliquaryData_Desc_79510	5단계 성배
+ReliquaryData_Name_79511	천공의 성배
+ReliquaryData_Desc_79511	5단계 성배
+ReliquaryData_Name_79512	천공의 성배
+ReliquaryData_Desc_79512	5단계 성배
+ReliquaryData_Name_79513	천공의 성배
+ReliquaryData_Desc_79513	5단계 성배
+ReliquaryData_Name_79514	천공의 성배
+ReliquaryData_Desc_79514	5단계 성배
+ReliquaryData_Name_79520	천공의 깃털
+ReliquaryData_Desc_79520	5단계 깃털
+ReliquaryData_Name_79521	천공의 깃털
+ReliquaryData_Desc_79521	5단계 깃털
+ReliquaryData_Name_79522	천공의 깃털
+ReliquaryData_Desc_79522	5단계 깃털
+ReliquaryData_Name_79523	천공의 깃털
+ReliquaryData_Desc_79523	5단계 깃털
+ReliquaryData_Name_79524	천공의 깃털
+ReliquaryData_Desc_79524	5단계 깃털
+ReliquaryData_Name_79530	천공의 왕관
+ReliquaryData_Desc_79530	5단계 왕관
+ReliquaryData_Name_79531	천공의 왕관
+ReliquaryData_Desc_79531	5단계 왕관
+ReliquaryData_Name_79532	천공의 왕관
+ReliquaryData_Desc_79532	5단계 왕관
+ReliquaryData_Name_79533	천공의 왕관
+ReliquaryData_Desc_79533	5단계 왕관
+ReliquaryData_Name_79534	천공의 왕관
+ReliquaryData_Desc_79534	5단계 왕관
+ReliquaryData_Name_79540	천공의 꽃
+ReliquaryData_Desc_79540	5단계 꽃
+ReliquaryData_Name_79541	천공의 꽃
+ReliquaryData_Desc_79541	5단계 꽃
+ReliquaryData_Name_79542	천공의 꽃
+ReliquaryData_Desc_79542	5단계 꽃
+ReliquaryData_Name_79543	천공의 꽃
+ReliquaryData_Desc_79543	5단계 꽃
+ReliquaryData_Name_79544	천공의 꽃
+ReliquaryData_Desc_79544	5단계 꽃
+ReliquaryData_Name_79550	천공의 모래
+ReliquaryData_Desc_79550	5단계 모래
+ReliquaryData_Name_79551	천공의 모래
+ReliquaryData_Desc_79551	5단계 모래
+ReliquaryData_Name_79552	천공의 모래
+ReliquaryData_Desc_79552	5단계 모래
+ReliquaryData_Name_79553	천공의 모래
+ReliquaryData_Desc_79553	5단계 모래
+ReliquaryData_Name_79554	천공의 모래
+ReliquaryData_Desc_79554	5단계 모래
+ReliquaryData_Name_80510	천공의 성배
+ReliquaryData_Desc_80510	5단계 성배
+ReliquaryData_Name_80511	천공의 성배
+ReliquaryData_Desc_80511	5단계 성배
+ReliquaryData_Name_80512	천공의 성배
+ReliquaryData_Desc_80512	5단계 성배
+ReliquaryData_Name_80513	천공의 성배
+ReliquaryData_Desc_80513	5단계 성배
+ReliquaryData_Name_80514	천공의 성배
+ReliquaryData_Desc_80514	5단계 성배
+ReliquaryData_Name_80520	천공의 깃털
+ReliquaryData_Desc_80520	5단계 깃털
+ReliquaryData_Name_80521	천공의 깃털
+ReliquaryData_Desc_80521	5단계 깃털
+ReliquaryData_Name_80522	천공의 깃털
+ReliquaryData_Desc_80522	5단계 깃털
+ReliquaryData_Name_80523	천공의 깃털
+ReliquaryData_Desc_80523	5단계 깃털
+ReliquaryData_Name_80524	천공의 깃털
+ReliquaryData_Desc_80524	5단계 깃털
+ReliquaryData_Name_80530	천공의 왕관
+ReliquaryData_Desc_80530	5단계 왕관
+ReliquaryData_Name_80531	천공의 왕관
+ReliquaryData_Desc_80531	5단계 왕관
+ReliquaryData_Name_80532	천공의 왕관
+ReliquaryData_Desc_80532	5단계 왕관
+ReliquaryData_Name_80533	천공의 왕관
+ReliquaryData_Desc_80533	5단계 왕관
+ReliquaryData_Name_80534	천공의 왕관
+ReliquaryData_Desc_80534	5단계 왕관
+ReliquaryData_Name_80540	천공의 꽃
+ReliquaryData_Desc_80540	5단계 꽃
+ReliquaryData_Name_80541	천공의 꽃
+ReliquaryData_Desc_80541	5단계 꽃
+ReliquaryData_Name_80542	천공의 꽃
+ReliquaryData_Desc_80542	5단계 꽃
+ReliquaryData_Name_80543	천공의 꽃
+ReliquaryData_Desc_80543	5단계 꽃
+ReliquaryData_Name_80544	천공의 꽃
+ReliquaryData_Desc_80544	5단계 꽃
+ReliquaryData_Name_80550	천공의 모래
+ReliquaryData_Desc_80550	5단계 모래
+ReliquaryData_Name_80551	천공의 모래
+ReliquaryData_Desc_80551	5단계 모래
+ReliquaryData_Name_80552	천공의 모래
+ReliquaryData_Desc_80552	5단계 모래
+ReliquaryData_Name_80553	천공의 모래
+ReliquaryData_Desc_80553	5단계 모래
+ReliquaryData_Name_80554	천공의 모래
+ReliquaryData_Desc_80554	5단계 모래
+ReliquaryData_Name_81510	천공의 성배
+ReliquaryData_Desc_81510	5단계 성배
+ReliquaryData_Name_81511	천공의 성배
+ReliquaryData_Desc_81511	5단계 성배
+ReliquaryData_Name_81512	천공의 성배
+ReliquaryData_Desc_81512	5단계 성배
+ReliquaryData_Name_81513	천공의 성배
+ReliquaryData_Desc_81513	5단계 성배
+ReliquaryData_Name_81514	천공의 성배
+ReliquaryData_Desc_81514	5단계 성배
+ReliquaryData_Name_81520	천공의 깃털
+ReliquaryData_Desc_81520	5단계 깃털
+ReliquaryData_Name_81521	천공의 깃털
+ReliquaryData_Desc_81521	5단계 깃털
+ReliquaryData_Name_81522	천공의 깃털
+ReliquaryData_Desc_81522	5단계 깃털
+ReliquaryData_Name_81523	천공의 깃털
+ReliquaryData_Desc_81523	5단계 깃털
+ReliquaryData_Name_81524	천공의 깃털
+ReliquaryData_Desc_81524	5단계 깃털
+ReliquaryData_Name_81530	천공의 왕관
+ReliquaryData_Desc_81530	5단계 왕관
+ReliquaryData_Name_81531	천공의 왕관
+ReliquaryData_Desc_81531	5단계 왕관
+ReliquaryData_Name_81532	천공의 왕관
+ReliquaryData_Desc_81532	5단계 왕관
+ReliquaryData_Name_81533	천공의 왕관
+ReliquaryData_Desc_81533	5단계 왕관
+ReliquaryData_Name_81534	천공의 왕관
+ReliquaryData_Desc_81534	5단계 왕관
+ReliquaryData_Name_81540	천공의 꽃
+ReliquaryData_Desc_81540	5단계 꽃
+ReliquaryData_Name_81541	천공의 꽃
+ReliquaryData_Desc_81541	5단계 꽃
+ReliquaryData_Name_81542	천공의 꽃
+ReliquaryData_Desc_81542	5단계 꽃
+ReliquaryData_Name_81543	천공의 꽃
+ReliquaryData_Desc_81543	5단계 꽃
+ReliquaryData_Name_81544	천공의 꽃
+ReliquaryData_Desc_81544	5단계 꽃
+ReliquaryData_Name_81550	천공의 모래
+ReliquaryData_Desc_81550	5단계 모래
+ReliquaryData_Name_81551	천공의 모래
+ReliquaryData_Desc_81551	5단계 모래
+ReliquaryData_Name_81552	천공의 모래
+ReliquaryData_Desc_81552	5단계 모래
+ReliquaryData_Name_81553	천공의 모래
+ReliquaryData_Desc_81553	5단계 모래
+ReliquaryData_Name_81554	천공의 모래
+ReliquaryData_Desc_81554	5단계 모래
+ReliquaryData_Name_82510	천공의 성배
+ReliquaryData_Desc_82510	5단계 성배
+ReliquaryData_Name_82511	천공의 성배
+ReliquaryData_Desc_82511	5단계 성배
+ReliquaryData_Name_82512	천공의 성배
+ReliquaryData_Desc_82512	5단계 성배
+ReliquaryData_Name_82513	천공의 성배
+ReliquaryData_Desc_82513	5단계 성배
+ReliquaryData_Name_82514	천공의 성배
+ReliquaryData_Desc_82514	5단계 성배
+ReliquaryData_Name_82520	천공의 깃털
+ReliquaryData_Desc_82520	5단계 깃털
+ReliquaryData_Name_82521	천공의 깃털
+ReliquaryData_Desc_82521	5단계 깃털
+ReliquaryData_Name_82522	천공의 깃털
+ReliquaryData_Desc_82522	5단계 깃털
+ReliquaryData_Name_82523	천공의 깃털
+ReliquaryData_Desc_82523	5단계 깃털
+ReliquaryData_Name_82524	천공의 깃털
+ReliquaryData_Desc_82524	5단계 깃털
+ReliquaryData_Name_82530	천공의 왕관
+ReliquaryData_Desc_82530	5단계 왕관
+ReliquaryData_Name_82531	천공의 왕관
+ReliquaryData_Desc_82531	5단계 왕관
+ReliquaryData_Name_82532	천공의 왕관
+ReliquaryData_Desc_82532	5단계 왕관
+ReliquaryData_Name_82533	천공의 왕관
+ReliquaryData_Desc_82533	5단계 왕관
+ReliquaryData_Name_82534	천공의 왕관
+ReliquaryData_Desc_82534	5단계 왕관
+ReliquaryData_Name_82540	천공의 꽃
+ReliquaryData_Desc_82540	5단계 꽃
+ReliquaryData_Name_82541	천공의 꽃
+ReliquaryData_Desc_82541	5단계 꽃
+ReliquaryData_Name_82542	천공의 꽃
+ReliquaryData_Desc_82542	5단계 꽃
+ReliquaryData_Name_82543	천공의 꽃
+ReliquaryData_Desc_82543	5단계 꽃
+ReliquaryData_Name_82544	천공의 꽃
+ReliquaryData_Desc_82544	5단계 꽃
+ReliquaryData_Name_82550	천공의 모래
+ReliquaryData_Desc_82550	5단계 모래
+ReliquaryData_Name_82551	천공의 모래
+ReliquaryData_Desc_82551	5단계 모래
+ReliquaryData_Name_82552	천공의 모래
+ReliquaryData_Desc_82552	5단계 모래
+ReliquaryData_Name_82553	천공의 모래
+ReliquaryData_Desc_82553	5단계 모래
+ReliquaryData_Name_82554	천공의 모래
+ReliquaryData_Desc_82554	5단계 모래
+EquipAffixData_Name_1110010	
+EquipAffixData_Desc_1110010	극지의 검 접두사 테스트. 치명타 시 HP 100pt 회복
+EquipAffixData_Name_1110011	
+EquipAffixData_Desc_1110011	극지의 검 접두사 테스트. 치명타 시 HP 200pt 회복
+EquipAffixData_Name_1110012	
+EquipAffixData_Desc_1110012	극지의 검 접두사 테스트. 치명타 시 HP 300pt 회복
+EquipAffixData_Name_1110013	
+EquipAffixData_Desc_1110013	극지의 검 접두사 테스트. 치명타 시 HP 400pt 회복
+EquipAffixData_Name_1110014	
+EquipAffixData_Desc_1110014	극지의 검 접두사 테스트. 치명타 시 HP 500pt 회복
+EquipAffixData_Name_1110030	.
+EquipAffixData_Desc_1110030	원소 에너지가 가득 차면 파티 내 모든 캐릭터 최대 HP의 <color=#99FFFFFF>12%</color>를 회복한다
+EquipAffixData_Name_1110031	.
+EquipAffixData_Desc_1110031	원소 에너지가 가득 차면 파티 내 모든 캐릭터 최대 HP의 <color=#99FFFFFF>14%</color>를 회복한다
+EquipAffixData_Name_1110032	.
+EquipAffixData_Desc_1110032	원소 에너지가 가득 차면 파티 내 모든 캐릭터 최대 HP의 <color=#99FFFFFF>16%</color>를 회복한다
+EquipAffixData_Name_1110033	.
+EquipAffixData_Desc_1110033	원소 에너지가 가득 차면 파티 내 모든 캐릭터 최대 HP의 <color=#99FFFFFF>18%</color>를 회복한다
+EquipAffixData_Name_1110034	.
+EquipAffixData_Desc_1110034	원소 에너지가 가득 차면 파티 내 모든 캐릭터 최대 HP의 <color=#99FFFFFF>20%</color>를 회복한다
+EquipAffixData_Name_1113020	격려
+EquipAffixData_Desc_1113020	HP가 가득 차면 치명타 확률이 <color=#99FFFFFF>12%</color> 증가한다
+EquipAffixData_Name_1113021	격려
+EquipAffixData_Desc_1113021	HP가 가득 차면 치명타 확률이 <color=#99FFFFFF>14%</color> 증가한다
+EquipAffixData_Name_1113022	격려
+EquipAffixData_Desc_1113022	HP가 가득 차면 치명타 확률이 <color=#99FFFFFF>16%</color> 증가한다
+EquipAffixData_Name_1113023	격려
+EquipAffixData_Desc_1113023	HP가 가득 차면 치명타 확률이 <color=#99FFFFFF>18%</color> 증가한다
+EquipAffixData_Name_1113024	격려
+EquipAffixData_Desc_1113024	HP가 가득 차면 치명타 확률이 <color=#99FFFFFF>20%</color> 증가한다
+EquipAffixData_Name_1113030	.
+EquipAffixData_Desc_1113030	충전 스킬 발동 후 10초 동안 자신의 이동 속도가 <color=#99FFFFFF>10%</color> 증가한다
+EquipAffixData_Name_1113031	.
+EquipAffixData_Desc_1113031	충전 스킬 발동 후 10초 동안 자신의 이동 속도가 <color=#99FFFFFF>12.5%</color> 증가한다
+EquipAffixData_Name_1113032	.
+EquipAffixData_Desc_1113032	충전 스킬 발동 후 10초 동안 자신의 이동 속도가 <color=#99FFFFFF>15%</color> 증가한다
+EquipAffixData_Name_1113033	.
+EquipAffixData_Desc_1113033	충전 스킬 발동 후 10초 동안 자신의 이동 속도가 <color=#99FFFFFF>17.5%</color> 증가한다
+EquipAffixData_Name_1113034	.
+EquipAffixData_Desc_1113034	충전 스킬 발동 후 10초 동안 자신의 이동 속도가 <color=#99FFFFFF>20%</color> 증가한다
+EquipAffixData_Name_1114010	치명적인 이능
+EquipAffixData_Desc_1114010	치명타 시 <color=#99FFFFFF>40%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1114011	치명적인 이능
+EquipAffixData_Desc_1114011	치명타 시 <color=#99FFFFFF>45%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1114012	치명적인 이능
+EquipAffixData_Desc_1114012	치명타 시 <color=#99FFFFFF>50%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1114013	치명적인 이능
+EquipAffixData_Desc_1114013	치명타 시 <color=#99FFFFFF>55%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1114014	치명적인 이능
+EquipAffixData_Desc_1114014	치명타 시 <color=#99FFFFFF>60%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1114020	화음
+EquipAffixData_Desc_1114020	일반 공격이 명중하면 50% 확률로 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주위의 적에게 공격력의 <color=#99FFFFFF>100%</color> 대미지를 준다. 화음 최대 유지 시간: 120초
+EquipAffixData_Name_1114021	화음
+EquipAffixData_Desc_1114021	일반 공격이 명중하면 50% 확률로 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주위의 적에게 공격력의 <color=#99FFFFFF>120%</color> 대미지를 준다. 화음 최대 유지 시간: 120초
+EquipAffixData_Name_1114022	화음
+EquipAffixData_Desc_1114022	일반 공격이 명중하면 50% 확률로 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주위의 적에게 공격력의 <color=#99FFFFFF>140%</color> 대미지를 준다. 화음 최대 유지 시간: 120초
+EquipAffixData_Name_1114023	화음
+EquipAffixData_Desc_1114023	일반 공격이 명중하면 50% 확률로 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주위의 적에게 공격력의 <color=#99FFFFFF>160%</color> 대미지를 준다. 화음 최대 유지 시간: 120초
+EquipAffixData_Name_1114024	화음
+EquipAffixData_Desc_1114024	일반 공격이 명중하면 50% 확률로 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주위의 적에게 공격력의 <color=#99FFFFFF>180%</color> 대미지를 준다. 화음 최대 유지 시간: 120초
+EquipAffixData_Name_1114030	수호
+EquipAffixData_Desc_1114030	피격 시 HP 최대치의 <color=#99FFFFFF>12%</color> 피해를 흡수하면 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1114031	수호
+EquipAffixData_Desc_1114031	피격 시 HP 최대치의 <color=#99FFFFFF>14%</color> 피해를 흡수하면 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1114032	수호
+EquipAffixData_Desc_1114032	피격 시 HP 최대치의 <color=#99FFFFFF>16%</color> 피해를 흡수하면 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1114033	수호
+EquipAffixData_Desc_1114033	피격 시 HP 최대치의 <color=#99FFFFFF>18%</color> 피해를 흡수하면 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1114034	수호
+EquipAffixData_Desc_1114034	피격 시 HP 최대치의 <color=#99FFFFFF>20%</color> 피해를 흡수하면 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1114040	집중
+EquipAffixData_Desc_1114040	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>4%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1114041	집중
+EquipAffixData_Desc_1114041	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>5%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1114042	집중
+EquipAffixData_Desc_1114042	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>6%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1114043	집중
+EquipAffixData_Desc_1114043	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>7%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1114044	집중
+EquipAffixData_Desc_1114044	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>8%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1115020	천공의 칼날
+EquipAffixData_Desc_1115020	원소 에너지가 가득 차면 공격력이 증가한다 (미사용)
+EquipAffixData_Name_1115021	천공의 칼날
+EquipAffixData_Desc_1115021	원소 에너지가 가득 차면 공격력이 증가한다
+EquipAffixData_Name_1115022	천공의 칼날
+EquipAffixData_Desc_1115022	원소 에너지가 가득 차면 공격력이 증가한다
+EquipAffixData_Name_1115023	천공의 칼날
+EquipAffixData_Desc_1115023	원소 에너지가 가득 차면 공격력이 증가한다
+EquipAffixData_Name_1115024	천공의 칼날
+EquipAffixData_Desc_1115024	원소 에너지가 가득 차면 공격력이 증가한다
+EquipAffixData_Name_1123010	예리
+EquipAffixData_Desc_1123010	공격 시 추가로  <color=#99FFFFFF>2</color>pt의 대미지를 준다
+EquipAffixData_Name_1123011	예리
+EquipAffixData_Desc_1123011	공격 시 추가로 <color=#99FFFFFF>4</color>pt의 대미지를 준다
+EquipAffixData_Name_1123012	예리
+EquipAffixData_Desc_1123012	공격 시 추가로 <color=#99FFFFFF>6</color>pt의 대미지를 준다
+EquipAffixData_Name_1123013	예리
+EquipAffixData_Desc_1123013	공격 시 추가로 <color=#99FFFFFF>8</color>pt의 대미지를 준다
+EquipAffixData_Name_1123014	예리
+EquipAffixData_Desc_1123014	공격 시 추가로 <color=#99FFFFFF>10</color>pt의 대미지를 준다
+EquipAffixData_Name_1123020	불굴
+EquipAffixData_Desc_1123020	HP가 <color=#99FFFFFF>40%</color> 미만일 때 강공격 발동 시 경직되지 않는다
+EquipAffixData_Name_1123021	불굴
+EquipAffixData_Desc_1123021	HP가 <color=#99FFFFFF>50%</color> 미만일 때 강공격 발동 시 경직되지 않는다
+EquipAffixData_Name_1123022	불굴
+EquipAffixData_Desc_1123022	HP가 <color=#99FFFFFF>60%</color> 미만일 때 강공격 발동 시 경직되지 않는다
+EquipAffixData_Name_1123023	불굴
+EquipAffixData_Desc_1123023	HP가 <color=#99FFFFFF>70%</color> 미만일 때 강공격 발동 시 경직되지 않는다
+EquipAffixData_Name_1123024	불굴
+EquipAffixData_Desc_1123024	HP가 <color=#99FFFFFF>80%</color> 미만일 때 강공격 발동 시 경직되지 않는다
+EquipAffixData_Name_1123030	
+EquipAffixData_Desc_1123030	
+EquipAffixData_Name_1123031	
+EquipAffixData_Desc_1123031	
+EquipAffixData_Name_1123032	
+EquipAffixData_Desc_1123032	
+EquipAffixData_Name_1123033	
+EquipAffixData_Desc_1123033	
+EquipAffixData_Name_1123034	
+EquipAffixData_Desc_1123034	
+EquipAffixData_Name_1124010	치명적인 이능
+EquipAffixData_Desc_1124010	치명타 시 <color=#99FFFFFF>40%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1124011	치명적인 이능
+EquipAffixData_Desc_1124011	치명타 시 <color=#99FFFFFF>45%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1124012	치명적인 이능
+EquipAffixData_Desc_1124012	치명타 시 <color=#99FFFFFF>50%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1124013	치명적인 이능
+EquipAffixData_Desc_1124013	치명타 시 <color=#99FFFFFF>55%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1124014	치명적인 이능
+EquipAffixData_Desc_1124014	치명타 시 <color=#99FFFFFF>60%</color>의 확률로 원소 입자가 생성된다. 해당 효과는 3초에 1번씩 발동한다
+EquipAffixData_Name_1124020	.
+EquipAffixData_Desc_1124020	피격 시 HP 최대치의 <color=#99FFFFFF>12%</color> 피해를 흡수하는 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1124021	.
+EquipAffixData_Desc_1124021	피격 시 HP 최대치의 <color=#99FFFFFF>14%</color> 피해를 흡수하는 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1124022	.
+EquipAffixData_Desc_1124022	피격 시 HP 최대치의 <color=#99FFFFFF>16%</color> 피해를 흡수하는 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1124023	.
+EquipAffixData_Desc_1124023	피격 시 HP 최대치의 <color=#99FFFFFF>18%</color> 피해를 흡수하는 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1124024	.
+EquipAffixData_Desc_1124024	피격 시 HP 최대치의 <color=#99FFFFFF>20%</color> 피해를 흡수하는 보호막이 생성된다. 보호막이 파괴되지 않으면 10초간 유지되며 45초마다 한 번 발동한다
+EquipAffixData_Name_1124030	침착
+EquipAffixData_Desc_1124030	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>30%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1124031	침착
+EquipAffixData_Desc_1124031	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>40%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1124032	침착
+EquipAffixData_Desc_1124032	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>50%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1124033	침착
+EquipAffixData_Desc_1124033	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>60%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1124034	침착
+EquipAffixData_Desc_1124034	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>70%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1124040	용맹
+EquipAffixData_Desc_1124040	강공격이 명중 후 기초 공격력과 방어력이 <color=#99FFFFFF>20%</color> 증가한다. 지속 시간: 10초. 20초마다 1번 발동한다
+EquipAffixData_Name_1124041	용맹
+EquipAffixData_Desc_1124041	강공격이 명중 후 기초 공격력과 방어력이 <color=#99FFFFFF>23%</color> 증가한다. 지속 시간: 10초. 20초마다 1번 발동한다
+EquipAffixData_Name_1124042	용맹
+EquipAffixData_Desc_1124042	강공격이 명중 후 기초 공격력과 방어력이 <color=#99FFFFFF>26%</color> 증가한다. 지속 시간: 10초. 20초마다 1번 발동한다
+EquipAffixData_Name_1124043	용맹
+EquipAffixData_Desc_1124043	강공격이 명중 후 기초 공격력과 방어력이 <color=#99FFFFFF>29%</color> 증가한다. 지속 시간: 10초. 20초마다 1번 발동한다
+EquipAffixData_Name_1124044	용맹
+EquipAffixData_Desc_1124044	강공격이 명중 후 기초 공격력과 방어력이 <color=#99FFFFFF>32%</color> 증가한다. 지속 시간: 10초. 20초마다 1번 발동한다
+EquipAffixData_Name_1124050	.
+EquipAffixData_Desc_1124050	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>4%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1124051	.
+EquipAffixData_Desc_1124051	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>5%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1124052	.
+EquipAffixData_Desc_1124052	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>6%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1124053	.
+EquipAffixData_Desc_1124053	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>7%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1124054	.
+EquipAffixData_Desc_1124054	공격으로 피해를 줄 때마다 치명타 확률이 <color=#99FFFFFF>8%</color> 증가하고 최대 5번 중첩 가능하다. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다
+EquipAffixData_Name_1140030	페보니우스 클레이모어 접두사
+EquipAffixData_Desc_1140030	일반 스킬로 치명타 피해를 주면 5개의 일반 원소 에너지볼이 생성된다 (미사용)
+EquipAffixData_Name_1140031	페보니우스 클레이모어 접두사
+EquipAffixData_Desc_1140031	일반 스킬로 치명타 피해를 주면 10개의 일반 원소 에너지볼이 생성된다
+EquipAffixData_Name_1140032	페보니우스 클레이모어 접두사
+EquipAffixData_Desc_1140032	일반 스킬로 치명타 피해를 주면 15개의 일반 원소 에너지볼이 생성된다
+EquipAffixData_Name_1140033	페보니우스 클레이모어 접두사
+EquipAffixData_Desc_1140033	일반 스킬로 치명타 피해를 주면 20개의 일반 원소 에너지볼이 생성된다
+EquipAffixData_Name_1140034	페보니우스 클레이모어 접두사
+EquipAffixData_Desc_1140034	일반 스킬로 치명타 피해를 주면 25개의 일반 원소 에너지볼이 생성된다
+EquipAffixData_Name_1143020	계승
+EquipAffixData_Desc_1143020	캐릭터가 전투 불능이 되면 다른 캐릭터의 기초 공격력이 <color=#99FFFFFF>100%</color> 증가한다, 지속 시간: 8초
+EquipAffixData_Name_1143021	계승
+EquipAffixData_Desc_1143021	캐릭터가 전투 불능이 되면 다른 캐릭터의 기초 공격력이 <color=#99FFFFFF>120%</color> 증가한다, 지속 시간: 8초
+EquipAffixData_Name_1143022	계승
+EquipAffixData_Desc_1143022	캐릭터가 전투 불능이 되면 다른 캐릭터의 기초 공격력이 <color=#99FFFFFF>140%</color> 증가한다, 지속 시간: 8초
+EquipAffixData_Name_1143023	계승
+EquipAffixData_Desc_1143023	캐릭터가 전투 불능이 되면 다른 캐릭터의 기초 공격력이 <color=#99FFFFFF>160%</color> 증가한다, 지속 시간: 8초
+EquipAffixData_Name_1143024	계승
+EquipAffixData_Desc_1143024	캐릭터가 전투 불능이 되면 다른 캐릭터의 기초 공격력이 <color=#99FFFFFF>180%</color> 증가한다, 지속 시간: 8초
+EquipAffixData_Name_1143030	.
+EquipAffixData_Desc_1143030	원소 에너지볼을 획득할 때마다 자신의 HP를 <color=#99FFFFFF>10</color>pt 회복한다
+EquipAffixData_Name_1143031	.
+EquipAffixData_Desc_1143031	원소 에너지볼을 획득할 때마다 자신의 HP를 <color=#99FFFFFF>20</color>pt 회복한다
+EquipAffixData_Name_1143032	.
+EquipAffixData_Desc_1143032	원소 에너지볼을 획득할 때마다 자신의 HP를 <color=#99FFFFFF>30</color>pt 회복한다
+EquipAffixData_Name_1143033	.
+EquipAffixData_Desc_1143033	원소 에너지볼을 획득할 때마다 자신의 HP를 <color=#99FFFFFF>40</color>pt 회복한다
+EquipAffixData_Name_1143034	.
+EquipAffixData_Desc_1143034	원소 에너지볼을 획득할 때마다 자신의 HP를 <color=#99FFFFFF>50</color>pt 회복한다
+EquipAffixData_Name_1144010	시너지
+EquipAffixData_Desc_1144010	원소 에너지가 가득 차면 모든 원소 대미지가 <color=#99FFFFFF>40%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1144011	시너지
+EquipAffixData_Desc_1144011	원소 에너지가 가득 차면 모든 원소 대미지가 <color=#99FFFFFF>45%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1144012	시너지
+EquipAffixData_Desc_1144012	원소 에너지가 가득 차면 모든 원소 대미지가 <color=#99FFFFFF>50%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1144013	시너지
+EquipAffixData_Desc_1144013	원소 에너지가 가득 차면 모든 원소 대미지가 <color=#99FFFFFF>55%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1144014	시너지
+EquipAffixData_Desc_1144014	원소 에너지가 가득 차면 모든 원소 대미지가 <color=#99FFFFFF>60%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1144020	등장 음악
+EquipAffixData_Desc_1144020	캐릭터가 등장할 때 무작위로 BGM을 획득한다, 지속 시간 10초. 45초마다 1번 발동한다\n서창: 기초 공격력 <color=#99FFFFFF>40%</color> 증가\n간주곡: 치명타 확률 <color=#99FFFFFF>40%</color> 증가\n영탄곡: 모든 원소의 대미지가 <color=#99FFFFFF>40%</color> 증가한다
+EquipAffixData_Name_1144021	등장 음악
+EquipAffixData_Desc_1144021	캐릭터가 등장할 때 무작위로 BGM을 획득한다, 지속 시간 10초. 45초마다 1번 발동한다\n서창: 기초 공격력 <color=#99FFFFFF>45%</color> 증가\n간주곡: 치명타 확률 <color=#99FFFFFF>45%</color> 증가\n영탄곡: 모든 원소의 대미지가 <color=#99FFFFFF>45%</color> 증가한다
+EquipAffixData_Name_1144022	등장 음악
+EquipAffixData_Desc_1144022	캐릭터가 등장할 때 무작위로 BGM을 획득한다, 지속 시간 10초. 45초마다 1번 발동한다\n서창: 기초 공격력 <color=#99FFFFFF>50%</color> 증가\n간주곡: 치명타 확률 <color=#99FFFFFF>50%</color> 증가\n영탄곡: 모든 원소의 대미지가 <color=#99FFFFFF>50%</color> 증가한다
+EquipAffixData_Name_1144023	등장 음악
+EquipAffixData_Desc_1144023	캐릭터가 등장할 때 무작위로 BGM을 획득한다, 지속 시간 10초. 45초마다 1번 발동한다\n서창: 기초 공격력 <color=#99FFFFFF>55%</color> 증가\n간주곡: 치명타 확률 <color=#99FFFFFF>55%</color> 증가\n영탄곡: 모든 원소의 대미지가 <color=#99FFFFFF>55%</color> 증가한다
+EquipAffixData_Name_1144024	등장 음악
+EquipAffixData_Desc_1144024	캐릭터가 등장할 때 무작위로 BGM을 획득한다, 지속 시간 10초. 45초마다 1번 발동\n서창: 기초 공격력 <color=#99FFFFFF>60%</color> 증가\n간주곡: 치명타 확률 <color=#99FFFFFF>60%</color> 증가\n영탄곡: 모든 원소의 대미지가 <color=#99FFFFFF>60%</color> 증가한다
+EquipAffixData_Name_1144030	침착
+EquipAffixData_Desc_1144030	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>30%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1144031	침착
+EquipAffixData_Desc_1144031	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>40%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1144032	침착
+EquipAffixData_Desc_1144032	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>50%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1144033	침착
+EquipAffixData_Desc_1144033	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>60%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1144034	침착
+EquipAffixData_Desc_1144034	원소 전투 스킬로 피해를 줄 때 <color=#99FFFFFF>70%</color>의 확률로 해당 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 36초마다 1번 발동한다
+EquipAffixData_Name_1144040	에너지 블라스트
+EquipAffixData_Desc_1144040	일반 공격이 적에게 명중 시 50%의 확률로 에너지 블라스트를 발동해 공격력의 <color=#99FFFFFF>120%</color> 대미지를 준다. 10초마다 1번 발동한다
+EquipAffixData_Name_1144041	에너지 블라스트
+EquipAffixData_Desc_1144041	일반 공격이 적에게 명중 시 50%의 확률로 에너지 블라스트를 발동해 공격력의 <color=#99FFFFFF>140%</color> 대미지를 준다. 10초마다 1번 발동한다
+EquipAffixData_Name_1144042	에너지 블라스트
+EquipAffixData_Desc_1144042	일반 공격이 적에게 명중 시 50%의 확률로 에너지 블라스트를 발동해 공격력의 <color=#99FFFFFF>160%</color> 대미지를 준다. 10초마다 1번 발동한다
+EquipAffixData_Name_1144043	에너지 블라스트
+EquipAffixData_Desc_1144043	일반 공격이 적에게 명중 시 50%의 확률로 에너지 블라스트를 발동해 공격력의 <color=#99FFFFFF>180%</color> 대미지를 준다. 10초마다 1번 발동한다
+EquipAffixData_Name_1144044	에너지 블라스트
+EquipAffixData_Desc_1144044	일반 공격이 적에게 명중 시 50%의 확률로 에너지 블라스트를 발동해 공격력의 <color=#99FFFFFF>200%</color> 대미지를 준다. 10초마다 1번 발동한다
+EquipAffixData_Name_1150030	.
+EquipAffixData_Desc_1150030	일반 스킬로 치명타 피해를 주면 타깃의 피해 감소율이 <color=#99FFFFFF>6%</color> 감소한다, 지속 시간 10초
+EquipAffixData_Name_1150031	.
+EquipAffixData_Desc_1150031	일반 스킬로 치명타 피해를 주면 타깃의 피해 감소율이 <color=#99FFFFFF>12%</color> 감소한다, 지속 시간 10초
+EquipAffixData_Name_1150032	.
+EquipAffixData_Desc_1150032	일반 스킬로 치명타 피해를 주면 타깃의 피해 감소율이 <color=#99FFFFFF>18%</color> 감소한다, 지속 시간 10초
+EquipAffixData_Name_1150033	.
+EquipAffixData_Desc_1150033	일반 스킬로 치명타 피해를 주면 타깃의 피해 감소율이 <color=#99FFFFFF>24%</color> 감소한다, 지속 시간 10초
+EquipAffixData_Name_1150034	.
+EquipAffixData_Desc_1150034	일반 스킬로 치명타 피해를 주면 타깃의 피해 감소율이 <color=#99FFFFFF>30%</color> 감소한다, 지속 시간 10초
+EquipAffixData_Name_1153010	수확
+EquipAffixData_Desc_1153010	타깃을 처치하면 자신의 HP를 <color=#99FFFFFF>30</color>pt 회복한다
+EquipAffixData_Name_1153011	수확
+EquipAffixData_Desc_1153011	타깃을 처치하면 자신의 HP를 <color=#99FFFFFF>60</color>pt 회복한다
+EquipAffixData_Name_1153012	수확
+EquipAffixData_Desc_1153012	타깃을 처치하면 자신의 HP를 <color=#99FFFFFF>90</color>pt 회복한다
+EquipAffixData_Name_1153013	수확
+EquipAffixData_Desc_1153013	타깃을 처치하면 자신의 HP를 <color=#99FFFFFF>120</color>pt 회복한다
+EquipAffixData_Name_1153014	수확
+EquipAffixData_Desc_1153014	타깃을 처치하면 자신의 HP를 <color=#99FFFFFF>150</color>pt 회복한다
+EquipAffixData_Name_1153020	정확
+EquipAffixData_Desc_1153020	약점을 공격 시 가하는 피해가 <color=#99FFFFFF>15%</color> 증가한다
+EquipAffixData_Name_1153021	정확
+EquipAffixData_Desc_1153021	약점을 공격 시 가하는 피해가 <color=#99FFFFFF>18%</color> 증가한다
+EquipAffixData_Name_1153022	정확
+EquipAffixData_Desc_1153022	약점을 공격 시 가하는 피해가 <color=#99FFFFFF>21%</color> 증가한다
+EquipAffixData_Name_1153023	정확
+EquipAffixData_Desc_1153023	약점을 공격 시 가하는 피해가 <color=#99FFFFFF>24%</color> 증가한다
+EquipAffixData_Name_1153024	정확
+EquipAffixData_Desc_1153024	약점을 공격 시 가하는 피해가 <color=#99FFFFFF>27%</color> 증가한다
+EquipAffixData_Name_1154010	시너지
+EquipAffixData_Desc_1154010	원소 에너지가 가득 차면 모든 원소의 대미지가 <color=#99FFFFFF>40%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154011	시너지
+EquipAffixData_Desc_1154011	원소 에너지가 가득 차면 모든 원소의 대미지가 <color=#99FFFFFF>45%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154012	시너지
+EquipAffixData_Desc_1154012	원소 에너지가 가득 차면 모든 원소의 대미지가 <color=#99FFFFFF>50%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154013	시너지
+EquipAffixData_Desc_1154013	원소 에너지가 가득 차면 모든 원소의 대미지가 <color=#99FFFFFF>55%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154014	시너지
+EquipAffixData_Desc_1154014	원소 에너지가 가득 차면 모든 원소의 대미지가 <color=#99FFFFFF>60%</color> 증가한다. 지속 시간 12초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154020	.
+EquipAffixData_Desc_1154020	캐릭터가 충전 스킬로 빠른 등장 시, 캐릭터의 다음 5초 동안의 대미지가 <color=#99FFFFFF>40%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154021	.
+EquipAffixData_Desc_1154021	캐릭터가 충전 스킬로 빠른 등장 시, 캐릭터의 다음 5초 동안의 대미지가 <color=#99FFFFFF>45%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154022	.
+EquipAffixData_Desc_1154022	캐릭터가 충전 스킬로 빠른 등장 시, 캐릭터의 다음 5초 동안의 대미지가 <color=#99FFFFFF>50%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154023	.
+EquipAffixData_Desc_1154023	캐릭터가 충전 스킬로 빠른 등장 시, 캐릭터의 다음 5초 동안의 대미지가 <color=#99FFFFFF>55%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154024	.
+EquipAffixData_Desc_1154024	캐릭터가 충전 스킬로 빠른 등장 시, 캐릭터의 다음 5초 동안의 대미지가 <color=#99FFFFFF>60%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154030	.
+EquipAffixData_Desc_1154030	강공격으로 타깃을 명중하면 타깃의 피해 감소율이 <color=#99FFFFFF>30%</color> 감소한다, 지속 시간 10초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154031	.
+EquipAffixData_Desc_1154031	강공격으로 타깃을 명중하면 타깃의 피해 감소율이 <color=#99FFFFFF>35%</color> 감소한다, 지속 시간 10초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154032	.
+EquipAffixData_Desc_1154032	강공격으로 타깃을 명중하면 타깃의 피해 감소율이 <color=#99FFFFFF>40%</color> 감소한다, 지속 시간 10초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154033	.
+EquipAffixData_Desc_1154033	강공격으로 타깃을 명중하면 타깃의 피해 감소율이 <color=#99FFFFFF>45%</color> 감소한다, 지속 시간 10초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154034	.
+EquipAffixData_Desc_1154034	강공격으로 타깃을 명중하면 타깃의 피해 감소율이 <color=#99FFFFFF>50%</color> 감소한다, 지속 시간 10초. 45초마다 1번 발동한다
+EquipAffixData_Name_1154040	.
+EquipAffixData_Desc_1154040	다음 강공격으로 가하는 피해가 <color=#99FFFFFF>60%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154041	.
+EquipAffixData_Desc_1154041	다음 강공격으로 가하는 피해가 <color=#99FFFFFF>70%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154042	.
+EquipAffixData_Desc_1154042	다음 강공격으로 가하는 피해가 <color=#99FFFFFF>80%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154043	.
+EquipAffixData_Desc_1154043	다음 강공격으로 가하는 피해가 <color=#99FFFFFF>90%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1154044	.
+EquipAffixData_Desc_1154044	다음 강공격으로 가하는 피해가 <color=#99FFFFFF>100%</color> 증가한다. 30초마다 1번 발동한다
+EquipAffixData_Name_1130030	.
+EquipAffixData_Desc_1130030	원소 에너지가 가득 차면 자신의 최대 HP를 <color=#99FFFFFF>3%</color> 회복한다
+EquipAffixData_Name_1130031	.
+EquipAffixData_Desc_1130031	원소 에너지가 가득 차면 자신의 최대 HP를 <color=#99FFFFFF>6%</color> 회복한다
+EquipAffixData_Name_1130032	.
+EquipAffixData_Desc_1130032	원소 에너지가 가득 차면 자신의 최대 HP를 <color=#99FFFFFF>9%</color> 회복한다
+EquipAffixData_Name_1130033	.
+EquipAffixData_Desc_1130033	원소 에너지가 가득 차면 자신의 최대 HP를 <color=#99FFFFFF>12%</color> 회복한다
+EquipAffixData_Name_1130034	.
+EquipAffixData_Desc_1130034	원소 에너지가 가득 차면 자신의 최대 HP를 <color=#99FFFFFF>15%</color> 회복한다
+EquipAffixData_Name_1133010	흐르는 물처럼
+EquipAffixData_Desc_1133010	일반 공격으로 가하는 피해가 <color=#99FFFFFF>20%</color> 증가하고 피해를 받으면 해당 효과는 10초간의 재사용 대기시간이 생긴다
+EquipAffixData_Name_1133011	흐르는 물처럼
+EquipAffixData_Desc_1133011	일반 공격으로 가하는 피해가 <color=#99FFFFFF>23%</color> 증가하고 피해를 받으면 해당 효과는 10초간의 재사용 대기시간이 생긴다
+EquipAffixData_Name_1133012	흐르는 물처럼
+EquipAffixData_Desc_1133012	일반 공격으로 가하는 피해가 <color=#99FFFFFF>26%</color> 증가하고 피해를 받으면 해당 효과는 10초간의 재사용 대기시간이 생긴다
+EquipAffixData_Name_1133013	흐르는 물처럼
+EquipAffixData_Desc_1133013	일반 공격으로 가하는 피해가 <color=#99FFFFFF>29%</color> 증가하고 피해를 받으면 해당 효과는 10초간의 재사용 대기시간이 생긴다
+EquipAffixData_Name_1133014	흐르는 물처럼
+EquipAffixData_Desc_1133014	일반 공격으로 가하는 피해가 <color=#99FFFFFF>32%</color> 증가하고 피해를 받으면 해당 효과는 10초간의 재사용 대기시간이 생긴다
+EquipAffixData_Name_1133020	무게
+EquipAffixData_Desc_1133020	일반 공격으로 1기의 적을 명중하면 공격력의 <color=#99FFFFFF>120%</color> 피해를 추가로 준다. 20초마다 1번 발동한다
+EquipAffixData_Name_1133021	무게
+EquipAffixData_Desc_1133021	일반 공격으로 1기의 적을 명중하면 공격력의 <color=#99FFFFFF>140%</color> 피해를 추가로 준다. 20초마다 1번 발동한다
+EquipAffixData_Name_1133022	무게
+EquipAffixData_Desc_1133022	일반 공격으로 1기의 적을 명중하면 공격력의 <color=#99FFFFFF>140%</color> 피해를 추가로 준다. 20초마다 1번 발동한다
+EquipAffixData_Name_1133023	무게
+EquipAffixData_Desc_1133023	일반 공격으로 1기의 적을 명중하면 공격력의 <color=#99FFFFFF>160%</color> 피해를 추가로 준다. 20초마다 1번 발동한다
+EquipAffixData_Name_1133024	무게
+EquipAffixData_Desc_1133024	일반 공격으로 1기의 적을 명중하면 공격력의 <color=#99FFFFFF>180%</color> 피해를 추가로 준다. 20초마다 1번 발동한다
+EquipAffixData_Name_1134010	정화
+EquipAffixData_Desc_1134010	습기 상태의 적에게 가하는 대미지가 <color=#99FFFFFF>18%</color> 증가한다
+EquipAffixData_Name_1134011	정화
+EquipAffixData_Desc_1134011	습기 상태의 적에게 가하는 대미지가 <color=#99FFFFFF>21%</color> 증가한다
+EquipAffixData_Name_1134012	정화
+EquipAffixData_Desc_1134012	습기 상태의 적에게 가하는 대미지가 <color=#99FFFFFF>24%</color> 증가한다
+EquipAffixData_Name_1134013	정화
+EquipAffixData_Desc_1134013	습기 상태의 적에게 가하는 대미지가 <color=#99FFFFFF>27%</color> 증가한다
+EquipAffixData_Name_1134014	정화
+EquipAffixData_Desc_1134014	습기 상태의 적에게 가하는 대미지가 <color=#99FFFFFF>30%</color> 증가한다
+EquipAffixData_Name_2100010	여행자
+EquipAffixData_Desc_2100010	HP+80
+EquipAffixData_Name_2100011	여행자
+EquipAffixData_Desc_2100011	HP+120
+EquipAffixData_Name_2100020	용사
+EquipAffixData_Desc_2100020	공격력+6
+EquipAffixData_Name_2100021	용사
+EquipAffixData_Desc_2100021	공격력+9
+EquipAffixData_Name_2100030	수호자
+EquipAffixData_Desc_2100030	방어력+4
+EquipAffixData_Name_2100031	수호자
+EquipAffixData_Desc_2100031	방어력+6
+EquipAffixData_Name_2100040	기적
+EquipAffixData_Desc_2100040	치명타 확률+5%
+EquipAffixData_Name_2100041	기적
+EquipAffixData_Desc_2100041	치명타 확률+7%
+EquipAffixData_Name_2100050	전쟁광
+EquipAffixData_Desc_2100050	치명타 피해+11%
+EquipAffixData_Name_2100051	전쟁광
+EquipAffixData_Desc_2100051	치명타 피해+16%
+EquipAffixData_Name_2100060	무인
+EquipAffixData_Desc_2100060	피해 증가량+6%
+EquipAffixData_Name_2100061	무인
+EquipAffixData_Desc_2100061	피해 증가량+9%
+EquipAffixData_Name_2100070	교관
+EquipAffixData_Desc_2100070	피해 감소율+6%
+EquipAffixData_Name_2100071	교관
+EquipAffixData_Desc_2100071	피해 감소율+9%
+EquipAffixData_Name_2100080	노름꾼
+EquipAffixData_Desc_2100080	치명타 저항력+6%
+EquipAffixData_Name_2100081	노름꾼
+EquipAffixData_Desc_2100081	치명타 저항력+9%
+EquipAffixData_Name_2100090	유배자
+EquipAffixData_Desc_2100090	HP+9%
+EquipAffixData_Name_2100091	유배자
+EquipAffixData_Desc_2100091	HP+13%
+EquipAffixData_Name_2100100	탐험가
+EquipAffixData_Desc_2100100	기초 공격력+9%
+EquipAffixData_Name_2100101	탐험가
+EquipAffixData_Desc_2100101	기초 공격력+13%
+EquipAffixData_Name_2100110	행운아
+EquipAffixData_Desc_2100110	방어력+10%
+EquipAffixData_Name_2100111	행운아
+EquipAffixData_Desc_2100111	방어력+15%
+EquipAffixData_Name_2100120	학자
+EquipAffixData_Desc_2100120	원소 충전 효율+10%
+EquipAffixData_Name_2100121	학자
+EquipAffixData_Desc_2100121	원소 충전 효율+15%
+EquipAffixData_Name_2100130	떠돌이 의사
+EquipAffixData_Desc_2100130	회복량 강화+10%
+EquipAffixData_Name_2100131	떠돌이 의사
+EquipAffixData_Desc_2100131	회복량 강화+15%
+EquipAffixData_Name_2140010	얼음 수호
+EquipAffixData_Desc_2140010	HP+8%
+EquipAffixData_Name_2140011	얼음 수호
+EquipAffixData_Desc_2140011	얼음 원소 저항력+16%
+EquipAffixData_Name_2140020	번개 수호
+EquipAffixData_Desc_2140020	HP+8%
+EquipAffixData_Name_2140021	번개 수호
+EquipAffixData_Desc_2140021	번개 원소 저항력+16%
+EquipAffixData_Name_2140030	불 수호
+EquipAffixData_Desc_2140030	HP+8%
+EquipAffixData_Name_2140031	불 수호
+EquipAffixData_Desc_2140031	불 원소 저항력+16%
+EquipAffixData_Name_2140040	자연 수호
+EquipAffixData_Desc_2140040	방어력+8%
+EquipAffixData_Name_2140041	자연 수호
+EquipAffixData_Desc_2140041	받는 회복량+24%
+EquipAffixData_Name_2150010	근접 캐릭터 공격력 증가
+EquipAffixData_Desc_2150010	기본 공격력+8%
+EquipAffixData_Name_2150011	근접 캐릭터 공격력 증가
+EquipAffixData_Desc_2150011	근접 캐릭터 기본 공격력+12%
+EquipAffixData_Name_2150020	정확
+EquipAffixData_Desc_2150020	기본 공격력+8%
+EquipAffixData_Name_2150021	정확
+EquipAffixData_Desc_2150021	원거리 캐릭터 기본 공격력+12%
+EquipAffixData_Name_2150030	교환
+EquipAffixData_Desc_2150030	기본 공격력+8%
+EquipAffixData_Name_2150031	교환
+EquipAffixData_Desc_2150031	캐릭터 교체 후 원소 피해+20%, 지속 시간 10초
+EquipAffixData_Name_2150040	얼음 원소 피해
+EquipAffixData_Desc_2150040	충전 효율+8%
+EquipAffixData_Name_2150041	얼음 원소 피해
+EquipAffixData_Desc_2150041	얼음 원소 대미지 강화+12%
+EquipAffixData_Name_2150050	번개 원소 피해
+EquipAffixData_Desc_2150050	충전 효율+8%
+EquipAffixData_Name_2150051	번개 원소 피해
+EquipAffixData_Desc_2150051	번개 원소 대미지 강화+12%
+EquipAffixData_Name_2150060	불 원소 피해
+EquipAffixData_Desc_2150060	충전 효율+8%
+EquipAffixData_Name_2150061	불 원소 피해
+EquipAffixData_Desc_2150061	불 원소 대미지 강화+12%
+EquipAffixData_Name_2150070	에너지볼 습득 추가 효과
+EquipAffixData_Desc_2150070	충전 효율+8%
+EquipAffixData_Name_2150071	에너지볼 습득 추가 효과
+EquipAffixData_Desc_2150071	에너지볼 습득 후 기본 공격력+20%, 지속 시간 10초
+EquipAffixData_Name_2150080	치명타 피해
+EquipAffixData_Desc_2150080	치명타 확률+4%
+EquipAffixData_Name_2150081	치명타 피해
+EquipAffixData_Desc_2150081	치명타 피해+20%

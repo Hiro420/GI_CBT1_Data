@@ -1,0 +1,2 @@
+父任务ID	任务类型	Lua脚本路径	推荐等级	可重复	Title	Desc
+10101	0		1		RqMainQuestData_Title_10101	RqMainQuestData_Desc_10101

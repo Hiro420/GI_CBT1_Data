@@ -1,0 +1,96 @@
+{
+    "_phaseList": [
+        {
+            "_time": 0.02626865543425083,
+            "_type": 1999,
+            "_blend": 0,
+            "_customData": 2,
+            "_offPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_motionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_extraTrajName": [],
+            "_extraTrajPos": []
+        },
+        {
+            "_time": 0.3474626839160919,
+            "_type": 1999,
+            "_blend": 0,
+            "_customData": 1,
+            "_offPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_motionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_extraTrajName": [],
+            "_extraTrajPos": []
+        }
+    ],
+    "_zoneList": [
+        {
+            "_timeSpan": {
+                "x": 0.025443844497203828,
+                "y": 1.3731924295425416
+            },
+            "_name": "LeftFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 0.025895707309246064,
+                "y": 1.3733705282211304
+            },
+            "_name": "RightFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 0.35669854283332827,
+                "y": 1.376315712928772
+            },
+            "_name": "Idle",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

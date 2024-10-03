@@ -1,0 +1,103 @@
+父任务ID	任务类型	启用模式	Lua脚本路径	推荐等级	可重复	任务奖励RewardID	章节ID
+347	5	1					
+348	5	1			1		
+349	5	1			1		
+350	5	1	Actor/Quest/AQ350	1			
+351	0	1	Actor/Quest/AQ351	1		100351	
+362	5	1	Actor/Quest/MQ362	1			
+352	0	1	Actor/Quest/AQ352	1		100352	1001
+353	0	1	Actor/Quest/AQ353	2		100353	1001
+361	5	1	Actor/Quest/AQ361	1			
+355	0	1	Actor/Quest/AQ355	2		100355	1001
+354	0	1	Actor/Quest/AQ354	2		100354	1001
+360	0	1	Actor/Quest/AQ360	3			
+356	0	1	Actor/Quest/AQ356	4		100356	1001
+357	0	1	Actor/Quest/AQ357	4		100357	1001
+358	0	1	Actor/Quest/AQ358	5		100358	1001
+359	0	1	Actor/Quest/AQ359	1			
+306	0	1	Actor/Quest/AQ306	5		100306	1001
+307	0	1	Actor/Quest/AQ307	5		100307	1001
+308	0	1	Actor/Quest/AQ308	5		100308	1001
+309	0	1	Actor/Quest/AQ309	5		100309	1001
+310	5	1		1			
+311	0	1	Actor/Quest/AQ311	1			
+312	0	1		1		100312	
+301	0	1		4			
+304	0	1		5			
+305	0	1		6			
+363	0	1		1			1001
+370	0	1	Actor/Quest/MQ370	9		100370	1002
+371	0	1	Actor/Quest/MQ371	9		100371	1002
+372	0	1	Actor/Quest/MQ372	9		100372	1002
+373	0	1	Actor/Quest/MQ373	5			
+374	0	1	Actor/Quest/MQ374	9		100374	1002
+375	0	1	Actor/Quest/MQ375	9		100375	1002
+376	0	1	Actor/Quest/MQ376	9		100376	1002
+377	0	1	Actor/Quest/MQ377	9		100377	1002
+378	0	1	Actor/Quest/MQ378	9		100378	1002
+395	0	1	Actor/Quest/MQ395	9		100395	1002
+379	0	1	Actor/Quest/MQ379	9		100379	1002
+385	0	1	Actor/Quest/MQ385	5			
+386	0	1		5		100386	
+387	0	1		10		100387	
+380	0	1	Actor/Quest/MQ380	12		100380	1002
+381	0	1	Actor/Quest/MQ381	12		100381	1002
+382	0	1	Actor/Quest/MQ382	12		100382	1002
+383	0	1	Actor/Quest/MQ383	12		100383	1002
+384	0	1	Actor/Quest/MQ384	12		100384	1002
+388	0	1	Actor/Quest/MQ388	18		100388	1003
+389	0	1	Actor/Quest/MQ389	18		100389	1003
+390	0	1	Actor/Quest/MQ390	18		100390	1003
+391	0	1	Actor/Quest/MQ391	18		100391	1003
+392	0	1	Actor/Quest/MQ392	18		100392	1003
+393	0	1	Actor/Quest/MQ393	20		100393	1003
+394	0	1	Actor/Quest/MQ394	20		100394	1003
+396	0	1	Actor/Quest/MQ396	20		100396	1003
+303	5	1	Actor/Quest/MQ303	8			
+401	2	1	Actor/Quest/SQ401	9		100400	
+402	2	1	Actor/Quest/SQ402	9		100400	
+403	2	1	Actor/Quest/SQ403	17	1	100400	
+404	2	1	Actor/Quest/SQ404	8		100400	
+405	2	1	Actor/Quest/SQ405	9		100400	
+406	2	1	Actor/Quest/SQ406	9		100400	
+407	2	1	Actor/Quest/SQ407	7		100407	
+408	2	1	Actor/Quest/SQ408	5		100408	
+409	2	1	Actor/Quest/SQ409	5		100409	
+410	2	1	Actor/Quest/SQ410	8		100400	
+411	2	1	Actor/Quest/SQ411	13		100400	
+412	2	1	Actor/Quest/SQ412	9		100400	
+413	2	1	Actor/Quest/SQ413	15		100400	
+414	2	1	Actor/Quest/SQ414	9		100400	
+415	2	1	Actor/Quest/SQ415	1		100400	
+416	2	1	Actor/Quest/SQ416	1			
+418	2	1		12			
+419	2	1	Actor/Quest/MQ419	12			
+420	2	1	Actor/Quest/MQ420	12			
+421	5	1	Actor/Quest/MQ421	1			
+422	2	1	Actor/Quest/MQ422	12			
+423	2	1		12			
+424	2	1	Actor/Quest/SQ424	1			
+425	2	1	Actor/Quest/SQ425	1			
+426	2	1	Actor/Quest/SQ426	1			
+427	2	1	Actor/Quest/SQ427	1			
+451	2	1	Actor/Quest/LQ451	1			
+452	2	1	Actor/Quest/LQ452	1			
+453	2	1	Actor/Quest/LQ453	1			
+454	2	1	Actor/Quest/LQ454	1			
+461	2	1	Actor/Quest/LQ461	6		100461	
+462	2	1	Actor/Quest/LQ462	9		100462	
+463	2	1	Actor/Quest/LQ463	11		100463	
+464	2	1	Actor/Quest/LQ464	1			
+465	2	1	Actor/Quest/LQ465	1			
+466	2	1	Actor/Quest/LQ466	1			
+467	5	1	Actor/Quest/IQ467	1		100467	
+468	5	1		1			
+469	5	1	Actor/Quest/IQ469	1			
+470	5	1	Actor/Quest/IQ470	1		100470	
+484	2	1	Actor/Quest/LQ484				
+994	5	1	Actor/Quest/SQ994	1			
+995	2	1	Actor/Quest/LQ995	1			
+996	5	1	Actor/Quest/SQ996	1			
+997	5	1	Actor/Quest/SQ997	1			
+998	5	1	Actor/Quest/SQ998	1		100400	
+999	5	1	Actor/Quest/SQ999	1		100400	

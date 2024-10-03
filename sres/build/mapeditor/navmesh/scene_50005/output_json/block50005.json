@@ -1,0 +1,56 @@
+{
+    "navMeshDatas": [
+        {
+            "_center": {
+                "x": -62.70000457763672,
+                "y": -6.51500129699707,
+                "z": -111.82769775390625
+            },
+            "_size": {
+                "x": 183.8000030517578,
+                "y": 41.029998779296878,
+                "z": 178.6064453125
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_50005/block_50005/navmesh50005000_agent0"
+        },
+        {
+            "_center": {
+                "x": 91.0999984741211,
+                "y": -6.51500129699707,
+                "z": -111.82769775390625
+            },
+            "_size": {
+                "x": 183.8000030517578,
+                "y": 41.029998779296878,
+                "z": 178.6064453125
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_50005/block_50005/navmesh50005001_agent0"
+        },
+        {
+            "_center": {
+                "x": -62.70000457763672,
+                "y": -6.51500129699707,
+                "z": 36.77874755859375
+            },
+            "_size": {
+                "x": 183.8000030517578,
+                "y": 41.029998779296878,
+                "z": 178.6064453125
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_50005/block_50005/navmesh50005002_agent0"
+        },
+        {
+            "_center": {
+                "x": 91.0999984741211,
+                "y": -6.51500129699707,
+                "z": 36.77874755859375
+            },
+            "_size": {
+                "x": 183.8000030517578,
+                "y": 41.029998779296878,
+                "z": 178.6064453125
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_50005/block_50005/navmesh50005003_agent0"
+        }
+    ]
+}

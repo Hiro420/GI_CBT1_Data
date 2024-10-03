@@ -1,0 +1,109 @@
+ID	Prefab路径	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	标签	客户端脚本	ItemJSON名称	ItemPrefab路径	雷达提示类型	Name
+42001001	ART/Others/SkillObj/SkillObj_Monster_Slime_Ice_AimPoint	4001	19	Slime_IceCone_AimPoint						item		Default_Item			GadgetData_Monster_Name_42001001
+42001002	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_RockThrow	1					item		Default_Item			GadgetData_Monster_Name_42001002
+42001003	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Slime_Bubble	1					item		Default_Item			GadgetData_Monster_Name_42001003
+42001004	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_IceCone	1					item		Default_Item			GadgetData_Monster_Name_42001004
+42001005	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_IceFog						item		Default_Item			GadgetData_Monster_Name_42001005
+42001006	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_Current	1					item		Default_Item			GadgetData_Monster_Name_42001006
+42001007	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_AirAtk	1					item		Default_Item			GadgetData_Monster_Name_42001007
+42001010	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_WindZone_02						item		Default_Item			GadgetData_Monster_Name_42001010
+42001011	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_WindZone_03						item		Default_Item			GadgetData_Monster_Name_42001011
+42001012	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_Seed	1					item		Default_Item			GadgetData_Monster_Name_42001012
+42001013	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_SeedAtk	1					item		Default_Item			GadgetData_Monster_Name_42001013
+42001014	ART/Others/Bullet/Bullet_Slime_GrassSeed	4001	19	Slime_SeedGrow						item		Default_Item			GadgetData_Monster_Name_42001014
+42001015	ART/Others/Bullet/Bullet_Slime_GrassSeed	4001	3	Slime_SeedFloat	1					item		Default_Item			GadgetData_Monster_Name_42001015
+42001016	ART/Others/SkillObj/SkillObj_Monster_Slime_Wind_Airflow	1001	23	Slime_Airflow						item		Default_Item			GadgetData_Monster_Name_42001016
+42001017	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_FireTrail						item		Default_Item			GadgetData_Monster_Name_42001017
+42001018	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_SelfExplosion_01						item		Default_Item			GadgetData_Monster_Name_42001018
+42001019	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_SelfExplosion_02						item		Default_Item			GadgetData_Monster_Name_42001019
+42001020	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_SelfExplosion_03						item		Default_Item			GadgetData_Monster_Name_42001020
+42001021	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Slime_Bubble_Bounce	1					item		Default_Item			GadgetData_Monster_Name_42001021
+42001022	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Slime_Bubble_Float	1					item		Default_Item			GadgetData_Monster_Name_42001022
+42002001	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Elemental_AirflowField						item		Default_Item			GadgetData_Monster_Name_42002001
+42002002	ART/Others/SkillObj/SkillObj_EarthWrath	4001	19	Elemental_EarthWrath						item		Default_Item			GadgetData_Monster_Name_42002002
+42002003	ART/Effect/Skill/Monster/Monster_Elemental/Eff_Monster_Elemental_Wind_EarthWrath_Airflow	1001	23	Elemental_Airflow						item		Default_Item			GadgetData_Monster_Name_42002003
+42101001	ART/Others/Bullet/Bullet_ThrowClub	4001	19	Test_ThrowClub	1					item		Default_Item			GadgetData_Monster_Name_42101001
+42101002	ART/Others/Bullet/Bullet_PlantThorns	4001	3	PlantThorns	1					item		Default_Item			GadgetData_Monster_Name_42101002
+42101003	ART/Others/Bullet/Bullet_Arrow	4001	3	Hili_Fire_Arrow	1	1				item		Default_Item			GadgetData_Monster_Name_42101003
+42101004	ART/Others/Bullet/Bullet_ThrowClub_Fire	4001	19	Test_ThrowClubFire	1					item		Default_Item			GadgetData_Monster_Name_42101004
+42101005	ART/Others/SkillObj/SkillObj_PlantGrasping	4001	19	PlantGrasping						item		Default_Item			GadgetData_Monster_Name_42101005
+42101006	ART/Others/Bullet/Bullet_Arrow	4001	3	Test_Monster_Arrow	1	1				item		Default_Item			GadgetData_Monster_Name_42101006
+42101007	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_FireBall	1	1				item		Default_Item			GadgetData_Monster_Name_42101007
+42101008	ART/Others/SkillObj/SkillObj_PlantGrasping_Field	4001	19	PlantGrasping_Field						item		Default_Item			GadgetData_Monster_Name_42101008
+42101009	ART/Others/Bullet/Bullet_Hili_Pebble	4001	3	Hili_PebbleBullet	1					item		Default_Item			GadgetData_Monster_Name_42101009
+42101010	ART/Others/Bullet/Bullet_Arrow	4001	3	Hili_Ice_Arrow	1	1				item		Default_Item			GadgetData_Monster_Name_42101010
+42101011	ART/Others/Bullet/Bullet_Arrow	4001	3	Hili_Electric_Arrow	1	1				item		Default_Item			GadgetData_Monster_Name_42101011
+42101012	ART/Others/SkillObj/SkillObj_Monster_Hili_Fire_FireSlime_Throw	4001	3	Hili_Fire_SlimeThrow			1			item		Default_Item			GadgetData_Monster_Name_42101012
+42101013	ART/Others/Gadget/Gadget_WoodenClub_01	4001	19	Gadget_WoodenClub_01						item		Default_Item			GadgetData_Monster_Name_42101013
+42101014	ART/Others/Gadget/Gadget_Shield_01	4001	19	Gadget_Shield_01						item		Default_Item			GadgetData_Monster_Name_42101014
+42101015	ART/Others/Gadget/Gadget_Crossbow_01	4001	19	Gadget_Crossbow_01						item		Default_Item			GadgetData_Monster_Name_42101015
+42101016	ART/Others/Gadget/Gadget_Shield_02	4001	19	Gadget_Shield_02						item		Default_Item			GadgetData_Monster_Name_42101016
+42101017	ART/Others/Gadget/Gadget_Axe_01	4001	19	Gadget_Axe_01						item		Default_Item			GadgetData_Monster_Name_42101017
+42102001	ART/Others/Bullet/Bullet_Brute_Axe_FireWave01	4001	3	Brute_Axe_FireWave01	1					item		Default_Item			GadgetData_Monster_Name_42102001
+42102002	ART/Others/Bullet/Bullet_Brute_Axe_FireWave02	4001	3	Brute_Axe_FireWave02	1					item		Default_Item			GadgetData_Monster_Name_42102002
+42102003	ART/Others/SkillObj/SkillObj_Monster_Brute_FireSlime_Throw	1001	3	Brute_Axe_FireSlime_Fire	1	1				item		Default_Item			GadgetData_Monster_Name_42102003
+42102004	ART/Others/SkillObj/SkillObj_Monster_Brute_FireSlime_Throw	1001	3	Brute_Axe_FireSlime_None	1	1				item		Default_Item			GadgetData_Monster_Name_42102004
+42102005	ART/Others/SkillObj/SkillObj_Monster_Brute_GrassSlime_Throw	1001	3	Brute_Shield_GrassSlime	1	1				item		Default_Item			GadgetData_Monster_Name_42102005
+42103002	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	18	Shaman_HealRain_Field						item		Default_Item			GadgetData_Monster_Name_42103002
+42103003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Shaman_GrassField						item		Default_Item			GadgetData_Monster_Name_42103003
+42103004	ART/Others/SkillObj/SkillObj_Shaman_GrassWall	1001	19	Shaman_GrassWall						item		Default_Item			GadgetData_Monster_Name_42103004
+42103005	ART/Others/Bullet/Bullet_WindBreathe_Tornado	1001	3	Shaman_Tornado	1					item		Default_Item			GadgetData_Monster_Name_42103005
+42103006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Shaman_Tornado_Position	1					item		Default_Item			GadgetData_Monster_Name_42103006
+42103007	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Shaman_Torrent_Area						item		Default_Item			GadgetData_Monster_Name_42103007
+42103009	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Shaman_WindZone_Position	1					item		Default_Item			GadgetData_Monster_Name_42103009
+42201001	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Abyss_WaterBall	1					item		Default_Item			GadgetData_Monster_Name_42201001
+42201002	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Abyss_Bubble_Missile	1					item		Default_Item			GadgetData_Monster_Name_42201002
+42201003	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Abyss_FireEnergy_Surround						item		Default_Item			GadgetData_Monster_Name_42201003
+42201004	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Abyss_WaterBall_Gather	1					item		Default_Item			GadgetData_Monster_Name_42201004
+42201005	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Abyss_Bubble_Gather	1					item		Default_Item			GadgetData_Monster_Name_42201005
+42201006	ART/Others/Bullet/Bullet_Abyss_Cyclone	4001	3	Abyss_Cyclone	1					item		Default_Item			GadgetData_Monster_Name_42201006
+42201007	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Abyss_Impulse						item		Default_Item			GadgetData_Monster_Name_42201007
+42201008	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	18	Abyss_ImpulseArea						item		Default_Item			GadgetData_Monster_Name_42201008
+42201009	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Abyss_IceCone_01	1					item		Default_Item			GadgetData_Monster_Name_42201009
+42201010	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Abyss_IceCone_03	1					item		Default_Item			GadgetData_Monster_Name_42201010
+42201011	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Abyss_IceCone_Area						item		Default_Item			GadgetData_Monster_Name_42201011
+42201013	ART/Others/Bullet/Bullet_Abyss_IceCone_Gather	4001	3	Abyss_IceCone_Gather_02	1					item		Default_Item			GadgetData_Monster_Name_42201013
+42201015	ART/Others/Bullet/Bullet_Abyss_IceCone_Gather	4001	3	Abyss_IceCone_Gather_04	1					item		Default_Item			GadgetData_Monster_Name_42201015
+42304001	ART/Others/Bullet/Bullet_Defender_Laser	4001	3	Defender_Laser	1	1				item		Default_Item			GadgetData_Monster_Name_42304001
+42304002	ART/Effect/Skill/Monster/Monster_Defender/Eff_Monster_Defender_None_Whirl_WindField	1001	23	Defender_AirflowField	1					item		Default_Item			GadgetData_Monster_Name_42304002
+42802001	ART/Others/Bullet/Bullet_Boar_RushAtk	4001	3	Boar_RushAtk	1					item		Default_Item			GadgetData_Monster_Name_42802001
+42901001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Dvalin_Trigger01	1					item		Default_Item			GadgetData_Monster_Name_42901001
+42901002	ART/Others/SkillObj/SkillObj_Monster_Dvalin_AirFlowGlobal01	1001	19	Dvalin_AirFlowGlobal01	1				3	item		Default_Item			GadgetData_Monster_Name_42901002
+42901003	ART/Others/SkillObj/SkillObj_Monster_Dvalin_WindRing01	1001	19	Dvalin_WindRing01	1				3	item		Default_Item			GadgetData_Monster_Name_42901003
+42901004	ART/Others/Bullet/Bullet_Dvalin_S01_Bullet01	1001	19	Dvalin_S01_Bullet01	1				3	item		Default_Item			GadgetData_Monster_Name_42901004
+42901005	ART/Others/SkillObj/SkillObj_Monster_Dvalin_WindSlime	1001	19	Dvalin_S01_Bullet01_Launcher	1				3	item		Default_Item			GadgetData_Monster_Name_42901005
+42901006	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Bullet02_Launcher	1001	19	Dvalin_S01_Bullet02_Launcher	1				3	item		Default_Item			GadgetData_Monster_Name_42901006
+42901008	ART/Others/SkillObj/SkillObj_Monster_Dvalin_MovingCenter	1001	19	Dvalin_S01_Moving_Center	1				3	item		Default_Item			GadgetData_Monster_Name_42901008
+42901009	ART/Effect/Skill/Monster/Monster_Dvalin/Eff_Monster_Dvalin_Test_WindField01	1001	19	Dvalin_S04_WindField01					3	item		Default_Item			GadgetData_Monster_Name_42901009
+42901010	ART/Effect/Skill/Monster/Monster_Dvalin/Eff_Monster_Dvalin_Test_WindField02	1001	19	Dvalin_S04_WindField02					3	item		Default_Item			GadgetData_Monster_Name_42901010
+42901011	ART/Effect/Skill/Monster/Monster_Dvalin/Eff_Monster_Dvalin_Test_WindField03	1001	19	Dvalin_S04_WindField03					3	item		Default_Item			GadgetData_Monster_Name_42901011
+42901012	ART/Others/Bullet/Bullet_Dvalin_S02_AirGun	4001	3	Dvalin_S02_AirGun	1	1			3	item		Default_Item			GadgetData_Monster_Name_42901012
+42901021	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_01	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901021
+42901022	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_02	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901022
+42901023	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_03	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901023
+42901024	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_04	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901024
+42901025	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_05	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901025
+42901026	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_06	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901026
+42901027	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_07	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901027
+42901028	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_08	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901028
+42901029	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Platform_09	4001	19	Dvalin_S04_Platform01					3	item		Default_Item			GadgetData_Monster_Name_42901029
+42901041	ART/Others/SkillObj/SkillObj_Monster_Dvalin_AbyssTrigger	4001	19	Dvalin_S04_AbyssTrigger					3	item		Default_Item			GadgetData_Monster_Name_42901041
+42901042	ART/Others/SkillObj/SkillObj_Monster_Dvalin_WindSlime	4001	19	Dvalin_S01_WindSlime	1				3	item		Default_Item			GadgetData_Monster_Name_42901042
+42901043	ART/Others/SkillObj/SkillObj_Monster_Dvalin_FireAbyss	4001	19	Dvalin_S01_FireAbyss	1	1			3	item		Default_Item			GadgetData_Monster_Name_42901043
+42901044	ART/Others/Bullet/Bullet_Abyss_Cyclone	4001	19	Dvalin_S01_FireAbyss_Cyclone	1				3	item		Default_Item			GadgetData_Monster_Name_42901044
+42901045	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Dvalin_S01_FireAbyss_Totem					3	item		Default_Item			GadgetData_Monster_Name_42901045
+42901046	ART/Others/Bullet/Bullet_Abyss_Cyclone	4001	19	Dvalin_S01_Missile_01	1				3	item		Default_Item			GadgetData_Monster_Name_42901046
+42901047	ART/Others/Bullet/Bullet_Abyss_Cyclone	4001	19	Dvalin_S01_Missile_02	1				3	item		Default_Item			GadgetData_Monster_Name_42901047
+42901048	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Dvalin_S01_ChargeDummy	1				3	item		Default_Item			GadgetData_Monster_Name_42901048
+42901049	ART/Others/SkillObj/SkillObj_Monster_Dvalin_S01_FireAbyss_Fan	4001	19	Dvalin_S01_FireAbyss_Fan	1				3	item		Default_Item			GadgetData_Monster_Name_42901049
+42901050	ART/Others/SkillObj/SkillObj_Monster_Dvalin_S01_ElementBall_Wind	4001	3	Dvalin_S01_ElementBall_Wind	1				3	item		Default_Item			GadgetData_Monster_Name_42901050
+42901051	ART/Others/SkillObj/SkillObj_Monster_Dvalin_S01_FireAbyss_Totem	4001	19	Dvalin_S01_FireAbyss_Totem	1				3	item		Default_Item			GadgetData_Monster_Name_42901051
+42901052	ART/Others/Bullet/Bullet_Dvalin_S01_FireAbyss_TotemLaser	4001	3	Dvalin_S01_FireAbyss_TotemLaser	1				3	item		Default_Item			GadgetData_Monster_Name_42901052
+42901061	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Dvalin_S04_StarFall_Launcher					3	item		Default_Item			GadgetData_Monster_Name_42901061
+42901062	ART/Others/Bullet/Bullet_Dvalin_S04_StarFall	4001	3	Dvalin_S04_StarFall_Bullet	1				3	item		Default_Item			GadgetData_Monster_Name_42901062
+42901063	ART/Others/Bullet/Bullet_Dvalin_S04_Breathe	4001	3	Dvalin_S04_Breathe_Bullet	1				3	item		Default_Item			GadgetData_Monster_Name_42901063
+42901064	ART/Others/Bullet/Bullet_Dvalin_S04_TwistedWind	4001	3	Dvalin_S04_TwistedWind_Bullet	1				3	item		Default_Item			GadgetData_Monster_Name_42901064
+42901065	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Dvalin_S04_StarFall_Platform					3	item		Default_Item			GadgetData_Monster_Name_42901065
+42901066	ART/Others/Bullet/Bullet_Dvalin_S04_Hurricane_Bullet	4001	19	Dvalin_S04_Hurricane_Bullet	1				3	item		Default_Item			GadgetData_Monster_Name_42901066
+42901067	ART/Others/SkillObj/SkillObj_Monster_Dvalin_S04_Controller	4001	19	Dvalin_S04_AirFlowController					3	item		Default_Item			GadgetData_Monster_Name_42901067
+42901068	ART/Others/SkillObj/SkillObj_Monster_Dvalin_S04_CameraCenter	1001	19	Dvalin_S04_Camera_Center	1				3	item		Default_Item			GadgetData_Monster_Name_42901068

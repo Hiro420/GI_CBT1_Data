@@ -1,0 +1,3492 @@
+ID	文本
+TrialAvatarData_TrialAvatarName_1	엠버 체험
+TrialAvatarData_TrialAvatarName_2	케이아 체험
+TrialAvatarData_TrialAvatarName_3	리사 체험
+TrialAvatarData_TrialAvatarName_4	다이루크 체험
+TrialAvatarData_TrialAvatarName_5	벤티 체험
+TrialAvatarData_TrialAvatarName_6	케이아 체험
+CampData_Comment_1001	유저 캐릭터
+CampData_Comment_1002	유저 수행원 (몬스터만 적대)
+CampData_Comment_2001	초식동물
+CampData_Comment_3001	육식동물
+CampData_Comment_4001	망자
+CampData_Comment_4002	붕괴수
+CampData_Comment_4003	마신
+CampData_Comment_5001	켄리아 장치
+CampData_Comment_9001	풀
+CampData_Comment_9002	물
+CampData_Comment_9999	환경
+CampData_Comment_5100	번개돌
+CampData_Comment_6666	전기 파일 테스트
+DieTypeTipsData_Tips1_1	먼 산을 볼 때도 발밑을 조심하자
+DieTypeTipsData_Tips2_1	 
+DieTypeTipsData_Tips3_1	 
+DieTypeTipsData_Tips4_1	 
+DieTypeTipsData_Tips1_2	스태미나와 주변 지형을 잘 살피자. 부주의로 추락하면 상응하는 피해를 받는다
+DieTypeTipsData_Tips2_2	 
+DieTypeTipsData_Tips3_2	 
+DieTypeTipsData_Tips4_2	 
+DieTypeTipsData_Tips1_3	수영 도중엔 스태미나가 자동으로 회복되지 않으며, 스태미나가 고갈되면 익사한다. 스태미나를 주의하자
+DieTypeTipsData_Tips2_3	 
+DieTypeTipsData_Tips3_3	 
+DieTypeTipsData_Tips4_3	 
+DieTypeTipsData_Tips1_4	전투 중 HP가 낮으면 음식을 섭취해 HP를 회복하자
+DieTypeTipsData_Tips2_4	가끔은 삼십육게 줄행랑이 최고의 선택
+DieTypeTipsData_Tips3_4	적의 수와 특징을 자세히 관찰한 뒤 공격 계책을 신중하게 세우자
+DieTypeTipsData_Tips4_4	 
+DieTypeTipsData_Tips1_5	거대방패의 정면 방어는 거의 뚫을 수 없으니 뒤에서 공격하는 게 유리하다
+DieTypeTipsData_Tips2_5	나무 재질의 거대방패는 불에 쉽게 탄다. 츄츄족 폭도는 거대방패를 잃게 되면 방어 능력을 상실한다
+DieTypeTipsData_Tips3_5	만약 거대방패에 물원소가 있을 경우엔 불이 잘 붙지 않는다
+DieTypeTipsData_Tips4_5	츄츄족 폭도-방패가 방패를 들고 돌진할 경우 엄청난 대미지를 가한다. 이를 회피하고 반격의 기회를 잡아라
+DieTypeTipsData_Tips1_6	도끼가 불타고 있을 땐 츄츄족 폭도의 공격력이 대폭 상승한다
+DieTypeTipsData_Tips2_6	불타는 도끼는 다른 원소의 영향을 받는다. 원소 간의 상성을 효과적으로 이용해 승리를 차지하라
+DieTypeTipsData_Tips3_6	물원소를 사용해 불타는 도끼를 빨리 진화할 수 있다
+DieTypeTipsData_Tips4_6	츄츄족 폭도가 도끼에 불을 붙이려고 할 때가 공격하기에 가장 좋은 시기이다
+DieTypeTipsData_Tips1_7	광풍의 핵으로 소환된 폭풍이 만들어내는 윈드 필드를 이용하면 공중으로 날아오르면서 공격을 피할 수 있다
+DieTypeTipsData_Tips2_7	광풍의 핵은 매우 강력한 기동성을 가지고 있다. 물원소와 얼음원소를 이용해 얼린다면 위협을 효과적으로 줄일 수 있다
+DieTypeTipsData_Tips3_7	광풍의 핵은 폭풍의 돌진을 사용하고 난 뒤엔 일시적으로 힘이 고갈된다. 이때가 반격하기에 가장 좋은 시기이다
+DieTypeTipsData_Tips4_7	 
+DieTypeTipsData_Tips1_8	심연 메이지-불의 화염은 매우 위험하니 점화 상태에 빠지지 않도록 주의하자
+DieTypeTipsData_Tips2_8	심연 메이지-불의 실드는 불원소로 구성되어 있기에 물원소로 공격하면 효과적으로 파괴할 수 있다
+DieTypeTipsData_Tips3_8	 
+DieTypeTipsData_Tips4_8	 
+DieTypeTipsData_Tips1_9	습기 상태가 되면 심연 메이지-얼음의 얼음원소 공격을 조심해야 한다
+DieTypeTipsData_Tips2_9	심연 메이지-얼음의 실드는 얼음원소로 구성되어 있기에 불원소로 공격하면 효과적으로 파괴할 수 있다
+DieTypeTipsData_Tips3_9	 
+DieTypeTipsData_Tips4_9	 
+DieTypeTipsData_Tips1_10	심연 메이지-물의 공격은 상대방을 습기 상태에 빠트린다. 이 때 얼음원소 공격을 받게되면 동결 상태에 빠진다
+DieTypeTipsData_Tips2_10	심연 메이지-물의 실드는 물원소로 구성되어 있기에 번개속성으로 공격하면 효과적으로 파괴할 수 있다
+DieTypeTipsData_Tips3_10	심연 메이지-물의 물방울에 적중되면 잠시 움직일 수 없어서 위험하다
+DieTypeTipsData_Tips4_10	 
+DieTypeTipsData_Tips1_11	불타고 있는 파이어 슬라임이 처치되면 폭발하게 된다
+DieTypeTipsData_Tips2_11	물원소로 파이어 슬라임의 불을 진화할 수 있다. 물원소를 이용해 공격하거나 물원소 환경을 이용하면 위협을 효과적으로 줄일 수 있다
+DieTypeTipsData_Tips3_11	 
+DieTypeTipsData_Tips4_11	 
+DieTypeTipsData_Tips1_12	불타고 있는 파이어 슬라임이 처치되면 폭발하게 된다
+DieTypeTipsData_Tips2_12	물원소로 파이어 슬라임의 불을 진화할 수 있다. 물원소를 이용해 공격하거나 물원소 환경을 이용하면 위협을 효과적으로 줄일 수 있다
+DieTypeTipsData_Tips3_12	 
+DieTypeTipsData_Tips4_12	 
+DieTypeTipsData_Tips1_13	원소 반응을 일으키기 어려운 바위 슬라임을 상대할 때도 방심해선 안 된다
+DieTypeTipsData_Tips2_13	 
+DieTypeTipsData_Tips3_13	 
+DieTypeTipsData_Tips4_13	 
+DieTypeTipsData_Tips1_14	폭발과 무거운 양손검, 그리고 바위원소로 공격하면 거대 바위 슬라임의 바위 갑옷을 빨리 파괴할 수 있다
+DieTypeTipsData_Tips2_14	 
+DieTypeTipsData_Tips3_14	 
+DieTypeTipsData_Tips4_14	 
+DieTypeTipsData_Tips1_15	윈드 슬라임이 팽창하여 공중에 떠 있을 때 쉽게 처치할 수 있다
+DieTypeTipsData_Tips2_15	윈드 슬라임은 체내에 바람의 힘을 지니고 있어서 처치될 때 충격파를 방출한다
+DieTypeTipsData_Tips3_15	윈드 슬라임은 아주 가벼워서 멀리까지 날아간다
+DieTypeTipsData_Tips4_15	 
+DieTypeTipsData_Tips1_16	윈드 슬라임이 팽창하여 공중에 떠 있을 때 쉽게 처치할 수 있다
+DieTypeTipsData_Tips2_16	윈드 슬라임은 체내에 바람의 힘을 지니고 있어서 처치될 때 충격파를 방출한다
+DieTypeTipsData_Tips3_16	윈드 슬라임은 아주 가벼워서 멀리까지 날아간다
+DieTypeTipsData_Tips4_16	 
+DieTypeTipsData_Tips1_17	플로라 슬라임은 땅속에 숨어서 매복 공격을 한다. 주변에 수상한 식물이 있나 없나 주의해라
+DieTypeTipsData_Tips2_17	 
+DieTypeTipsData_Tips3_17	 
+DieTypeTipsData_Tips4_17	 
+DieTypeTipsData_Tips1_18	거대 플로라 슬라임은 전투 중에 동료를 소환한다
+DieTypeTipsData_Tips2_18	머리 위의 꽃망울이 플로라 슬라임의 약점이다. 불원소를 사용해 이를 불태우면 허약 상태에 빠진다
+DieTypeTipsData_Tips3_18	 
+DieTypeTipsData_Tips4_18	 
+DieTypeTipsData_Tips1_19	습기 상태가 되면 아이스 슬라임의 얼음원소 공격을 조심해야 한다
+DieTypeTipsData_Tips2_19	 
+DieTypeTipsData_Tips3_19	 
+DieTypeTipsData_Tips4_19	 
+DieTypeTipsData_Tips1_20	불원소 공격은 거대 아이스 슬라임의 얼음 갑옷을 빨리 녹일 수 있다
+DieTypeTipsData_Tips2_20	 
+DieTypeTipsData_Tips3_20	 
+DieTypeTipsData_Tips4_20	 
+DieTypeTipsData_Tips1_21	썬더 슬라임은 간헐적으로 사방에 방전한다. 방전하고 난 뒤가 반격하기에 가장 좋은 시기이다
+DieTypeTipsData_Tips2_21	습기 상태에서 번개속성 공격을 받으면 감전 상태에 빠져 추가 대미지를 받게 된다
+DieTypeTipsData_Tips3_21	 
+DieTypeTipsData_Tips4_21	 
+DieTypeTipsData_Tips1_22	썬더 슬라임은 간헐적으로 사방에 방전한다. 방전하고 난 뒤가 반격하기에 가장 좋은 시기이다
+DieTypeTipsData_Tips2_22	습기 상태에서 번개속성 공격을 받으면 감전 상태에 빠져 추가 대미지를 받게 된다
+DieTypeTipsData_Tips3_22	 
+DieTypeTipsData_Tips4_22	 
+DieTypeTipsData_Tips1_23	돌연변이 썬더 슬라임은 다른 썬더 슬라임과 스파크가 발생하니 최대한 빨리 처치해서 위협을 줄여야 한다
+DieTypeTipsData_Tips2_23	 
+DieTypeTipsData_Tips3_23	 
+DieTypeTipsData_Tips4_23	 
+DieTypeTipsData_Tips1_24	얼음원소 공격은 워터 슬라임을 효과적으로 동결시킬 수 있다
+DieTypeTipsData_Tips2_24	 
+DieTypeTipsData_Tips3_24	 
+DieTypeTipsData_Tips4_24	 
+DieTypeTipsData_Tips1_25	얼음원소 공격은 워터 슬라임을 효과적으로 동결시킬 수 있다
+DieTypeTipsData_Tips2_25	 
+DieTypeTipsData_Tips3_25	 
+DieTypeTipsData_Tips4_25	 
+DieTypeTipsData_Tips1_26	츄츄 샤먼-물은 동료를 치유할 수 있으니 고전하지 않도록 최대한 빨리 처치해야 한다
+DieTypeTipsData_Tips2_26	 
+DieTypeTipsData_Tips3_26	 
+DieTypeTipsData_Tips4_26	 
+DieTypeTipsData_Tips1_27	츄츄 샤먼-풀은 전장에 가시덤불을 소환해 이동을 방해한다. 불원소 공격을 사용해 가시덤불을 재빨리 제거할 수 있다
+DieTypeTipsData_Tips2_27	 
+DieTypeTipsData_Tips3_27	 
+DieTypeTipsData_Tips4_27	 
+DieTypeTipsData_Tips1_28	츄츄 샤먼-바람은 소형 허리케인을 소환해 전장을 휩쓴다
+DieTypeTipsData_Tips2_28	 
+DieTypeTipsData_Tips3_28	 
+DieTypeTipsData_Tips4_28	 
+DieTypeTipsData_Tips1_29	유적 가디언은 눈의 레이저 발사기와 등에 노출된 코어가 가장 큰 약점이다
+DieTypeTipsData_Tips2_29	유적 가디언의 레이저는 높은 대미지를 준다. 그러나 레이저를 피할 수 있다면 그때가 반격하기에 가장 좋은 시기이다
+DieTypeTipsData_Tips3_29	 
+DieTypeTipsData_Tips4_29	 
+DieTypeTipsData_Tips1_30	빈손인 츄츄족이라도 방심해선 안 된다
+DieTypeTipsData_Tips2_30	 
+DieTypeTipsData_Tips3_30	 
+DieTypeTipsData_Tips4_30	 
+DieTypeTipsData_Tips1_31	나무방망이는 불원소 공격에 불타오르니 다양한 공격을 시도해 봐라
+DieTypeTipsData_Tips2_31	 
+DieTypeTipsData_Tips3_31	 
+DieTypeTipsData_Tips4_31	 
+DieTypeTipsData_Tips1_32	나무로 만든 방패는 불원소 공격에 불타오른다
+DieTypeTipsData_Tips2_32	츄츄족은 방패를 들고 있을 때 정면에서 오는 공격을 효과적으로 방어할 수 있다. 다른 방식을 시도해 보자
+DieTypeTipsData_Tips3_32	 
+DieTypeTipsData_Tips4_32	 
+DieTypeTipsData_Tips1_33	궁수 츄츄는 근접전에 매우 취약하다. 맹렬히 공격하면 활을 쏘지 못하도록 할 수 있다
+DieTypeTipsData_Tips2_33	 
+DieTypeTipsData_Tips3_33	 
+DieTypeTipsData_Tips4_33	 
+DieTypeTipsData_Tips1_34	궁수 츄츄는 근접전에 매우 취약하다. 맹렬히 공격하면 활을 쏘지 못하도록 할 수 있다
+DieTypeTipsData_Tips2_34	 
+DieTypeTipsData_Tips3_34	 
+DieTypeTipsData_Tips4_34	 
+DieTypeTipsData_Tips1_35	일부 츄츄족은 파이어 슬라임을 던져 공격한다. 절대 방심해선 안 된다
+DieTypeTipsData_Tips2_35	 
+DieTypeTipsData_Tips3_35	 
+DieTypeTipsData_Tips4_35	 
+DieTypeTipsData_Tips1_36	돌격 츄츄의 돌격 공세가 끝났을 때가 반격하기에 가장 좋은 시기이다
+DieTypeTipsData_Tips2_36	 
+DieTypeTipsData_Tips3_36	 
+DieTypeTipsData_Tips4_36	 
+DieTypeTipsData_Tips1_37	궁수 츄츄는 근접전에 매우 취약하다. 맹렬히 공격하면 활을 쏘지 못하도록 할 수 있다
+DieTypeTipsData_Tips2_37	 
+DieTypeTipsData_Tips3_37	 
+DieTypeTipsData_Tips4_37	 
+DieTypeTipsData_Tips1_38	궁수 츄츄는 근접전에 매우 취약하다. 맹렬히 공격하면 활을 쏘지 못하도록 할 수 있다
+DieTypeTipsData_Tips2_38	 
+DieTypeTipsData_Tips3_38	 
+DieTypeTipsData_Tips4_38	 
+GadgetData_Avatar_Name_40000001	SteamBangField
+GadgetData_Avatar_Name_40000002	ThunderFistField
+GadgetData_Avatar_Name_40000003	GrassDart
+GadgetData_Avatar_Name_40000004	SharkTorpedo
+GadgetData_Avatar_Name_40000005	SharkTorpedo_Spurt
+GadgetData_Avatar_Name_40000006	SharkTorpedo_Spurt_2
+GadgetData_Avatar_Name_40000104	FrostSpear
+GadgetData_Avatar_Name_40000115	IceSpine_1
+GadgetData_Avatar_Name_40000116	IceSpine_2
+GadgetData_Avatar_Name_40000117	IceSpine_3
+GadgetData_Avatar_Name_40000118	RockImpact
+GadgetData_Avatar_Name_40000119	ModifiedTrigger
+GadgetData_Avatar_Name_40000120	RockImpactTrap
+GadgetData_Avatar_Name_40000121	IceSpine_Strike
+GadgetData_Avatar_Name_40000139	NoAvatar_IceRain
+GadgetData_Avatar_Name_40000140	NoAvatar_IceTrap
+GadgetData_Avatar_Name_40000148	ClawMark_Mark 
+GadgetData_Avatar_Name_40000154	ClawMark_Mark_Lycan
+GadgetData_Avatar_Name_40000160	AimingArrow_WithoutFire
+GadgetData_Avatar_Name_40000161	Double_ArrowAiming_WithoutFire
+GadgetData_Avatar_Name_40000172	Frost_Orb
+GadgetData_Avatar_Name_40000173	Frost_Orb_Bullet
+GadgetData_Avatar_Name_40000174	JumpDrug_Whitbox_01
+GadgetData_Avatar_Name_40000175	JumpDrug_Whitbox_02
+GadgetData_Avatar_Name_40000176	JumpDrug_Whitbox_03
+GadgetData_Avatar_Name_40000177	JumpDrug_Whitbox_04
+GadgetData_Avatar_Name_40000178	EmptyGadget
+GadgetData_Avatar_Name_40000129	IceSpell_Wards_Trap
+GadgetData_Avatar_Name_40100001	Test_Arrow
+GadgetData_Avatar_Name_40100006	Test_ArrowAiming
+GadgetData_Avatar_Name_40100013	Gear_ElectricBall
+GadgetData_Avatar_Name_40100200	RoomDoor
+GadgetData_Avatar_Name_40100201	KnightRoomDoor
+GadgetData_Avatar_Name_40200001	WindField_Vertical
+GadgetData_Avatar_Name_40200002	WindField_Horizontal_01
+GadgetData_Avatar_Name_40200003	SpeedupField
+GadgetData_Avatar_Name_40200008	WindField_FireGrass
+GadgetData_Avatar_Name_40200020	WindField_Vertical_Feather
+GadgetData_Avatar_Name_40210006	토네이도 발사기
+GadgetData_Avatar_Name_40210007	강풍 무효 지역
+GadgetData_Avatar_Name_41002001	FrozenWindmill
+GadgetData_Avatar_Name_41002002	IceSpine_Large
+GadgetData_Avatar_Name_41002003	Frozen_Butterfly
+GadgetData_Avatar_Name_41002004	Frozen_Butterfly_Material
+GadgetData_Avatar_Name_41002005	FrozenWindmill_Sub
+GadgetData_Avatar_Name_41002006	Ayaka_ExtraAttack
+GadgetData_Avatar_Name_41002007	Ayaka_NormalAttack_05
+GadgetData_Avatar_Name_41002008	Ayaka_YayoiKaeshi
+GadgetData_Avatar_Name_41003001	WoodSpikeField
+GadgetData_Avatar_Name_41003002	HealingSeal
+GadgetData_Avatar_Name_41003003	WoodWall
+GadgetData_Avatar_Name_41003004	DandelionWind_1
+GadgetData_Avatar_Name_41003005	DandelionWind_2
+GadgetData_Avatar_Name_41005001	WindBreathe_Tornado
+GadgetData_Avatar_Name_41005002	Player_Wind_Arashi
+GadgetData_Avatar_Name_41005003	Hogyoku_Base
+GadgetData_Avatar_Name_41005004	Hogyoku_Barrier
+GadgetData_Avatar_Name_41005005	RockTide
+GadgetData_Avatar_Name_41005006	RockTide_Barrier
+GadgetData_Avatar_Name_41005007	PlayerBoy_ExtraAttack_Wave
+GadgetData_Avatar_Name_41006001	PierceLightning
+GadgetData_Avatar_Name_41006002	LightningBolt
+GadgetData_Avatar_Name_41006003	LightningSpear
+GadgetData_Avatar_Name_41006004	LightningSpear_1
+GadgetData_Avatar_Name_41006005	LightningSpear_2
+GadgetData_Avatar_Name_41006006	ConductiveField
+GadgetData_Avatar_Name_41006007	FilckerWave
+GadgetData_Avatar_Name_41006008	StaticElecField
+GadgetData_Avatar_Name_41006009	FlickerWave
+GadgetData_Avatar_Name_41006010	Lisa_Attack01
+GadgetData_Avatar_Name_41006011	Lisa_Attack02
+GadgetData_Avatar_Name_41006012	Lisa_Attack03
+GadgetData_Avatar_Name_41006013	PierceLightning_Ball
+GadgetData_Avatar_Name_41006014	WhiteBox_PhantomSword1
+GadgetData_Avatar_Name_41006015	WhiteBox_PhantomSword2
+GadgetData_Avatar_Name_41006016	WhiteBox_PhantomSword3
+GadgetData_Avatar_Name_41006017	WhiteBox_PhantomSword4
+GadgetData_Avatar_Name_41006018	WhiteBox_PhantomSword5
+GadgetData_Avatar_Name_41006019	WhiteBox_PhantomSword6
+GadgetData_Avatar_Name_41006020	Lisa_ExtraAttack
+GadgetData_Avatar_Name_41006021	WhiteBox_PhantomSword1a
+GadgetData_Avatar_Name_41006022	WhiteBox_PhantomSword2a
+GadgetData_Avatar_Name_41006023	WhiteBox_PhantomSword3a
+GadgetData_Avatar_Name_41006024	WhiteBox_PhantomSword4a
+GadgetData_Avatar_Name_41006025	WhiteBox_PhantomSword5a
+GadgetData_Avatar_Name_41006026	WhiteBox_PhantomSword6a
+GadgetData_Avatar_Name_41006027	PierceLightning_Ball_Bullet
+GadgetData_Avatar_Name_40010001	Weapon_Catalyst_Arcane_Arrow
+GadgetData_Avatar_Name_40010002	Beidou_ThunderTrace
+GadgetData_Avatar_Name_41014001	Barbara_Attack01
+GadgetData_Avatar_Name_41014002	Barbara_Attack02
+GadgetData_Avatar_Name_41014003	Barbara_Attack03
+GadgetData_Avatar_Name_41014004	Barbara_WetShiled
+GadgetData_Avatar_Name_41014005	Eff_WetShiled
+GadgetData_Avatar_Name_41014006	Barbara_Team_WaterBall
+GadgetData_Avatar_Name_41014007	Barbara_Team_FirstAid
+GadgetData_Avatar_Name_41015001	FrozenField
+GadgetData_Avatar_Name_41015002	IceShieldImpact_L
+GadgetData_Avatar_Name_41015003	IceShieldImpact_R
+GadgetData_Avatar_Name_41015004	FrozenTrap1
+GadgetData_Avatar_Name_41015005	FrozenTrap2
+GadgetData_Avatar_Name_41015006	FrozenTrap3
+GadgetData_Avatar_Name_41015007	FrozenTrap_Trigger1
+GadgetData_Avatar_Name_41015008	FrozenTrap_Trigger2
+GadgetData_Avatar_Name_41016001	Diluc_FireCross
+GadgetData_Avatar_Name_41021001	ArrowRainField
+GadgetData_Avatar_Name_41021002	Dummy
+GadgetData_Avatar_Name_41021003	Dummy_Throw
+GadgetData_Avatar_Name_41021004	Dummy_Throw_7M
+GadgetData_Avatar_Name_41021005	Dummy_Throw_4M
+GadgetData_Avatar_Name_41021006	Dummy_Throw_Short
+GadgetData_Avatar_Name_41021007	Double_ArrowAiming
+GadgetData_Avatar_Name_41021008	Dummy_ElementBall
+GadgetData_Avatar_Name_41021009	Ambor_Arrow_01
+GadgetData_Avatar_Name_41021010	Ambor_Arrow_02
+GadgetData_Avatar_Name_41021011	Ambor_Arrow_03
+GadgetData_Avatar_Name_41021012	Ambor_Arrow_04
+GadgetData_Avatar_Name_41021013	Ambor_Arrow_05
+GadgetData_Avatar_Name_41021014	GateOfAmbor_Trigger
+GadgetData_Avatar_Name_41021015	GateOfAmbor_Bullet
+GadgetData_Avatar_Name_41022001	Hurricane_Arrow
+GadgetData_Avatar_Name_41022002	Venti_WindBlade
+GadgetData_Avatar_Name_41022003	Venti_WindBlade_Land
+GadgetData_Avatar_Name_41022004	AimingArrow_Wind
+GadgetData_Avatar_Name_41022005	AimingArrow_WithoutWind
+GadgetData_Avatar_Name_41022006	Venti_Talent_AimingArrow_Wind
+GadgetData_Avatar_Name_41022007	Venti_Talent_AimingArrow_WithoutWind
+GadgetData_Avatar_Name_41022008	Venti_Arrow_01
+GadgetData_Avatar_Name_41022009	Venti_Arrow_02
+GadgetData_Avatar_Name_41022010	Venti_Arrow_03
+GadgetData_Avatar_Name_41022011	Venti_Arrow_04
+GadgetData_Avatar_Name_41022012	Venti_Arrow_05
+GadgetData_Avatar_Name_41022013	Venti_Arrow_06
+GadgetData_Avatar_Name_41023001	Xiangling_ExtraAttack_Bullet
+GadgetData_Avatar_Name_41023003	Xiangling_Panda_Pepper
+GadgetData_Avatar_Name_41023004	Xiangling_FireCircle
+GadgetData_Avatar_Name_41023011	Xiangling_Panda
+GadgetData_Avatar_Name_41023012	TalentBombGadget_EmptyGadget
+GadgetData_Avatar_Name_41024001	Beidou_Thunder_Chain1
+GadgetData_Avatar_Name_41024002	Beidou_Thunder_Chain2
+GadgetData_Avatar_Name_41024003	Beidou_Thunder_Chain3
+GadgetData_Avatar_Name_41024011	Beidou_Thunder
+GadgetData_Avatar_Name_41024012	Beidou_Thunder1
+GadgetData_Avatar_Name_41025001	IceVirus
+GadgetData_Avatar_Name_41028001	Prototype_Pole_Attack
+GadgetData_Monster_Name_42001001	Slime_IceCone_AimPoint
+GadgetData_Monster_Name_42001002	Slime_RockThrow
+GadgetData_Monster_Name_42001003	Slime_Bubble
+GadgetData_Monster_Name_42001004	Slime_IceCone
+GadgetData_Monster_Name_42001005	Slime_IceFog
+GadgetData_Monster_Name_42001006	Slime_Current
+GadgetData_Monster_Name_42001007	Slime_AirAtk
+GadgetData_Monster_Name_42001010	Slime_WindZone_02
+GadgetData_Monster_Name_42001011	Slime_WindZone_03
+GadgetData_Monster_Name_42001012	Slime_Seed
+GadgetData_Monster_Name_42001013	Slime_SeedAtk
+GadgetData_Monster_Name_42001014	Slime_SeedGrow
+GadgetData_Monster_Name_42001015	Slime_SeedFloat
+GadgetData_Monster_Name_42001016	Slime_Airflow
+GadgetData_Monster_Name_42001017	Slime_FireTrail
+GadgetData_Monster_Name_42001018	Slime_SelfExplosion_01
+GadgetData_Monster_Name_42001019	Slime_SelfExplosion_02
+GadgetData_Monster_Name_42001020	Slime_SelfExplosion_03
+GadgetData_Monster_Name_42001021	Slime_Bubble_Bounce
+GadgetData_Monster_Name_42001022	Slime_Bubble_Float
+GadgetData_Monster_Name_42002001	Elemental_AirflowField
+GadgetData_Monster_Name_42002002	Elemental_EarthWrath
+GadgetData_Monster_Name_42002003	Elemental_Airflow
+GadgetData_Monster_Name_42101001	Test_ThrowClub
+GadgetData_Monster_Name_42101002	PlantThorns
+GadgetData_Monster_Name_42101003	Hili_Fire_Arrow
+GadgetData_Monster_Name_42101004	Test_ThrowClubFire
+GadgetData_Monster_Name_42101005	PlantGrasping
+GadgetData_Monster_Name_42101006	Test_Monster_Arrow
+GadgetData_Monster_Name_42101007	Slime_FireBall
+GadgetData_Monster_Name_42101008	PlantGrasping_Field
+GadgetData_Monster_Name_42101009	Hili_PebbleBullet
+GadgetData_Monster_Name_42101010	Hili_Ice_Arrow
+GadgetData_Monster_Name_42101011	Hili_Electric_Arrow
+GadgetData_Monster_Name_42101012	Hili_Fire_SlimeThrow
+GadgetData_Monster_Name_42101013	Gadget_WoodenClub_01
+GadgetData_Monster_Name_42101014	Gadget_Shield_01
+GadgetData_Monster_Name_42101015	Gadget_Crossbow_01
+GadgetData_Monster_Name_42101016	Gadget_Shield_02
+GadgetData_Monster_Name_42101017	Gadget_Axe_01
+GadgetData_Monster_Name_42102001	Brute_Axe_FireWave01
+GadgetData_Monster_Name_42102002	Brute_Axe_FireWave02
+GadgetData_Monster_Name_42102003	Brute_Axe_FireSlime_Fire
+GadgetData_Monster_Name_42102004	Brute_Axe_FireSlime_None
+GadgetData_Monster_Name_42102005	Brute_Sield_GrassSlime
+GadgetData_Monster_Name_42103002	Shaman_HealRain_Field
+GadgetData_Monster_Name_42103003	Shaman_GrassField
+GadgetData_Monster_Name_42103004	Shaman_GrassWall
+GadgetData_Monster_Name_42103005	Shaman_Tornado
+GadgetData_Monster_Name_42103006	Shaman_Tornado_Position
+GadgetData_Monster_Name_42103007	Shaman_Torrent_Area
+GadgetData_Monster_Name_42103009	Shaman_WindZone_Position
+GadgetData_Monster_Name_42201001	Abyss_WaterBall
+GadgetData_Monster_Name_42201002	Abyss_Bubble_Missile
+GadgetData_Monster_Name_42201003	Abyss_FireEnergy_Surround
+GadgetData_Monster_Name_42201004	Abyss_WaterBall_Gather
+GadgetData_Monster_Name_42201005	Abyss_Bubble_Gather
+GadgetData_Monster_Name_42201006	Abyss_Cyclone
+GadgetData_Monster_Name_42201007	Abyss_Impulse
+GadgetData_Monster_Name_42201008	Abyss_ImpulseArea
+GadgetData_Monster_Name_42201009	Abyss_IceCone_01
+GadgetData_Monster_Name_42201010	Abyss_IceCone_03
+GadgetData_Monster_Name_42201011	Abyss_IceCone_Area
+GadgetData_Monster_Name_42201013	Abyss_IceCone_Gather_02
+GadgetData_Monster_Name_42201015	Abyss_IceCone_Gather_04
+GadgetData_Monster_Name_42304001	Defender_Laser
+GadgetData_Monster_Name_42304002	유적 몬스터 스킬 윈드 필드
+GadgetData_Monster_Name_42802001	Boar_RushAtk
+GadgetData_Monster_Name_42901001	Dvalin_Trigger01
+GadgetData_Monster_Name_42901002	Dvalin_AirFlowGlobal01
+GadgetData_Monster_Name_42901003	Dvalin_WindRing01
+GadgetData_Monster_Name_42901004	Dvalin_S01_Bullet01
+GadgetData_Monster_Name_42901005	Dvalin_S01_Bullet01_Launcher
+GadgetData_Monster_Name_42901006	Dvalin_S01_Bullet02_Launcher
+GadgetData_Monster_Name_42901008	Dvalin_S01_Moving_Center
+GadgetData_Monster_Name_42901009	Dvalin_S04_WindField01
+GadgetData_Monster_Name_42901010	Dvalin_S04_WindField02
+GadgetData_Monster_Name_42901011	Dvalin_S04_WindField03
+GadgetData_Monster_Name_42901012	Dvalin_S02_AirGun
+GadgetData_Monster_Name_42901021	Dvalin_S04_Platform01
+GadgetData_Monster_Name_42901022	Dvalin_S04_Platform02
+GadgetData_Monster_Name_42901023	Dvalin_S04_Platform03
+GadgetData_Monster_Name_42901024	Dvalin_S04_Platform04
+GadgetData_Monster_Name_42901025	Dvalin_S04_Platform05
+GadgetData_Monster_Name_42901026	Dvalin_S04_Platform06
+GadgetData_Monster_Name_42901027	Dvalin_S04_Platform07
+GadgetData_Monster_Name_42901028	Dvalin_S04_Platform08
+GadgetData_Monster_Name_42901029	Dvalin_S04_Platform09
+GadgetData_Monster_Name_42901041	Dvalin_S04_AbyssTrigger
+GadgetData_Monster_Name_42901042	Dvalin_S01_WindSlime
+GadgetData_Monster_Name_42901043	Dvalin_S01_FireAbyss
+GadgetData_Monster_Name_42901044	Dvalin_S01_FireAbyss_Cyclone
+GadgetData_Monster_Name_42901045	Dvalin_S01_FireAbyss_Totem
+GadgetData_Monster_Name_42901046	Dvalin_S01_Missile_01
+GadgetData_Monster_Name_42901047	Dvalin_S01_Missile_02
+GadgetData_Monster_Name_42901048	Dvalin_S01_ChargeDummy
+GadgetData_Monster_Name_42901049	Dvalin_S01_FireAbyss_Fan
+GadgetData_Monster_Name_42901050	Dvalin_S01_ElementBall_Wind
+GadgetData_Monster_Name_42901051	Dvalin_S01_FireAbyss_Totem
+GadgetData_Monster_Name_42901052	Dvalin_S01_FireAbyss_TotemLaser
+GadgetData_Monster_Name_42901061	Dvalin_S04_StarFall_Launcher
+GadgetData_Monster_Name_42901062	Dvalin_S04_StarFall_Bullet
+GadgetData_Monster_Name_42901063	Dvalin_S04_Breathe_Bullet
+GadgetData_Monster_Name_42901064	Dvalin_S04_TwistedWind_Bullet
+GadgetData_Monster_Name_42901065	Dvalin_S04_StarFall_Platform
+GadgetData_Monster_Name_42901066	Dvalin_S04_Hurricane_Bullet
+GadgetData_Monster_Name_42901067	Dvalin_S04_AirFlowController
+GadgetData_Monster_Name_42901068	Dvalin_S04_Camera_Center
+GadgetData_Equip_Name_50004001	나무방망이
+GadgetData_Equip_Name_50004002	나무방패
+GadgetData_Equip_Name_50004003	불방망이(창 대용)
+GadgetData_Equip_Name_50004004	몬스터의 석궁
+GadgetData_Equip_Name_50004005	불 뿜는 가방
+GadgetData_Equip_Name_50004006	심연 지팡이-불
+GadgetData_Equip_Name_50004007	심연 지팡이-얼음
+GadgetData_Equip_Name_50004008	심연 지팡이-물
+GadgetData_Equip_Name_50004009	샤먼 지팡이-물
+GadgetData_Equip_Name_50004010	샤먼 지팡이-풀
+GadgetData_Equip_Name_50004011	긴 나무방망이
+GadgetData_Equip_Name_50004012	거대 나무방패
+GadgetData_Equip_Name_50004013	거대 도끼
+GadgetData_Equip_Name_50004014	샤먼 지팡이-바람
+GadgetData_Equip_Name_50004015	불 츄츄-작은 횃불
+GadgetData_Equip_Name_50004016	풀 츄츄-포이즌로드
+GadgetData_Equip_Name_50004017	불 츄츄-석궁
+GadgetData_Equip_Name_50004018	얼음 츄츄-석궁
+GadgetData_Equip_Name_50004019	번개 츄츄-석궁
+GadgetData_Equip_Name_50004020	불 츄츄-큰 횃불
+GadgetData_Equip_Name_50010007	목검
+GadgetData_Equip_Name_50011101	무인검
+GadgetData_Equip_Name_50011201	실버 소드
+GadgetData_Equip_Name_50011301	암강검
+GadgetData_Equip_Name_50011302	여명의 신검
+GadgetData_Equip_Name_50011303	여행자의 검
+GadgetData_Equip_Name_50011304	암철검
+GadgetData_Equip_Name_50011305	착호 생선회칼
+GadgetData_Equip_Name_50011306	비천어검
+GadgetData_Equip_Name_50011401	페보니우스 소드
+GadgetData_Equip_Name_50011402	피리검
+GadgetData_Equip_Name_50011403	제례검
+GadgetData_Equip_Name_50011404	로얄 롱소드
+GadgetData_Equip_Name_50011405	용의 포효
+GadgetData_Equip_Name_50011406	참암검 프로토타입
+GadgetData_Equip_Name_50011407	강철 가시
+GadgetData_Equip_Name_50011408	흑암검
+GadgetData_Equip_Name_50011501	매의 검
+GadgetData_Equip_Name_50011502	천공의 칼날
+GadgetData_Equip_Name_50011503	보레알리스의 애가
+GadgetData_Equip_Name_50011504	방랑하는 전원시
+GadgetData_Equip_Name_50011505	곤오 무명
+GadgetData_Equip_Name_50011506	이끼 대검
+GadgetData_Equip_Name_50011507	공허한 운명
+GadgetData_Equip_Name_50012101	큰형님의 롱소드
+GadgetData_Equip_Name_50012201	오래된 대검
+GadgetData_Equip_Name_50012301	아이언 섀도우 클레이모어
+GadgetData_Equip_Name_50012302	드래곤 블러드 소드
+GadgetData_Equip_Name_50012303	백주철 대검
+GadgetData_Equip_Name_50012304	석영대검
+GadgetData_Equip_Name_50012305	도리의 몽둥이
+GadgetData_Equip_Name_50012306	비천대어검
+GadgetData_Equip_Name_50012401	페보니우스 그레이트 소드
+GadgetData_Equip_Name_50012402	시간의 검
+GadgetData_Equip_Name_50012403	제례 대검
+GadgetData_Equip_Name_50012404	로얄 그레이트 소드
+GadgetData_Equip_Name_50012405	호랑이의 포효
+GadgetData_Equip_Name_50012406	고대 중검 프로토타입
+GadgetData_Equip_Name_50012407	백영검
+GadgetData_Equip_Name_50012408	흑암참도
+GadgetData_Equip_Name_50012501	천공의 자부심
+GadgetData_Equip_Name_50012502	늑대의 말로
+GadgetData_Equip_Name_50012503	혁신의 풍자문
+GadgetData_Equip_Name_50012504	곤오 쐐기검
+GadgetData_Equip_Name_50012505	고래 비녀
+GadgetData_Equip_Name_50012506	괴사
+GadgetData_Equip_Name_50013101	무투가의 창
+GadgetData_Equip_Name_50013201	호신용 지팡이
+GadgetData_Equip_Name_50013301	백술창
+GadgetData_Equip_Name_50013302	할버드
+GadgetData_Equip_Name_50013303	흑술창
+GadgetData_Equip_Name_50013401	용학살창
+GadgetData_Equip_Name_50013402	별의 낫 프로토타입
+GadgetData_Equip_Name_50013403	반월창
+GadgetData_Equip_Name_50013404	흑암 스피어
+GadgetData_Equip_Name_50013504	곤오 무지개베기
+GadgetData_Equip_Name_50013505	제이드 호크
+GadgetData_Equip_Name_50013506	주신 학살자
+GadgetData_Equip_Name_50014101	학도의 노트
+GadgetData_Equip_Name_50014201	포켓 매직노트
+GadgetData_Equip_Name_50014301	마도학 개론
+GadgetData_Equip_Name_50014302	드래곤 슬레이어 영웅담
+GadgetData_Equip_Name_50014303	이세계 여행기
+GadgetData_Equip_Name_50014304	비취 오브
+GadgetData_Equip_Name_50014305	1등급 오브
+GadgetData_Equip_Name_50014306	호박 오브
+GadgetData_Equip_Name_50014401	페보니우스 코덱스
+GadgetData_Equip_Name_50014402	음유시인의 악장
+GadgetData_Equip_Name_50014403	제례의 악장
+GadgetData_Equip_Name_50014404	로얄 그리모어
+GadgetData_Equip_Name_50014405	태양의 오브
+GadgetData_Equip_Name_50014406	흑암 비취
+GadgetData_Equip_Name_50014407	씨 로즈
+GadgetData_Equip_Name_50014408	칠흑
+GadgetData_Equip_Name_50014501	천공의 두루마리
+GadgetData_Equip_Name_50014502	페보니우스 바이블
+GadgetData_Equip_Name_50014503	산실된 서사시
+GadgetData_Equip_Name_50014504	곤오 별부름
+GadgetData_Equip_Name_50014505	루니아의 진주
+GadgetData_Equip_Name_50014506	광천유리
+GadgetData_Equip_Name_50015101	수렵 활
+GadgetData_Equip_Name_50015201	오래된 활
+GadgetData_Equip_Name_50015301	까마귀깃 활
+GadgetData_Equip_Name_50015302	신궁의 서약
+GadgetData_Equip_Name_50015303	곡궁
+GadgetData_Equip_Name_50015304	탄궁
+GadgetData_Equip_Name_50015305	사절
+GadgetData_Equip_Name_50015306	흑단궁
+GadgetData_Equip_Name_50015401	페보니우스 보우
+GadgetData_Equip_Name_50015402	무현궁
+GadgetData_Equip_Name_50015403	제례활
+GadgetData_Equip_Name_50015404	로얄 롱보우
+GadgetData_Equip_Name_50015405	녹슨 활
+GadgetData_Equip_Name_50015406	흑암의 장궁 프로토타입
+GadgetData_Equip_Name_50015407	강철궁
+GadgetData_Equip_Name_50015408	흑암 배틀 보우
+GadgetData_Equip_Name_50015501	천공의 날개
+GadgetData_Equip_Name_50015502	아모스의 활
+GadgetData_Equip_Name_50015503	평온의 진혼곡
+GadgetData_Equip_Name_50015504	곤오 용의 몰락
+GadgetData_Equip_Name_50015505	고대 마노의 대궁
+GadgetData_Equip_Name_50015506	부서진 거울
+GadgetData_Level_Name_70000001	Grass01
+GadgetData_Level_Name_70000002	Water01
+GadgetData_Level_Name_70000003	Tree01
+GadgetData_Level_Name_70000004	Bush01
+GadgetData_Level_Name_70000005	Bush02
+GadgetData_Level_Name_70010001	Tower
+GadgetData_Level_Name_70010002	Transport
+GadgetData_Level_Name_70010003	DungeonEntry
+GadgetData_Level_Name_70010004	DungeonWayPoint
+GadgetData_Level_Name_70010005	DungeonQuitPoint
+GadgetData_Level_Name_70010006	LocalTrigger
+GadgetData_Level_Name_70020001	몬드성 날씨
+GadgetData_Level_Name_70020002	풍마룡 날씨
+GadgetData_Level_Name_70020003	몬드 1단계 날씨
+GadgetData_Level_Name_70110001	여신상
+GadgetData_Level_Name_70110002	워프 비석
+GadgetData_Level_Name_70110003	스카이 워프게이트
+GadgetData_Level_Name_70120001	몬드성 던전 입구01
+GadgetData_Level_Name_70120002	몬드성 던전 입구02
+GadgetData_Level_Name_70120003	던전 리스폰 포인트
+GadgetData_Level_Name_70120004	던전 출구
+GadgetData_Level_Name_70120005	바람 드래곤 던전 입구
+GadgetData_Level_Name_70130001	풍차
+GadgetData_Level_Name_70130002	풍차02
+GadgetData_Level_Name_70130003	풍차03
+GadgetData_Level_Name_70200011	HealingBarrel
+GadgetData_Level_Name_70210001	조잡한 보물상자
+GadgetData_Level_Name_70210002	일반 보물상자
+GadgetData_Level_Name_70210003	정교한 보물상자
+GadgetData_Level_Name_70210004	진귀한 보물상자
+GadgetData_Level_Name_70210005	화려한 보물상자
+GadgetData_Level_Name_70210006	정교한 보물상자
+GadgetData_Level_Name_70210007	FM-테스트 보물상자
+GadgetData_Level_Name_70210008	보물상자 추락 테스트
+GadgetData_Level_Name_70210011	조잡한 보물상자
+GadgetData_Level_Name_70210012	조잡한 보물상자
+GadgetData_Level_Name_70210013	조잡한 보물상자
+GadgetData_Level_Name_70210014	조잡한 보물상자
+GadgetData_Level_Name_70210021	일반 보물상자
+GadgetData_Level_Name_70210022	일반 보물상자
+GadgetData_Level_Name_70210023	일반 보물상자
+GadgetData_Level_Name_70210024	일반 보물상자
+GadgetData_Level_Name_70210031	정교한 보물상자
+GadgetData_Level_Name_70210032	정교한 보물상자
+GadgetData_Level_Name_70210033	정교한 보물상자
+GadgetData_Level_Name_70210034	정교한 보물상자
+GadgetData_Level_Name_70210041	진귀한 보물상자
+GadgetData_Level_Name_70210042	진귀한 보물상자
+GadgetData_Level_Name_70210043	진귀한 보물상자
+GadgetData_Level_Name_70210044	진귀한 보물상자
+GadgetData_Level_Name_70210051	화려한 보물상자
+GadgetData_Level_Name_70210052	화려한 보물상자
+GadgetData_Level_Name_70210053	화려한 보물상자
+GadgetData_Level_Name_70210054	화려한 보물상자
+GadgetData_Level_Name_70210101	조사
+GadgetData_Level_Name_70216666	테스트 패키지
+GadgetData_Level_Name_70220001	낙엽 더미
+GadgetData_Level_Name_70220002	낙엽 카펫
+GadgetData_Level_Name_70220003	작은 가시덤불
+GadgetData_Level_Name_70220004	폭탄 과일
+GadgetData_Level_Name_70220005	폭약통
+GadgetData_Level_Name_70220006	돌기둥
+GadgetData_Level_Name_70220007	돌벽
+GadgetData_Level_Name_70220008	돌무덤
+GadgetData_Level_Name_70220009	돌덩이
+GadgetData_Level_Name_70220010	물방울 호박
+GadgetData_Level_Name_70220011	바람 호박
+GadgetData_Level_Name_70220012	바람 호박(비활성화)
+GadgetData_Level_Name_70220013	츄츄족 나무상자
+GadgetData_Level_Name_70220014	츄츄족 나무통
+GadgetData_Level_Name_70220015	풀더미
+GadgetData_Level_Name_70220016	풀더미02
+GadgetData_Level_Name_70220017	장작 더미
+GadgetData_Level_Name_70220018	돌기둥_등반 불가
+GadgetData_Level_Name_70220019	돌기둥_등반 불가_파괴 불가
+GadgetData_Level_Name_70220020	세계 가시덤불
+GadgetData_Level_Name_70220021	작은 돌무덤
+GadgetData_Level_Name_70220022	석유
+GadgetData_Level_Name_70220023	낙엽 카펫02
+GadgetData_Level_Name_70220024	큰 돌무덤
+GadgetData_Level_Name_70220025	건초 카펫
+GadgetData_Level_Name_70270001	비 내리는 지역 
+GadgetData_Level_Name_70270002	물방울 호박 물안개
+GadgetData_Level_Name_70270003	바람 호박 윈드 필드
+GadgetData_Level_Name_70290001	나무(라즈베리)
+GadgetData_Level_Name_70290002	나무(사과)
+GadgetData_Level_Name_70290003	새둥지(새알)
+GadgetData_Level_Name_70290004	나무(새알)
+GadgetData_Level_Name_70290005	서리꽃 지반
+GadgetData_Level_Name_70290006	화염꽃 지반
+GadgetData_Level_Name_70290007	번개돌 지반
+GadgetData_Level_Name_70290008	서리꽃 세트
+GadgetData_Level_Name_70290009	화염꽃 세트
+GadgetData_Level_Name_70290010	번개돌 세트
+GadgetData_Level_Name_70290011	민들레 세트
+GadgetData_Level_Name_70300001	Item
+GadgetData_Level_Name_70300002	Material
+GadgetData_Level_Name_70300003	Coin
+GadgetData_Level_Name_70300004	GoalFlower
+GadgetData_Level_Name_70300005	GoalFlower_AS
+GadgetData_Level_Name_70300006	탁본
+GadgetData_Level_Name_70300007	매우 맛있어 보인다
+GadgetData_Level_Name_70300008	yellow 악보
+GadgetData_Level_Name_70300009	진의 서류가방
+GadgetData_Level_Name_70300010	《문화와 풍습 가이드》
+GadgetData_Level_Name_70300011	편지
+GadgetData_Level_Name_70300012	포션
+GadgetData_Level_Name_70300013	바람 드래곤의 깃털
+GadgetData_Level_Name_70300014	엠버 던전-바람 드래곤의 깃털
+GadgetData_Level_Name_70300015	케이아 던전-바람 드래곤의 깃털
+GadgetData_Level_Name_70300016	리사 던전-바람 드래곤의 깃털
+GadgetData_Level_Name_70300017	엠버의 미끼
+GadgetData_Level_Name_70300018	엠버 조준-윈드 슬라임
+GadgetData_Level_Name_70300020	귀뚜라미
+GadgetData_Level_Name_70300021	귀뚜라미 소리(소)
+GadgetData_Level_Name_70300022	귀뚜라미 소리(중)
+GadgetData_Level_Name_70300023	귀뚜라미 소리(대)
+GadgetData_Level_Name_70300024	귀뚜라미 소리(특대)
+GadgetData_Level_Name_70300031	부교 나무판자 분리
+GadgetData_Level_Name_70300032	부교 나무판자 연결
+GadgetData_Level_Name_70300036	미끼 투입
+GadgetData_Level_Name_70300037	벤티의 발자국
+GadgetData_Level_Name_70300038	혼탁한 바람 드래곤의 눈물
+GadgetData_Level_Name_70300039	불안정한 폭풍의 결정
+GadgetData_Level_Name_70300040	천공의 하프
+GadgetData_Level_Name_70300041	혼탁한 바람 드래곤의 눈물
+GadgetData_Level_Name_70300042	맑은 바람 드래곤의 눈물
+GadgetData_Level_Name_70300043	케이아의 보물찾기 단서1
+GadgetData_Level_Name_70300044	케이아의 보물찾기 단서2
+GadgetData_Level_Name_70300045	케이아의 보물찾기 단서3
+GadgetData_Level_Name_70300046	광장 위의 바람 드래곤 깃털
+GadgetData_Level_Name_70300047	5M-히트 볼
+GadgetData_Level_Name_70300048	좌표
+GadgetData_Level_Name_70300049	혼탁한 바람 드래곤의 눈물
+GadgetData_Level_Name_70300050	Item
+GadgetData_Level_Name_70300051	사라지는 몬드성의 빛의 기둥
+GadgetData_Level_Name_70300052	기이한 풀 배치
+GadgetData_Level_Name_70300053	기이한 풀
+GadgetData_Level_Name_70300054	단단한 폭풍 결정
+GadgetData_Level_Name_70300055	임무 게시판
+GadgetData_Level_Name_70300056	이동하는 폭풍 결정
+GadgetData_Level_Name_70300057	목표
+GadgetData_Level_Name_70300058	앰버 비행 테스트
+GadgetData_Level_Name_70300059	혼탁한 바람 드래곤의 눈물
+GadgetData_Level_Name_70300060	심연 메이지가 사라지는 이펙트1
+GadgetData_Level_Name_70300061	심연 메이지가 사라지는 이펙트2
+GadgetData_Level_Name_70300062	심연 메이지가 사라지는 이펙트3 
+GadgetData_Level_Name_70300063	임무 게시판 장식품
+GadgetData_Level_Name_70300064	몬드성 비행임무-목표
+GadgetData_Level_Name_70300065	Item
+GadgetData_Level_Name_70310001	화로
+GadgetData_Level_Name_70310002	횃불
+GadgetData_Level_Name_70310003	화로(원거리)
+GadgetData_Level_Name_70310004	모닥불
+GadgetData_Level_Name_70310005	물의 중력 장치 테스트
+GadgetData_Level_Name_70310006	요리 만들기
+GadgetData_Level_Name_70310007	경기장 가디언
+GadgetData_Level_Name_70310008	보이지 않는 바닥
+GadgetData_Level_Name_70310009	요리 만들기
+GadgetData_Level_Name_70310010	요리 만들기
+GadgetData_Level_Name_70320001	화염방사 회전장치
+GadgetData_Level_Name_70320002	화염방사 장치
+GadgetData_Level_Name_70350001	던전 게이트01
+GadgetData_Level_Name_70350002	던전 게이트02
+GadgetData_Level_Name_70350003	던전 게이트03
+GadgetData_Level_Name_70350004	승강 철제 난간
+GadgetData_Level_Name_70350005	움직이는 기계 장치문
+GadgetData_Level_Name_70350006	승강 철제 난간
+GadgetData_Level_Name_70350007	츄츄족 승강 목제 난간
+GadgetData_Level_Name_70360001	세계의 숨겨진 제어대
+GadgetData_Level_Name_70360002	장치 제어대
+GadgetData_Level_Name_70360003	단서 조사
+GadgetData_Level_Name_70380001	모바일 플랫폼01
+GadgetData_Level_Name_70380002	움직이는 타깃
+GadgetData_Level_Name_70380003	모바일 플랫폼(숲 스타일)
+GadgetData_Level_Name_70500000	수확물 주요 거점
+GadgetData_Level_Name_70500001	수확물 주요 거점(원거리)
+GadgetData_Level_Name_70510001	갈망꽃 과일
+GadgetData_Level_Name_70510002	화염꽃
+GadgetData_Level_Name_70510003	번개돌
+GadgetData_Level_Name_70510004	등불꽃
+GadgetData_Level_Name_70510005	번개돌
+GadgetData_Level_Name_70510006	화염꽃
+GadgetData_Level_Name_70510007	서리꽃
+GadgetData_Level_Name_70510008	수원꽃
+GadgetData_Level_Name_70510009	민들레 씨앗
+GadgetData_Level_Name_70510010	민들레_꽃
+GadgetData_Level_Name_70510011	슬라임 꽃
+GadgetData_Level_Name_70520001	철광석
+GadgetData_Level_Name_70520002	흰철광석
+GadgetData_Level_Name_70520003	수정광석
+GadgetData_Level_Name_70520004	버섯
+GadgetData_Level_Name_70520005	달콤달콤 꽃
+GadgetData_Level_Name_70520006	당근
+GadgetData_Level_Name_70520007	무
+GadgetData_Level_Name_70520008	금어초
+GadgetData_Level_Name_70520009	허브
+GadgetData_Level_Name_70520010	보리
+GadgetData_Level_Name_70520011	양배추
+GadgetData_Level_Name_70520012	백망초
+GadgetData_Level_Name_70520013	송이버섯
+GadgetData_Level_Name_70520014	당근
+GadgetData_Level_Name_70520015	무
+GadgetData_Level_Name_70520016	짐승 고기
+GadgetData_Level_Name_70520017	새고기
+GadgetData_Level_Name_70540001	라즈베리
+GadgetData_Level_Name_70540002	서리꽃
+GadgetData_Level_Name_70540003	사과
+GadgetData_Level_Name_70540004	새알
+GadgetData_Level_Name_70540005	솔방울
+GadgetData_Level_Name_70540006	화염꽃
+GadgetData_Level_Name_70540007	전기 수정
+GadgetData_Level_Name_70560001	짐승 고기
+GadgetData_Level_Name_70560002	쇳덩이
+GadgetData_Level_Name_70560003	흰쇳덩이
+GadgetData_Level_Name_70560004	수정덩이
+GadgetData_Level_Name_70590001	원소 결정
+GadgetData_Level_Name_70590002	원소 과일
+GadgetData_Level_Name_70590003	달콤달콤 꽃
+GadgetData_Level_Name_70590004	바람 신의 눈동자
+GadgetData_Level_Name_70590005	원소 결정 가루
+GadgetData_Level_Name_70590006	나비
+GadgetData_Level_Name_70590007	나비
+GadgetData_Level_Name_70590008	반딧불
+GadgetData_Level_Name_70590009	새고기
+GadgetData_Level_Name_70590010	보리
+GadgetData_Level_Name_70590011	모라
+GadgetData_Level_Name_70590012	원석
+GadgetData_Level_Name_70590013	통통 연꽃
+GadgetData_Level_Name_70590014	바람의 인장
+GadgetData_Level_Name_70590015	바위의 인장
+GadgetData_Level_Name_70590016	불의 인장
+GadgetData_Level_Name_70590017	물의 인장
+GadgetData_Level_Name_70590018	얼음의 인장
+GadgetData_Level_Name_70590019	풀의 인장
+GadgetData_Level_Name_70590020	번개의 인장
+GadgetData_Level_Name_70600001	휘황찬란한 다이아몬드 파편
+GadgetData_Level_Name_70600002	휘황찬란한 다이아몬드 단편
+GadgetData_Level_Name_70600003	휘황찬란한 다이아몬드 덩어리
+GadgetData_Level_Name_70600004	휘황찬란한 다이아몬드
+GadgetData_Level_Name_70600011	축복의 물방울
+GadgetData_Level_Name_70600012	축복의 물
+GadgetData_Level_Name_70600013	축복의 샘
+GadgetData_Level_Name_70600014	축복의 정수
+GadgetData_Level_Name_70600021	방랑자의 경험치
+GadgetData_Level_Name_70600022	모험가의 경험치
+GadgetData_Level_Name_70600023	영웅의 경험치
+GadgetData_Level_Name_70600031	정제용 하급 광물
+GadgetData_Level_Name_70600032	정제용 광물
+GadgetData_Level_Name_70600033	정제용 마법 광물
+GadgetData_Level_Name_70600041	하얀 성유물
+GadgetData_Level_Name_70600042	녹색 성유물
+GadgetData_Level_Name_70600043	파란 성유물
+GadgetData_Level_Name_70600044	자주색 성유물
+GadgetData_Level_Name_70600045	주황색 성유물
+GadgetData_Level_Name_70600064	지난날의 기억 조각
+GadgetData_Level_Name_70610001	작은 원소 에너지볼(불)
+GadgetData_Level_Name_70610002	작은 원소 에너지볼(물)
+GadgetData_Level_Name_70610003	작은 원소 에너지볼(풀)
+GadgetData_Level_Name_70610004	작은 원소 에너지볼(번개)
+GadgetData_Level_Name_70610005	작은 원소 에너지볼(바람)
+GadgetData_Level_Name_70610006	작은 원소 에너지볼(얼음)
+GadgetData_Level_Name_70610007	작은 원소 에너지볼(바위)
+GadgetData_Level_Name_70610008	작은 원소 에너지볼(전체)
+GadgetData_Level_Name_70610009	원소 에너지볼(불)
+GadgetData_Level_Name_70610010	원소 에너지볼(물)
+GadgetData_Level_Name_70610011	원소 에너지볼(풀)
+GadgetData_Level_Name_70610012	원소 에너지볼(번개)
+GadgetData_Level_Name_70610013	원소 에너지볼(바람)
+GadgetData_Level_Name_70610014	원소 에너지볼(얼음)
+GadgetData_Level_Name_70610015	원소 에너지볼(바위)
+GadgetData_Level_Name_70610016	원소 에너지볼(전체)
+GadgetData_Level_Name_70610101	WindField_Vertical_01
+GadgetData_Level_Name_70610102	WindField_Dungeon_40
+GadgetData_Level_Name_70610103	WindField_Dungeon_H_40
+GadgetData_Level_Name_70620001	PushField01
+GadgetData_Level_Name_70620002	PushField02
+GadgetData_Level_Name_70620003	PushField03
+GadgetData_Level_Name_70620004	바람 드래곤의 둥지 배리어
+GadgetData_Level_Name_70620005	DragonNest_StrongWind
+GadgetData_Level_Name_70620006	바람 드래곤의 둥지 토네이도-소
+GadgetData_Level_Name_70620007	바람 드래곤의 둥지 배리어의 문
+GadgetData_Level_Name_70630001	바람 드래곤의 둥지 토네이도-bullet
+GadgetData_Level_Name_70680001	AirflowAgent
+GadgetData_Level_Name_70680002	AirflowAgent2
+GadgetData_Level_Name_70680003	AirflowAgent3
+GadgetData_Level_Name_70680004	AirflowAgent4
+GadgetData_Level_Name_70680005	AirflowAgent5
+GadgetData_Level_Name_70690001	가속 고리
+GadgetData_Level_Name_70690002	가속 기류
+GadgetData_Level_Name_70690003	풍압 캐논
+GadgetData_Level_Name_70690004	StrongWindField
+GadgetData_Level_Name_70690005	간헐적 윈드 필드 본체
+GadgetData_Level_Name_70690006	지속 윈드 필드 본체
+GadgetData_Level_Name_70690007	던전 윈드 필드 제어장치
+GadgetData_Level_Name_70690008	윈드 필드를 유지하는 본체
+GadgetData_Level_Name_70700001	바람 드래곤의 습격-에어월
+GadgetData_Level_Name_70700002	바람 드래곤의 습격-스카이박스
+GadgetData_Level_Name_70700003	세 던전의 이펙트 효과
+GadgetData_Level_Name_70700004	몬드성 날시 특수효과 1단계
+GadgetData_Level_Name_70710002	요정풀
+GadgetData_Level_Name_70710003	요정풀
+GadgetData_Level_Name_70710004	WindField_Vertical_Feather
+GadgetData_Level_Name_70800001	봉인 장치
+GadgetData_Level_Name_70800002	MsgBoard
+GadgetData_Level_Name_70800003	바람 원소 결정 코어
+GadgetData_Level_Name_70800004	츄츄성산 배리어
+GadgetData_Level_Name_70800005	작은 평원의 윈드 필드 수정
+GadgetData_Level_Name_70800006	얼음 제어장치-봉인 해제
+GadgetData_Level_Name_70800007	바람 드래곤 3층 봉인
+GadgetData_Level_Name_70800008	츄츄성산 배리어-M
+GadgetData_Level_Name_70800009	츄츄성산 배리어-S
+GadgetData_Level_Name_70800010	케이아 던전 입구 특수효과
+GadgetData_Level_Name_70800011	바람 드래곤의 빛기둥
+GadgetData_Level_Name_70800012	투명 봉인
+GadgetData_Level_Name_70900001	임시 자원(수확물)
+GadgetData_Level_Name_70900002	trigger 센터
+GadgetData_Level_Name_70900003	단서 조사
+GadgetData_Level_Name_70900005	원소 수정
+GadgetData_Level_Name_70900006	단발 장치-번개
+GadgetData_Level_Name_70900007	불 제어장치
+GadgetData_Level_Name_70900008	번개 제어장치
+GadgetData_Level_Name_70900009	얼음 제어장치
+GadgetData_Level_Name_70900010	수동 회전 베어링
+GadgetData_Level_Name_70900011	타이머 회전 베어링
+GadgetData_Level_Name_70900012	FM 얼음분사 회전장치
+GadgetData_Level_Name_70900013	FM 화염방사 회전장치
+GadgetData_Level_Name_70900014	아치
+GadgetData_Level_Name_70900015	기둥1
+GadgetData_Level_Name_70900016	기둥2
+GadgetData_Level_Name_70900017	기울어진 벽
+GadgetData_Level_Name_70900018	스탠딩 팬 아치
+GadgetData_Level_Name_70900019	짧은 기둥
+GadgetData_Level_Name_70900022	던전 윈드팬
+GadgetData_Level_Name_70900023	가시 벽01
+GadgetData_Level_Name_70900024	포이즌 늪
+GadgetData_Level_Name_70900025	츄츄족 나무 선반
+GadgetData_Level_Name_70900026	바람 원소 결정 바위
+GadgetData_Level_Name_70900027	운반 아이템
+GadgetData_Level_Name_70900028	고정 아이템
+GadgetData_Level_Name_70900029	SpikeTrap
+GadgetData_Level_Name_70900031	랜덤 장치 테스트
+GadgetData_Level_Name_70900033	중력 압력판
+GadgetData_Level_Name_70900034	바람의 드래곤 소굴 배리어-중
+GadgetData_Level_Name_70900035	바람의 드래곤 소굴 배리어-소
+GadgetData_Level_Name_70900036	회전하는 조각상
+GadgetData_Level_Name_70900037	신형 화염방사 장치
+GadgetData_Level_Name_70900038	신형 화염 코어
+GadgetData_Level_Name_70900039	바람 제어장치
+GadgetData_Level_Name_70900040	Barrel
+GadgetData_Level_Name_70900041	GroupTrigger
+GadgetData_Level_Name_70900042	움직이는 요정 램프 기둥
+GadgetData_Level_Name_70900043	요정 램프 기둥-비상주
+GadgetData_Level_Name_70900044	몬드성 분수
+GadgetData_Level_Name_70900045	저온 구역 온도계 화이트박스
+GadgetData_Level_Name_70900046	풀로 바람 만들기 테스트
+GadgetData_Level_Name_70900047	풀을 이용해 만들어진 윈드 필드
+GadgetData_Level_Name_70900201	목표
+GadgetData_Level_Name_70900202	목표
+GadgetData_Level_Name_70900205	던전 바닥 테스트
+GadgetData_Level_Name_70900206	출풍 장치 테스트
+GadgetData_Level_Name_70900207	전원
+GadgetData_Level_Name_70900208	전기 파일 단일버전
+GadgetData_Level_Name_70900209	원소 스킬 충전장치
+GadgetData_Level_Name_70900210	전기원소 요정
+GadgetData_Level_Name_70900211	얼음원소 요정
+GadgetData_Level_Name_70900212	불원소 요정
+GadgetData_Level_Name_70900213	레이저 장치
+GadgetData_Level_Name_70900214	레이저 장치 전기 원소 총알
+GadgetData_Level_Name_70900215	레이저 장치 불 원소 총알
+GadgetData_Level_Name_70900216	장판 파괴 가능
+GadgetData_Level_Name_70900217	추락한 얼음기둥의 본체
+GadgetData_Level_Name_70900218	추락한 얼음기둥의 총알
+GadgetData_Level_Name_70900219	추락하는 얼음기둥
+GadgetData_Level_Name_70900220	따뜻한 구역
+GadgetData_Level_Name_70900221	고정 레이저 장치
+GadgetData_Level_Name_70900222	레이저 장치 무속성 총알
+GadgetData_Level_Name_70900223	레이저 오픈 장치
+GadgetData_Level_Name_70900224	전기 파일 스위치
+GadgetData_Level_Name_70900225	대형 수평 이동 석판
+GadgetData_Level_Name_70900226	대형 수직 이동 석판
+GadgetData_Level_Name_70900227	이동 레이저 장치
+GadgetData_Level_Name_70900228	던전 장치 운반체
+GadgetData_Level_Name_70950001	조명
+GadgetData_Level_Name_70950002	조명bullet
+GadgetData_Level_Name_70950003	조명bullet02
+GadgetData_Level_Name_70950004	가속 장치
+GadgetData_Level_Name_71000004	바위 호박
+GadgetData_Level_Name_71700001	디어 헌터 금일 추천
+GadgetData_Level_Name_71700002	소녀 베라의 우울·권1
+GadgetData_Level_Name_71700003	소녀 베라의 우울·권2
+GadgetData_Level_Name_71700004	소녀 베라의 우울·권3
+GadgetData_Level_Name_71700005	신과 함께·프롤로그
+GadgetData_Level_Name_71700006	바네사 전기·상편
+GadgetData_Level_Name_71700007	바네사 전기·하편
+GadgetData_Level_Name_71700008	다운 와이너리 모집서
+GadgetData_Level_Name_71700009	민들레밭의 여우·권1
+GadgetData_Level_Name_71700010	민들레밭의 여우·권2
+GadgetData_Level_Name_71700011	민들레밭의 여우·권3
+GadgetData_Level_Name_71700012	민들레밭의 여우·권5
+GadgetData_Level_Name_71700013	민들레밭의 여우·권6
+GadgetData_Level_Name_71700014	민들레밭의 여우·권7
+GadgetData_Level_Name_71700015	민들레밭의 여우·권10
+GadgetData_Level_Name_71700016	민들레밭의 여우·권11
+GadgetData_Level_Name_71700017	츄츄족 시집선·상
+GadgetData_Level_Name_71700018	츄츄족 시집선·하
+GadgetData_Level_Name_71700019	소녀 베라의 우울·권5
+GadgetData_Level_Name_71700020	소녀 베라의 우울·권9
+GadgetData_Level_Name_71700021	소녀 베라의 우울·권10
+GadgetData_Level_Name_71700022	숲속의 바람·스토리 발췌
+GadgetData_Level_Name_71700023	멧돼지 공주·권1
+GadgetData_Level_Name_71700024	멧돼지 공주·권2
+GadgetData_Level_Name_71700025	멧돼지 공주·권3
+GadgetData_Level_Name_71700026	멧돼지 공주·권4
+GadgetData_Level_Name_71700027	멧돼지 공주·권5
+GadgetData_Level_Name_71700028	멧돼지 공주·권7
+GadgetData_Level_Name_71700029	몬드의 고탑·제1권
+GadgetData_Level_Name_71700030	숲속의 바람 분실분·용의 서
+GadgetData_Level_Name_80000001	Drop_HP
+GadgetData_Level_Name_90000001	Camera1
+GadgetData_Level_Name_90000002	Player1
+GadgetData_Level_Name_90000003	GuidePaimon
+GatherBundleData_Name_1	사과나무
+GatherBundleData_Name_2	라즈베리나무
+GatherBundleData_Name_3	새둥지
+GatherBundleData_Name_4	새둥지 달린 나무
+GatherBundleData_Name_5	서리꽃 세트
+GatherBundleData_Name_6	화염꽃 세트
+GatherBundleData_Name_7	번개돌 세트
+GatherBundleData_Name_8	민들레 세트
+TutorialDetailData_Name_10101	파티 튜토리얼1
+TutorialDetailData_Desc_10101	#$#<color=#FFE14BFF>엠버</color>가 파티에 들어왔어! 이제 어떻게 하면 <color=#FFE14BFF>파티창</color>에서 엠버를 출전시킬 수 있는지 알려 줄게. 아래 순서에 따라 출전시켜야 막히지 않아
+TutorialDetailData_Name_10102	파티 튜토리얼2
+TutorialDetailData_Desc_10102	#$#<color=#FFE14BFF>엠버</color>가 파티에 들어왔어! 이제 어떻게 하면 <color=#FFE14BFF>파티창</color>에서 엠버를 출전시킬 수 있는지 알려 줄게. 아래 순서에 따라 출전시켜야 막히지 않아
+TutorialDetailData_Name_10201	메인창 튜토리얼
+TutorialDetailData_Desc_10201	#$#<color=#FFE14BFF>원소 스킬</color> 해금 완료, 원소의 힘을 사용해 전투를 진행하자! 이외에도 <color=#FFE14BFF>임무 리스트</color>, <color=#FFE14BFF>가방</color>과 <color=#FFE14BFF>캐릭터</color> 화면도 모험할 때 매우 유용해
+TutorialDetailData_Name_10301	엠버의 던전 튜토리얼1
+TutorialDetailData_Desc_10301	앰버는 조준 사격 능력을 보유하고 있어. 조준 버튼을 누르고 차지하면 <color=#FFE14BFF>불 원소</color> 화살을 발사할 수 있어
+TutorialDetailData_Name_10302	엠버의 던전 튜토리얼1
+TutorialDetailData_Desc_10302	<color=#FFE14BFF>불 원소</color> 스킬을 이용하여 오픈월드의 가연성 물질을 불태울 수 있어
+TutorialDetailData_Name_10401	엠버의 던전 튜토리얼2
+TutorialDetailData_Desc_10401	<color=#FFE14BFF>원소 시야</color>를 이용해 각종 물체의 원소 특징을 확인할 수 있어. 서로 다른 원소는 각기 다른 색으로 표현돼
+TutorialDetailData_Name_10402	엠버의 던전 튜토리얼2
+TutorialDetailData_Desc_10402	<color=#FFE14BFF>녹색</color>은 <color=#FFE14BFF>풀 원소</color>를 나타내고, 불 원소로 태울 수 있어
+TutorialDetailData_Name_10403	엠버의 던전 튜토리얼2
+TutorialDetailData_Desc_10403	몬스터가 가지고 있는 목제 방패는 <color=#FFE14BFF>풀 원소</color>야. <color=#FFE14BFF>풀 원소의 쉽게 타오르는 성질</color>을 이용해 불 원소로 불태우면 몬스터가 더는 공격을 방어하지 못할 거야
+TutorialDetailData_Name_10501	엠버의 던전 튜토리얼3
+TutorialDetailData_Desc_10501	 
+TutorialDetailData_Name_10502	엠버의 던전 튜토리얼3
+TutorialDetailData_Desc_10502	 
+TutorialDetailData_Name_10503	엠버의 던전 튜토리얼3
+TutorialDetailData_Desc_10503	 
+TutorialDetailData_Name_10601	케이아의 던전 튜토리얼1
+TutorialDetailData_Desc_10601	몬스터는 수분이 많은 환경에서 <color=#FFE14BFF>습기</color> 상태가 돼
+TutorialDetailData_Name_10602	케이아의 던전 튜토리얼1
+TutorialDetailData_Desc_10602	<color=#FFE14BFF>얼음 원소가 물 원소를 얼릴 수 있는</color> 성질을 이용해 쉽게 적을 제압할 수 있어
+TutorialDetailData_Name_10701	케이아의 던전 튜토리얼2
+TutorialDetailData_Desc_10701	방화 장치 내의 코어는 에너지를 제공하는 주요 부품이야
+TutorialDetailData_Name_10702	케이아의 던전 튜토리얼2
+TutorialDetailData_Desc_10702	<color=#FFE14BFF>얼음 원소</color>로 공격하여 방화 장치가 잠시 작동을 멈추게 할 수 있어
+TutorialDetailData_Name_10801	케이아의 던전 튜토리얼3
+TutorialDetailData_Desc_10801	중앙에 있는 푸른 색 돌은 <color=#FFE14BFF>물호박</color>이야. 파괴하면 일정 범위에 비를 내리게 하여 <color=#FFE14BFF>습기</color> 효과를 부여해
+TutorialDetailData_Name_10802	케이아의 던전 튜토리얼3
+TutorialDetailData_Desc_10802	 
+TutorialDetailData_Name_10901	리사의 던전 튜토리얼1
+TutorialDetailData_Desc_10901	<color=#FFE14BFF>불 원소</color>가 <color=#FFE14BFF>번개 원소</color>에 닿으면 <color=#FFE14BFF>과부하 폭발</color>을 일으켜
+TutorialDetailData_Name_10902	리사의 던전 튜토리얼1
+TutorialDetailData_Desc_10902	<color=#FFE14BFF>번개 원소</color> 스킬로 파이어 슬라임을 공격하면 <color=#FFE14BFF>과부하 폭발</color>을 일으키고 파이어 슬라임의 불 원소를 소진시켜
+TutorialDetailData_Name_11001	리사의 던전 튜토리얼2
+TutorialDetailData_Desc_11001	<color=#FFE14BFF>번개 원소</color>가 <color=#FFE14BFF>물 원소</color>를 만나면 <color=#FFE14BFF>감전</color> 효과가 발생해
+TutorialDetailData_Name_11002	리사의 던전 튜토리얼2
+TutorialDetailData_Desc_11002	<color=#FFE14BFF>감전</color>된 몬스터는 주변에 있는 <color=#FFE14BFF>습기</color> 상태의 몬스터에게 방전하여 상당한 번개 원소 피해를 줘
+TutorialDetailData_Name_11101	리사의 던전 튜토리얼3
+TutorialDetailData_Desc_11101	리사의 <color=#FFE14BFF>원소 폭발</color> 스킬은 장미 뇌광을 소환해 광범위의 적을 자동으로 공격하게 할 수 있어
+TutorialDetailData_Name_11102	리사의 던전 튜토리얼3
+TutorialDetailData_Desc_11102	<color=#FFE14BFF>감전</color> 효과를 이용하면 리사는 물에서 적을 상대할 때 아주 유리해
+TutorialDetailData_Name_11201	원소 시야로 벤티 찾기
+TutorialDetailData_Desc_11201	<color=#FFE14BFF>원소 시야</color>를 이용해 근처의 원소 성질을 탐지해봐
+TutorialDetailData_Name_11202	원소 시야로 벤티 찾기
+TutorialDetailData_Desc_11202	수수께끼의 인물이 <color=#FFE14BFF>바람 원소</color> 기운이 담겨있는 <color=#FFE14BFF>발자국</color>을 남겼어. 발자국을 따라 그를 쫓아!
+TutorialDetailData_Name_11301	캐릭터 레벨업 튜토리얼
+TutorialDetailData_Desc_11301	<color=#FFE14BFF>캐릭터</color>를 터치해 캐릭터 정보 화면에 진입할 수 있어
+TutorialDetailData_Name_11302	캐릭터 레벨업 튜토리얼
+TutorialDetailData_Desc_11302	<color=#FFE14BFF>LEVEL UP</color>을 터치해 캐릭터 레벨업 화면에 진입할 수 있어
+TutorialDetailData_Name_11303	캐릭터 레벨업 튜토리얼
+TutorialDetailData_Desc_11303	<color=#FFE14BFF>+</color>를 터치해 경험치 재료를 추가할 수 있어
+TutorialDetailData_Name_11304	캐릭터 레벨업 튜토리얼
+TutorialDetailData_Desc_11304	<color=#FFE14BFF>확인</color>을 터치해 캐릭터를 레벨업 시켜봐
+TutorialDetailData_Name_11401	무기 강화 튜토리얼
+TutorialDetailData_Desc_11401	<color=#FFE14BFF>무기</color>를 터치해 무기 정보 화면에 진입할 수 있어
+TutorialDetailData_Name_11402	무기 강화 튜토리얼
+TutorialDetailData_Desc_11402	<color=#FFE14BFF>육성</color>을 터치해 무기 강화 화면에 진입할 수 있어
+TutorialDetailData_Name_11403	무기 강화 튜토리얼
+TutorialDetailData_Desc_11403	<color=#FFE14BFF>+</color>를 터치해 왼쪽의 재료 혹은 아이템을 선택할 수 있어
+TutorialDetailData_Name_11404	무기 강화 튜토리얼
+TutorialDetailData_Desc_11404	<color=#FFE14BFF>재료 혹은 아이템</color>을 터치해 소모란에 추가할 수 있어
+TutorialDetailData_Name_11405	무기 강화 튜토리얼
+TutorialDetailData_Desc_11405	<color=#FFE14BFF>레벨업</color>을 터치해 무기를 레벨업 할 수 있어
+TutorialDetailData_Name_11501	거대 워터 슬라임 튜토리얼
+TutorialDetailData_Desc_11501	물 원소로 충만하다. 얼음 원소의 공격을 받으면 얼어붙으니 절대 방울에 닿지 말자!  
+TutorialDetailData_Name_11601	워터 슬라임 튜토리얼
+TutorialDetailData_Desc_11601	물 원소로 충만하다. 얼음 원소의 공격을 받으면 얼어붙는다
+TutorialDetailData_Name_11701	거대 아이스 슬라임 튜토리얼
+TutorialDetailData_Desc_11701	단단한 얼음 갑옷은 모든 피해를 막아줘, 불 원소를 이용해 녹이자!
+TutorialDetailData_Name_11801	아이스 슬라임 튜토리얼
+TutorialDetailData_Desc_11801	습기 상태에서 그의 공격을 받으면 안 돼!
+TutorialDetailData_Name_11901	거대 윈드 슬라임 튜토리얼
+TutorialDetailData_Desc_11901	하늘에 떴을 때 윈드불릿을 발사해 공격한다. 그러나 이 상태에선 한방에 바로 처치 가능하다
+TutorialDetailData_Name_12001	윈드 슬라임 튜토리얼
+TutorialDetailData_Desc_12001	공중에 뜨면 무방비 상태가 되니까 공격을 받으면 한 방에 처치할 수 있어
+TutorialDetailData_Name_12101	돌연변이 썬더 슬라임 튜토리얼
+TutorialDetailData_Desc_12101	간헐적으로 주변에 방전한다. 다른 썬더 슬라임과 같이 있으면 스파크가 발생한다
+TutorialDetailData_Name_12201	거대 썬더 슬라임 튜토리얼
+TutorialDetailData_Desc_12201	간헐적으로 주변에 방전한다
+TutorialDetailData_Name_12301	썬더 슬라임 튜토리얼
+TutorialDetailData_Desc_12301	간헐적으로 주변에 방전한다
+TutorialDetailData_Name_12401	거대 플로라 슬라임 튜토리얼
+TutorialDetailData_Desc_12401	머리 위의 꽃은 힘의 원천이야. 풀이 불타면 매우 약해져. 그의 매복을 조심하자!
+TutorialDetailData_Name_12501	플로라 슬라임 튜토리얼
+TutorialDetailData_Desc_12501	머리 위의 풀은 힘의 원천이야. 풀이 불타면 매우 약해져. 그의 매복을 조심하자!
+TutorialDetailData_Name_12601	거대 파이어 슬라임 튜토리얼
+TutorialDetailData_Desc_12601	불 원소로 충만하다. 불은 꺼지거나 과부하 폭발이 발생할 수 있다
+TutorialDetailData_Name_12701	파이어 슬라임 튜토리얼
+TutorialDetailData_Desc_12701	불 원소로 충만하다. 불은 꺼지거나 과부하 폭발이 발생할 수 있다
+TutorialDetailData_Name_12801	거대 바위 슬라임 튜토리얼
+TutorialDetailData_Desc_12801	단단한 바위 갑옷은 모든 피해를 흡수하지만 양손검으로 공격하거나 폭발로 파괴할 수 있어
+TutorialDetailData_Name_12901	바위 슬라임 튜토리얼
+TutorialDetailData_Desc_12901	다른 슬라임보다 조금 무겁다
+TutorialDetailData_Name_13001	심연의 메이지-불 튜토리얼
+TutorialDetailData_Desc_13001	불 원소 실드는 모든 피해를 흡수한다, 알맞은 원소를 이용해 파괴하자
+TutorialDetailData_Name_13101	심연의 메이지-얼음 튜토리얼
+TutorialDetailData_Desc_13101	얼음 원소 실드는 모든 패해를 흡수한다. 알맞은 원소를 이용해 파괴하자
+TutorialDetailData_Name_13201	심연의 메이지-물 튜토리얼
+TutorialDetailData_Desc_13201	물 원소 실드는 모든 피해를 흡수한다. 알맞은 원소를 이용해 파괴하자
+TutorialDetailData_Name_13301	츄츄 샤먼-물 튜토리얼
+TutorialDetailData_Desc_13301	습기 효과를 부여할 수 있고 자신의 전우를 치유할 수 있다
+TutorialDetailData_Name_13401	츄츄 샤먼-풀 튜토리얼
+TutorialDetailData_Desc_13401	가시덤불을 소환해 적의 접근을 막는다
+TutorialDetailData_Name_13501	츄츄 샤먼-바람 튜토리얼
+TutorialDetailData_Desc_13501	필드에 움직이는 회오리를 소환한다
+TutorialDetailData_Name_13601	유적 가디언 튜토리얼
+TutorialDetailData_Desc_13601	머리와 등에 노출된 코어가 최대의 약점이야
+TutorialDetailData_Name_13701	츄츄족 튜토리얼
+TutorialDetailData_Desc_13701	연습 상대로 최적인 몬스터 중 하나
+TutorialDetailData_Name_13801	졸개 츄츄 튜토리얼
+TutorialDetailData_Desc_13801	점프 공격을 조심하자
+TutorialDetailData_Name_13901	방패 츄츄 튜토리얼
+TutorialDetailData_Desc_13901	풀 원소 실드로 정면의 공격을 막는다. 태워버리자!
+TutorialDetailData_Name_14001	폭탄 츄츄 튜토리얼
+TutorialDetailData_Desc_14001	폭발하는 파이어 슬라임을 적에게 던진다
+TutorialDetailData_Name_14101	돌진 츄츄족 튜토리얼
+TutorialDetailData_Desc_14101	당신을 향해 무섭게 돌진한다
+TutorialDetailData_Name_14201	궁수 츄츄 튜토리얼
+TutorialDetailData_Desc_14201	방망이는 쉽게 피할 수 있지만 숨은 화살은 막을 수 없다
+TutorialDetailData_Name_14301	궁수 츄츄-불 튜토리얼
+TutorialDetailData_Desc_14301	불 원소 화살을 발사하니 조심하자!
+TutorialDetailData_Name_14401	궁수 츄츄-얼음 튜토리얼
+TutorialDetailData_Desc_14401	얼음 원소 화살을 발사하니 조심하자!
+TutorialDetailData_Name_14501	궁수 츄츄-번개 튜토리얼
+TutorialDetailData_Desc_14501	번개 원소 화살을 발사하니 조심하자!
+TutorialDetailData_Name_14601	츄츄족 폭도-방벽 튜토리얼
+TutorialDetailData_Desc_14601	거대한 풀 원소 실드로 정면의 공격을 막는다. 태워버리자
+TutorialDetailData_Name_14701	불도끼 츄츄족 폭도 튜토리얼
+TutorialDetailData_Desc_14701	무기의 불 원소를 바르면 상대하기 까다로워진다
+TutorialDetailData_Name_14801	광풍의 핵 튜토리얼
+TutorialDetailData_Desc_14801	폭풍 영역에서는 빨리 윈드 필드를 찾아 날아올라 공격을 회피해야 한다
+TutorialDetailData_Name_14901	리사의 던전 튜토리얼4
+TutorialDetailData_Desc_14901	리사의 <color=#FFE14BFF>원소 전투 스킬</color>은 터치하여 발동할 수 있을 뿐만아니라 <color=#FFE14BFF>길게</color> 눌러 영창할 수도 있다
+TutorialDetailData_Name_14902	리사의 던전 튜토리얼4
+TutorialDetailData_Desc_14902	영창이 끝나면 리사는 광범위의 공격을 발동해 적에게 강력한 번개 원소 피해를 입힌다
+TutorialDetailData_Name_14903	리사의 던전 튜토리얼4
+TutorialDetailData_Desc_14903	 
+TutorialDetailData_Name_15001	비행 튜토리얼
+TutorialDetailData_Desc_15001	#$#<color=#FFE14BFF>윈드 필드</color> 안에서 점프 버튼을 두 번 누르면 바람을 타고 날아오를 수 있고 <color=#FFE14BFF>공중</color>에서 낙하할 때 <color=#FFE14BFF>점프 버튼</color>을 누르면 활강도 가능하다
+TutorialDetailData_Name_16001	시간 조정 튜토리얼
+TutorialDetailData_Desc_16001	<color=#FFE14BFF>왼쪽 상단</color>의 <color=#FFE14BFF>페이몬 아이콘</color>을 클릭해봐
+TutorialDetailData_Name_16002	시간 조정 튜토리얼
+TutorialDetailData_Desc_16002	<color=#FFE14BFF>시간</color>을 클릭해 시간 조정 화면에 진입할 수 있어
+TutorialDetailData_Name_16003	시간 조정 튜토리얼
+TutorialDetailData_Desc_16003	<color=#FFE14BFF>시곗바늘</color>을 움직여 원하는 시간으로 맞춘 후 <color=#FFE14BFF>확인</color>을 눌러봐
+TutorialDetailData_Name_17001	탐색  여신상 업그레이드
+TutorialDetailData_Desc_17001	알파 테스트 꿀팁: 바람 신의 눈동자를 사용해 일곱신상을 업그레이드하면 풍부한 보상을 획득할 수 있습니다
+TutorialDetailData_Name_17002	요리
+TutorialDetailData_Desc_17002	알파 테스트 꿀팁: 요리솥에서 야외 채집과 성안에서 구매한 요리로 신기한 회복 효과가 있는 <color=#FFE14BFF>요리</color>들을 만들 수 있습니다
+TutorialDetailData_Name_17003	성장(전부)
+TutorialDetailData_Desc_17003	알파 테스트 꿀팁: 캐릭터 레벨업, 무기와 강력한 성유물을 장착하면 캐릭터가 강력해집니다
+TutorialDetailData_Name_17004	던전
+TutorialDetailData_Desc_17004	알파 테스트 꿀팁: 던전에 중복 도전하여 성유물과 레벨업에 필요한 아이템들을 획득할 수 있습니다
+TutorialDetailData_Name_17005	WEB 포털 설명
+TutorialDetailData_Desc_17005	알파 테스트 꿀팁: 더 많고 자세한 정보는 왼쪽 상단의 페이몬 아이콘을 눌러 확인할 수 있어
+TutorialDetailData_Name_18001	케이아 퍼즐 이미지1
+TutorialDetailData_Desc_18001	 
+TutorialDetailData_Name_18101	케이아 퍼즐 이미지2
+TutorialDetailData_Desc_18101	 
+TutorialDetailData_Name_18201	케이아 퍼즐 이미지3
+TutorialDetailData_Desc_18201	 
+TutorialDetailData_Name_18301	케이아 아이스로드 만들기 튜토리얼
+TutorialDetailData_Desc_18301	물속의 가시로 인해 헤엄쳐서 지나갈 수 없어
+TutorialDetailData_Name_18302	케이아 아이스로드 만들기 튜토리얼
+TutorialDetailData_Desc_18302	케이아의 얼음 원소 스킬은 수면을 얼려 안전한 길을 만들어 낸다
+TutorialDetailData_Name_19001	모험 등급 올리기
+TutorialDetailData_Desc_19001	<color=#FFE14BFF>일곱신상 업그레이드</color>, <color=#FFE14BFF>오픈월드 보물상자 찾기</color>, <color=#FFE14BFF>임무 완료</color>, <color=#FFE14BFF>던전 클리어</color>를 통해 모험 등급을 올릴 수 있습니다
+TutorialDetailData_Name_20101	캐릭터 능력치 튜토리얼
+TutorialDetailData_Desc_20101	1. 육성하려는 캐릭터를 선택\n2. 확인하려는 내용을 선택\n3. 캐릭터의 자세한 능력치와 스킬 미리보기\n4. 캐릭터를 육성하여 레벨업
+TutorialDetailData_Name_20201	캐릭터 레벨업 튜토리얼
+TutorialDetailData_Desc_20201	1. 사용하려는 소재 선택\n2. 사용하려는 소재의 수량을 정하고 원하는 레벨을 정한다\n3. 터치하여 레벨업 확인
+TutorialDetailData_Name_21101	캐릭터 무기 튜토리얼
+TutorialDetailData_Desc_21101	1. 현재 캐릭터의 무기 상세정보\n2. 무기 교체\3. 무기 육성 진행
+TutorialDetailData_Name_21102	무기 교체
+TutorialDetailData_Desc_21102	1. 교체하려는 무기 선택\n2. 교체하려는 무기로 인해 변하는 능력치 변화 확인하기\n3. 터치하여 무기 교체
+TutorialDetailData_Name_21201	무기 육성 튜토리얼
+TutorialDetailData_Desc_21201	1. 필터링으로 소재 일괄 선택\n2. 원하는 강화 소재 선택\n3. 강화를 터치해 무기 강화
+TutorialDetailData_Name_22101	캐릭터 성유물 튜토리얼1
+TutorialDetailData_Desc_22101	1. 확인하려는 성유물 종류 선택\n2. 현재 적용되고 있는 성유물의 세트 효과 확인하기
+TutorialDetailData_Name_22102	캐릭터 성유물 튜토리얼2
+TutorialDetailData_Desc_22102	1. 현재 성유물의 상세한 정보 확인\n2. 교체하려는 성유물 선택\n3. 성유물 육성
+TutorialDetailData_Name_22103	성유물 교체
+TutorialDetailData_Desc_22103	1. 장착 혹은 교체하려는 성유물 선택\n2. 장착 혹은 교체하려는 성유물로 인해 변하는 능력치 변화 확인하기\n3. 성유물 교체하기
+TutorialDetailData_Name_22201	성유물 육성 튜토리얼
+TutorialDetailData_Desc_22201	1. 필터링으로 소재 일괄 선택\n.2. 원하는 강화 소재 선택\n3. 강화를 터치하여 성유물 강화
+TutorialDetailData_Name_23101	캐릭터 특성 튜토리얼1
+TutorialDetailData_Desc_23101	1. 해당 캐릭터의 특성 확인하기\n2. 현재 캐릭터에게 분배되지 않은 스타더스트와 스타라이트 포인트 확인하기\n3. 소재를 전환하여 해당 캐릭터의 스타더스트와 스타라이트 획득하기기
+TutorialDetailData_Name_23102	캐릭터 특성 튜토리얼2
+TutorialDetailData_Desc_23102	1. 스타더스트 혹은 스타라이트로 전환하려는 소재 선택\n2. 사용하려는 소재의 수량을 정하고 원하는 스타더스트 혹은 스타라이트의 포인트를 정한다\n3. 터치하여 전환하기
+TutorialDetailData_Name_23103	캐릭터 특성 튜토리얼3
+TutorialDetailData_Desc_23103	1. 활성화 혹은 레벨업하려는 특성 선택\n2. 특성 효과와 활성화 조건 확인하기\n3. 활성화 혹은 레벨업 진행
+TutorialDetailData_Name_23201	워프 튜토리얼
+TutorialDetailData_Desc_23201	1. 지도 화면에 진입\n2. 지도에서 이미 개방 된 <color=#FFE14BFF>워프 포인트</color>를 클릭하면 해당 위치로 워프할 수 있습니다
+MaterialData_Name_101	캐릭터 경험치
+MaterialData_Desc_101	캐릭터 경험치, 캐릭터의 레벨을 올릴 수 있다
+MaterialData_InteractionTitle_101	 
+MaterialData_EffectDesc_101	 
+MaterialData_TypeDesc_101	캐릭터 성장
+MaterialData_Name_102	모험 경력
+MaterialData_Desc_102	모험 경력, 모험 등급을 올릴 수 있다
+MaterialData_InteractionTitle_102	 
+MaterialData_EffectDesc_102	 
+MaterialData_TypeDesc_102	시스템 개방
+MaterialData_Name_103	스타더스트
+MaterialData_Desc_103	캐릭터 특성 포인트-소(주인공 포함)
+MaterialData_InteractionTitle_103	 
+MaterialData_EffectDesc_103	 
+MaterialData_TypeDesc_103	캐릭터 성장
+MaterialData_Name_104	스타라이트
+MaterialData_Desc_104	캐릭터 특성 포인트-대(주인공 포함)
+MaterialData_InteractionTitle_104	 
+MaterialData_EffectDesc_104	 
+MaterialData_TypeDesc_104	캐릭터 성장
+MaterialData_Name_201	원석
+MaterialData_Desc_201	세계를 초월한 원초의 수정석. 칠흑같이 어둡던 우주에서 꿈과 희망이 모여 만들어진 찬란한 빛
+MaterialData_InteractionTitle_201	 
+MaterialData_EffectDesc_201	 
+MaterialData_TypeDesc_201	희귀 화폐
+MaterialData_Name_202	모라
+MaterialData_Desc_202	대륙 공용 화폐. 위의 문자는 세계 공용어로 누구나 다 알아볼 수 있는 귀금속이다
+MaterialData_InteractionTitle_202	 
+MaterialData_EffectDesc_202	 
+MaterialData_TypeDesc_202	통용 화폐
+MaterialData_Name_301	불의 인장
+MaterialData_Desc_301	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_301	 
+MaterialData_EffectDesc_301	 
+MaterialData_TypeDesc_301	칠국의 인장
+MaterialData_Name_302	물의 인장
+MaterialData_Desc_302	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_302	 
+MaterialData_EffectDesc_302	 
+MaterialData_TypeDesc_302	칠국의 인장
+MaterialData_Name_303	풀의 인장
+MaterialData_Desc_303	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_303	 
+MaterialData_EffectDesc_303	 
+MaterialData_TypeDesc_303	칠국의 인장
+MaterialData_Name_304	전기의 인장
+MaterialData_Desc_304	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_304	 
+MaterialData_EffectDesc_304	 
+MaterialData_TypeDesc_304	칠국의 인장
+MaterialData_Name_305	바람의 인장
+MaterialData_Desc_305	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_305	 
+MaterialData_EffectDesc_305	 
+MaterialData_TypeDesc_305	칠국의 인장
+MaterialData_Name_306	얼음의 인장
+MaterialData_Desc_306	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_306	 
+MaterialData_EffectDesc_306	 
+MaterialData_TypeDesc_306	칠국의 인장
+MaterialData_Name_307	바위의 인장
+MaterialData_Desc_307	몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템으로 교환할 수 있다
+MaterialData_InteractionTitle_307	 
+MaterialData_EffectDesc_307	 
+MaterialData_TypeDesc_307	칠국의 인장
+MaterialData_Name_901	열화의 기억
+MaterialData_Desc_901	여행자의 불 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_901	 
+MaterialData_EffectDesc_901	 
+MaterialData_TypeDesc_901	특성 전환 소재
+MaterialData_Name_902	샘물의 기억
+MaterialData_Desc_902	여행자의 물 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_902	 
+MaterialData_EffectDesc_902	 
+MaterialData_TypeDesc_902	특성 전환 소재
+MaterialData_Name_903	초목의 기억
+MaterialData_Desc_903	여행자의 풀 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_903	 
+MaterialData_EffectDesc_903	 
+MaterialData_TypeDesc_903	특성 전환 소재
+MaterialData_Name_904	뇌정의 기억
+MaterialData_Desc_904	여행자의 번개 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_904	 
+MaterialData_EffectDesc_904	 
+MaterialData_TypeDesc_904	특성 전환 소재
+MaterialData_Name_905	질풍의 기억
+MaterialData_Desc_905	여행자의 바람 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_905	 
+MaterialData_EffectDesc_905	 
+MaterialData_TypeDesc_905	특성 전환 소재
+MaterialData_Name_906	얼어붙은 기억
+MaterialData_Desc_906	여행자의 얼음 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_906	 
+MaterialData_EffectDesc_906	 
+MaterialData_TypeDesc_906	특성 전환 소재
+MaterialData_Name_907	바위의 기억
+MaterialData_Desc_907	여행자의 바위 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_907	 
+MaterialData_EffectDesc_907	 
+MaterialData_TypeDesc_907	특성 전환 소재
+MaterialData_Name_911	꺼지지 않는 불의 기억
+MaterialData_Desc_911	여행자의 불 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_911	 
+MaterialData_EffectDesc_911	 
+MaterialData_TypeDesc_911	특성 전환 소재
+MaterialData_Name_912	급류의 기억
+MaterialData_Desc_912	여행자의 물 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_912	 
+MaterialData_EffectDesc_912	 
+MaterialData_TypeDesc_912	특성 전환 소재
+MaterialData_Name_913	무성한 초목의 기억
+MaterialData_Desc_913	여행자의 풀 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_913	 
+MaterialData_EffectDesc_913	 
+MaterialData_TypeDesc_913	특성 전환 소재
+MaterialData_Name_914	창뢰자전의 기억
+MaterialData_Desc_914	여행자의 번개 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_914	 
+MaterialData_EffectDesc_914	 
+MaterialData_TypeDesc_914	특성 전환 소재
+MaterialData_Name_915	사방 바람의 기억
+MaterialData_Desc_915	여행자의 바람 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_915	 
+MaterialData_EffectDesc_915	 
+MaterialData_TypeDesc_915	특성 전환 소재
+MaterialData_Name_916	엄동설한의 기억
+MaterialData_Desc_916	여행자의 얼음 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_916	 
+MaterialData_EffectDesc_916	 
+MaterialData_TypeDesc_916	특성 전환 소재
+MaterialData_Name_917	부동 수정석의 기억
+MaterialData_Desc_917	여행자의 바위 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_917	 
+MaterialData_EffectDesc_917	 
+MaterialData_TypeDesc_917	특성 전환 소재
+MaterialData_Name_921	뜨거운 열정
+MaterialData_Desc_921	불 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_921	 
+MaterialData_EffectDesc_921	 
+MaterialData_TypeDesc_921	특성 전환 소재
+MaterialData_Name_922	솟구치는 유쾌함
+MaterialData_Desc_922	물 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_922	 
+MaterialData_EffectDesc_922	 
+MaterialData_TypeDesc_922	특성 전환 소재
+MaterialData_Name_923	무성한 희망
+MaterialData_Desc_923	풀 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_923	 
+MaterialData_EffectDesc_923	 
+MaterialData_TypeDesc_923	특성 전환 소재
+MaterialData_Name_924	창뢰의 순간
+MaterialData_Desc_924	번개 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_924	 
+MaterialData_EffectDesc_924	 
+MaterialData_TypeDesc_924	특성 전환 소재
+MaterialData_Name_925	탄식의 장
+MaterialData_Desc_925	바람 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_925	 
+MaterialData_EffectDesc_925	 
+MaterialData_TypeDesc_925	특성 전환 소재
+MaterialData_Name_926	서리의 추억
+MaterialData_Desc_926	얼음 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_926	 
+MaterialData_EffectDesc_926	 
+MaterialData_TypeDesc_926	특성 전환 소재
+MaterialData_Name_927	우뚝 선 강인함
+MaterialData_Desc_927	바위 원소 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_927	 
+MaterialData_EffectDesc_927	 
+MaterialData_TypeDesc_927	특성 전환 소재
+MaterialData_Name_928	원초의 신화
+MaterialData_Desc_928	모든 캐릭터의 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_928	 
+MaterialData_EffectDesc_928	 
+MaterialData_TypeDesc_928	특성 전환 소재
+MaterialData_Name_931	화신의 도전
+MaterialData_Desc_931	불 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_931	 
+MaterialData_EffectDesc_931	 
+MaterialData_TypeDesc_931	특성 전환 소재
+MaterialData_Name_932	수신의 판결
+MaterialData_Desc_932	물 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_932	 
+MaterialData_EffectDesc_932	 
+MaterialData_TypeDesc_932	특성 전환 소재
+MaterialData_Name_933	풀신의 속삭임
+MaterialData_Desc_933	풀 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_933	 
+MaterialData_EffectDesc_933	 
+MaterialData_TypeDesc_933	특성 전환 소재
+MaterialData_Name_934	뇌신의 다과
+MaterialData_Desc_934	번개 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_934	 
+MaterialData_EffectDesc_934	 
+MaterialData_TypeDesc_934	특성 전환 소재
+MaterialData_Name_935	바람신의 시편
+MaterialData_Desc_935	바람 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_935	 
+MaterialData_EffectDesc_935	 
+MaterialData_TypeDesc_935	특성 전환 소재
+MaterialData_Name_936	얼음신의 애념
+MaterialData_Desc_936	얼음 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_936	 
+MaterialData_EffectDesc_936	 
+MaterialData_TypeDesc_936	특성 전환 소재
+MaterialData_Name_937	바위신의 정산
+MaterialData_Desc_937	바위 원소 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_937	 
+MaterialData_EffectDesc_937	 
+MaterialData_TypeDesc_937	특성 전환 소재
+MaterialData_Name_938	원신의 자격
+MaterialData_Desc_938	모든 캐릭터의 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_938	 
+MaterialData_EffectDesc_938	 
+MaterialData_TypeDesc_938	특성 전환 소재
+MaterialData_Name_1002	카미사토 아야카
+MaterialData_Desc_1002	이나즈마의 명문 카미사토가의 장녀로 검술에 능하다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1002	 
+MaterialData_EffectDesc_1002	 
+MaterialData_TypeDesc_1002	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1003	진
+MaterialData_Desc_1003	몬드성 페보니우스 기사단의 단장 대행. 믿음직한 그녀는 모두를 이끄는 바람이다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1003	 
+MaterialData_EffectDesc_1003	 
+MaterialData_TypeDesc_1003	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1005	주인공
+MaterialData_Desc_1005	남주인공 캐릭터 카드.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1005	 
+MaterialData_EffectDesc_1005	 
+MaterialData_TypeDesc_1005	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1006	리사
+MaterialData_Desc_1006	몬드선 페보니우스 기사단의 도서관 사서. 그녀가 번개로 적과 싸우는 모습은 매우 보기 드물다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1006	 
+MaterialData_EffectDesc_1006	 
+MaterialData_TypeDesc_1006	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1007	주인공
+MaterialData_Desc_1007	여주인공 캐릭터 카드.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1007	 
+MaterialData_EffectDesc_1007	 
+MaterialData_TypeDesc_1007	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1014	바바라
+MaterialData_Desc_1014	몬드 성당의 프리스트, 환한 미소와 물 원소로 상처를 치유하여 모든 사람들이 그녀를 좋아한다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1014	 
+MaterialData_EffectDesc_1014	 
+MaterialData_TypeDesc_1014	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1015	케이아
+MaterialData_Desc_1015	몬드성 페보니우스 기사단의 기사. 보기엔 친절해 보이나 얼음 같은 남자다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1015	 
+MaterialData_EffectDesc_1015	 
+MaterialData_TypeDesc_1015	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1016	다이루크
+MaterialData_Desc_1016	몬드성 다운 와이너리를 소유하고 있는 부자. 전 기사단 단원. 불 같이 열정적으로 전투에 임한다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1016	 
+MaterialData_EffectDesc_1016	 
+MaterialData_TypeDesc_1016	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1020	레이져
+MaterialData_Desc_1020	몬드성 지역, 울프 영지에서 늑대와 함께 살아가는 소년. 번개같이 재빠르다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1020	 
+MaterialData_EffectDesc_1020	 
+MaterialData_TypeDesc_1020	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1021	엠버
+MaterialData_Desc_1021	몬드성 페보니우스 기사단의 유일한 정찰 기사. 빨간색 옷이 눈에 확 띈다. 저 옷을 입고 제대로 정찰을 할 수 있긴 한 건가?(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1021	 
+MaterialData_EffectDesc_1021	 
+MaterialData_TypeDesc_1021	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1022	벤티
+MaterialData_Desc_1022	최근 몬드성을 방문한 수수께끼의 음유시인. 바람이 알려주는 시를 알고 있는 것 같다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1022	 
+MaterialData_EffectDesc_1022	 
+MaterialData_TypeDesc_1022	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1023	향릉
+MaterialData_Desc_1023	루니아 지역에서 생활하는 견습 요리사. 창을 밀방망이처럼 능숙하게 사용할 수 있을까?(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1023	 
+MaterialData_EffectDesc_1023	 
+MaterialData_TypeDesc_1023	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1024	북두
+MaterialData_Desc_1024	북두 캐릭터 카드.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_1024	 
+MaterialData_EffectDesc_1024	 
+MaterialData_TypeDesc_1024	캐릭터 해금/특성 전환 소재
+MaterialData_Name_1102	카미사토 아야카의 스타라이트
+MaterialData_Desc_1102	카미사토 아야카의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1102	 
+MaterialData_EffectDesc_1102	 
+MaterialData_TypeDesc_1102	특성 전환 소재
+MaterialData_Name_1103	진의 스타라이트
+MaterialData_Desc_1103	진의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1103	 
+MaterialData_EffectDesc_1103	 
+MaterialData_TypeDesc_1103	특성 전환 소재
+MaterialData_Name_1106	리사의 스타라이트
+MaterialData_Desc_1106	리사의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1106	 
+MaterialData_EffectDesc_1106	 
+MaterialData_TypeDesc_1106	특성 전환 소재
+MaterialData_Name_1114	바바라의 스타라이트
+MaterialData_Desc_1114	바바라의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1114	 
+MaterialData_EffectDesc_1114	 
+MaterialData_TypeDesc_1114	특성 전환 소재
+MaterialData_Name_1115	케이아의 스타라이트
+MaterialData_Desc_1115	케이아의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1115	 
+MaterialData_EffectDesc_1115	 
+MaterialData_TypeDesc_1115	특성 전환 소재
+MaterialData_Name_1116	다이루크의 스타라이트
+MaterialData_Desc_1116	다이루크의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1116	 
+MaterialData_EffectDesc_1116	 
+MaterialData_TypeDesc_1116	특성 전환 소재
+MaterialData_Name_1120	레이져의 스타라이트
+MaterialData_Desc_1120	레이져의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1120	 
+MaterialData_EffectDesc_1120	 
+MaterialData_TypeDesc_1120	특성 전환 소재
+MaterialData_Name_1121	엠버의 스타라이트
+MaterialData_Desc_1121	엠버의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1121	 
+MaterialData_EffectDesc_1121	 
+MaterialData_TypeDesc_1121	특성 전환 소재
+MaterialData_Name_1122	벤티의 스타라이트
+MaterialData_Desc_1122	벤티의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1122	 
+MaterialData_EffectDesc_1122	 
+MaterialData_TypeDesc_1122	특성 전환 소재
+MaterialData_Name_1123	향릉의 스타라이트
+MaterialData_Desc_1123	향릉의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1123	 
+MaterialData_EffectDesc_1123	 
+MaterialData_TypeDesc_1123	특성 전환 소재
+MaterialData_Name_1124	북두의 스타라이트
+MaterialData_Desc_1124	북두의 스타라이트 1pt 증가
+MaterialData_InteractionTitle_1124	 
+MaterialData_EffectDesc_1124	 
+MaterialData_TypeDesc_1124	특성 전환 소재
+MaterialData_Name_1202	카미사토 아야카의 스타더스트
+MaterialData_Desc_1202	카미사토 아야카의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1202	 
+MaterialData_EffectDesc_1202	 
+MaterialData_TypeDesc_1202	특성 전환 소재
+MaterialData_Name_1203	진의 스타더스트
+MaterialData_Desc_1203	진의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1203	 
+MaterialData_EffectDesc_1203	 
+MaterialData_TypeDesc_1203	특성 전환 소재
+MaterialData_Name_1206	리사의 스타더스트
+MaterialData_Desc_1206	리사의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1206	 
+MaterialData_EffectDesc_1206	 
+MaterialData_TypeDesc_1206	특성 전환 소재
+MaterialData_Name_1214	바바라의 스타더스트
+MaterialData_Desc_1214	바바라의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1214	 
+MaterialData_EffectDesc_1214	 
+MaterialData_TypeDesc_1214	특성 전환 소재
+MaterialData_Name_1215	케이아의 스타더스트
+MaterialData_Desc_1215	케이아의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1215	 
+MaterialData_EffectDesc_1215	 
+MaterialData_TypeDesc_1215	특성 전환 소재
+MaterialData_Name_1216	다이루크의 스타더스트
+MaterialData_Desc_1216	다이루크의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1216	 
+MaterialData_EffectDesc_1216	 
+MaterialData_TypeDesc_1216	특성 전환 소재
+MaterialData_Name_1220	레이져의 스타더스트
+MaterialData_Desc_1220	레이저의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1220	 
+MaterialData_EffectDesc_1220	 
+MaterialData_TypeDesc_1220	특성 전환 소재
+MaterialData_Name_1221	엠버의 스타더스트
+MaterialData_Desc_1221	엠버의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1221	 
+MaterialData_EffectDesc_1221	 
+MaterialData_TypeDesc_1221	특성 전환 소재
+MaterialData_Name_1222	벤티의 스타더스트
+MaterialData_Desc_1222	벤티의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1222	 
+MaterialData_EffectDesc_1222	 
+MaterialData_TypeDesc_1222	특성 전환 소재
+MaterialData_Name_1223	향릉의 스타더스트
+MaterialData_Desc_1223	향릉의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1223	 
+MaterialData_EffectDesc_1223	 
+MaterialData_TypeDesc_1223	특성 전환 소재
+MaterialData_Name_1224	북두의 스타더스트
+MaterialData_Desc_1224	북두의 스타더스트 1pt 증가
+MaterialData_InteractionTitle_1224	 
+MaterialData_EffectDesc_1224	 
+MaterialData_TypeDesc_1224	특성 전환 소재
+MaterialData_Name_1301	꺼지지 않는 불의 기억
+MaterialData_Desc_1301	여행자의 불 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1301	 
+MaterialData_EffectDesc_1301	 
+MaterialData_TypeDesc_1301	특성 전환 소재
+MaterialData_Name_1302	급류의 기억
+MaterialData_Desc_1302	여행자의 물 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1302	 
+MaterialData_EffectDesc_1302	 
+MaterialData_TypeDesc_1302	특성 전환 소재
+MaterialData_Name_1303	무성한 초목의 기억
+MaterialData_Desc_1303	여행자의 풀 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1303	 
+MaterialData_EffectDesc_1303	 
+MaterialData_TypeDesc_1303	특성 전환 소재
+MaterialData_Name_1304	창뢰자전의 기억
+MaterialData_Desc_1304	여행자의 번개 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1304	 
+MaterialData_EffectDesc_1304	 
+MaterialData_TypeDesc_1304	특성 전환 소재
+MaterialData_Name_1305	사방 바람의 기억
+MaterialData_Desc_1305	여행자의 바람 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1305	 
+MaterialData_EffectDesc_1305	 
+MaterialData_TypeDesc_1305	특성 전환 소재
+MaterialData_Name_1306	엄동설한의 기억
+MaterialData_Desc_1306	여행자의 얼음 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1306	 
+MaterialData_EffectDesc_1306	 
+MaterialData_TypeDesc_1306	특성 전환 소재
+MaterialData_Name_1307	부동 수정석의 기억
+MaterialData_Desc_1307	여행자의 바위 원소 특성에 스타라이트를 1pt 전환한다
+MaterialData_InteractionTitle_1307	 
+MaterialData_EffectDesc_1307	 
+MaterialData_TypeDesc_1307	특성 전환 소재
+MaterialData_Name_1308	열화의 기억
+MaterialData_Desc_1308	여행자의 불 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1308	 
+MaterialData_EffectDesc_1308	 
+MaterialData_TypeDesc_1308	특성 전환 소재
+MaterialData_Name_1309	샘물의 기억
+MaterialData_Desc_1309	여행자의 물 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1309	 
+MaterialData_EffectDesc_1309	 
+MaterialData_TypeDesc_1309	특성 전환 소재
+MaterialData_Name_1310	초목의 기억
+MaterialData_Desc_1310	여행자의 풀 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1310	 
+MaterialData_EffectDesc_1310	 
+MaterialData_TypeDesc_1310	특성 전환 소재
+MaterialData_Name_1311	뇌정의 기억
+MaterialData_Desc_1311	여행자의 번개 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1311	 
+MaterialData_EffectDesc_1311	 
+MaterialData_TypeDesc_1311	특성 전환 소재
+MaterialData_Name_1312	질풍의 기억
+MaterialData_Desc_1312	여행자의 바람 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1312	 
+MaterialData_EffectDesc_1312	 
+MaterialData_TypeDesc_1312	특성 전환 소재
+MaterialData_Name_1313	얼어붙은 기억
+MaterialData_Desc_1313	여행자의 얼음 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1313	 
+MaterialData_EffectDesc_1313	 
+MaterialData_TypeDesc_1313	특성 전환 소재
+MaterialData_Name_1314	바위의 기억
+MaterialData_Desc_1314	여행자의 바위 원소 특성에 스타더스트를 1pt 전환한다
+MaterialData_InteractionTitle_1314	 
+MaterialData_EffectDesc_1314	 
+MaterialData_TypeDesc_1314	특성 전환 소재
+MaterialData_Name_2001	작은 원소 에너지볼(불)
+MaterialData_Desc_2001	원소 에너지볼(불)
+MaterialData_InteractionTitle_2001	 
+MaterialData_EffectDesc_2001	 
+MaterialData_TypeDesc_2001	 
+MaterialData_Name_2002	작은 원소 에너지볼(물)
+MaterialData_Desc_2002	원소 에너지볼(물)
+MaterialData_InteractionTitle_2002	 
+MaterialData_EffectDesc_2002	 
+MaterialData_TypeDesc_2002	 
+MaterialData_Name_2003	작은 원소 에너지볼(풀)
+MaterialData_Desc_2003	원소 에너지볼(풀)
+MaterialData_InteractionTitle_2003	 
+MaterialData_EffectDesc_2003	 
+MaterialData_TypeDesc_2003	 
+MaterialData_Name_2004	작은 원소 에너지볼(번개)
+MaterialData_Desc_2004	원소 에너지볼(번개)
+MaterialData_InteractionTitle_2004	 
+MaterialData_EffectDesc_2004	 
+MaterialData_TypeDesc_2004	 
+MaterialData_Name_2005	작은 원소 에너지볼(바람)
+MaterialData_Desc_2005	원소 에너지볼(바람)
+MaterialData_InteractionTitle_2005	 
+MaterialData_EffectDesc_2005	 
+MaterialData_TypeDesc_2005	 
+MaterialData_Name_2006	작은 원소 에너지볼(얼음)
+MaterialData_Desc_2006	원소 에너지볼(얼음)
+MaterialData_InteractionTitle_2006	 
+MaterialData_EffectDesc_2006	 
+MaterialData_TypeDesc_2006	 
+MaterialData_Name_2007	작은 원소 에너지볼(바위)
+MaterialData_Desc_2007	원소 에너지볼(바위)
+MaterialData_InteractionTitle_2007	 
+MaterialData_EffectDesc_2007	 
+MaterialData_TypeDesc_2007	 
+MaterialData_Name_2008	작은 원소 에너지볼(전체)
+MaterialData_Desc_2008	원소 에너지볼(전체)
+MaterialData_InteractionTitle_2008	 
+MaterialData_EffectDesc_2008	 
+MaterialData_TypeDesc_2008	 
+MaterialData_Name_2017	원자 에너지볼(불)
+MaterialData_Desc_2017	원소 에너지볼(불)
+MaterialData_InteractionTitle_2017	 
+MaterialData_EffectDesc_2017	 
+MaterialData_TypeDesc_2017	 
+MaterialData_Name_2018	원자 에너지볼(물)
+MaterialData_Desc_2018	원소 에너지볼(물)
+MaterialData_InteractionTitle_2018	 
+MaterialData_EffectDesc_2018	 
+MaterialData_TypeDesc_2018	 
+MaterialData_Name_2019	원자 에너지볼(풀)
+MaterialData_Desc_2019	원소 에너지볼(풀)
+MaterialData_InteractionTitle_2019	 
+MaterialData_EffectDesc_2019	 
+MaterialData_TypeDesc_2019	 
+MaterialData_Name_2020	원자 에너지볼(번개)
+MaterialData_Desc_2020	원소 에너지볼(번개)
+MaterialData_InteractionTitle_2020	 
+MaterialData_EffectDesc_2020	 
+MaterialData_TypeDesc_2020	 
+MaterialData_Name_2021	원자 에너지볼(바람)
+MaterialData_Desc_2021	원소 에너지볼(바람)
+MaterialData_InteractionTitle_2021	 
+MaterialData_EffectDesc_2021	 
+MaterialData_TypeDesc_2021	 
+MaterialData_Name_2022	원자 에너지볼(얼음)
+MaterialData_Desc_2022	원소 에너지볼(얼음)
+MaterialData_InteractionTitle_2022	 
+MaterialData_EffectDesc_2022	 
+MaterialData_TypeDesc_2022	 
+MaterialData_Name_2023	원자 에너지볼(바위)
+MaterialData_Desc_2023	원소 에너지볼(바위)
+MaterialData_InteractionTitle_2023	 
+MaterialData_EffectDesc_2023	 
+MaterialData_TypeDesc_2023	 
+MaterialData_Name_2024	원자 에너지볼(전체)
+MaterialData_Desc_2024	원소 에너지볼(전체)
+MaterialData_InteractionTitle_2024	 
+MaterialData_EffectDesc_2024	 
+MaterialData_TypeDesc_2024	 
+MaterialData_Name_2025	임무 전용-원자 에너지볼(전체)
+MaterialData_Desc_2025	원소 에너지볼(전체)
+MaterialData_InteractionTitle_2025	 
+MaterialData_EffectDesc_2025	 
+MaterialData_TypeDesc_2025	 
+MaterialData_Name_2026	타임 조각(플레이 아이템)
+MaterialData_Desc_2026	신비한 타임 조각, 사용 후 저주의 미궁에서의 체류 시간이 증가한다
+MaterialData_InteractionTitle_2026	 
+MaterialData_EffectDesc_2026	 
+MaterialData_TypeDesc_2026	 
+MaterialData_Name_2027	타임 조각(플레이 아이템)
+MaterialData_Desc_2027	신비한 타임 조각, 사용 후 저주의 미궁에서의 체류 시간이 증가한다
+MaterialData_InteractionTitle_2027	 
+MaterialData_EffectDesc_2027	 
+MaterialData_TypeDesc_2027	 
+MaterialData_Name_3001	#$#테스트 랜덤 보물상자
+MaterialData_Desc_3001	#$#(테스트) 랜던 보물상자, GOOD 엄지척
+MaterialData_InteractionTitle_3001	 
+MaterialData_EffectDesc_3001	 
+MaterialData_TypeDesc_3001	보물상자
+MaterialData_Name_3002	#$#테스트 고정 보물상자
+MaterialData_Desc_3002	#$#(테스트) 고정 보물상자, GOOD 엄지척
+MaterialData_InteractionTitle_3002	 
+MaterialData_EffectDesc_3002	 
+MaterialData_TypeDesc_3002	보물상자
+MaterialData_Name_3003	#$#캐릭터 카드 뽑기
+MaterialData_Desc_3003	#$#캐릭터 카드 1장 랜덤 획득
+MaterialData_InteractionTitle_3003	 
+MaterialData_EffectDesc_3003	 
+MaterialData_TypeDesc_3003	보물상자
+MaterialData_Name_3004	카미사토 아야카
+MaterialData_Desc_3004	Lv.15 캐릭터 카미사토 아야카 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3004	 
+MaterialData_EffectDesc_3004	 
+MaterialData_TypeDesc_3004	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3005	향릉
+MaterialData_Desc_3005	Lv.15 캐릭터 향릉 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3005	 
+MaterialData_EffectDesc_3005	 
+MaterialData_TypeDesc_3005	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3006	진
+MaterialData_Desc_3006	Lv.15 캐릭터 진 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3006	 
+MaterialData_EffectDesc_3006	 
+MaterialData_TypeDesc_3006	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3007	다이루크
+MaterialData_Desc_3007	Lv.15 캐릭터 다이루크 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3007	 
+MaterialData_EffectDesc_3007	 
+MaterialData_TypeDesc_3007	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3008	벤티
+MaterialData_Desc_3008	Lv.15 캐릭터 벤티 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3008	 
+MaterialData_EffectDesc_3008	 
+MaterialData_TypeDesc_3008	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3018	바바라
+MaterialData_Desc_3018	Lv.15 캐릭터 바바라 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3018	 
+MaterialData_EffectDesc_3018	 
+MaterialData_TypeDesc_3018	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3019	레이져
+MaterialData_Desc_3019	Lv.15 캐릭터 레이져 획득(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3019	 
+MaterialData_EffectDesc_3019	 
+MaterialData_TypeDesc_3019	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3009	카미사토 아야카 테스트 패키지
+MaterialData_Desc_3009	카미사토 아야카 캐릭터 카드, ★3 무기 암강검, 카미사토 아야카's 스타더스트x16 획득
+MaterialData_InteractionTitle_3009	 
+MaterialData_EffectDesc_3009	 
+MaterialData_TypeDesc_3009	테스트 패키지
+MaterialData_Name_3010	향릉 테스트 패키지
+MaterialData_Desc_3010	향릉 캐릭터 카드, ★3 무기 백술창, 향릉's 스타더스트x16 획득
+MaterialData_InteractionTitle_3010	 
+MaterialData_EffectDesc_3010	 
+MaterialData_TypeDesc_3010	테스트 패키지
+MaterialData_Name_3011	진 테스트 패키지
+MaterialData_Desc_3011	진 캐릭터 카드, ★3 무기 암강검, 진's 스타더스트x16 획득
+MaterialData_InteractionTitle_3011	 
+MaterialData_EffectDesc_3011	 
+MaterialData_TypeDesc_3011	테스트 패키지
+MaterialData_Name_3012	다이루크 테스트 패키지
+MaterialData_Desc_3012	다이루크 캐릭터 카드, ★3 무기 백주철 대검, 다이루크's 스타라이트x16 획득
+MaterialData_InteractionTitle_3012	 
+MaterialData_EffectDesc_3012	 
+MaterialData_TypeDesc_3012	테스트 패키지
+MaterialData_Name_3013	벤티 테스트 패키지
+MaterialData_Desc_3013	벤티 캐릭터 카드, ★3 무기 까마귀깃 활, 벤티's 스타더스트x16 획득
+MaterialData_InteractionTitle_3013	 
+MaterialData_EffectDesc_3013	 
+MaterialData_TypeDesc_3013	테스트 패키지
+MaterialData_Name_3014	엠버 테스트 패키지
+MaterialData_Desc_3014	앰버's 스타더스트x16
+MaterialData_InteractionTitle_3014	 
+MaterialData_EffectDesc_3014	 
+MaterialData_TypeDesc_3014	테스트 패키지
+MaterialData_Name_3015	케이아 테스트 패키지
+MaterialData_Desc_3015	케이아's 스타더스트x16
+MaterialData_InteractionTitle_3015	 
+MaterialData_EffectDesc_3015	 
+MaterialData_TypeDesc_3015	테스트 패키지
+MaterialData_Name_3016	리사 테스트 패키지
+MaterialData_Desc_3016	리사's 스타더스트x16
+MaterialData_InteractionTitle_3016	 
+MaterialData_EffectDesc_3016	 
+MaterialData_TypeDesc_3016	테스트 패키지
+MaterialData_Name_3017	바바라 테스트 패키지
+MaterialData_Desc_3017	바바라's 스타더스트x16
+MaterialData_InteractionTitle_3017	 
+MaterialData_EffectDesc_3017	 
+MaterialData_TypeDesc_3017	테스트 패키지
+MaterialData_Name_3020	레이져 테스트 패키지
+MaterialData_Desc_3020	레이져 캐릭터 카드, ★3 무기 아이언 섀도우 클레이모어, 레이져's 스타더스트x16 획득
+MaterialData_InteractionTitle_3020	 
+MaterialData_EffectDesc_3020	 
+MaterialData_TypeDesc_3020	테스트 패키지
+MaterialData_Name_3021	케이아
+MaterialData_Desc_3021	몬드성 페보니우스 기사단의 기사. 보기엔 친절해 보이나 얼음 같은 남자다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3021	 
+MaterialData_EffectDesc_3021	 
+MaterialData_TypeDesc_3021	캐릭터 해금/특성 전환 소재
+MaterialData_Name_3022	리사
+MaterialData_Desc_3022	몬드선 페보니우스 기사단의 도서관 사서. 그녀가 번개로 적과 싸우는 모습은 매우 보기 드물다.(해당 캐릭터를 보유 중이면 특성에 스타라이트를 4pt 전환합니다)
+MaterialData_InteractionTitle_3022	 
+MaterialData_EffectDesc_3022	 
+MaterialData_TypeDesc_3022	캐릭터 해금/특성 전환 소재
+MaterialData_Name_100001	사과
+MaterialData_Desc_100001	새콤달콤한 과일. 생으로 먹든 술로 담궈 먹든 모두 맛있다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100001	 
+MaterialData_EffectDesc_100001	선택한 캐릭터의 HP 120pt 회복한다
+MaterialData_TypeDesc_100001	음식
+MaterialData_Name_100011	버섯
+MaterialData_Desc_100011	생명력이 질긴 버섯. 그늘과 적당한 물만 있으면 어디서든 자라난다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100011	 
+MaterialData_EffectDesc_100011	 
+MaterialData_TypeDesc_100011	식자재
+MaterialData_Name_100012	달콤달콤 꽃
+MaterialData_Desc_100012	향기가 짙은 식물. 어둠 속에서도 냄새로 어디에 있는지 찾을 수 있을만큼 향기롭다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100012	 
+MaterialData_EffectDesc_100012	 
+MaterialData_TypeDesc_100012	식자재
+MaterialData_Name_100013	당근
+MaterialData_Desc_100013	영양가가 듬뿍 들어 있는 야채. 쉽게 재배할 수 있다. 살짝 달작지근하다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100013	 
+MaterialData_EffectDesc_100013	 
+MaterialData_TypeDesc_100013	식자재
+MaterialData_Name_100014	무
+MaterialData_Desc_100014	식물성 섬유질이 풍부한 야채. 쉽게 재배할 수 있다. 영양가가 풍부하다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100014	 
+MaterialData_EffectDesc_100014	 
+MaterialData_TypeDesc_100014	식자재
+MaterialData_Name_100015	금어초
+MaterialData_Desc_100015	요리 후에 먹을 수 있는 식물. 향신료로 사용하면 기이한 맛을 낸다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100015	 
+MaterialData_EffectDesc_100015	 
+MaterialData_TypeDesc_100015	식자재
+MaterialData_Name_100016	허브
+MaterialData_Desc_100016	시원한 맛이 나는 식물. 시원한 허브향은 여름 기운을 싹 날려버린다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100016	 
+MaterialData_EffectDesc_100016	 
+MaterialData_TypeDesc_100016	식자재
+MaterialData_Name_100017	보리
+MaterialData_Desc_100017	황금빛 곡알을 보고 있으면 희망으로 충만해진다. 다양한 음식을 만들 수 있는 재료\n필요하면 야외에서 채집하거나 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100017	 
+MaterialData_EffectDesc_100017	 
+MaterialData_TypeDesc_100017	식자재
+MaterialData_Name_100018	양배추
+MaterialData_Desc_100018	겹겹이 쌓여져 있는 야채. 원래는 관상용 식물이였지만 지금은 아주 맛있는 식재료이다\n필요하면 야외에서 채집하거나 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100018	 
+MaterialData_EffectDesc_100018	 
+MaterialData_TypeDesc_100018	식자재
+MaterialData_Name_100019	백망초
+MaterialData_Desc_100019	아주 진귀한 식물. 절벽에서 자라나며, 어두운 밤에 빛을 발산한다고 한다
+MaterialData_InteractionTitle_100019	 
+MaterialData_EffectDesc_100019	 
+MaterialData_TypeDesc_100019	식자재
+MaterialData_Name_100020	솔방울
+MaterialData_Desc_100020	식물성 기름이 가득한 씨앗. 다람쥐의 배 속에서 큰 나무로 자란다고 하는 것은 전부 뻥이다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100020	 
+MaterialData_EffectDesc_100020	 
+MaterialData_TypeDesc_100020	식자재
+MaterialData_Name_100051	라즈베리
+MaterialData_Desc_100051	아주 새콤달콤한 과일. 야외에 널려 있는 작은 행복, 모험의 피곤을 싹 가셔준다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100051	 
+MaterialData_EffectDesc_100051	 
+MaterialData_TypeDesc_100051	식자재
+MaterialData_Name_100052	서리꽃
+MaterialData_Desc_100052	얼음 속에 갇혀있는 꽃. 늘 서늘한 한기를 뿜어낸다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100052	 
+MaterialData_EffectDesc_100052	 
+MaterialData_TypeDesc_100052	식자재
+MaterialData_Name_100053	화염꽃
+MaterialData_Desc_100053	활활 타오르는 꽃. 불타오르는 꽃잎은 물로 불을 꺼도 은은한 열기를 뿜어낸다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100053	 
+MaterialData_EffectDesc_100053	 
+MaterialData_TypeDesc_100053	식자재
+MaterialData_Name_100054	전기 수정
+MaterialData_Desc_100054	전기가 들어 있는 수정. 대기와 대지의 전기가 모여서 만들어졌다. 만지면 찌릿찌릿하다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100054	 
+MaterialData_EffectDesc_100054	 
+MaterialData_TypeDesc_100054	소재
+MaterialData_Name_100055	등불꽃
+MaterialData_Desc_100055	밤에 은은한 빛을 발산하는 야생화. 다른 재료와 함께 조리하면 아주 맛있다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100055	 
+MaterialData_EffectDesc_100055	 
+MaterialData_TypeDesc_100055	식자재
+MaterialData_Name_100056	통통 연꽃
+MaterialData_Desc_100056	물가에서 자라는 꽃. 꽃잎을 조리하면 살짝 쓰고 단맛이 난다고 한다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100056	 
+MaterialData_EffectDesc_100056	 
+MaterialData_TypeDesc_100056	식자재
+MaterialData_Name_100057	민들레 씨앗
+MaterialData_Desc_100057	바람을 따라 비행하는 작은 씨앗. 여행에 필요한 털이 다 빠져도 희망이 담겨있겠지?\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100057	 
+MaterialData_EffectDesc_100057	 
+MaterialData_TypeDesc_100057	소재
+MaterialData_Name_100061	짐승 고기
+MaterialData_Desc_100061	짐승의 신선한 고깃덩이. 적절히 조리하면 원기를 충전할 수 있는 맛있는 요리가 된다\n짐승에게서 획득할 수 있다
+MaterialData_InteractionTitle_100061	 
+MaterialData_EffectDesc_100061	 
+MaterialData_TypeDesc_100061	식자재
+MaterialData_Name_100062	새알
+MaterialData_Desc_100062	무한한 가능성을 가지고 있는 조류의 알, 하루를 버틸 수 있는 단백질을 제공한다\n짐승에게서 획득할 수 있다
+MaterialData_InteractionTitle_100062	 
+MaterialData_EffectDesc_100062	 
+MaterialData_TypeDesc_100062	식자재
+MaterialData_Name_100063	송이버섯
+MaterialData_Desc_100063	소나무 근처에서 자라는 버섯. 은은하게 퍼지는 향기로 어디에 있는지 찾아낼 수 있다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100063	 
+MaterialData_EffectDesc_100063	 
+MaterialData_TypeDesc_100063	식자재
+MaterialData_Name_100064	새고기
+MaterialData_Desc_100064	조류의 신선한 고기. 적절히 조리하면 정신이 번쩍드는 맛있는 요리가 된다\n조류에게서 획득할 수 있다
+MaterialData_InteractionTitle_100064	 
+MaterialData_EffectDesc_100064	 
+MaterialData_TypeDesc_100064	식자재
+MaterialData_Name_100072	나비 날개
+MaterialData_Desc_100072	색이 아름다운 날개. 날개의 인분이 은은한 빛이 난다. 나비를 날 수 있게 하는 성분일지도 모른다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100072	 
+MaterialData_EffectDesc_100072	 
+MaterialData_TypeDesc_100072	소재
+MaterialData_Name_100073	꽃게
+MaterialData_Desc_100073	근해에 사는 갑각류 동물. 부드럽고 신선한 육질을 조리하면 맛있는 요리가 된다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100073	 
+MaterialData_EffectDesc_100073	 
+MaterialData_TypeDesc_100073	식자재
+MaterialData_Name_100074	꽃게알
+MaterialData_Desc_100074	암게에만 있는 별미. 희귀하고 귀한 식재료로 게 요리의 최고봉. 그러나 모든 사람이 이 별미를 즐기진 않는다
+MaterialData_InteractionTitle_100074	 
+MaterialData_EffectDesc_100074	 
+MaterialData_TypeDesc_100074	식자재
+MaterialData_Name_100075	소금
+MaterialData_Desc_100075	짠맛이 나는 조미료. 요리에 절대 빠져선 안 되는 조미료이다\n필요하면 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100075	 
+MaterialData_EffectDesc_100075	 
+MaterialData_TypeDesc_100075	식자재
+MaterialData_Name_100076	양파
+MaterialData_Desc_100076	둥근 야채. 자신을 썰어버린 사람에게 복수하기 위해 기분에 상관없이 눈물을 흘리게 한다\n필요하면 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100076	 
+MaterialData_EffectDesc_100076	 
+MaterialData_TypeDesc_100076	식자재
+MaterialData_Name_100077	후추
+MaterialData_Desc_100077	매운 맛이 나는 조미료. 요리의 잡내를 없앨 수 있다. 고기와 찰떡궁합이다\n필요하면 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100077	 
+MaterialData_EffectDesc_100077	 
+MaterialData_TypeDesc_100077	식자재
+MaterialData_Name_100078	우유
+MaterialData_Desc_100078	젖소의 유즙. 달고 향기로운 이 맛은 한 방울도 양보할 수 없다\n필요하면 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100078	 
+MaterialData_EffectDesc_100078	 
+MaterialData_TypeDesc_100078	식자재
+MaterialData_Name_100079	토마토
+MaterialData_Desc_100079	빨간색의 야채. 새콤달콤하고 즙이 많다. 야채인가 과일인가에 대한 논쟁이 끊이지 않는 식물\n필요하면 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100079	 
+MaterialData_EffectDesc_100079	 
+MaterialData_TypeDesc_100079	식자재
+MaterialData_Name_100080	감자
+MaterialData_Desc_100080	땅에서 나는 야채. 자연이 내린 선물로 어떻게 요리하든 절대 질리지 않는 신기한 식자재이다\n필요하면 성안의 상인에게서 구매하자
+MaterialData_InteractionTitle_100080	 
+MaterialData_EffectDesc_100080	 
+MaterialData_TypeDesc_100080	식자재
+MaterialData_Name_100081	청개구리
+MaterialData_Desc_100081	어디서나 볼 수 있는 흔한 개구리. 습한 환경에서 생활한다. 몸에서 활력을 돋우는 물질을 분비한다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100081	 
+MaterialData_EffectDesc_100081	 
+MaterialData_TypeDesc_100081	소재
+MaterialData_Name_100082	반딧불 정수
+MaterialData_Desc_100082	반딧불이 빛을 내는 부위. 반딧불이 짝을 찾고자 할 때 빛이 난다. 정력에 좋다는 소문이 있다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100082	 
+MaterialData_EffectDesc_100082	 
+MaterialData_TypeDesc_100082	소재
+MaterialData_Name_100083	도마뱀 꼬리
+MaterialData_Desc_100083	둥글게 말린 도마뱀 꼬리. 아주 쓰고 강한 약효를 가지고 있다. 사람의 피부가 딱딱해지게 만든다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100083	 
+MaterialData_EffectDesc_100083	 
+MaterialData_TypeDesc_100083	소재
+MaterialData_Name_100084	생선 살코기
+MaterialData_Desc_100084	생선의 살코기. 적절히 조리하면 아주 맛깔난 요리가 된다\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100084	 
+MaterialData_EffectDesc_100084	 
+MaterialData_TypeDesc_100084	식자재
+MaterialData_Name_100085	수정 코어
+MaterialData_Desc_100085	수정 나비의 코어. 대기 중에 흩어져 있는 작은 원소를 빨아들이는 나비의 기묘한 신체 기관\n필요하면 야외에서 채집하자
+MaterialData_InteractionTitle_100085	 
+MaterialData_EffectDesc_100085	 
+MaterialData_TypeDesc_100085	소재
+MaterialData_Name_100086	작은 짐승 고기 덩어리
+MaterialData_Desc_100086	짐승의 신선한 고깃덩이. 적절히 조리하면 원기를 충전할 수 있는 맛있는 요리가 된다\n짐승에게서 획득할 수 있다
+MaterialData_InteractionTitle_100086	 
+MaterialData_EffectDesc_100086	 
+MaterialData_TypeDesc_100086	식자재
+MaterialData_Name_100087	작은 새고기
+MaterialData_Desc_100087	조류의 신선한 고기. 적절히 조리하면 정신이 번쩍드는 맛있는 요리가 된다\n조류에게서 획득할 수 있다
+MaterialData_InteractionTitle_100087	 
+MaterialData_EffectDesc_100087	 
+MaterialData_TypeDesc_100087	식자재
+MaterialData_Name_101001	쇳덩이
+MaterialData_Desc_101001	철광석. 뛰어난 대장장이에게 가면 그 빛을 발할 수 있다
+MaterialData_InteractionTitle_101001	 
+MaterialData_EffectDesc_101001	 
+MaterialData_TypeDesc_101001	소재
+MaterialData_Name_101002	흰쇳덩이
+MaterialData_Desc_101002	백철광석. 뛰어난 대장장이에게 가면 그 빛을 발할 수 있다
+MaterialData_InteractionTitle_101002	 
+MaterialData_EffectDesc_101002	 
+MaterialData_TypeDesc_101002	소재
+MaterialData_Name_101003	수정덩이
+MaterialData_Desc_101003	세공하지 않은 수정체. 세공을 해야 진정한 가치를 알 수 있다
+MaterialData_InteractionTitle_101003	 
+MaterialData_EffectDesc_101003	 
+MaterialData_TypeDesc_101003	소재
+MaterialData_Name_100003	쪽지
+MaterialData_Desc_100003	누가 넣은 건지 모르겠다
+MaterialData_InteractionTitle_100003	 
+MaterialData_EffectDesc_100003	 
+MaterialData_TypeDesc_100003	임무 아이템
+MaterialData_Name_100004	약탈한 화물
+MaterialData_Desc_100004	몬드성 시민의 화물. 일전에 취한 사내 협곡에서 츄츄족에게 약탈 당했다
+MaterialData_InteractionTitle_100004	 
+MaterialData_EffectDesc_100004	 
+MaterialData_TypeDesc_100004	임무 아이템
+MaterialData_Name_100005	츄츄킹의 쪽지
+MaterialData_Desc_100005	츄츄킹께:\n\t요 근래 몬드성에서 아주 성가신 놈이 나타나 우리 츄츄족 부락을 공격하고 있습니다. 그리하여 소신들이 계책을 하나 냈나이다. 바로 전하의 장기인 위장술로 몬드성 주민으로 위장하여 그 성가신 놈을 저희 소굴로 유인해 주십시오. 소신들은 만반의 준비를 갖춘 채 대기하고 있겠나이다.\n\t\t\t\t츄츄족 참모 올림
+MaterialData_InteractionTitle_100005	 
+MaterialData_EffectDesc_100005	 
+MaterialData_TypeDesc_100005	임무 아이템
+MaterialData_Name_100006	츄츄족의 해독제
+MaterialData_Desc_100006	츄츄족 주술사가 만든 츄츄족 해독제
+MaterialData_InteractionTitle_100006	 
+MaterialData_EffectDesc_100006	 
+MaterialData_TypeDesc_100006	임무 아이템
+MaterialData_Name_100007	등반 결승점 화환
+MaterialData_Desc_100007	등반 시합 결승점의 표식
+MaterialData_InteractionTitle_100007	 
+MaterialData_EffectDesc_100007	 
+MaterialData_TypeDesc_100007	임무 아이템
+MaterialData_Name_100008	비행 결승점 화환
+MaterialData_Desc_100008	비행 시합 결승점의 표식
+MaterialData_InteractionTitle_100008	 
+MaterialData_EffectDesc_100008	 
+MaterialData_TypeDesc_100008	임무 아이템
+MaterialData_Name_100009	비행 결승점 화환
+MaterialData_Desc_100009	비행 결승전 결승점의 표식
+MaterialData_InteractionTitle_100009	 
+MaterialData_EffectDesc_100009	 
+MaterialData_TypeDesc_100009	임무 아이템
+MaterialData_Name_100010	비행 우승컵
+MaterialData_Desc_100010	몬드성의 비행 시합 우승자에게 주어진다
+MaterialData_InteractionTitle_100010	 
+MaterialData_EffectDesc_100010	 
+MaterialData_TypeDesc_100010	임무 아이템
+MaterialData_Name_100101	진의 서류가방
+MaterialData_Desc_100101	평범한 문서 외에 《소녀 베라의 걱정》 이 들어 있다
+MaterialData_InteractionTitle_100101	 
+MaterialData_EffectDesc_100101	 
+MaterialData_TypeDesc_100101	임무 아이템
+MaterialData_Name_100102	《극한의 탈출》
+MaterialData_Desc_100102	마커스 여행기. 마커스 산호초에 대해 "오직 아침의 바닷바람을 타야만 사랑의 언덕에 도착할 수 있다..."라고 적혀있다
+MaterialData_InteractionTitle_100102	 
+MaterialData_EffectDesc_100102	 
+MaterialData_TypeDesc_100102	임무 아이템
+MaterialData_Name_100103	손상된 악보(상)
+MaterialData_Desc_100103	《Yellow》악보 앞 부분. 오른쪽에 "S to J"라는 글자가 표시되어 있다
+MaterialData_InteractionTitle_100103	 
+MaterialData_EffectDesc_100103	 
+MaterialData_TypeDesc_100103	임무 아이템
+MaterialData_Name_100104	손상된 악보(하)
+MaterialData_Desc_100104	《Yellow》악보 뒷 부분
+MaterialData_InteractionTitle_100104	 
+MaterialData_EffectDesc_100104	 
+MaterialData_TypeDesc_100104	임무 아이템
+MaterialData_Name_100105	리사가 진에게 쓴 편지
+MaterialData_Desc_100105	리사가 진에게 전해달라고 부탁했다. 《소녀 베라의 걱정》다음권 소식이 적혀 있다고 한다 
+MaterialData_InteractionTitle_100105	 
+MaterialData_EffectDesc_100105	 
+MaterialData_TypeDesc_100105	임무 아이템
+MaterialData_Name_100106	《가을밤》
+MaterialData_Desc_100106	궁정 마법사가 왕과 결혼한 이야기
+MaterialData_InteractionTitle_100106	 
+MaterialData_EffectDesc_100106	 
+MaterialData_TypeDesc_100106	임무 아이템
+MaterialData_Name_100107	아주 맛있어 보인다
+MaterialData_Desc_100107	맛있어 보이지만 사실은 허약 포션이다
+MaterialData_InteractionTitle_100107	 
+MaterialData_EffectDesc_100107	 
+MaterialData_TypeDesc_100107	임무 아이템
+MaterialData_Name_100108	포션
+MaterialData_Desc_100108	리사가 바바라에게 전해달라고 주인공에게 부탁했다
+MaterialData_InteractionTitle_100108	 
+MaterialData_EffectDesc_100108	 
+MaterialData_TypeDesc_100108	임무 아이템
+MaterialData_Name_100109	바바라의 치유
+MaterialData_Desc_100109	리사가 바바라에게 전해달라고 주인공에게 부탁했다
+MaterialData_InteractionTitle_100109	 
+MaterialData_EffectDesc_100109	 
+MaterialData_TypeDesc_100109	임무 아이템
+MaterialData_Name_100110	시 단편(상)
+MaterialData_Desc_100110	벤티가 찾아달라고 부탁했던 시, 그저 단편일 뿐이다
+MaterialData_InteractionTitle_100110	탁본
+MaterialData_EffectDesc_100110	 
+MaterialData_TypeDesc_100110	임무 아이템
+MaterialData_Name_100111	시 단편(중)
+MaterialData_Desc_100111	벤티가 찾아달라고 부탁했던 시, 뒷 글이 있는 것 같다
+MaterialData_InteractionTitle_100111	탁본
+MaterialData_EffectDesc_100111	 
+MaterialData_TypeDesc_100111	임무 아이템
+MaterialData_Name_100112	시 단편(하)
+MaterialData_Desc_100112	벤티가 찾아달라고 부탁했던 시. 앞의 2편과 합치면 연애시가 된다.
+MaterialData_InteractionTitle_100112	탁본
+MaterialData_EffectDesc_100112	 
+MaterialData_TypeDesc_100112	임무 아이템
+MaterialData_Name_100113	탁본
+MaterialData_Desc_100113	건축물에 새겨져 있는 고대문자
+MaterialData_InteractionTitle_100113	 
+MaterialData_EffectDesc_100113	 
+MaterialData_TypeDesc_100113	임무 아이템
+MaterialData_Name_100114	인간형 회복 포션
+MaterialData_Desc_100114	심연의 메이지에 의해 츄츄족으로 변이된 환자를 인간으로 되돌리는   포션
+MaterialData_InteractionTitle_100114	 
+MaterialData_EffectDesc_100114	 
+MaterialData_TypeDesc_100114	임무 아이템
+MaterialData_Name_100115	천공의 하프
+MaterialData_Desc_100115	풍마룡을 처치하는데 사용한다
+MaterialData_InteractionTitle_100115	 
+MaterialData_EffectDesc_100115	 
+MaterialData_TypeDesc_100115	임무 아이템
+MaterialData_Name_100120	귀뚜라미털
+MaterialData_Desc_100120	귀뚜라미는 못잡고 귀뚜라미털 한 가닥만 주웠다.
+MaterialData_InteractionTitle_100120	잡기
+MaterialData_EffectDesc_100120	 
+MaterialData_TypeDesc_100120	임무 아이템
+MaterialData_Name_100121	귀뚜라미(흰색)
+MaterialData_Desc_100121	어디서나 볼 수 있을만큼 흔하다. 특이할 게 없는 귀뚜라미.
+MaterialData_InteractionTitle_100121	잡기
+MaterialData_EffectDesc_100121	 
+MaterialData_TypeDesc_100121	임무 아이템
+MaterialData_Name_100122	귀뚜라미(파랑)
+MaterialData_Desc_100122	한 번 싸워볼 만한 귀뚜라미. 이마가 파란색이다. 싸울 때 악력이 상당히 뛰어나다.
+MaterialData_InteractionTitle_100122	잡기
+MaterialData_EffectDesc_100122	 
+MaterialData_TypeDesc_100122	임무 아이템
+MaterialData_Name_100123	귀뚜라미(보라)
+MaterialData_Desc_100123	아주 희귀한 귀뚜라미. 날개가 보라색이다.
+MaterialData_InteractionTitle_100123	잡기
+MaterialData_EffectDesc_100123	 
+MaterialData_TypeDesc_100123	임무 아이템
+MaterialData_Name_100124	귀뚜라미(금색)
+MaterialData_Desc_100124	와우! 전설의 황금 귀뚜라미!
+MaterialData_InteractionTitle_100124	잡기
+MaterialData_EffectDesc_100124	 
+MaterialData_TypeDesc_100124	임무 아이템
+MaterialData_Name_100125	물방울 호박
+MaterialData_Desc_100125	벤티가 준 물방울 호박. 쪼개면 비가 내린다(테스트)
+MaterialData_InteractionTitle_100125	 
+MaterialData_EffectDesc_100125	 
+MaterialData_TypeDesc_100125	임무 아이템
+MaterialData_Name_100126	바람 호박
+MaterialData_Desc_100126	벤티가 준 바람 호박. 쪼개면 윈드 필드가 생겨난다(테스트)
+MaterialData_InteractionTitle_100126	 
+MaterialData_EffectDesc_100126	 
+MaterialData_TypeDesc_100126	임무 아이템
+MaterialData_Name_100131	랜덤 보물상자A
+MaterialData_Desc_100131	랜덤 행인이 빼앗긴 물건. 아무 가치 없으니 어서 돌려놓자
+MaterialData_InteractionTitle_100131	 
+MaterialData_EffectDesc_100131	 
+MaterialData_TypeDesc_100131	임무 아이템
+MaterialData_Name_100132	랜덤 보물상자B
+MaterialData_Desc_100132	랜덤 행인이 빼앗긴 물건. 아무 가치 없으니 어서 돌려놓자
+MaterialData_InteractionTitle_100132	 
+MaterialData_EffectDesc_100132	 
+MaterialData_TypeDesc_100132	임무 아이템
+MaterialData_Name_100133	랜덤 보물상자A
+MaterialData_Desc_100133	랜덤 행인이 빼앗긴 물건. 아무 가치 없으니 어서 돌려놓자
+MaterialData_InteractionTitle_100133	 
+MaterialData_EffectDesc_100133	 
+MaterialData_TypeDesc_100133	임무 아이템
+MaterialData_Name_100134	랜덤 보물상자B
+MaterialData_Desc_100134	랜덤 행인이 빼앗긴 물건. 아무 가치 없으니 어서 돌려놓자
+MaterialData_InteractionTitle_100134	 
+MaterialData_EffectDesc_100134	 
+MaterialData_TypeDesc_100134	임무 아이템
+MaterialData_Name_100135	빨간색 결정
+MaterialData_Desc_100135	물방울 형태의 결정. 빨간색 빛이 서려있다. 혹시 아까 그 용이 남긴 물건인 듯한데... 아까 그 용과 대화하던 사람은 뭔가 알지 않을까? 그를 어디로 가서 찾지?
+MaterialData_InteractionTitle_100135	 
+MaterialData_EffectDesc_100135	 
+MaterialData_TypeDesc_100135	임무 아이템
+MaterialData_Name_100136	봉인의 단서101
+MaterialData_Desc_100136	봉인의 단서
+MaterialData_InteractionTitle_100136	기이한 빛 관찰
+MaterialData_EffectDesc_100136	 
+MaterialData_TypeDesc_100136	임무 아이템
+MaterialData_Name_100137	봉인의 단서102
+MaterialData_Desc_100137	봉인의 단서
+MaterialData_InteractionTitle_100137	기이한 빛 관찰
+MaterialData_EffectDesc_100137	 
+MaterialData_TypeDesc_100137	임무 아이템
+MaterialData_Name_100138	봉인의 단서103
+MaterialData_Desc_100138	봉인의 단서
+MaterialData_InteractionTitle_100138	기이한 빛 관찰
+MaterialData_EffectDesc_100138	 
+MaterialData_TypeDesc_100138	임무 아이템
+MaterialData_Name_100139	봉인의 단서201
+MaterialData_Desc_100139	봉인의 단서
+MaterialData_InteractionTitle_100139	기이한 빛 관찰
+MaterialData_EffectDesc_100139	 
+MaterialData_TypeDesc_100139	임무 아이템
+MaterialData_Name_100140	봉인의 단서202
+MaterialData_Desc_100140	봉인의 단서
+MaterialData_InteractionTitle_100140	기이한 빛 관찰
+MaterialData_EffectDesc_100140	 
+MaterialData_TypeDesc_100140	임무 아이템
+MaterialData_Name_100141	봉인의 단서203
+MaterialData_Desc_100141	봉인의 단서
+MaterialData_InteractionTitle_100141	기이한 빛 관찰
+MaterialData_EffectDesc_100141	 
+MaterialData_TypeDesc_100141	임무 아이템
+MaterialData_Name_100142	봉인의 단서301
+MaterialData_Desc_100142	봉인의 단서
+MaterialData_InteractionTitle_100142	기이한 빛 관찰
+MaterialData_EffectDesc_100142	 
+MaterialData_TypeDesc_100142	임무 아이템
+MaterialData_Name_100143	봉인의 단서302
+MaterialData_Desc_100143	봉인의 단서
+MaterialData_InteractionTitle_100143	기이한 빛 관찰
+MaterialData_EffectDesc_100143	 
+MaterialData_TypeDesc_100143	임무 아이템
+MaterialData_Name_100144	봉인의 단서303
+MaterialData_Desc_100144	봉인의 단서
+MaterialData_InteractionTitle_100144	기이한 빛 관찰
+MaterialData_EffectDesc_100144	 
+MaterialData_TypeDesc_100144	임무 아이템
+MaterialData_Name_100145	봉인 해제1
+MaterialData_Desc_100145	봉인 해제하기
+MaterialData_InteractionTitle_100145	봉인 해제하기
+MaterialData_EffectDesc_100145	 
+MaterialData_TypeDesc_100145	임무 아이템
+MaterialData_Name_100146	봉인 해제2
+MaterialData_Desc_100146	봉인 해제하기
+MaterialData_InteractionTitle_100146	봉인 해제하기
+MaterialData_EffectDesc_100146	 
+MaterialData_TypeDesc_100146	임무 아이템
+MaterialData_Name_100147	봉인 해제3
+MaterialData_Desc_100147	봉인 해제하기
+MaterialData_InteractionTitle_100147	봉인 해제하기
+MaterialData_EffectDesc_100147	 
+MaterialData_TypeDesc_100147	임무 아이템
+MaterialData_Name_100148	풍마룡 본거지의 봉인을 조사한다
+MaterialData_Desc_100148	풍마룡 본거지의 봉인
+MaterialData_InteractionTitle_100148	기이한 빛 관찰
+MaterialData_EffectDesc_100148	 
+MaterialData_TypeDesc_100148	임무 아이템
+MaterialData_Name_100149	풍마룡 본거지의 봉인 해제
+MaterialData_Desc_100149	풍마룡 본거지의 봉인
+MaterialData_InteractionTitle_100149	봉인 오픈
+MaterialData_EffectDesc_100149	 
+MaterialData_TypeDesc_100149	임무 아이템
+MaterialData_Name_100151	파괴된 기억(바람)
+MaterialData_Desc_100151	귓가에 대면 정확하진 않지만 속삭이는 말을 들을 수 있다(아직 개방되지 않았습니다)
+MaterialData_InteractionTitle_100151	 
+MaterialData_EffectDesc_100151	 
+MaterialData_TypeDesc_100151	임무 아이템
+MaterialData_Name_100152	검의 무덤 봉인1
+MaterialData_Desc_100152	봉인 해제하기
+MaterialData_InteractionTitle_100152	봉인 해제하기
+MaterialData_EffectDesc_100152	 
+MaterialData_TypeDesc_100152	임무 아이템
+MaterialData_Name_100153	검의 무덤 봉인2
+MaterialData_Desc_100153	봉인 해제하기
+MaterialData_InteractionTitle_100153	봉인 해제하기
+MaterialData_EffectDesc_100153	 
+MaterialData_TypeDesc_100153	임무 아이템
+MaterialData_Name_100154	검의 무덤 봉인3
+MaterialData_Desc_100154	봉인 해제하기
+MaterialData_InteractionTitle_100154	봉인 해제하기
+MaterialData_EffectDesc_100154	 
+MaterialData_TypeDesc_100154	임무 아이템
+MaterialData_Name_100155	사악한 늑대의 발톱자국
+MaterialData_Desc_100155	처음 본 늑대 발톱자국
+MaterialData_InteractionTitle_100155	단서 조사
+MaterialData_EffectDesc_100155	 
+MaterialData_TypeDesc_100155	임무 아이템
+MaterialData_Name_100156	사악한 늑대의 배설물
+MaterialData_Desc_100156	처음 본 늑대의 배설물
+MaterialData_InteractionTitle_100156	단서 조사
+MaterialData_EffectDesc_100156	 
+MaterialData_TypeDesc_100156	임무 아이템
+MaterialData_Name_100157	굶주린 늑대의 털
+MaterialData_Desc_100157	식물의 씨앗이 붙어 있는 늑대털
+MaterialData_InteractionTitle_100157	단서 조사
+MaterialData_EffectDesc_100157	 
+MaterialData_TypeDesc_100157	임무 아이템
+MaterialData_Name_100158	눈물 결정
+MaterialData_Desc_100158	고대 경기장에 떨어뜨린 눈물. 수많은 몬스터를 끌어들여 난장판이다.
+MaterialData_InteractionTitle_100158	 
+MaterialData_EffectDesc_100158	 
+MaterialData_TypeDesc_100158	임무 아이템
+MaterialData_Name_100159	눈물 결정
+MaterialData_Desc_100159	빼앗긴 눈물. 츄츄족 성산에서 검은 태양 부족을 '설득'해야만 이 결정을 얻을 수 있다
+MaterialData_InteractionTitle_100159	 
+MaterialData_EffectDesc_100159	 
+MaterialData_TypeDesc_100159	임무 아이템
+MaterialData_Name_100160	눈물 결정
+MaterialData_Desc_100160	숲속의 폐허에 숨겨진 눈물. 다행히 벌레가 안 먹었다
+MaterialData_InteractionTitle_100160	 
+MaterialData_EffectDesc_100160	 
+MaterialData_TypeDesc_100160	임무 아이템
+MaterialData_Name_100161	천공의 하프
+MaterialData_Desc_100161	바람 신 바바토스의 보물. 그러나 현재는 '바람'의 힘이 모두 사라졌다.
+MaterialData_InteractionTitle_100161	 
+MaterialData_EffectDesc_100161	 
+MaterialData_TypeDesc_100161	임무 아이템
+MaterialData_Name_100162	조금 복구된 천공의 하프
+MaterialData_Desc_100162	바람 신 바바토스의 보물. 눈물 결정에 의해 힘이 조금 회복된 상태.
+MaterialData_InteractionTitle_100162	 
+MaterialData_EffectDesc_100162	 
+MaterialData_TypeDesc_100162	임무 아이템
+MaterialData_Name_100163	완벽하게 복구된 천공의 하프
+MaterialData_Desc_100163	바람의 신 바바라의 보물, 원소의 힘으로 가득하다. 어쩌면 이걸로 바람의 드래곤 드발린을 소환할 수 있을지도 모른다
+MaterialData_InteractionTitle_100163	 
+MaterialData_EffectDesc_100163	 
+MaterialData_TypeDesc_100163	임무 아이템
+MaterialData_Name_100164	맑은 바람 드래곤의 눈물
+MaterialData_Desc_100164	바람 드래곤이 남긴 눈물, 맑고 투명한 바람 원소의 힘이 꿈틀대고 있는 것 같다
+MaterialData_InteractionTitle_100164	 
+MaterialData_EffectDesc_100164	 
+MaterialData_TypeDesc_100164	임무 아이템
+MaterialData_Name_100171	보물의 단서 Ⅰ
+MaterialData_Desc_100171	보물의 단서가 적혀있는 종이, 위에는 의미불명의 그림과 말이 적혀있다
+MaterialData_InteractionTitle_100171	조사
+MaterialData_EffectDesc_100171	 
+MaterialData_TypeDesc_100171	임무 아이템
+MaterialData_Name_100172	보물의 단서 Ⅱ
+MaterialData_Desc_100172	보물의 단서가 적혀있는 종이, 위에는 의미불명의 그림과 말이 적혀있다
+MaterialData_InteractionTitle_100172	조사
+MaterialData_EffectDesc_100172	 
+MaterialData_TypeDesc_100172	임무 아이템
+MaterialData_Name_100173	보물지도
+MaterialData_Desc_100173	조잡한 지도, 지도의 한 부분에 간단한 표시가 있다.
+MaterialData_InteractionTitle_100173	조사
+MaterialData_EffectDesc_100173	 
+MaterialData_TypeDesc_100173	임무 아이템
+MaterialData_Name_100174	만능 상호작용
+MaterialData_Desc_100174	 
+MaterialData_InteractionTitle_100174	만능 상호작용
+MaterialData_EffectDesc_100174	 
+MaterialData_TypeDesc_100174	임무 아이템
+MaterialData_Name_100175	빨간색 열쇠
+MaterialData_Desc_100175	빨간색 문을 열 수 있다
+MaterialData_InteractionTitle_100175	 
+MaterialData_EffectDesc_100175	 
+MaterialData_TypeDesc_100175	임무 아이템
+MaterialData_Name_100176	검은색 열쇠
+MaterialData_Desc_100176	검은색 문을 열 수 있다
+MaterialData_InteractionTitle_100176	 
+MaterialData_EffectDesc_100176	 
+MaterialData_TypeDesc_100176	임무 아이템
+MaterialData_Name_100177	배경 상호작용
+MaterialData_Desc_100177	 
+MaterialData_InteractionTitle_100177	기이한 풀 배치
+MaterialData_EffectDesc_100177	 
+MaterialData_TypeDesc_100177	임무 아이템
+MaterialData_Name_100178	소녀 베라의 우울·권1
+MaterialData_Desc_100178	난 세상이 무료하다고 생각했던 적은 단 한 번도 없어. 그냥 재밌는 일은 모두 아주 멀리 있다고 생각할 뿐이야\n——아주 먼 곳을 동경하는 평범한 소녀 베라의 방대한 모험기가 시작된다
+MaterialData_InteractionTitle_100178	 
+MaterialData_EffectDesc_100178	 
+MaterialData_TypeDesc_100178	임무 아이템
+MaterialData_Name_100179	소녀 베라의 우울·권2
+MaterialData_Desc_100179	늘 무료하다고 생각해, 참고로 이건 우울한 게 아니라 14살이 됐다는 것뿐이야\n아무튼 베라의 모험이 지금 시작된다!
+MaterialData_InteractionTitle_100179	 
+MaterialData_EffectDesc_100179	 
+MaterialData_TypeDesc_100179	임무 아이템
+MaterialData_Name_100180	소녀 베라의 우울·권3
+MaterialData_Desc_100180	안드로메다 은하의 제국은 은하군의 절반을 차지할 정도로 아주 넓어. 모든 행성마다 자신들만의 악마와 신, 바다 드래곤과 괴수들이 있어\n「난 반짝거리는 모든 별의 이야기를 상상해 봤어」「여기서 보면 안드로메다 은하는 달의 5분의 1 크기도 안 되는데 그건 불가능한 일이야」\n소녀 베라의 모험은 계속된다!
+MaterialData_InteractionTitle_100180	 
+MaterialData_EffectDesc_100180	 
+MaterialData_TypeDesc_100180	임무 아이템
+MaterialData_Name_100181	신과 함께·프롤로그
+MaterialData_Desc_100181	「만약에 신이 있다면 우리의 생활이 어떨지 생각해 본 적 있어?」\n이성적이고 유머러스한 서술에서는 작가와 함께 「신성」이라 불리는 안개를 걷는다
+MaterialData_InteractionTitle_100181	 
+MaterialData_EffectDesc_100181	 
+MaterialData_TypeDesc_100181	임무 아이템
+MaterialData_Name_100182	바네사 전기·상편
+MaterialData_Desc_100182	몬드성이 건립된 이후부터 내려온 민요는 페보니우스 기사단 창시자인 바네사가 젊은 시절 몬드에서 노역을 하던 이야기를 부르고 있다
+MaterialData_InteractionTitle_100182	 
+MaterialData_EffectDesc_100182	 
+MaterialData_TypeDesc_100182	임무 아이템
+MaterialData_Name_100183	바네사 전기·하편
+MaterialData_Desc_100183	몬드성이 건립된 이후부터 내려온 민요는 페보니우스 기사단 창시자인 바네사가 젊은 시절 바람의 신 바르바토스와 만나 마룡을 물리치고 귀족들을 무너뜨린 기적같은 이야기를 부리고 있다
+MaterialData_InteractionTitle_100183	 
+MaterialData_EffectDesc_100183	 
+MaterialData_TypeDesc_100183	임무 아이템
+MaterialData_Name_100184	포스터
+MaterialData_Desc_100184	 
+MaterialData_InteractionTitle_100184	 
+MaterialData_EffectDesc_100184	 
+MaterialData_TypeDesc_100184	임무 아이템
+MaterialData_Name_100185	포스터
+MaterialData_Desc_100185	 
+MaterialData_InteractionTitle_100185	 
+MaterialData_EffectDesc_100185	 
+MaterialData_TypeDesc_100185	임무 아이템
+MaterialData_Name_100186	몬드 백화점 주문판
+MaterialData_Desc_100186	몬드 백화점 주문판
+MaterialData_InteractionTitle_100186	 
+MaterialData_EffectDesc_100186	 
+MaterialData_TypeDesc_100186	임무 아이템
+MaterialData_Name_100187	캣테일 술집 메모판
+MaterialData_Desc_100187	캣테일 술집 메모판
+MaterialData_InteractionTitle_100187	 
+MaterialData_EffectDesc_100187	 
+MaterialData_TypeDesc_100187	임무 아이템
+MaterialData_Name_100188	민들레밭의 여우·권1
+MaterialData_Desc_100188	민들레야, 민들레야, 바람과 함께 멀리 날아가려무나——꼬마 여우는 이렇게 중얼거렸다\n뇌리에서 잊혀지지 않는 몬드 동화, 사냥꾼과 여우의 이야기, 《민들레밭의 여우》, 총 11권. 지금 시작된다
+MaterialData_InteractionTitle_100188	 
+MaterialData_EffectDesc_100188	 
+MaterialData_TypeDesc_100188	임무 아이템
+MaterialData_Name_100189	민들레밭의 여우·권2
+MaterialData_Desc_100189	「여우야 착하지, 움직이지 마렴」 사냥꾼을 만난 서리꽃에 갇힌 여우의 운명은?\n사냥꾼, 여우, 그리고 민들레의 동화. 2권, 계속됩니다
+MaterialData_InteractionTitle_100189	 
+MaterialData_EffectDesc_100189	 
+MaterialData_TypeDesc_100189	임무 아이템
+MaterialData_Name_100190	민들레밭의 여우·권3
+MaterialData_Desc_100190	문밖의 기척이 사냥에 실패한 사냥꾼을 깨운다. 문밖엔 과연 누가?\n사냥꾼과 여우의 동화가 계속됩니다. 《민들레밭의 여우》, 3권
+MaterialData_InteractionTitle_100190	 
+MaterialData_EffectDesc_100190	 
+MaterialData_TypeDesc_100190	임무 아이템
+MaterialData_Name_100191	민들레밭의 여우·권5
+MaterialData_Desc_100191	여우의 조건을 받아드려 사라진 모든 사냥감들이 오는 민들레가 끝없이 펼쳐진 광야에 왔다\n사냥꾼과 여우의 민들레밭에서 생긴 이야기, 5권
+MaterialData_InteractionTitle_100191	 
+MaterialData_EffectDesc_100191	 
+MaterialData_TypeDesc_100191	임무 아이템
+MaterialData_Name_100192	민들레밭의 여우·권6
+MaterialData_Desc_100192	「사람의 말은 왜 배우려는 거야?」「사람으로 변한 뒤에 인간 친구를 사귀기 위해서」\n민들레밭에서 앳된 목소리는 어디까지 울려퍼질까. 동화 《민들레밭의 여우》, 6권
+MaterialData_InteractionTitle_100192	 
+MaterialData_EffectDesc_100192	 
+MaterialData_TypeDesc_100192	임무 아이템
+MaterialData_Name_100193	민들레밭의 여우·권7
+MaterialData_Desc_100193	「민들레야, 민들레야, 바람과 함께 멀리 날아가려무나」 꼬마 여우가 이렇게 중얼거렸다\n사냥꾼은 마법을 배워 자신의 꿈을 실현할 수 있을까? 동화 《민들레밭의 여우》, 7권
+MaterialData_InteractionTitle_100193	 
+MaterialData_EffectDesc_100193	 
+MaterialData_TypeDesc_100193	임무 아이템
+MaterialData_Name_100194	민들레밭의 여우·권10
+MaterialData_Desc_100194	서글픈 이별이 다가왔다. 꼬마 여우는 그의 어머니와 선생님, 그리고 민들레와 작별 인사를 나눈다\n약속을 지킬 때가 왔다. 동화 《민들레밭의 여우》, 10권
+MaterialData_InteractionTitle_100194	 
+MaterialData_EffectDesc_100194	 
+MaterialData_TypeDesc_100194	임무 아이템
+MaterialData_Name_100195	민들레밭의 여우·권11
+MaterialData_Desc_100195	민들레야, 민들레야, 바람과 함께 멀리 날아가려무나——꼬마 여우는 이렇게 중얼거렸다\n뇌리에서 잊혀지지 않는 몬드 동화, 사냥꾼과 여우의 아름다운 이야기, 《민들레밭의 여우》, 완결
+MaterialData_InteractionTitle_100195	 
+MaterialData_EffectDesc_100195	 
+MaterialData_TypeDesc_100195	임무 아이템
+MaterialData_Name_100196	츄츄족 시집선·상
+MaterialData_Desc_100196	츄츄족 언어 시인 대표작! 학자 야콥·머스크가 시집을 통해 츄츄족의 신비한 정신 세계로 당신을 초대한다!
+MaterialData_InteractionTitle_100196	 
+MaterialData_EffectDesc_100196	 
+MaterialData_TypeDesc_100196	임무 아이템
+MaterialData_Name_100197	츄츄족 시집선·하
+MaterialData_Desc_100197	츄츄족의 생활에도 술과 시가 있을까? 츄츄족도 절실히 갈망하는 게 있을까? 츄츄족 전문가 야콥·머스크가 정답을 알려준다!
+MaterialData_InteractionTitle_100197	 
+MaterialData_EffectDesc_100197	 
+MaterialData_TypeDesc_100197	임무 아이템
+MaterialData_Name_100198	소녀 베라의 우울·권5
+MaterialData_Desc_100198	우주 고속도로와 고속도로 길가에선 식사를 할 수 없어, 신이라도 고속 우주선과 박으면 모두 책임져야 하거든\n평범한 동네 책방으로 보이지만 문을 통해 우주와 시간의 어느 곳에나 갈 수 있다!\n신과의 점심, 시간과의 술래잡기. 베라의 모험, 지금 계속됩니다!
+MaterialData_InteractionTitle_100198	 
+MaterialData_EffectDesc_100198	 
+MaterialData_TypeDesc_100198	임무 아이템
+MaterialData_Name_100199	소녀 베라의 우울·권9
+MaterialData_Desc_100199	「베라는 아주 예뻐서 우주에서도 빛이 나는데, 나는...」「이 나이대의 소년은 소녀보다 작다」\n청춘이 돼야만 유년기를 벗어날 수 있어! 지금 요약해도 안 늦었어, 소녀 베라가 진짜로 우울하기 시작했어!
+MaterialData_InteractionTitle_100199	 
+MaterialData_EffectDesc_100199	 
+MaterialData_TypeDesc_100199	임무 아이템
+MaterialData_Name_100200	소녀 베라의 우울·권10
+MaterialData_Desc_100200	「이제 됐어. 집에 가자... 나랑 가장 먼 곳이 바로 네 델피야」\n비록 지금에서야 해석하는 것이지만 델피는 그리스 신화에서 세계의 중심이야. <소녀 베라의 우울>, 완결... 될 수 있을까?
+MaterialData_InteractionTitle_100200	 
+MaterialData_EffectDesc_100200	 
+MaterialData_TypeDesc_100200	임무 아이템
+MaterialData_Name_100201	숲속의 바람·스토리 발췌
+MaterialData_Desc_100201	학자들이 몬드의 여러 무명 음유시인의 시를 정리하고 기록하여 시집 《숲속의 바람》을 편찬했다
+MaterialData_InteractionTitle_100201	 
+MaterialData_EffectDesc_100201	 
+MaterialData_TypeDesc_100201	임무 아이템
+MaterialData_Name_100202	멧돼지 공주·권1
+MaterialData_Desc_100202	아주 아주 오래 전 숲속의 왕국에선 어떤 전설적인 일이 발생했을까?\n《멧돼지 공주》, 1권. 우정과 사랑, 그리고 생사에 대한 동화를 알려줍니다
+MaterialData_InteractionTitle_100202	 
+MaterialData_EffectDesc_100202	 
+MaterialData_TypeDesc_100202	임무 아이템
+MaterialData_Name_100203	멧돼지 공주·권2
+MaterialData_Desc_100203	생명이 살지 않는 빙하설원, 바람의 신도 발걸음하지 않는 대지에 홀로 살아가는 자가?\n《멧돼지 공주》, 2권. 빙하설원에서 계속됩니다
+MaterialData_InteractionTitle_100203	 
+MaterialData_EffectDesc_100203	 
+MaterialData_TypeDesc_100203	임무 아이템
+MaterialData_Name_100204	멧돼지 공주·권3
+MaterialData_Desc_100204	「넌 이제부터 아무런 희망도 없을 것이야!」 혹한의 저주에 맞선 어린 늑대의 운명은?\n《멧돼지 공주》, 3권
+MaterialData_InteractionTitle_100204	 
+MaterialData_EffectDesc_100204	 
+MaterialData_TypeDesc_100204	임무 아이템
+MaterialData_Name_100205	멧돼지 공주·권4
+MaterialData_Desc_100205	어린 늑대는 혹한 속에서 홀로 성장한다. 빙하설원에서 홀로 사는 늑대의 일생의 비밀이 지금 밝혀진다\n《멧돼지 공주》, 4권
+MaterialData_InteractionTitle_100205	 
+MaterialData_EffectDesc_100205	 
+MaterialData_TypeDesc_100205	임무 아이템
+MaterialData_Name_100206	멧돼지 공주·권5
+MaterialData_Desc_100206	「누가 이렇게 가혹한 운명을 맞이해야 했을까」 착하디 착한 공주는 가여움에 눈물을 흘린다——모두가 힘을 합쳐 결국엔 혹한을 물리친다\n《멧돼지 공주》, 5권
+MaterialData_InteractionTitle_100206	 
+MaterialData_EffectDesc_100206	 
+MaterialData_TypeDesc_100206	임무 아이템
+MaterialData_Name_100207	멧돼지 공주·권7
+MaterialData_Desc_100207	빙하설원에서의 희생이 드디어 빛을 본다. 우정과 사랑, 그리고 생사의 완벽한 피날레!\n눈물 나도록 감동적인 명작 동화, 《멧돼지 공주》, 완결!
+MaterialData_InteractionTitle_100207	 
+MaterialData_EffectDesc_100207	 
+MaterialData_TypeDesc_100207	임무 아이템
+MaterialData_Name_100208	몬드의 고탑·제1권
+MaterialData_Desc_100208	귀족의 폭정이 심한 우울한 시대에 외국에서 온 소녀와 흉조가 가득한 고아가 높은 탑 앞에서 마주친다. 두사람의 만남은 과연 비극의 결말을 가져올 것인가?\n아름다운 역사소설, 《몬드의 고탑》, 지금 드러납니다!
+MaterialData_InteractionTitle_100208	 
+MaterialData_EffectDesc_100208	 
+MaterialData_TypeDesc_100208	임무 아이템
+MaterialData_Name_100210	수상한 가지런한 흔적
+MaterialData_Desc_100210	너무 가지런한 흔적
+MaterialData_InteractionTitle_100210	수상한 흔적 조사
+MaterialData_EffectDesc_100210	 
+MaterialData_TypeDesc_100210	임무 아이템
+MaterialData_Name_100211	부패한 지 오래된 음식
+MaterialData_Desc_100211	부패한 지 아주 오래된 것 같다
+MaterialData_InteractionTitle_100211	부패한 음식 조사
+MaterialData_EffectDesc_100211	 
+MaterialData_TypeDesc_100211	임무 아이템
+MaterialData_Name_100212	버려진 날카로운 쇠갈고리
+MaterialData_Desc_100212	누가 버린지 모를 날카로운 쇠갈고리
+MaterialData_InteractionTitle_100212	날카로운 쇠갈고리 조사
+MaterialData_EffectDesc_100212	 
+MaterialData_TypeDesc_100212	임무 아이템
+MaterialData_Name_100213	숲속의 바람 분실분·용의 서
+MaterialData_Desc_100213	시집 《숲속의 바람》 보충 설명책, 각종 문헌의 자료를 간추렸다\n몬드성의 드래곤에 대한 이야기가 적혀있다
+MaterialData_InteractionTitle_100213	 
+MaterialData_EffectDesc_100213	 
+MaterialData_TypeDesc_100213	임무 아이템
+MaterialData_Name_102001	불 원소 결정 조각
+MaterialData_Desc_102001	불 원소 결정에서 떨어져나온 조각. 흡수 후 불 원소 에너지 50 획득
+MaterialData_InteractionTitle_102001	 
+MaterialData_EffectDesc_102001	파티 내 캐릭터가 불 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102001	소모품
+MaterialData_Name_102002	물 원소 결정 조각
+MaterialData_Desc_102002	물 원소 결정에서 떨어져나온 조각. 흡수 후 물 원소 에너지 50 획득
+MaterialData_InteractionTitle_102002	 
+MaterialData_EffectDesc_102002	파티 내 캐릭터가 물 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102002	소모품
+MaterialData_Name_102003	풀 원소 결정 조각
+MaterialData_Desc_102003	풀 원소 결정에서 떨어져나온 조각. 흡수 후 풀 원소 에너지 50 획득
+MaterialData_InteractionTitle_102003	 
+MaterialData_EffectDesc_102003	파티 내 캐릭터가 풀 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102003	소모품
+MaterialData_Name_102004	번개 원소 결정 조각
+MaterialData_Desc_102004	번개 원소 결정에서 떨어져나온 조각. 흡수 후 번개 원소 에너지 50 획득
+MaterialData_InteractionTitle_102004	 
+MaterialData_EffectDesc_102004	파티 내 캐릭터가 번개 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102004	소모품
+MaterialData_Name_102005	바람 원소 결정 조각
+MaterialData_Desc_102005	바람 원소 결정에서 떨어져나온 조각. 흡수 후 바람 원소 에너지 50 획득
+MaterialData_InteractionTitle_102005	 
+MaterialData_EffectDesc_102005	파티 내 캐릭터가 바람 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102005	소모품
+MaterialData_Name_102006	얼음 원소 결정 조각
+MaterialData_Desc_102006	얼음 원소 결정에서 떨어져나온 조각. 흡수 후 얼음 원소 에너지 50 획득
+MaterialData_InteractionTitle_102006	 
+MaterialData_EffectDesc_102006	파티 내 캐릭터가 얼음 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102006	소모품
+MaterialData_Name_102007	바위 원소 결정 조각
+MaterialData_Desc_102007	바위 원소 결정에서 떨어져나온 조각. 흡수 후 바위 원소 에너지 50 획득
+MaterialData_InteractionTitle_102007	 
+MaterialData_EffectDesc_102007	파티 내 캐릭터가 바위 원소 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102007	소모품
+MaterialData_Name_102008	고대의 원소 결정 조각
+MaterialData_Desc_102008	무 속성 결정에서 떨어져나온 조각. 흡수 후 무 속성 에너지 50 획득
+MaterialData_InteractionTitle_102008	 
+MaterialData_EffectDesc_102008	파티 내 캐릭터가 무속성 에너지를 50pt 획득한다
+MaterialData_TypeDesc_102008	소모품
+MaterialData_Name_103001	이글이글 키카 열매
+MaterialData_Desc_103001	불 속성 키카 나무에서 딴 열매. 먹으면 불 원소 에너지 30 획득
+MaterialData_InteractionTitle_103001	 
+MaterialData_EffectDesc_103001	파티 내 캐릭터가 불 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103001	소모품
+MaterialData_Name_103002	출렁출렁 키카 열매
+MaterialData_Desc_103002	물 속성 키카 나무에서 딴 열매. 먹으면 물 원소 에너지 30 획득
+MaterialData_InteractionTitle_103002	 
+MaterialData_EffectDesc_103002	파티 내 캐릭터가 물 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103002	소모품
+MaterialData_Name_103003	푸릇푸릇 키카 열매
+MaterialData_Desc_103003	풀 속성 키카 나무에서 딴 열매. 먹으면 풀 원소 에너지 30 획득
+MaterialData_InteractionTitle_103003	 
+MaterialData_EffectDesc_103003	파티 내 캐릭터가 풀 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103003	소모품
+MaterialData_Name_103004	찌릿찌릿 키카 열매
+MaterialData_Desc_103004	번개 속성 키카 나무에서 딴 열매. 먹으면 번개 원소 에너지 30 획득
+MaterialData_InteractionTitle_103004	 
+MaterialData_EffectDesc_103004	파티 내 캐릭터가 번개 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103004	소모품
+MaterialData_Name_103005	흔들흔들 키카 열매
+MaterialData_Desc_103005	바람 속성 키카 나무에서 딴 열매. 먹으면 바람 원소 에너지 30 획득
+MaterialData_InteractionTitle_103005	 
+MaterialData_EffectDesc_103005	파티 내 캐릭터가 바람 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103005	소모품
+MaterialData_Name_103006	꽁꽁 키카 열매
+MaterialData_Desc_103006	얼음 속성 키카 나무에서 딴 열매. 먹으면 얼음 원소 에너지 30 획득
+MaterialData_InteractionTitle_103006	 
+MaterialData_EffectDesc_103006	파티 내 캐릭터가 얼음 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103006	소모품
+MaterialData_Name_103007	바위바위 키카 열매
+MaterialData_Desc_103007	바위 속성 키카 나무에서 딴 열매. 먹으면 바위 원소 에너지 30 획득
+MaterialData_InteractionTitle_103007	 
+MaterialData_EffectDesc_103007	파티 내 캐릭터가 바위 원소 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103007	소모품
+MaterialData_Name_103008	태태초 키카 열매
+MaterialData_Desc_103008	무 속성 키카 나무에서 딴 열매. 먹으면 무 속성 에너지 30 획득
+MaterialData_InteractionTitle_103008	 
+MaterialData_EffectDesc_103008	파티 내 캐릭터가 무속성 에너지를 30pt 획득한다
+MaterialData_TypeDesc_103008	소모품
+MaterialData_Name_104001	방랑자의 경험치
+MaterialData_Desc_104001	캐릭터 속성 레벨업에 사용되는 아이템, 경험치가 400pt 증가한다
+MaterialData_InteractionTitle_104001	 
+MaterialData_EffectDesc_104001	 
+MaterialData_TypeDesc_104001	캐릭터 경험치 소재
+MaterialData_Name_104002	모험가의 경험치
+MaterialData_Desc_104002	캐릭터 속성 레벨업에 사용되는 아이템, 경험치가 4000pt 증가한다
+MaterialData_InteractionTitle_104002	 
+MaterialData_EffectDesc_104002	 
+MaterialData_TypeDesc_104002	캐릭터 경험치 소재
+MaterialData_Name_104003	영웅의 경험치
+MaterialData_Desc_104003	캐릭터 속성 레벨업에 사용되는 아이템, 경험치가 40000pt 증가한다
+MaterialData_InteractionTitle_104003	 
+MaterialData_EffectDesc_104003	 
+MaterialData_TypeDesc_104003	캐릭터 경험치 소재
+MaterialData_Name_104011	정제용 하급 광물
+MaterialData_Desc_104011	무기 강화에 사용되는 아이템, 경험치가 400pt 증가한다
+MaterialData_InteractionTitle_104011	 
+MaterialData_EffectDesc_104011	 
+MaterialData_TypeDesc_104011	무기 강화 소재
+MaterialData_Name_104012	정제용 광물
+MaterialData_Desc_104012	무기 강화에 사용되는 아이템, 경험치가 4000pt 증가한다
+MaterialData_InteractionTitle_104012	 
+MaterialData_EffectDesc_104012	 
+MaterialData_TypeDesc_104012	무기 강화 소재
+MaterialData_Name_104013	정제용 마법 광물
+MaterialData_Desc_104013	무기 강화에 사용되는 아이템, 경험치가 40000pt 증가한다
+MaterialData_InteractionTitle_104013	 
+MaterialData_EffectDesc_104013	 
+MaterialData_TypeDesc_104013	무기 강화 소재
+MaterialData_Name_104101	휘황찬란한 다이아몬드 파편
+MaterialData_Desc_104101	여행자가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104101	 
+MaterialData_EffectDesc_104101	 
+MaterialData_TypeDesc_104101	캐릭터 돌파 소재
+MaterialData_Name_104102	휘황찬란한 다이아몬드 단편
+MaterialData_Desc_104102	여행자가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104102	 
+MaterialData_EffectDesc_104102	 
+MaterialData_TypeDesc_104102	캐릭터 돌파 소재
+MaterialData_Name_104103	휘황찬란한 다이아몬드 덩어리
+MaterialData_Desc_104103	여행자가 사용할 수 있다 Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104103	 
+MaterialData_EffectDesc_104103	 
+MaterialData_TypeDesc_104103	캐릭터 돌파 소재
+MaterialData_Name_104104	휘황찬란한 다이아몬드
+MaterialData_Desc_104104	여행자가 사용할 수 있다 Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104104	 
+MaterialData_EffectDesc_104104	 
+MaterialData_TypeDesc_104104	캐릭터 돌파 소재
+MaterialData_Name_104111	불타오르는 마노 가루
+MaterialData_Desc_104111	불 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104111	 
+MaterialData_EffectDesc_104111	 
+MaterialData_TypeDesc_104111	캐릭터 돌파 소재
+MaterialData_Name_104112	불타오르는 마노 조각
+MaterialData_Desc_104112	불 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104112	 
+MaterialData_EffectDesc_104112	 
+MaterialData_TypeDesc_104112	캐릭터 돌파 소재
+MaterialData_Name_104113	불타오르는 마노 덩이
+MaterialData_Desc_104113	불 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104113	 
+MaterialData_EffectDesc_104113	 
+MaterialData_TypeDesc_104113	캐릭터 돌파 소재
+MaterialData_Name_104114	불타오르는 마노
+MaterialData_Desc_104114	불 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104114	 
+MaterialData_EffectDesc_104114	 
+MaterialData_TypeDesc_104114	캐릭터 돌파 소재
+MaterialData_Name_104121	순수한 청금석 가루
+MaterialData_Desc_104121	물 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104121	 
+MaterialData_EffectDesc_104121	 
+MaterialData_TypeDesc_104121	캐릭터 돌파 소재
+MaterialData_Name_104122	순수한 청금석 조각
+MaterialData_Desc_104122	물 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104122	 
+MaterialData_EffectDesc_104122	 
+MaterialData_TypeDesc_104122	캐릭터 돌파 소재
+MaterialData_Name_104123	순수한 청금석 덩이
+MaterialData_Desc_104123	물 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104123	 
+MaterialData_EffectDesc_104123	 
+MaterialData_TypeDesc_104123	캐릭터 돌파 소재
+MaterialData_Name_104124	순수한 청금석
+MaterialData_Desc_104124	물 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104124	 
+MaterialData_EffectDesc_104124	 
+MaterialData_TypeDesc_104124	캐릭터 돌파 소재
+MaterialData_Name_104131	자라나는 비취 가루
+MaterialData_Desc_104131	풀 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104131	 
+MaterialData_EffectDesc_104131	 
+MaterialData_TypeDesc_104131	캐릭터 돌파 소재
+MaterialData_Name_104132	자라나는 비취 조각
+MaterialData_Desc_104132	풀 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104132	 
+MaterialData_EffectDesc_104132	 
+MaterialData_TypeDesc_104132	캐릭터 돌파 소재
+MaterialData_Name_104133	자라나는 비취 덩이
+MaterialData_Desc_104133	풀 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104133	 
+MaterialData_EffectDesc_104133	 
+MaterialData_TypeDesc_104133	캐릭터 돌파 소재
+MaterialData_Name_104134	자라나는 비취
+MaterialData_Desc_104134	풀 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104134	 
+MaterialData_EffectDesc_104134	 
+MaterialData_TypeDesc_104134	캐릭터 돌파 소재
+MaterialData_Name_104141	승리의 자수정 가루
+MaterialData_Desc_104141	번개 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104141	 
+MaterialData_EffectDesc_104141	 
+MaterialData_TypeDesc_104141	캐릭터 돌파 소재
+MaterialData_Name_104142	승리의 자수정 조각
+MaterialData_Desc_104142	번개 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104142	 
+MaterialData_EffectDesc_104142	 
+MaterialData_TypeDesc_104142	캐릭터 돌파 소재
+MaterialData_Name_104143	승리의 자수정 덩이
+MaterialData_Desc_104143	번개 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104143	 
+MaterialData_EffectDesc_104143	 
+MaterialData_TypeDesc_104143	캐릭터 돌파 소재
+MaterialData_Name_104144	승리의 자수정
+MaterialData_Desc_104144	번개 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104144	 
+MaterialData_EffectDesc_104144	 
+MaterialData_TypeDesc_104144	캐릭터 돌파 소재
+MaterialData_Name_104151	자유로운 터키석 가루
+MaterialData_Desc_104151	바람 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104151	 
+MaterialData_EffectDesc_104151	 
+MaterialData_TypeDesc_104151	캐릭터 돌파 소재
+MaterialData_Name_104152	자유로운 터키석 조각
+MaterialData_Desc_104152	바람 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104152	 
+MaterialData_EffectDesc_104152	 
+MaterialData_TypeDesc_104152	캐릭터 돌파 소재
+MaterialData_Name_104153	자유로운 터키석 덩이
+MaterialData_Desc_104153	바람 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104153	 
+MaterialData_EffectDesc_104153	 
+MaterialData_TypeDesc_104153	캐릭터 돌파 소재
+MaterialData_Name_104154	자유로운 터키석
+MaterialData_Desc_104154	바람 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104154	 
+MaterialData_EffectDesc_104154	 
+MaterialData_TypeDesc_104154	캐릭터 돌파 소재
+MaterialData_Name_104161	서늘한 빙옥 가루
+MaterialData_Desc_104161	얼음 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104161	 
+MaterialData_EffectDesc_104161	 
+MaterialData_TypeDesc_104161	캐릭터 돌파 소재
+MaterialData_Name_104162	서늘한 빙옥 조각
+MaterialData_Desc_104162	얼음 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104162	 
+MaterialData_EffectDesc_104162	 
+MaterialData_TypeDesc_104162	캐릭터 돌파 소재
+MaterialData_Name_104163	서늘한 빙옥 덩이
+MaterialData_Desc_104163	얼음 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104163	 
+MaterialData_EffectDesc_104163	 
+MaterialData_TypeDesc_104163	캐릭터 돌파 소재
+MaterialData_Name_104164	서늘한 빙옥
+MaterialData_Desc_104164	얼음 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104164	 
+MaterialData_EffectDesc_104164	 
+MaterialData_TypeDesc_104164	캐릭터 돌파 소재
+MaterialData_Name_104171	단단한 토파즈 가루
+MaterialData_Desc_104171	바위 원소 캐릭터가 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104171	 
+MaterialData_EffectDesc_104171	 
+MaterialData_TypeDesc_104171	캐릭터 돌파 소재
+MaterialData_Name_104172	단단한 토파즈 조각
+MaterialData_Desc_104172	바위 원소 캐릭터가 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104172	 
+MaterialData_EffectDesc_104172	 
+MaterialData_TypeDesc_104172	캐릭터 돌파 소재
+MaterialData_Name_104173	단단한 토파즈 덩이
+MaterialData_Desc_104173	바위 원소 캐릭터가 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104173	 
+MaterialData_EffectDesc_104173	 
+MaterialData_TypeDesc_104173	캐릭터 돌파 소재
+MaterialData_Name_104174	단단한 토파즈
+MaterialData_Desc_104174	바위 원소 캐릭터가 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_104174	 
+MaterialData_EffectDesc_104174	 
+MaterialData_TypeDesc_104174	캐릭터 돌파 소재
+MaterialData_Name_105001	축복의 물방울
+MaterialData_Desc_105001	성유물에 사용할 수 있다. Lv.1까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_105001	 
+MaterialData_EffectDesc_105001	 
+MaterialData_TypeDesc_105001	성유물 돌파 재료
+MaterialData_Name_105002	축복의 물
+MaterialData_Desc_105002	성유물에 사용할 수 있다. Lv.2까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_105002	 
+MaterialData_EffectDesc_105002	 
+MaterialData_TypeDesc_105002	성유물 돌파 재료
+MaterialData_Name_105003	축복의 샘
+MaterialData_Desc_105003	성유물에 사용할 수 있다. Lv.3까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_105003	 
+MaterialData_EffectDesc_105003	 
+MaterialData_TypeDesc_105003	성유물 돌파 재료
+MaterialData_Name_105004	축복의 정수
+MaterialData_Desc_105004	성유물에 사용할 수 있다. Lv.4까지 돌파할 수 있는 아이템
+MaterialData_InteractionTitle_105004	 
+MaterialData_EffectDesc_105004	 
+MaterialData_TypeDesc_105004	성유물 돌파 재료
+MaterialData_Name_106000	#$#테스트용 스태미나 성장 아이템
+MaterialData_Desc_106000	#$#스태미나 성장에 사용하는 테스트 아이템
+MaterialData_InteractionTitle_106000	 
+MaterialData_EffectDesc_106000	 
+MaterialData_TypeDesc_106000	소모품
+MaterialData_Name_106001	#$#테스트용 스태미나 임시 성장 아이템
+MaterialData_Desc_106001	#$#1회성으로 스태미나 최대치를 늘리는데 사용하는 테스트 아이템
+MaterialData_InteractionTitle_106001	 
+MaterialData_EffectDesc_106001	 
+MaterialData_TypeDesc_106001	소모품
+MaterialData_Name_107001	바람 신의 눈동자
+MaterialData_Desc_107001	진한 바람 원소 에너지가 모여 만들어진 물질. 바람의 신상에 재물로 바치면 오랜 시간이 흐르며 잃어버렸던 힘을 찾을 수 있다
+MaterialData_InteractionTitle_107001	 
+MaterialData_EffectDesc_107001	 
+MaterialData_TypeDesc_107001	모험 아이템
+MaterialData_Name_107002	원소 결정 가루
+MaterialData_Desc_107002	신의 눈동자 결정이 부서진 후 떨어진 조각. 근처에 보물상자가 숨겨져 있다는 뜻이다
+MaterialData_InteractionTitle_107002	 
+MaterialData_EffectDesc_107002	 
+MaterialData_TypeDesc_107002	모험 아이템
+MaterialData_Name_108000	요리
+MaterialData_Desc_108000	요리로 만든 아이템
+MaterialData_InteractionTitle_108000	 
+MaterialData_EffectDesc_108000	 
+MaterialData_TypeDesc_108000	 
+MaterialData_Name_108001	맛없는 어부 토스트
+MaterialData_Desc_108001	양파가 가득 올려진 토스트. 단 굽기에 실패해서 바쁠 때 먹어도 맛없는 게 느껴질 정도.
+MaterialData_InteractionTitle_108001	 
+MaterialData_EffectDesc_108001	파티 내 모든 캐릭터의 HP 146pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 18pt 회복한다
+MaterialData_TypeDesc_108001	음식
+MaterialData_Name_108002	어부 토스트
+MaterialData_Desc_108002	양파가 가득 올려진 토스트. 어부 사이에서 유행하는 주식이다. 가방에 이 토스트를 가득 채워놓고 강가에 온종일 앉아서 낚시를 한다.
+MaterialData_InteractionTitle_108002	 
+MaterialData_EffectDesc_108002	파티 내 모든 캐릭터의 HP 195pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 24pt 회복한다
+MaterialData_TypeDesc_108002	음식
+MaterialData_Name_108003	맛있는 어부 토스트
+MaterialData_Desc_108003	양파가 가득 올려진 토스트. 물고기가 미끼에 낚인 건지 냄새에 낚인 건지 모를 정도로 맛있는 냄새가 풍긴다.
+MaterialData_InteractionTitle_108003	 
+MaterialData_EffectDesc_108003	파티 내 모든 캐릭터의 HP 244pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 29pt 회복한다
+MaterialData_TypeDesc_108003	음식
+MaterialData_Name_108004	맛없는 티바트 달걀 프라이
+MaterialData_Desc_108004	반숙 프라이. 타서 그런지 쓰고 딱딱하다. 그냥 영양가만을 생각하고 먹어라.
+MaterialData_InteractionTitle_108004	 
+MaterialData_EffectDesc_108004	선택한 캐릭터를 부활시키고 HP 최대치의 2%를 회복한다
+MaterialData_TypeDesc_108004	음식
+MaterialData_Name_108005	티바트 달걀 프라이
+MaterialData_Desc_108005	반숙 프라이. 살짝만 찔러도 노른자가 터질 듯해서 군침이 돈다.
+MaterialData_InteractionTitle_108005	 
+MaterialData_EffectDesc_108005	선택한 캐릭터를 부활시키고 HP 최대치의 4%를 회복한다
+MaterialData_TypeDesc_108005	음식
+MaterialData_Name_108006	맛있는 티바트 달걀 프라이
+MaterialData_Desc_108006	반숙 프라이. 완벽한 불 조절에 적당한 간까지, 환상적인 맛이 혀를 자극한다.
+MaterialData_InteractionTitle_108006	 
+MaterialData_EffectDesc_108006	선택한 캐릭터를 부활시키고 HP 최대치의 6%를 회복한다
+MaterialData_TypeDesc_108006	음식
+MaterialData_Name_108007	맛없는 스테이크
+MaterialData_Desc_108007	구워진 스테이크. 불 조절에 실패해서 겉이 타버렸다.
+MaterialData_InteractionTitle_108007	 
+MaterialData_EffectDesc_108007	선택한 캐릭터를 부활시키고 HP 최대치의 2%를 회복한다
+MaterialData_TypeDesc_108007	음식
+MaterialData_Name_108008	스테이크
+MaterialData_Desc_108008	구워진 스테이크. 레스팅을 하여 고기의 풍부한 육즙을 맛볼 수 있다.
+MaterialData_InteractionTitle_108008	 
+MaterialData_EffectDesc_108008	선택한 캐릭터를 부활시키고 HP 최대치의 4%를 회복한다
+MaterialData_TypeDesc_108008	음식
+MaterialData_Name_108009	맛있는 스테이크
+MaterialData_Desc_108009	구워진 스테이크. 시어링과 레스팅이 모두 완벽한 예술 작품 같은 스테이크가 완성됐다.
+MaterialData_InteractionTitle_108009	 
+MaterialData_EffectDesc_108009	선택한 캐릭터를 부활시키고 HP 최대치의 6%를 회복한다
+MaterialData_TypeDesc_108009	음식
+MaterialData_Name_108010	레인져 바비큐
+MaterialData_Desc_108010	엠버의 특색 음식. 한 면엔 핏기가 보이고 다른 한 면은 살짝 탔다. 눈 꼭 감고 억지로 먹으면 엠버가 기뻐할 수도...
+MaterialData_InteractionTitle_108010	 
+MaterialData_EffectDesc_108010	선택한 캐릭터를 부활시키고 HP 최대치의 8%를 회복한다
+MaterialData_TypeDesc_108010	음식
+MaterialData_Name_108011	맛없는 버섯 닭꼬치
+MaterialData_Desc_108011	버섯과 닭고기가 차례로 꽂혀있는 꼬치. 닭고기가 타버려서 뭐가 버섯이고 뭐가 닭고기인지 구분이 안 된다.
+MaterialData_InteractionTitle_108011	 
+MaterialData_EffectDesc_108011	선택한 캐릭터의 HP 300pt 회복한다
+MaterialData_TypeDesc_108011	음식
+MaterialData_Name_108012	버섯 닭꼬치
+MaterialData_Desc_108012	버섯과 닭고기가 차례로 꽃혀있는 꼬치. 신선한 닭고기와 버섯 때문에 맛있다.
+MaterialData_InteractionTitle_108012	 
+MaterialData_EffectDesc_108012	선택한 캐릭터의 HP 400pt 회복한다
+MaterialData_TypeDesc_108012	음식
+MaterialData_Name_108013	맛있는 버섯 닭꼬치
+MaterialData_Desc_108013	버섯과 닭고기가 차례로 꽃혀있는 꼬치. 직화로 구워서 술 한잔 생각날 정도로 맛있다.
+MaterialData_InteractionTitle_108013	 
+MaterialData_EffectDesc_108013	선택한 캐릭터의 HP 500pt 회복한다
+MaterialData_TypeDesc_108013	음식
+MaterialData_Name_108014	과일맛 꼬치
+MaterialData_Desc_108014	케이아의 특색요리. 탱탱한 식감에 달달한 맛까지...어! 이거 진짜 과일맛 나는데?
+MaterialData_InteractionTitle_108014	 
+MaterialData_EffectDesc_108014	선택한 캐릭터의 HP 800pt 회복한다
+MaterialData_TypeDesc_108014	음식
+MaterialData_Name_108015	맛없는 미트 스파게티
+MaterialData_Desc_108015	고기가 듬뿍 들어간 스파게티. 면이 덜 익어서 식감과 맛이 별로...
+MaterialData_InteractionTitle_108015	 
+MaterialData_EffectDesc_108015	파티 내 모든 캐릭터의 HP 232pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 28pt 회복한다
+MaterialData_TypeDesc_108015	음식
+MaterialData_Name_108016	미트 스파게티
+MaterialData_Desc_108016	고기가 듬뿍 들어간 스파게티. 알맞게 익은 면과 적당한 간까지. 누구나 좋아할 만한 맛이다.
+MaterialData_InteractionTitle_108016	 
+MaterialData_EffectDesc_108016	파티 내 모든 캐릭터의 HP 309pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 37pt 회복한다
+MaterialData_TypeDesc_108016	음식
+MaterialData_Name_108017	맛있는 미트 스파게티
+MaterialData_Desc_108017	고기가 듬뿍 들어간 스파게티. 본고장인 이탈리아에서 먹는 것 같은 환상적인 맛.
+MaterialData_InteractionTitle_108017	 
+MaterialData_EffectDesc_108017	파티 내 모든 캐릭터의 HP 386pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 47pt 회복한다
+MaterialData_TypeDesc_108017	음식
+MaterialData_Name_108018	마법 스파게티
+MaterialData_Desc_108018	리사의 특색요리. 이상한 색을 띠는 스파게티. 그러나 한 번 맛보면 절대 멈출 수 없는 마성의 맛을 지니고 있다. 무슨 마법을 부린 걸까?
+MaterialData_InteractionTitle_108018	 
+MaterialData_EffectDesc_108018	파티 내 모든 캐릭터의 HP 579pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 70pt 회복한다
+MaterialData_TypeDesc_108018	음식
+MaterialData_Name_108019	맛없는 무국
+MaterialData_Desc_108019	무를 주재료로 만든 국. 국에 들어간 야채가 전부 으깨져 있다.
+MaterialData_InteractionTitle_108019	 
+MaterialData_EffectDesc_108019	파티 내 모든 캐릭터 방어력+3, 지속 시간: 120초
+MaterialData_TypeDesc_108019	음식
+MaterialData_Name_108020	무국
+MaterialData_Desc_108020	무를 주재료로 만든 국. 달고 짭짤한 국물과 아삭한 무가 들어 있어서 영양가가 높다.
+MaterialData_InteractionTitle_108020	 
+MaterialData_EffectDesc_108020	파티 내 모든 캐릭터 방어력+4, 지속 시간: 120초
+MaterialData_TypeDesc_108020	음식
+MaterialData_Name_108021	맛있는 무국
+MaterialData_Desc_108021	무를 주재료로 만든 국. 밥 두공기는 뚝딱일 정도로 아주 맛있게 잘 끓여졌다.
+MaterialData_InteractionTitle_108021	 
+MaterialData_EffectDesc_108021	파티 내 모든 캐릭터 방어력+6, 지속 시간: 120초
+MaterialData_TypeDesc_108021	음식
+MaterialData_Name_108022	맛없는 팬케익
+MaterialData_Desc_108022	동그란 팬케익. 탄 듯한 냄새에 단맛이 가려졌다. 라즈베리만 제 대로 올려져 있다.
+MaterialData_InteractionTitle_108022	 
+MaterialData_EffectDesc_108022	선택한 캐릭터를 부활시키고 HP 최대치의 4%를 회복한다
+MaterialData_TypeDesc_108022	음식
+MaterialData_Name_108023	팬케익
+MaterialData_Desc_108023	동그란 팬케익. 라즈베리가 들어 있는 팬케익. 최상의 라즈베리를 곁들였다.
+MaterialData_InteractionTitle_108023	 
+MaterialData_EffectDesc_108023	선택한 캐릭터를 부활시키고 HP 최대치의 6%를 회복한다
+MaterialData_TypeDesc_108023	음식
+MaterialData_Name_108024	맛있는 팬케익
+MaterialData_Desc_108024	동그란 팬케익. 라즈베리가 들어 있는 팬케익. 구름 위를 걷는 듯 폭신한 맛이다.
+MaterialData_InteractionTitle_108024	 
+MaterialData_EffectDesc_108024	선택한 캐릭터를 부활시키고 HP 최대치의 8%를 회복한다
+MaterialData_TypeDesc_108024	음식
+MaterialData_Name_108025	맛없는 무완자 튀김
+MaterialData_Desc_108025	기름에 튀긴 무완자. 아주 느끼해서 먹기가 싫어진다. 물을 두모금 마셔야 억지로 삼킬 수 있다
+MaterialData_InteractionTitle_108025	 
+MaterialData_EffectDesc_108025	파티 내 모든 캐릭터 공격력+4, 지속 시간: 120초
+MaterialData_TypeDesc_108025	음식
+MaterialData_Name_108026	무완자 튀김
+MaterialData_Desc_108026	기름에 튀긴 무완자. 무의 식감을 잘 살린 완자로 뜨거울 때 먹어야 한다. 루니아 지방에서 유래되었다고 한다.
+MaterialData_InteractionTitle_108026	 
+MaterialData_EffectDesc_108026	파티 내 모든 캐릭터 공격력+7, 지속 시간: 120초
+MaterialData_TypeDesc_108026	음식
+MaterialData_Name_108027	맛있는 무완자 튀김
+MaterialData_Desc_108027	기름에 튀긴 무완자. 누가 이걸 무로 만들었다고 믿겠는가? 한 번 맛보면 계속해서 생각날 정도로 맛있다. 과연 명불허전!
+MaterialData_InteractionTitle_108027	 
+MaterialData_EffectDesc_108027	파티 내 모든 캐릭터 공격력+9, 지속 시간: 120초
+MaterialData_TypeDesc_108027	음식
+MaterialData_Name_108028	맛없는 샐러드
+MaterialData_Desc_108028	신선한 야채들이 버무려진 샐러드. 시간이 없어서 대충 만들어진 샐러드. 플레이팅에만 몰두하여 감자와 달걀의 조리 시간을 초과했다
+MaterialData_InteractionTitle_108028	 
+MaterialData_EffectDesc_108028	파티 내 모든 캐릭터 치명타 확률+3%, 지속 시간: 120초
+MaterialData_TypeDesc_108028	음식
+MaterialData_Name_108029	샐러드
+MaterialData_Desc_108029	신선한 야채들이 버무려진 샐러드. 삶은 감자와 신선한 야채, 거기다 반숙 달걀까지! 먹으면 포만감을 느낄 수 있다. 오늘부터 다이어트!
+MaterialData_InteractionTitle_108029	 
+MaterialData_EffectDesc_108029	파티 내 모든 캐릭터 치명타 확률+4%, 지속 시간: 120초
+MaterialData_TypeDesc_108029	음식
+MaterialData_Name_108030	맛있는 샐러드
+MaterialData_Desc_108030	신선한 야채들이 버무려진 샐러드. 야채의 식감이 하나하나 살아있다. 왜 코끼리가 풀만 먹어도 그렇게 살이 쪘는지 알 것 같아... 너무 맛있잖아!
+MaterialData_InteractionTitle_108030	 
+MaterialData_EffectDesc_108030	파티 내 모든 캐릭터 치명타 확률+6%, 지속 시간: 120초
+MaterialData_TypeDesc_108030	음식
+MaterialData_Name_108031	맛없는 달콤달콤 닭고기 스튜
+MaterialData_Desc_108031	꿀에 버무려 구운 새고기. 너무 과하게 익혀 달콤달콤 꽃의 식감을 느끼지 못할 정도로 흐물흐물해져 새고기의 푸석함만 남았다
+MaterialData_InteractionTitle_108031	 
+MaterialData_EffectDesc_108031	선택한 캐릭터의 HP 900pt 회복한다
+MaterialData_TypeDesc_108031	음식
+MaterialData_Name_108032	달콤달콤 닭고기 스튜
+MaterialData_Desc_108032	꿀에 버무려 구운 새고기. 탱탱한 새고기에 아삭아삭한 달콤달콤 꽃까지!
+MaterialData_InteractionTitle_108032	 
+MaterialData_EffectDesc_108032	선택한 캐릭터의 HP 1200pt 회복한다
+MaterialData_TypeDesc_108032	음식
+MaterialData_Name_108033	맛있는 달콤달콤 닭고기 스튜
+MaterialData_Desc_108033	꿀에 버무려 구운 새고기. 입에서 살살 녹는 새고기에 달콤한 꽃향기까지! 못 먹어 본 사람은 있어도 한 번만 먹은 사람이 없다는 환상의 요리!
+MaterialData_InteractionTitle_108033	 
+MaterialData_EffectDesc_108033	선택한 캐릭터의 HP 1500pt 회복한다
+MaterialData_TypeDesc_108033	음식
+MaterialData_Name_108034	맛없는 극동 훈제 닭
+MaterialData_Desc_108034	야채와 싸서 먹는 훈제 닭고기. 아직 훈제가 덜 된 닭이라서 그런지 맛없다.
+MaterialData_InteractionTitle_108034	 
+MaterialData_EffectDesc_108034	스태미나 40pt 회복
+MaterialData_TypeDesc_108034	음식
+MaterialData_Name_108035	극동 훈제 닭
+MaterialData_Desc_108035	야채와 싸서 먹는 훈제 닭고기. 북쪽 추운 지방에선 누구나 만들어 먹는 요리. 손님 접대용으로 많이 만든다.
+MaterialData_InteractionTitle_108035	 
+MaterialData_EffectDesc_108035	스태미나 55pt 회복
+MaterialData_TypeDesc_108035	음식
+MaterialData_Name_108036	맛있는 극동 훈제 닭
+MaterialData_Desc_108036	야채와 싸서 먹는 훈제 닭고기. 아삭한 야채와 부드러운 닭고기까지. 왕의 식탁에 올라가도 될 정도로 환상적인 요리.
+MaterialData_InteractionTitle_108036	 
+MaterialData_EffectDesc_108036	스태미나 70pt 회복
+MaterialData_TypeDesc_108036	음식
+MaterialData_Name_108037	맛없는 고기야채조림
+MaterialData_Desc_108037	고기와 야채를 크림에 넣고 조린 요리. 크림을 너무 적게 넣어서 조림이 아니라 구이가 돼버렸다.
+MaterialData_InteractionTitle_108037	 
+MaterialData_EffectDesc_108037	선택한 캐릭터를 부활시키고 HP 최대치의 4%를 회복한다
+MaterialData_TypeDesc_108037	음식
+MaterialData_Name_108038	고기야채조림
+MaterialData_Desc_108038	고기와 야채를 크림에 넣고 조린 요리. 적당하게 잘 조려져서 아주 맛있다.
+MaterialData_InteractionTitle_108038	 
+MaterialData_EffectDesc_108038	선택한 캐릭터를 부활시키고 HP 최대치의 6%를 회복한다
+MaterialData_TypeDesc_108038	음식
+MaterialData_Name_108039	맛있는 고기야채조림
+MaterialData_Desc_108039	고기와 야채를 크림에 넣고 조린 요리. 간이 아주 잘 밴데다가 식감까지 살아있는 환상적인 조림. 난 언제 이렇게 만들 수 있을까...
+MaterialData_InteractionTitle_108039	 
+MaterialData_EffectDesc_108039	선택한 캐릭터를 부활시키고 HP 최대치의 8%를 회복한다
+MaterialData_TypeDesc_108039	음식
+MaterialData_Name_108040	매운 야채고기볶음
+MaterialData_Desc_108040	바바라의 특색요리. 별 모양으로 자른 당근이 아주 귀엽다. 근데... 왜 혀가 마비될 정도로 매운 거야!
+MaterialData_InteractionTitle_108040	 
+MaterialData_EffectDesc_108040	선택한 캐릭터를 부활시키고 HP 최대치의 15%를 회복한다. 이후 120초 동안 방어력+15
+MaterialData_TypeDesc_108040	음식
+MaterialData_Name_108041	맛없는 버섯피자
+MaterialData_Desc_108041	버섯과 치즈 토핑이 가득 올려진 피자. 벽돌을 씹는 것처럼 딱딱하다.
+MaterialData_InteractionTitle_108041	 
+MaterialData_EffectDesc_108041	파티 내 모든 캐릭터의 HP 388pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 47pt 회복한다
+MaterialData_TypeDesc_108041	음식
+MaterialData_Name_108042	버섯피자
+MaterialData_Desc_108042	버섯과 치즈 토핑이 가득 올려진 피자. 따뜻할 때 먹으면 치즈가 쭉쭉 늘어난다.
+MaterialData_InteractionTitle_108042	 
+MaterialData_EffectDesc_108042	파티 내 모든 캐릭터의 HP 517pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 62pt 회복한다
+MaterialData_TypeDesc_108042	음식
+MaterialData_Name_108043	맛있는 버섯피자
+MaterialData_Desc_108043	버섯과 치즈 토핑이 가득 올려진 피자. 버섯과 치즈의 환상적인 조화. 1인 1판은 기본!
+MaterialData_InteractionTitle_108043	 
+MaterialData_EffectDesc_108043	파티 내 모든 캐릭터의 HP 646pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 78pt 회복한다
+MaterialData_TypeDesc_108043	음식
+MaterialData_Name_108044	에너자이저 피자
+MaterialData_Desc_108044	진의 특색요리. 예술품을 보는 듯한 피자다. 한 조각 먹으면 정신이 번쩍 든다. 이게 바로 몇 날 며칠 동안 야근할 수 있는 비밀인가?
+MaterialData_InteractionTitle_108044	 
+MaterialData_EffectDesc_108044	파티 내 모든 캐릭터의 HP 970pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 117pt 회복한다
+MaterialData_TypeDesc_108044	음식
+MaterialData_Name_108045	맛없는 몬드 감자전
+MaterialData_Desc_108045	감자로 만든 전. 과일잼이 발려져 있어야 몬드라는 이름이 붙는다. 그러나 이 감자전은... 감자전이라고 말할 수 있을까?
+MaterialData_InteractionTitle_108045	 
+MaterialData_EffectDesc_108045	파티 내 모든 캐릭터의 HP 388pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 47pt 회복한다
+MaterialData_TypeDesc_108045	음식
+MaterialData_Name_108046	몬드 감자전
+MaterialData_Desc_108046	감자로 만든 전. 견과류가 조금 들어가 있다. 과일잼과 같이 먹으면 색다른 맛을 느낄 수 있다.
+MaterialData_InteractionTitle_108046	 
+MaterialData_EffectDesc_108046	파티 내 모든 캐릭터의 HP 517pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 62pt 회복한다
+MaterialData_TypeDesc_108046	음식
+MaterialData_Name_108047	맛있는 몬드 감자전
+MaterialData_Desc_108047	감자로 만든 전. 눈을 감고 천천히 음미하면 어릴적 어머니가 해주시던 그 추억의 맛이 생각난다.
+MaterialData_InteractionTitle_108047	 
+MaterialData_EffectDesc_108047	파티 내 모든 캐릭터의 HP 646pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 78pt 회복한다
+MaterialData_TypeDesc_108047	음식
+MaterialData_Name_108048	와구와구 감자전
+MaterialData_Desc_108048	레이져의 특색요리. 늑대 발톱 모양의 감자전으로 단맛이 강하다. 정성이 가득 들어 있다.
+MaterialData_InteractionTitle_108048	 
+MaterialData_EffectDesc_108048	파티 내 모든 캐릭터의 HP 970pt를 즉시 회복하고 이후 30초 동안 5초마다 HP 117pt 회복한다
+MaterialData_TypeDesc_108048	음식
+MaterialData_Name_108049	맛없는 해산물 수프
+MaterialData_Desc_108049	영양가 듬뿍! 해산물 수프. 통통 연꽃의 쓴 맛과 허브의 떫은 맛, 게다가 게살의 비린내까지... 먹고 식중독 걸릴 맛입니다.
+MaterialData_InteractionTitle_108049	 
+MaterialData_EffectDesc_108049	파티 내 모든 캐릭터 방어력+7, 지속 시간: 120초
+MaterialData_TypeDesc_108049	음식
+MaterialData_Name_108050	해산물 수프
+MaterialData_Desc_108050	영양가 듬뿍! 해산물 수프. 신선한 꽃게살과 허브, 그리고 통통 연꽃을 넣어 시원한 맛이 난다.
+MaterialData_InteractionTitle_108050	 
+MaterialData_EffectDesc_108050	파티 내 모든 캐릭터 방어력+10, 지속 시간: 120초
+MaterialData_TypeDesc_108050	음식
+MaterialData_Name_108051	맛있는 해산물 수프
+MaterialData_Desc_108051	영양가 듬뿍! 해산물 수프. 제철 맞은 게살이 들어 있어서 아주 개운하고 시원하다. 바다에 와있는 것 같은 기분이 드는 맛이다.
+MaterialData_InteractionTitle_108051	 
+MaterialData_EffectDesc_108051	파티 내 모든 캐릭터 방어력+13, 지속 시간: 120초
+MaterialData_TypeDesc_108051	음식
+MaterialData_Name_108052	맛없는 버터 송이구이
+MaterialData_Desc_108052	송이버섯을 버터에 구운 요리. 비싼 송이버섯을 쓰레기로 만들어 버린 요리이다.
+MaterialData_InteractionTitle_108052	 
+MaterialData_EffectDesc_108052	파티 내 모든 캐릭터 공격력+11, 지속 시간: 120초
+MaterialData_TypeDesc_108052	음식
+MaterialData_Name_108053	버터 송이구이
+MaterialData_Desc_108053	송이버섯을 버터에 구운 요리. 송이버섯을 잘게 썰어서 버섯에 구운 요리로 아주 고소한 맛이 일품이다.
+MaterialData_InteractionTitle_108053	 
+MaterialData_EffectDesc_108053	파티 내 모든 캐릭터 공격력+16, 지속 시간: 120초
+MaterialData_TypeDesc_108053	음식
+MaterialData_Name_108054	맛있는 버터 송이구이
+MaterialData_Desc_108054	송이버섯을 버터에 구운 요리. 쫀득한 식감에 향긋한 송이향까지!
+MaterialData_InteractionTitle_108054	 
+MaterialData_EffectDesc_108054	파티 내 모든 캐릭터 공격력+22, 지속 시간: 120초
+MaterialData_TypeDesc_108054	음식
+MaterialData_Name_108055	맛없는 '고기탑'
+MaterialData_Desc_108055	고기성애자에 의한 고기성애자를 위한 요리. 잘못 쌓아서 탑이 무너져 바닥에 모두 흘러내릴 것만 같은 요리를 어떻게 식탁에 올릴 것인지는 이미 하나의 난제가 되었다
+MaterialData_InteractionTitle_108055	 
+MaterialData_EffectDesc_108055	파티 내 모든 캐릭터 치명타 확률+5%, 지속 시간: 120초
+MaterialData_TypeDesc_108055	음식
+MaterialData_Name_108056	'고기탑'
+MaterialData_Desc_108056	고기성애자에 의한 고기성애자를 위한 요리. 원래는 스테이크, 감자, 치즈를 쌓아 올린 몬드의 가정식이였으나 지금은 하르파스툼 축제의 유명 요리로 유명해졌다
+MaterialData_InteractionTitle_108056	 
+MaterialData_EffectDesc_108056	파티 내 모든 캐릭터 치명타 확률+8%, 지속 시간: 120초
+MaterialData_TypeDesc_108056	음식
+MaterialData_Name_108057	맛있는 '고기탑'
+MaterialData_Desc_108057	고기성애자에 의한 고기성애자를 위한 요리. 고기 덕후라면 무조건 먹어야 할 요리. 고기의 육즙을 질리도록 느낄 수 있다.
+MaterialData_InteractionTitle_108057	 
+MaterialData_EffectDesc_108057	파티 내 모든 캐릭터 치명타 확률+10%, 지속 시간: 120초
+MaterialData_TypeDesc_108057	음식
+MaterialData_Name_108058	'몬드의 과거'
+MaterialData_Desc_108058	다이루크의 특색요리. 눈을 감고 음미해 보자. 그가 만든게 맞는 건지 의심 갈 정도로 환상적인 맛이다.
+MaterialData_InteractionTitle_108058	 
+MaterialData_EffectDesc_108058	파티 내 모든 캐릭터 치명타 확률+12%, 치명타 피해+10%, 지속 시간: 120초
+MaterialData_TypeDesc_108058	음식
+MaterialData_Name_108059	맛없는 냉채수육
+MaterialData_Desc_108059	고기가 듬뿍 들어가 있는 냉채. 고기를 꽁꽁 얼려버려서 이게 고기인지 돌맹이인지 모를 요리.
+MaterialData_InteractionTitle_108059	 
+MaterialData_EffectDesc_108059	파티 내 모든 캐릭터의 물, 불, 번개, 얼음 원소 내성+8%, 지속 시간: 120초
+MaterialData_TypeDesc_108059	음식
+MaterialData_Name_108060	냉채수육
+MaterialData_Desc_108060	고기가 듬뿍 들어가 있는 냉채. 베이컨과 햄, 소시지가 들어가 있는 요리. 이 세 가지 중에 어떤 게 더 맛있는지에 대한 논쟁이 끊이지 않고 있다.
+MaterialData_InteractionTitle_108060	 
+MaterialData_EffectDesc_108060	파티 내 모든 캐릭터의 물, 불, 번개, 얼음 원소 내성+10%, 지속 시간: 120초
+MaterialData_TypeDesc_108060	음식
+MaterialData_Name_108061	맛있는 냉채수육
+MaterialData_Desc_108061	고기가 듬뿍 들어가 있는 냉채. 플레이팅까지 완벽한 요리. 극강의 비주얼로 먹기 아까울 정도다.
+MaterialData_InteractionTitle_108061	 
+MaterialData_EffectDesc_108061	파티 내 모든 캐릭터의 물, 불, 번개, 얼음 원소 내성+15%, 지속 시간: 120초
+MaterialData_TypeDesc_108061	음식
+MaterialData_Name_108062	맛없는 허니 그릴
+MaterialData_Desc_108062	고기에 벌꿀 소스를 발라 구운 요리. 고기와 벌꿀이 한데 늘러 붙어 보기에 아주 맛없어 보입니다.
+MaterialData_InteractionTitle_108062	 
+MaterialData_EffectDesc_108062	파티 내 모든 캐릭터의 등반, 대쉬, 활강 시 스태미나 소모-20%, 지속 시간: 120초
+MaterialData_TypeDesc_108062	음식
+MaterialData_Name_108063	허니 그릴
+MaterialData_Desc_108063	고기에 벌꿀 소스를 발라 구운 요리. 당근을 사용해 고기의 잡내를 없앴고 꿀을 더해 달달함을 극대화한 요리.
+MaterialData_InteractionTitle_108063	 
+MaterialData_EffectDesc_108063	파티 내 모든 캐릭터의 등반, 대쉬, 활강 시 스태미나 소모-27%, 지속 시간: 120초
+MaterialData_TypeDesc_108063	음식
+MaterialData_Name_108064	맛있는 허니 그릴
+MaterialData_Desc_108064	고기에 벌꿀 소스를 발라 구운 요리. 고기 굽기의 달인이 정성을 다해 구운 요리. 먹기만 해도 행복해진다.
+MaterialData_InteractionTitle_108064	 
+MaterialData_EffectDesc_108064	파티 내 모든 캐릭터의 등반, 대쉬, 활강 시 스태미나 소모-35%, 지속 시간: 120초
+MaterialData_TypeDesc_108064	음식
+MaterialData_Name_108065	맛없는 게장 야채찜
+MaterialData_Desc_108065	각종 야채와 게장을 넣고 찐 요리. 형태를 알아볼 수 없을 정도로 엉망인 요리.
+MaterialData_InteractionTitle_108065	 
+MaterialData_EffectDesc_108065	선택한 캐릭터를 부활시키고 HP 최대치의 15%를 회복한다
+MaterialData_TypeDesc_108065	음식
+MaterialData_Name_108066	게장 야채찜
+MaterialData_Desc_108066	각종 야채와 게장을 넣고 찐 요리. 노란 게장에 오색향연의 야채들이 한데 어울러진 요리.
+MaterialData_InteractionTitle_108066	 
+MaterialData_EffectDesc_108066	선택한 캐릭터를 부활시키고 HP 최대치의 20%를 회복한다
+MaterialData_TypeDesc_108066	음식
+MaterialData_Name_108067	맛있는 게장 야채찜
+MaterialData_Desc_108067	각종 야채와 게장을 넣고 찐 요리. 말이 필요없는 최고의 밥도둑.
+MaterialData_InteractionTitle_108067	 
+MaterialData_EffectDesc_108067	선택한 캐릭터를 부활시키고 HP 최대치의 40%를 회복한다
+MaterialData_TypeDesc_108067	음식
+MaterialData_Name_109000	레시피 아이템
+MaterialData_Desc_109000	레시피 해제 아이템
+MaterialData_InteractionTitle_109000	 
+MaterialData_EffectDesc_109000	 
+MaterialData_TypeDesc_109000	 
+MaterialData_Name_109101	레시피: 바비큐
+MaterialData_Desc_109101	레시피: 바비큐
+MaterialData_InteractionTitle_109101	 
+MaterialData_EffectDesc_109101	 
+MaterialData_TypeDesc_109101	레시피
+MaterialData_Name_109201	레시피: 당근수프
+MaterialData_Desc_109201	레시피: 당근수프
+MaterialData_InteractionTitle_109201	 
+MaterialData_EffectDesc_109201	 
+MaterialData_TypeDesc_109201	레시피
+MaterialData_Name_109301	레시피: 사과맛탕
+MaterialData_Desc_109301	레시피: 사과맛탕
+MaterialData_InteractionTitle_109301	 
+MaterialData_EffectDesc_109301	 
+MaterialData_TypeDesc_109301	레시피
+MaterialData_Name_110000	합성 아이템
+MaterialData_Desc_110000	합성으로 생성된 아이템
+MaterialData_InteractionTitle_110000	 
+MaterialData_EffectDesc_110000	 
+MaterialData_TypeDesc_110000	식자재
+MaterialData_Name_110001	밀가루
+MaterialData_Desc_110001	보리를 갈아 만든 분말. 어떤 요리로 만들어도 잠깐의 충만함을 선사한다\n밀가루로 만들려면 보리를 가공해야 한다
+MaterialData_InteractionTitle_110001	 
+MaterialData_EffectDesc_110001	 
+MaterialData_TypeDesc_110001	식자재
+MaterialData_Name_110002	크림
+MaterialData_Desc_110002	우유를 정제해서 만든 유지방. 적당량 추가하면 평범한 요리도 달콤하고 진한 향을 내뿜는다\n크림으로 만들려면 우유를 가공해야 한다
+MaterialData_InteractionTitle_110002	 
+MaterialData_EffectDesc_110002	 
+MaterialData_TypeDesc_110002	식자재
+MaterialData_Name_110003	훈제 새고기
+MaterialData_Desc_110003	훈제한 새고기. 탄탄한 육질이 색다른 맛을 느끼게 해준다\n훈제한 새고기로 만들려면 새고기를 가공해야 한다
+MaterialData_InteractionTitle_110003	 
+MaterialData_EffectDesc_110003	 
+MaterialData_TypeDesc_110003	식자재
+MaterialData_Name_110004	버터
+MaterialData_Desc_110004	우유를 빨리 저어 정제한 유제품. 케익을 만들 때 필요한 식재료\n버터로 만들려면 우유를 가공해야 한다
+MaterialData_InteractionTitle_110004	 
+MaterialData_EffectDesc_110004	 
+MaterialData_TypeDesc_110004	식자재
+MaterialData_Name_110005	햄
+MaterialData_Desc_110005	훈제한 짐승 고기. 얇게 썰어 구워 먹으면 아주 맛있다\n햄으로 만들려면 짐승 고기를 가공해야 한다
+MaterialData_InteractionTitle_110005	 
+MaterialData_EffectDesc_110005	 
+MaterialData_TypeDesc_110005	식자재
+MaterialData_Name_110006	설탕
+MaterialData_Desc_110006	달콤달콤 꽃에서 정제한 조미료. 달콤한 맛으로 공명을 일으키며 마음의 그늘을 날려버린다\n필요하면 성안의 상인에게서 구매하거나 달콤달콤 꽃을 가공하면 된다
+MaterialData_InteractionTitle_110006	 
+MaterialData_EffectDesc_110006	 
+MaterialData_TypeDesc_110006	식자재
+MaterialData_Name_110007	꽃게알
+MaterialData_Desc_110007	암게에만 있는 별미. 희귀하고 귀한 식재료로 게 요리의 최고봉. 그러나 모든 사람이 이 별미를 즐기진 않는다\n게장으로 만들려면 꽃게를 가공해야 한다
+MaterialData_InteractionTitle_110007	 
+MaterialData_EffectDesc_110007	 
+MaterialData_TypeDesc_110007	식자재
+MaterialData_Name_110008	과일잼
+MaterialData_Desc_110008	과일과 설탕을 한데 넣고 끓여 만든 식재료. 소량으로도 피곤해진 미각 세포를 일깨울 수 있다\n과일잼으로 만들려면 사과와 라즈베리를 가공해야 한다
+MaterialData_InteractionTitle_110008	 
+MaterialData_EffectDesc_110008	 
+MaterialData_TypeDesc_110008	식자재
+MaterialData_Name_110009	치즈
+MaterialData_Desc_110009	우유를 발효시켜 만든 유제품. 칼로리를 공급하고 요리의 한계를 넓혀준다\n치즈로 만들려면 우유를 가공해야 한다
+MaterialData_InteractionTitle_110009	 
+MaterialData_EffectDesc_110009	 
+MaterialData_TypeDesc_110009	식자재
+MaterialData_Name_110010	베이컨
+MaterialData_Desc_110010	훈제한 갈비살로 만든 식재료. 층이 여러 겹이고 비계가 많지만 느끼하지 않아 인기가 좋다\n베이컨으로 만들려면 짐승 고기를 가공해야 한다
+MaterialData_InteractionTitle_110010	 
+MaterialData_EffectDesc_110010	 
+MaterialData_TypeDesc_110010	식자재
+MaterialData_Name_110011	소시지
+MaterialData_Desc_110011	돼지 창자에 고기를 갈아 넣은 소시지. 저장이 용이하여 고기성애자들이 일상적으로 즐긴다\n소시지로 만들려면 짐승 고기를 가공해야 한다
+MaterialData_InteractionTitle_110011	 
+MaterialData_EffectDesc_110011	 
+MaterialData_TypeDesc_110011	식자재
+MaterialData_Name_110012	훈제 생선
+MaterialData_Desc_110012	 
+MaterialData_InteractionTitle_110012	 
+MaterialData_EffectDesc_110012	 
+MaterialData_TypeDesc_110012	식자재
+MaterialData_Name_110013	어포
+MaterialData_Desc_110013	 
+MaterialData_InteractionTitle_110013	 
+MaterialData_EffectDesc_110013	 
+MaterialData_TypeDesc_110013	식자재
+MaterialData_Name_111000	합성 아이템(포션류)
+MaterialData_Desc_111000	합성으로 만든 아이템. 어린 동물 채집물로 합성한 아이템
+MaterialData_InteractionTitle_111000	 
+MaterialData_EffectDesc_111000	 
+MaterialData_TypeDesc_111000	 
+MaterialData_Name_111001	요정의 영약
+MaterialData_Desc_111001	스태미나를 빠르게 회복시키는 포션. 쓴 맛과 코를 찌르는 냄새까지. 업무가 많은 사람들에게 유행하는 포션.
+MaterialData_InteractionTitle_111001	 
+MaterialData_EffectDesc_111001	스태미나 50pt 회복
+MaterialData_TypeDesc_111001	음식
+MaterialData_Name_111002	신속의 연고
+MaterialData_Desc_111002	발목에 바르면 이동 속도를 증가 시켜주는 포션. 이상한 냄새가 나지만 다행히 먹는 게 아니다. 여행자들에게 유행하는 포션.
+MaterialData_InteractionTitle_111002	 
+MaterialData_EffectDesc_111002	파티 내 모든 캐릭터 이동속도+30%, 지속 시간: 20초
+MaterialData_TypeDesc_111002	음식
+MaterialData_Name_111003	파워 포션
+MaterialData_Desc_111003	힘을 강화시키는 포션. 아무리 무거운 검이라도 이 포션을 먹고 가볍게 휘두를 수 있다. 전사와 모험가들 사이에서 유행하는 포션.
+MaterialData_InteractionTitle_111003	 
+MaterialData_EffectDesc_111003	파티 내 모든 캐릭터 공격력+40, 지속 시간: 30초
+MaterialData_TypeDesc_111003	음식
+MaterialData_Name_111004	스톤스킨 포션
+MaterialData_Desc_111004	뼈를 단단하게 만들어주는 포션. 복용하면 받는 대미지가 조금 줄어든다. 하지만 마음의 상처는 치료할 수 없다.
+MaterialData_InteractionTitle_111004	 
+MaterialData_EffectDesc_111004	파티 내 모든 캐릭터 방어력+25, 지속 시간: 30초
+MaterialData_TypeDesc_111004	음식
+MaterialData_Name_111005	수정 나비 가루
+MaterialData_Desc_111005	종이에 싸여진 수정 코어 가루. 복용하면 원소 저항력을 높일 수 있다. 수정 나비는 주변의 원소를 흡수하는 성질을 지녔다. 수정 나비 가루를 복용하면 이 원소를 어느 정도 흡수할 수 있다.
+MaterialData_InteractionTitle_111005	 
+MaterialData_EffectDesc_111005	파티 내 모든 캐릭터의 물, 불, 번개, 얼음 원소 내성+15%, 지속 시간: 120초
+MaterialData_TypeDesc_111005	음식
+CookRecipeData_Name_1001	버섯 닭꼬치
+CookRecipeData_Desc_1001	버섯과 닭고기가 차례로 꽃혀있는 꼬치. 신선한 닭고기와 버섯 때문에 맛있다.
+CookRecipeData_Effects1_1001	선택한 캐릭터의 HP <color=#00E1FFFF>300~500</color>pt 회복한다
+CookRecipeData_Effects2_1001	 
+CookRecipeData_Effects3_1001	 
+CookRecipeData_Effects4_1001	 
+CookRecipeData_Name_1002	어부 토스트
+CookRecipeData_Desc_1002	양파가 가득 올려진 토스트. 어부 사이에서 유행하는 주식이다. 가방에 이 토스트를 가득 채워놓고 강가에 온종일 앉아서 낚시를 한다.
+CookRecipeData_Effects1_1002	파티 내 모든 캐릭터의 HP <color=#00E1FFFF>146~244</color>pt를 즉시 회복한다
+CookRecipeData_Effects2_1002	이후 30초 동안 5초마다 HP <color=#00E1FFFF>18~29</color>pt 회복한다
+CookRecipeData_Effects3_1002	 
+CookRecipeData_Effects4_1002	 
+CookRecipeData_Name_1003	미트 스파게티
+CookRecipeData_Desc_1003	고기가 듬뿍 들어간 스파게티. 알맞게 익은 면과 적당한 간까지. 누구나 좋아할 만한 맛이다.
+CookRecipeData_Effects1_1003	파티 내 모든 캐릭터의 HP <color=#00E1FFFF>232~386</color>pt를 즉시 회복한다
+CookRecipeData_Effects2_1003	이후 30초 동안 5초마다 HP <color=#00E1FFFF>28~47</color>pt 회복한다
+CookRecipeData_Effects3_1003	 
+CookRecipeData_Effects4_1003	 
+CookRecipeData_Name_1004	달콤달콤 닭고기 스튜
+CookRecipeData_Desc_1004	꿀에 버무려 구운 새고기. 탱탱한 새고기에 아삭아삭한 달콤달콤 꽃까지!
+CookRecipeData_Effects1_1004	선택한 캐릭터의 HP <color=#00E1FFFF>900~1500</color>pt 회복한다
+CookRecipeData_Effects2_1004	 
+CookRecipeData_Effects3_1004	 
+CookRecipeData_Effects4_1004	 
+CookRecipeData_Name_1006	해산물 수프
+CookRecipeData_Desc_1006	영양가 듬뿍! 해산물 수프. 신선한 꽃게살과 허브, 그리고 통통 연꽃을 넣어 시원한 맛이 난다.
+CookRecipeData_Effects1_1006	파티 내 모든 캐릭터 방어력+<color=#00E1FFFF>7~13</color>, 지속 시간: 120초
+CookRecipeData_Effects2_1006	 
+CookRecipeData_Effects3_1006	 
+CookRecipeData_Effects4_1006	 
+CookRecipeData_Name_1007	버터 송이구이
+CookRecipeData_Desc_1007	송이버섯을 버터에 구운 요리. 송이버섯을 잘게 썰어서 버섯에 구운 요리로 아주 고소한 맛이 일품이다.
+CookRecipeData_Effects1_1007	파티 내 모든 캐릭터 공격력+<color=#00E1FFFF>11~22</color>, 지속 시간: 120초
+CookRecipeData_Effects2_1007	 
+CookRecipeData_Effects3_1007	 
+CookRecipeData_Effects4_1007	 
+CookRecipeData_Name_2001	티바트 달걀 프라이
+CookRecipeData_Desc_2001	반숙 프라이. 살짝만 찔러도 노른자가 터질 듯해서 군침이 돈다.
+CookRecipeData_Effects1_2001	선택한 캐릭터를 부활시킨다
+CookRecipeData_Effects2_2001	HP 최대치의 <color=#00E1FFFF>2%~6%</color>를 회복한다
+CookRecipeData_Effects3_2001	 
+CookRecipeData_Effects4_2001	 
+CookRecipeData_Name_2002	극동 훈제 닭
+CookRecipeData_Desc_2002	야채와 싸서 먹는 훈제 닭고기. 북쪽 추운 지방에선 누구나 만들어 먹는 요리. 손님 접대용으로 많이 만든다.
+CookRecipeData_Effects1_2002	스태미나 <color=#00E1FFFF>40~70</color>pt 회복
+CookRecipeData_Effects2_2002	 
+CookRecipeData_Effects3_2002	 
+CookRecipeData_Effects4_2002	 
+CookRecipeData_Name_2003	고기야채조림
+CookRecipeData_Desc_2003	고기와 야채를 크림에 넣고 조린 요리. 적당하게 잘 조려져서 아주 맛있다.
+CookRecipeData_Effects1_2003	선택한 캐릭터를 부활시킨다
+CookRecipeData_Effects2_2003	HP 최대치의 <color=#00E1FFFF>4%~8%</color>를 회복한다
+CookRecipeData_Effects3_2003	 
+CookRecipeData_Effects4_2003	 
+CookRecipeData_Name_2004	냉채수육
+CookRecipeData_Desc_2004	고기가 듬뿍 들어가 있는 냉채. 베이컨과 햄, 소시지가 들어가 있는 요리. 이 세 가지 중에 어떤 게 더 맛있는지에 대한 논쟁이 끊이지 않고 있다.
+CookRecipeData_Effects1_2004	파티 내 모든 캐릭터의 물, 불, 번개, 얼음 원소 내성+<color=#00E1FFFF>8%~15%</color>, 지속 시간: 120초
+CookRecipeData_Effects2_2004	 
+CookRecipeData_Effects3_2004	 
+CookRecipeData_Effects4_2004	 
+CookRecipeData_Name_2005	허니 그릴
+CookRecipeData_Desc_2005	고기에 벌꿀 소스를 발라 구운 요리. 당근을 사용해 고기의 잡내를 없앴고 꿀을 더해 달달함을 극대화한 요리.
+CookRecipeData_Effects1_2005	파티 내 모든 캐릭터의 등반, 대쉬, 활강 시 스태미나 소모-<color=#00E1FFFF>20%~35%</color>, 지속 시간: 120초
+CookRecipeData_Effects2_2005	 
+CookRecipeData_Effects3_2005	 
+CookRecipeData_Effects4_2005	 
+CookRecipeData_Name_2006	게장 야채찜
+CookRecipeData_Desc_2006	각종 야채와 게장을 넣고 찐 요리. 노란 게장에 오색향연의 야채들이 한데 어울러진 요리.
+CookRecipeData_Effects1_2006	선택한 캐릭터를 부활시킨다
+CookRecipeData_Effects2_2006	HP 최대치의 <color=#00E1FFFF>15%~40%</color>를 회복한다
+CookRecipeData_Effects3_2006	 
+CookRecipeData_Effects4_2006	 
+CookRecipeData_Name_2007	버섯피자
+CookRecipeData_Desc_2007	버섯과 치즈 토핑이 가득 올려진 피자. 따뜻할 때 먹으면 치즈가 쭉쭉 늘어난다.
+CookRecipeData_Effects1_2007	파티 내 모든 캐릭터의 HP <color=#00E1FFFF>388~646</color>pt를 즉시 회복한다
+CookRecipeData_Effects2_2007	이후 30초 동안 5초마다 HP <color=#00E1FFFF>47~78</color>pt 회복한다
+CookRecipeData_Effects3_2007	 
+CookRecipeData_Effects4_2007	 
+CookRecipeData_Name_3001	스테이크
+CookRecipeData_Desc_3001	구워진 스테이크. 레스팅을 하여 고기의 풍부한 육즙을 맛볼 수 있다.
+CookRecipeData_Effects1_3001	선택한 캐릭터를 부활시킨다
+CookRecipeData_Effects2_3001	HP 최대치의 <color=#00E1FFFF>4%~8%</color>를 회복한다
+CookRecipeData_Effects3_3001	 
+CookRecipeData_Effects4_3001	 
+CookRecipeData_Name_3002	무국
+CookRecipeData_Desc_3002	무를 주재료로 만든 국. 달고 짭짤한 국물과 아삭한 무가 들어 있어서 영양가가 높다.
+CookRecipeData_Effects1_3002	파티 내 모든 캐릭터의 방어력+<color=#00E1FFFF>3~6</color>, 지속 시간: 120초
+CookRecipeData_Effects2_3002	 
+CookRecipeData_Effects3_3002	 
+CookRecipeData_Effects4_3002	 
+CookRecipeData_Name_3003	몬드 감자전
+CookRecipeData_Desc_3003	감자로 만든 전. 견과류가 조금 들어가 있다. 과일잼과 같이 먹으면 색다른 맛을 느낄 수 있다.
+CookRecipeData_Effects1_3003	파티 내 모든 캐릭터의 HP <color=#00E1FFFF>388~646</color>pt를 즉시 회복한다
+CookRecipeData_Effects2_3003	이후 30초 동안 5초마다 HP <color=#00E1FFFF>47~78</color>pt 회복한다
+CookRecipeData_Effects3_3003	 
+CookRecipeData_Effects4_3003	 
+CookRecipeData_Name_3004	'고기탑'
+CookRecipeData_Desc_3004	고기성애자에 의해 고기성애자를 위한 요리. 원래는 스테이크, 감자, 치즈를 쌓아 올린 몬드의 가정식이였으나 지금은 하르파스툼 축제의 유명 요리로 유명해졌다
+CookRecipeData_Effects1_3004	파티 내 모든 캐릭터 치명타 확률+<color=#00E1FFFF>5%~10%</color>, 지속 시간: 120초
+CookRecipeData_Effects2_3004	 
+CookRecipeData_Effects3_3004	 
+CookRecipeData_Effects4_3004	 
+CookRecipeData_Name_4001	팬케익
+CookRecipeData_Desc_4001	동그란 팬케익. 라즈베리가 들어 있는 팬케익. 최상의 라즈베리를 곁들였다.
+CookRecipeData_Effects1_4001	선택한 캐릭터를 부활시킨다
+CookRecipeData_Effects2_4001	HP 최대치의 <color=#00E1FFFF>4%~8%</color>를 회복한다
+CookRecipeData_Effects3_4001	 
+CookRecipeData_Effects4_4001	 
+CookRecipeData_Name_4002	무완자 튀김
+CookRecipeData_Desc_4002	기름에 튀긴 무완자. 무의 식감을 잘 살린 완자로 뜨거울 때 먹어야 한다. 루니아 지방에서 유래되었다고 한다.
+CookRecipeData_Effects1_4002	파티 내 모든 캐릭터 공격력+<color=#00E1FFFF>4~7</color>, 지속 시간: 120초
+CookRecipeData_Effects2_4002	 
+CookRecipeData_Effects3_4002	 
+CookRecipeData_Effects4_4002	 
+CookRecipeData_Name_4003	샐러드
+CookRecipeData_Desc_4003	신선한 야채들이 버무려진 샐러드. 삶은 감자와 신선한 야채, 거기다 반숙 달걀까지! 먹으면 포만감을 느낄 수 있다. 오늘부터 다이어트!
+CookRecipeData_Effects1_4003	파티 내 모든 캐릭터 치명타 확률+<color=#00E1FFFF>3%~6%</color>, 지속 시간: 120초
+CookRecipeData_Effects2_4003	 
+CookRecipeData_Effects3_4003	 
+CookRecipeData_Effects4_4003	 
+CompoundData_Name_1001	밀가루
+CompoundData_Desc_1001	보리를 갈아 만든 분말. 어떤 요리로 만들어도 잠깐의 충만함을 선사한다
+CompoundData_Name_1002	크림
+CompoundData_Desc_1002	우유를 정제해서 만든 유지방. 적당량 추가하면 평범한 요리도 달콤하고 진한 향을 내뿜는다
+CompoundData_Name_1003	훈제 새고기
+CompoundData_Desc_1003	훈제한 새고기. 탄탄한 육질이 색다른 맛을 느끼게 해준다
+CompoundData_Name_1004	버터
+CompoundData_Desc_1004	우유를 빨리 저어 정제한 유제품. 케익을 만들 때 필요한 식재료.
+CompoundData_Name_1005	햄
+CompoundData_Desc_1005	훈제한 고기로 만든 식재료. 얇게 썰어 구워 먹으면 아주 맛있다
+CompoundData_Name_1006	설탕
+CompoundData_Desc_1006	달콤달콤 꽃에서 정제한 조미료. 달콤한 맛으로 공명을 일으키며 마음의 그늘을 날려버린다.
+CompoundData_Name_1007	꽃게알
+CompoundData_Desc_1007	암게에만 있는 별미. 희귀하고 귀한 식재료로 게 요리의 최고봉. 그러나 모든 사람이 이 별미를 즐기진 않는다
+CompoundData_Name_1008	과일잼
+CompoundData_Desc_1008	과일과 설탕을 한데 넣고 끓여 만든 식재료. 소량으로도 피로한 맛을 일깨울 수 있다.
+CompoundData_Name_1009	치즈
+CompoundData_Desc_1009	우유를 발효시켜 만든 유제품. 칼로리를 공급하고 요리의 한계를 넓혀준다.
+CompoundData_Name_1010	베이컨
+CompoundData_Desc_1010	훈제한 갈비살로 만든 식재료. 층이 여러 겹이고 비계가 많지만 느끼하지 않아 인기가 좋다.
+CompoundData_Name_1011	소시지
+CompoundData_Desc_1011	돼지 창자에 고기를 갈아 넣은 소시지. 저장이 용이하여 고기성애자들이 일상적으로 즐긴다.
+CompoundData_Name_2001	요정의 영약
+CompoundData_Desc_2001	스태미나를 빠르게 회복시키는 포션. 쓴 맛과 코를 찌르는 냄새까지. 업무가 많은 사람들에게 유행하는 포션.
+CompoundData_Name_2002	신속의 연고
+CompoundData_Desc_2002	발목에 바르면 이동 속도를 증가 시켜주는 포션. 이상한 냄새가 나지만 다행히 먹는 게 아니다. 여행자들에게 유행하는 포션.
+CompoundData_Name_2003	파워 포션
+CompoundData_Desc_2003	힘을 강화시키는 포션. 아무리 무거운 검이라도 이 포션을 먹고 가볍게 휘두를 수 있다. 전사와 모험가들 사이에서 유행하는 포션.
+CompoundData_Name_2004	스톤스킨 포션
+CompoundData_Desc_2004	뼈를 단단하게 만들어주는 포션. 복용하면 받는 대미지가 조금 줄어든다. 하지만 마음의 상처는 치료할 수 없다.
+CompoundData_Name_2005	수정 나비 가루
+CompoundData_Desc_2005	종이에 싸여진 수정 코어 가루. 복용하면 원소 저항력을 높일 수 있다. 수정 나비는 주변의 원소를 흡수하는 성질을 지녔다. 수정 나비 가루를 복용하면 이 원소를 어느 정도 흡수할 수 있다.

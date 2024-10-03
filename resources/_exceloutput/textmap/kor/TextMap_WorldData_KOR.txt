@@ -1,0 +1,1032 @@
+ID	文本
+SceneData_Name_1001	공용 Empty Scene
+SceneData_Name_1002	몬드성
+SceneData_Name_1003	세계
+SceneData_Name_1004	기사단 홀
+SceneData_Name_1005	성당 지하실(잠입 플레이)
+SceneData_Name_1006	바람 드래곤의 눈물 던전
+SceneData_Name_1007	반딧불 숲 던전 플레이 테스트
+SceneData_Name_1008	성당 홀
+SceneData_Name_1009	술집 실내
+SceneData_Name_1010	츄츄성산
+SceneData_Name_1011	캐릭터 전투 테스트 스테이지
+SceneData_Name_1012	몬스터 테스트 스테이지
+SceneData_Name_1013	고급 잠입 테스트
+SceneData_Name_1015	비행 특수 플레이
+SceneData_Name_1	세계1
+SceneData_Name_2	세계2
+SceneData_Name_3	뉴 몬드성 및 주변
+SceneData_Name_20000	스테이지 플레이 테스트
+SceneData_Name_20001	바람의 드래곤 던전 
+SceneData_Name_20002	전술 테스트-숲
+SceneData_Name_20003	전술 테스트-호수
+SceneData_Name_20004	전술 테스트-평원
+SceneData_Name_20005	전술 테스트-하류
+SceneData_Name_20006	바바라 퀘스트 던전
+SceneData_Name_20007	바바라 던전
+SceneData_Name_20008	케이아 튜토리얼 던전
+SceneData_Name_20009	엠버 튜토리얼 던전
+SceneData_Name_20010	리사 전투 훈련 퀘스트 던전
+SceneData_Name_20011	리사 튜토리얼 던전
+SceneData_Name_20012	다이루크 퀘스트 던전
+SceneData_Name_20013	케이아 전투 훈련 퀘스트 던전
+SceneData_Name_20014	진과 엠버의 전투 훈련 퀘스트 지역
+SceneData_Name_20015	리사 소재 던전
+SceneData_Name_20016	케이아 메인 스토리 던전
+SceneData_Name_20017	풍마룡 추격
+SceneData_Name_20018	풍마룡 정화
+SceneData_Name_20019	다이루크 던전 화이트 박스
+SceneData_Name_20020	풍마룡과의 첫 전투
+SceneData_Name_20021	리사 개인 던전 화이트 박스
+SceneData_Name_30001	안개 미궁
+SceneData_Name_30002	영웅의 시련-윈드 오브 전투
+SceneData_Name_30003	영웅의 시련-빙결 시험
+SceneData_Name_40001	엠버 소재지1(Lv.10)
+SceneData_Name_40002	엠버 소재지2(Lv.13)
+SceneData_Name_40003	엠버 소재지3(Lv.16)
+SceneData_Name_40004	케이아 소재지1(Lv.12)
+SceneData_Name_40005	케이아 소재지2(Lv.15)
+SceneData_Name_40006	케이아 소재지3(Lv.18)
+SceneData_Name_40007	섬 소재 던전
+SceneData_Name_50000	도서관 테스트
+SceneData_Name_50001	멀티 난입 던전 테스트
+SceneData_Name_50002	온도 화이트 박스 테스트
+SceneData_Name_50003	전투 성능 테스트
+SceneData_Name_50004	전기 파일 전원 화이트 박스
+SceneData_Name_50005	원소 플레이 영상
+RoomData_Name_2	도서관 방2
+RoomData_Name_3	도서관 방3
+RoomData_Name_4	기사단 도서관
+RoomData_Name_100401	도서관
+RoomData_Name_100402	진의 사무실
+WorldAreaData_AreaName_1	별이 떨어지는 평원
+WorldAreaData_AreaName_2	시드르 호수
+WorldAreaData_AreaName_3	몬드성
+WorldAreaData_AreaName_4	별이 떨어지는 호수
+WorldAreaData_AreaName_5	바람맞이 산
+WorldAreaData_AreaName_6	바람맞이 봉우리
+WorldAreaData_AreaName_7	별을 따는 절벽
+WorldAreaData_AreaName_8	바람의 신전
+WorldAreaData_AreaName_9	속삭임의 숲
+WorldAreaData_AreaName_10	바람맞이 해안
+WorldAreaData_AreaName_11	울부짖는 언덕
+WorldAreaData_AreaName_12	바람이 시작되는 곳
+WorldAreaData_AreaName_13	플라이호크 해변
+WorldAreaData_AreaName_14	타타우파 협곡
+WorldAreaData_AreaName_15	맹세의 갑각
+WorldAreaData_AreaName_16	마커스 산호초
+WorldAreaData_AreaName_17	창풍의 고지대
+WorldAreaData_AreaName_18	샘물 마을
+WorldAreaData_AreaName_19	다운 와이너리
+WorldAreaData_AreaName_20	드래곤 스핀
+WorldAreaData_AreaName_21	크라운 마운틴
+WorldAreaData_AreaName_22	바람 드래곤의 유적
+WorldAreaData_AreaName_23	울프 영지
+WorldAreaData_AreaName_24	크라운 협곡
+DungeonData_Name_1	늑대의 사당으로
+DungeonData_Desc_1	풍마룡을 저지하기 위해 기사단은 행동에 나선다. 기사단 단장 케이아와 함께 북방의 늑대 사당에 가서 풍마룡을 저지하고 그 힘을 얻어라.
+DungeonData_Name_2	츄츄족 본진
+DungeonData_Desc_2	케이아 퀘스트 던전03
+DungeonData_Name_3	츄츄족 소굴
+DungeonData_Desc_3	케이아 퀘스트 던전03
+DungeonData_Name_4	바위동굴 거점
+DungeonData_Desc_4	던전 설명4
+DungeonData_Name_5	바위동굴 거점
+DungeonData_Desc_5	던전 설명5
+DungeonData_Name_6	바위동굴 비경
+DungeonData_Desc_6	던전 설명6
+DungeonData_Name_7	유적 조난지
+DungeonData_Desc_7	바바라 스토리 던전01
+DungeonData_Name_8	츄츄족 거점
+DungeonData_Desc_8	바바라 스토리 던전01
+DungeonData_Name_9	츄츄족 요새
+DungeonData_Desc_9	바바라 스토리 던전01
+DungeonData_Name_10	밀림과 폐허, 그리고 드래곤의 눈물
+DungeonData_Desc_10	일행은 드래곤의 눈물을 얻고자 밀림 속의 폐허에 왔다. 진, 그리고 다이루크와 함께 폐허에 들어가 강대한 힘을 품고 있는 드래곤의 눈물을 얻어라.
+DungeonData_Name_11	반딧불 숲 던전 플레이 테스트
+DungeonData_Desc_11	숲 스타일 던전 플레이 테스트
+DungeonData_Name_12	츄츄성산 테스트
+DungeonData_Desc_12	츄츄성산 테스트
+DungeonData_Name_13	캐릭터 전투 테스트
+DungeonData_Desc_13	캐릭터 전투 테스트
+DungeonData_Name_14	몬스터 테스트
+DungeonData_Desc_14	몬스터 테스트
+DungeonData_Name_1000	스테이지 플레이 테스트
+DungeonData_Desc_1000	스테이지 플레이 테스트
+DungeonData_Name_15	저온 스테이지 화이트 박스
+DungeonData_Desc_15	저온 스테이지 화이트 박스
+DungeonData_Name_16	모바일 플랫폼 성능 테스트
+DungeonData_Desc_16	모바일 플랫폼 성능 테스트
+DungeonData_Name_17	전투 성능 테스트
+DungeonData_Desc_17	전투 성능 테스트
+DungeonData_Name_18	#$# 전기 파일 전원 화이트 박스
+DungeonData_Desc_18	전기 파일 전원 화이트 박스
+DungeonData_Name_19	#$# 원소 반응 영상 화이트 박스
+DungeonData_Desc_19	원소 반응 영상 화이트 박스
+DungeonData_Name_1001	매의 사당으로
+DungeonData_Desc_1001	풍마룡을 저지하기 위해 기사단은 행동에 나선다. 정찰 기사 엠버와 함께 서방의 매 사당에 가서 풍마룡을 저지하고 그 힘을 얻어라.
+DungeonData_Name_1002	리사 전투 던전
+DungeonData_Desc_1002	리사 전투 던전
+DungeonData_Name_1003	사자의 사당으로
+DungeonData_Desc_1003	풍마룡을 저지하기 위해 기사단은 행동에 나선다. 도서관 사서 리사와 함께 남방의 사자 사당에 가서 풍마룡을 저지하고 그 힘을 얻어라.
+DungeonData_Name_1004	우인단 야영지
+DungeonData_Desc_1004	다이루크의 모험
+DungeonData_Name_1005	카이야 전투 훈련 퀘스트 도시
+DungeonData_Desc_1005	케이아를 사용해 도전하세요
+DungeonData_Name_1006	진, 엠버 전투 훈련 퀘스트 던전
+DungeonData_Desc_1006	진과 엠버를 사용해 도전하세요
+DungeonData_Name_1007	리사 소재 던전
+DungeonData_Desc_1007	리사 전투 던전
+DungeonData_Name_2000	아카디아의 잃어버린 보물
+DungeonData_Desc_2000	잃어버린 보물은 지혜를 지닌 자에게만 그 빛을 다한다. 아카디아의 수수께끼를 푼 일행이 보물이 있는 곳에 도착하게 되는데...
+DungeonData_Name_2001	폭풍같이 포효하는 드래곤
+DungeonData_Desc_2001	이제 남은 건 심연 메이지의 유혹에 넘어간 드발린과의 정면 대결뿐이다
+DungeonData_Name_2002	풍마룡-정화
+DungeonData_Desc_2002	풍마룡 BOSS 전투-2단계
+DungeonData_Name_2003	다이루크 던전 화이트 박스
+DungeonData_Desc_2003	화이트 박스
+DungeonData_Name_2004	풍마룡-첫 전투
+DungeonData_Desc_2004	풍마룡 몬드성 첫 전투
+DungeonData_Name_2005	
+DungeonData_Desc_2005	화이트 박스
+DungeonData_Name_3001	안개 미궁
+DungeonData_Desc_3001	아주 깊은 안개 미궁엔 고대 마신이 남긴 보물창고가 있고 수많은 저주 받은 몬스터들이 이를 지키고 있다. 전설에 따르면 미궁에 저주 받은 몬스터의 영혼 100개를 바치면 무수히 많은 보물이 들어있는 보물창고가 열린다고 한다. 허나 끊임없이 줄어드는 시간과 계속해서 더 강해진 채로 부활하는 몬스터를 조심해야 한다!
+DungeonData_Name_3002	영웅의 시련-바람 원소볼 전투
+DungeonData_Desc_3002	윈드 오브가 위주인 지역 도전
+DungeonData_Name_3003	영웅의 시련-빙결 시험
+DungeonData_Desc_3003	물의 방+얼음 몬스터 위주의 지역 도전
+DungeonData_Name_3004	탐사:함락된 성채
+DungeonData_Desc_3004	유적 깊은 곳에서 마물들이 점거 중인 고대 성채를 발견했다. 숨겨진 보물을 탐사하기 위해 성채 심부로 들어가자.
+DungeonData_Name_4001	유적 심부의 소동 조사
+DungeonData_Desc_4001	고요한 사당에서 사람을 불안케 하는 소동이 일어났다. 몬드성을 노리는 마물들이 준동하면서 일어난 것일 수도 있으니 가볍게 여기지 마라.\n추천 원소: 불
+DungeonData_Name_4002	얼어붙은 고대 수로 조사
+DungeonData_Desc_4002	바람의 신전 지하 폐허의 수로에 얼어붙은 곳이 생겨났다. 마물이 얼음 원소를 이용해서 한 짓일 수도 있으니 세력을 더 쌓기 전에 물리쳐야 한다. 주의할 점은 <color=#00E1FFFF>습기 상태에서 얼게 된다면</color> 위험할 수 있다는 것이다.\n추천 원소: 불
+DungeonData_Name_4003	탐사:무너진 고대 건축물
+DungeonData_Desc_4003	유적에서 고대 건물들을 발견했다. 숨겨진 보물을 찾기 위해 유적의 심부로 들어가자.\n추천 원소: 번개/바람/얼음
+DungeonData_Name_4004	시련:어두운 갈림길
+DungeonData_Desc_4004	유적에서 현재는 사라진 고대 문명인 시련장을 발견했다. 시련에 통과하려면 자신이 나아갈 길을 정확히 선택하고 싸워나가야 한다.\n추천 원소: 불/얼음/번개
+DungeonData_Name_4005	시련:가시덤불 숲 끝의 신전
+DungeonData_Desc_4005	유적에서 현재는 사라진 고대 문명인 시련장을 발견했다. 시련에 통과하려면 가시덤불로 뒤덮인 길을 지나 적과 상대해야 한다.\n추천 원소: 불/번개
+DungeonData_Name_4006	탐사:내륙의 밀림
+DungeonData_Desc_4006	내륙에서 지하 밀림에 숨겨진 유적을 발견했다. 숨겨진 보물을 찾기 위해 유적의 심부로 들어가자.\n추천 원소: 불/얼음/바람
+DungeonData_Name_4007	시련:열화와 번개
+DungeonData_Desc_4007	유적에서 현재는 사라진 고대 문명인 시련장을 발견했다. 시련에 통과하려면 불과 번개의 힘을 사용해 적을 쓰러뜨려야 한다.\n추천 원소: 불/번개
+DungeonData_Name_4008	탐사:숨겨진 폐허 도시
+DungeonData_Desc_4008	드래곤의 척추 설산 아래에서 한 번도 기록되지 않은 고대 도시의 폐허를 발견했다. 숨겨진 보물을 찾기 위해 유적의 심부로 들어가자.\n추천 원소: 불/얼음/번개
+DungeonData_Name_4009	토벌:광풍의 핵
+DungeonData_Desc_4009	몬드성과 멀리 떨어져 있지 않은 폐허에서 길길이 날뛰는 바람 원소의 힘이 느껴진다. 강력한 원소 마물의 짓일 수도 있으니 가볍게 여기지 마라. 만반의 준비를 다 하고 마물을 토벌하라.\n추천 원소: 불/번개
+DungeonPassData_Desc_1	스테이지 클리어 조건 설명1
+DungeonPassData_Desc_2	스테이지 클리어 조건 설명2
+DungeonPassData_Desc_3	스테이지 클리어 조건 설명3
+DungeonPassData_Desc_4	스테이지 클리어 조건 설명4
+DungeonPassData_Desc_5	스테이지 클리어 조건 설명5
+DungeonPassData_Desc_6	스테이지 클리어 조건 설명6
+DungeonPassData_Desc_7	엠버 튜토리얼 던전 클리어 조건
+DungeonPassData_Desc_8	케이아 튜토리얼 던전 클리어 조건
+DungeonPassData_Desc_9	리사 튜토리얼 던전 클리어 조건
+DungeonPassData_Desc_10	리사 튜토리얼 테스트 클리어 조건
+DungeonPassData_Desc_11	진, 엠버 던전 클리어 조건
+DungeonPassData_Desc_12	케이아 던전 클리어 조건
+DungeonPassData_Desc_13	안개 미궁
+DungeonPassData_Desc_14	엠버 소재 던전1 클리어 조건
+DungeonPassData_Desc_15	리사 전투 던전 클리어 조건
+DungeonPassData_Desc_16	엠버 소재 던전2 클리어 조건
+DungeonPassData_Desc_17	4040 던전 클리어 조건
+DungeonPassData_Desc_18	영웅의 시련 3002 클리어 조건
+DungeonPassData_Desc_19	영웅의 시련 3003 클리어 조건
+DungeonPassData_Desc_20	멀티 던전 클리어 조건
+DungeonPassData_Desc_21	케이아 스토리 던전 클리어 조건
+DungeonPassData_Desc_22	바람 드래곤의 눈물 던전 클리어 조건
+DungeonPassData_Desc_23	원도 상주 던전 클리어 조건
+DungeonPassData_Desc_24	시련:어두운 갈림길 클리어 조건
+DungeonPassData_Desc_25	다이루크 던전 화이트 박스
+DungeonPassData_Desc_26	풍마룡 스토리 던전 정산 조건
+DungeonPassData_Desc_27	몬드성 풍마룡 던전 결산 조건
+DungeonPreviewData_Desc_1	드랍 미리보기1
+DungeonPreviewData_Desc_10001	케이아와의 동행!
+DungeonPreviewData_Desc_10010	밀림과 폐허, 그리고 드래곤의 눈물
+DungeonPreviewData_Desc_11001	엠버와의 동행!
+DungeonPreviewData_Desc_11003	리사와의 동행!
+DungeonPreviewData_Desc_12000	아카디아의 잃어버린 보물
+DungeonPreviewData_Desc_14001	유적 심부의 소동 조사
+DungeonPreviewData_Desc_14002	얼어붙은 고대 수로 조사
+DungeonPreviewData_Desc_14003	탐사:무너진 고대 건축물
+DungeonPreviewData_Desc_14004	시련:어두운 갈림길
+DungeonPreviewData_Desc_14007	시련:열화와 번개
+DungeonPreviewData_Desc_14008	탐사:숨겨진 폐허 도시
+DungeonPreviewData_Desc_14009	토벌:광풍의 핵
+DungeonPreviewData_Desc_14006	탐사:내륙의 밀림
+DungeonPreviewData_Desc_14005	시련:가시덤불 숲 끝의 신전
+DungeonPreviewData_Desc_13004	탐사:함락된 성채
+DungeonPreviewData_Desc_20001	케이아와의 동행!
+DungeonPreviewData_Desc_20010	밀림과 폐허, 그리고 드래곤의 눈물
+DungeonPreviewData_Desc_21001	엠버와의 동행!
+DungeonPreviewData_Desc_21003	리사와의 동행!
+DungeonPreviewData_Desc_22000	아카디아의 잃어버린 보물
+DungeonPreviewData_Desc_24001	유적 심부의 소동 조사
+DungeonPreviewData_Desc_24002	얼어붙은 고대 수로 조사
+DungeonPreviewData_Desc_24003	탐사:무너진 고대 건축물
+DungeonPreviewData_Desc_24004	시련:어두운 갈림길
+DungeonPreviewData_Desc_24007	시련:열화와 번개
+DungeonPreviewData_Desc_24008	탐사:숨겨진 폐허 도시
+DungeonPreviewData_Desc_24009	토벌:광풍의 핵
+DungeonPreviewData_Desc_24006	탐사:내륙의 밀림
+DungeonPreviewData_Desc_24005	시련:가시덤불 숲 끝의 신전
+DungeonPreviewData_Desc_23004	탐사:함락된 성채
+DungeonChallengeData_Target_1	몬스터 %1%마리 처치
+DungeonChallengeData_subTarget_1	 
+DungeonChallengeData_Progress_1	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_1	 
+DungeonChallengeData_Target_2	%2%초 안에 몬스터 %1%마리 처치하기
+DungeonChallengeData_subTarget_2	 
+DungeonChallengeData_Progress_2	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_2	 
+DungeonChallengeData_Target_3	%1%초 생존
+DungeonChallengeData_subTarget_3	 
+DungeonChallengeData_Progress_3	남은 생존 시간:#1#초
+DungeonChallengeData_subProgress_3	 
+DungeonChallengeData_Target_4	%2%초 안에 몬스터 %1%마리 처치하기
+DungeonChallengeData_subTarget_4	몬스터를 처치할 때마다 시간이 증가합니다
+DungeonChallengeData_Progress_4	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_4	몬스터를 처치할 때마다 시간이 증가합니다
+DungeonChallengeData_Target_5	몬스터 %1%마리 처치
+DungeonChallengeData_subTarget_5	처치 간격은 %2%초를 초과할 수 없습니다
+DungeonChallengeData_Progress_5	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_5	처치 간격은 #2#/%2%초를 초과할 수 없습니다
+DungeonChallengeData_Target_6	몬스터 %1%마리 처치
+DungeonChallengeData_subTarget_6	얼어붙은 횟수가 %2%번을 초과해선 안 됩니다
+DungeonChallengeData_Progress_6	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_6	얼어붙은 횟수가 #2#/%2% 초과해선 안 됩니다
+DungeonChallengeData_Target_7	%1%초 안에 지정 몬스터 처치하기
+DungeonChallengeData_subTarget_7	 
+DungeonChallengeData_Progress_7	남은 시간:#1#초
+DungeonChallengeData_subProgress_7	 
+DungeonChallengeData_Target_8	%2%초 안에 지정된 trigger %1%번 발동
+DungeonChallengeData_subTarget_8	 
+DungeonChallengeData_Progress_8	남은 발동 횟수:#1#/%1%
+DungeonChallengeData_subProgress_8	 
+DungeonChallengeData_Target_100	<color=#00E1FFFF>%2%</color>초 안에 몬스터 <color=#00E1FFFF>%1%</color>마리 처치
+DungeonChallengeData_subTarget_100	 
+DungeonChallengeData_Progress_100	처치 몬스터: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_100	 
+DungeonChallengeData_Target_101	<color=#00E1FFFF>%1%초 생존</color>
+DungeonChallengeData_subTarget_101	지금 윈드 오브는 <color=#00E1FFFF>무적</color>입니다
+DungeonChallengeData_Progress_101	필요한 생존 시간:<color=#00E1FFFF>#1#</color>초
+DungeonChallengeData_subProgress_101	지금 윈드 오브는 <color=#00E1FFFF>무적</color>입니다
+DungeonChallengeData_Target_102	<color=#00E1FFFF>%1%</color>초 안에 <color=#00E1FFFF>윈드 오브</color> 처치하기
+DungeonChallengeData_subTarget_102	윈드 오브의 무적이 해제됐습니다
+DungeonChallengeData_Progress_102	남은 시간:<color=#00E1FFFF>#1#</color>초
+DungeonChallengeData_subProgress_102	윈드 오브 처치
+DungeonChallengeData_Target_103	몬스터 <color=#00E1FFFF>%1%</color>마리 처치하기
+DungeonChallengeData_subTarget_103	<color=#00E1FFFF>얼어붙은 횟수</color>가 <color=#00E1FFFF>%2%</color>번을 초과해선 안 됩니다
+DungeonChallengeData_Progress_103	처치 몬스터: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_103	얼어붙은 횟수가 <color=#00E1FFFF>#2#/%2%</color> 초과해선 안 됩니다
+DungeonChallengeData_Target_104	<color=#00E1FFFF>%2%</color>초 안에 몬스터 <color=#00E1FFFF>%1%</color>마리 처치
+DungeonChallengeData_subTarget_104	몬스터를 처치할 때마다 <color=#00E1FFFF>10초 증가</color>
+DungeonChallengeData_Progress_104	처치 몬스터: <color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_104	몬스터를 처치할 때마다 <color=#00E1FFFF>10초 증가</color>
+DungeonChallengeData_Target_110	<color=#00E1FFFF>%1%</color>초 안에 <color=#00E1FFFF>미트족 수령</color> 처치하기
+DungeonChallengeData_subTarget_110	미트족 아레나 도전
+DungeonChallengeData_Progress_110	남은 시간:<color=#00E1FFFF>#1#</color>초
+DungeonChallengeData_subProgress_110	 
+DungeonChallengeData_Target_111	%1%초 안에 폭풍의 결정 %2%개 파괴하기
+DungeonChallengeData_subTarget_111	사격 위치를 조정하세요
+DungeonChallengeData_Progress_111	남은 시간:#1#초
+DungeonChallengeData_subProgress_111	폭풍의 결정 파괴:#2#/%2%
+DungeonChallengeData_Target_120	%2%초 안에 몬스터 %1%마리 처치하기
+DungeonChallengeData_subTarget_120	 
+DungeonChallengeData_Progress_120	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_120	 
+DungeonChallengeData_Target_121	%2%초 안에 양옆방의 도전 클리어하기
+DungeonChallengeData_subTarget_121	 
+DungeonChallengeData_Progress_121	양옆방 도전:#1#/%1%
+DungeonChallengeData_subProgress_121	 
+DungeonChallengeData_Target_122	%1%초 안에 목표 보물상자 열기
+DungeonChallengeData_subTarget_122	실패할 경우 다시 도전할 수 있습니다
+DungeonChallengeData_Progress_122	남은 시간:#1#초
+DungeonChallengeData_subProgress_122	 
+DungeonChallengeData_Target_123	%2%초 안에 원소 진딧물 %1%마리 잡기
+DungeonChallengeData_subTarget_123	근처에 다가가면 잡을 수 있습니다
+DungeonChallengeData_Progress_123	원소 진딧물 잡기:#1#/%1%
+DungeonChallengeData_subProgress_123	남은 시간:#2#초
+DungeonChallengeData_Target_124	%2%초 안에 도둑 멧돼지 %1%마리를 찾고 쫓아내기
+DungeonChallengeData_subTarget_124	멧돼지를 공격하면 쫓아낼 수 있습니다
+DungeonChallengeData_Progress_124	쫓아낸 도둑 멧돼지:#1#/%1%
+DungeonChallengeData_subProgress_124	남은 시간:#2#초
+DungeonChallengeData_Target_125	%2%초 안에 플로라 슬라임 %1%마리 처치하기
+DungeonChallengeData_subTarget_125	불 원소를 사용하면 효과적으로 공격할 수 있습니다
+DungeonChallengeData_Progress_125	플로라 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_125	남은 시간:#2#초
+DungeonChallengeData_Target_126	%1%초 안에 폭약통 %2%개 폭파시키기
+DungeonChallengeData_subTarget_126	거리 유지에 주의하세요
+DungeonChallengeData_Progress_126	폭파시킨 폭약통:#2#/%2%
+DungeonChallengeData_subProgress_126	남은 시간:#1#초
+DungeonChallengeData_Target_127	%1%초 안에 목표 지점에 도착하기
+DungeonChallengeData_subTarget_127	비행할 땐 균형을 잘 잡아야 합니다
+DungeonChallengeData_Progress_127	남은 시간:#1#초
+DungeonChallengeData_subProgress_127	 
+DungeonChallengeData_Target_128	%1%초 안에 솔방울 %2%개 수집하기
+DungeonChallengeData_subTarget_128	매복 중인 슬라임을 조심하세요
+DungeonChallengeData_Progress_128	솔방울 수집:#2#/%2%
+DungeonChallengeData_subProgress_128	남은 시간:#1#초
+DungeonChallengeData_Target_129	%2%초 안에 파이어 슬라임 %1%마리 처치하기
+DungeonChallengeData_subTarget_129	 
+DungeonChallengeData_Progress_129	파이어 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_129	남은 시간:#2#초
+DungeonChallengeData_Target_130	<color=#00E1FFFF>%2%</color>초 안에 파이어 슬라임 <color=#00E1FFFF>%1%</color>마리 처치하기
+DungeonChallengeData_subTarget_130	미트족 아레나 도전
+DungeonChallengeData_Progress_130	남은 슬라임:<color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_130	남은 시간:<color=#00E1FFFF>#2#</color>秒
+DungeonChallengeData_Target_131	<color=#00E1FFFF>%2%</color>초 안에 윈드 슬라임 <color=#00E1FFFF>%1%</color>마리 처치하기
+DungeonChallengeData_subTarget_131	미트족 아레나 도전
+DungeonChallengeData_Progress_131	남은 슬라임:<color=#00E1FFFF>#1#/%1%</color>
+DungeonChallengeData_subProgress_131	남은 시간:<color=#00E1FFFF>#2#</color>秒
+DungeonChallengeData_Target_132	%1%초 안에 모든 윈드 슬라임 처치하기
+DungeonChallengeData_subTarget_132	활을 사용하면 보다 효과적으로 공격할 수 있습니다
+DungeonChallengeData_Progress_132	윈드 슬라임 처치: #2#/%2%
+DungeonChallengeData_subProgress_132	남은 시간:#1#초
+DungeonChallengeData_Target_133	%2%초 안에 방안의 모든 몬스터 처치하기
+DungeonChallengeData_subTarget_133	 
+DungeonChallengeData_Progress_133	모든 몬스터 처치
+DungeonChallengeData_subProgress_133	남은 시간:<color=#00E1FFFF>#2#</color>秒
+DungeonChallengeData_Target_134	%1%초 안에 목표 보물상자 열기
+DungeonChallengeData_subTarget_134	 
+DungeonChallengeData_Progress_134	남은 시간:#1#초
+DungeonChallengeData_subProgress_134	 
+DungeonChallengeData_Target_135	%1%초 안에 목표 지점에 도착하기
+DungeonChallengeData_subTarget_135	 
+DungeonChallengeData_Progress_135	남은 시간:#1#초
+DungeonChallengeData_subProgress_135	 
+DungeonChallengeData_Target_136	%2%초 안에 보물상자를 지키는 몬스터 격퇴하기
+DungeonChallengeData_subTarget_136	 
+DungeonChallengeData_Progress_136	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_136	남은 시간:#2#초
+DungeonChallengeData_Target_137	<color=#00E1FFFF>%2%</color>초 안에 모든 파이어 슬라임 처치하기
+DungeonChallengeData_subTarget_137	리사의 <color=#00E1FFFF>원소 전투 스킬</color>을 <color=#00E1FFFF>길게 누르세요</color>
+DungeonChallengeData_Progress_137	처치한 몬스터: #1#/%1%
+DungeonChallengeData_subProgress_137	남은 시간:#2#초
+DungeonChallengeData_Target_138	%2%초 안에 아이스 슬라임 %1%마리 처치하기
+DungeonChallengeData_subTarget_138	 
+DungeonChallengeData_Progress_138	아이스 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_138	남은 시간:#2#초
+DungeonChallengeData_Target_139	%1%초 안에 탑 꼭대기에 도착해 보물상자 열기
+DungeonChallengeData_subTarget_139	 
+DungeonChallengeData_Progress_139	남은 시간:#1#초
+DungeonChallengeData_subProgress_139	 
+DungeonChallengeData_Target_140	%2%초 안에 목표 처치하기
+DungeonChallengeData_subTarget_140	 
+DungeonChallengeData_Progress_140	얼음 메이지 처치: #1#/%1%
+DungeonChallengeData_subProgress_140	남은 시간:#2#초
+DungeonChallengeData_Target_141	%1%초 안에 목표 지점에 도착하여 보물상자 열기
+DungeonChallengeData_subTarget_141	 
+DungeonChallengeData_Progress_141	남은 시간:#1#초
+DungeonChallengeData_subProgress_141	 
+DungeonChallengeData_Target_142	%2%초 안에 플로라 슬라임 5마리 처치하기
+DungeonChallengeData_subTarget_142	 
+DungeonChallengeData_Progress_142	플로라 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_142	남은 시간:#2#초
+DungeonChallengeData_Target_143	%1%초 안에 모든 화로에 불을 붙이고 보물상자 열기
+DungeonChallengeData_subTarget_143	 
+DungeonChallengeData_Progress_143	남은 시간:#1#초
+DungeonChallengeData_subProgress_143	 
+DungeonChallengeData_Target_144	%1%초 안에 모든 윈드 슬라임 처치하기
+DungeonChallengeData_subTarget_144	 
+DungeonChallengeData_Progress_144	윈드 슬라임 처치: #2#/%2%
+DungeonChallengeData_subProgress_144	남은 시간:#1#초
+DungeonChallengeData_Target_145	%1%초 안에 윈드 오브 처치하기
+DungeonChallengeData_subTarget_145	 
+DungeonChallengeData_Progress_145	남은 시간:#1#초
+DungeonChallengeData_subProgress_145	 
+DungeonChallengeData_Target_146	%2%초 안에 모든 츄츄족 근위병 처치하기
+DungeonChallengeData_subTarget_146	 
+DungeonChallengeData_Progress_146	츄츄족 근위병:#1#/%1%
+DungeonChallengeData_subProgress_146	남은 시간:#2#초
+DungeonChallengeData_Target_147	<color=#00E1FFFF>아레나에 봉인</color> 중인 <color=#00E1FFFF>몬스터</color>처치하기
+DungeonChallengeData_subTarget_147	봉인 도중에는 아레나를 <color=#00E1FFFF>벗어날 수 없습니다</color>
+DungeonChallengeData_Progress_147	몬스터 처치:#1#/%1%
+DungeonChallengeData_subProgress_147	 
+DungeonChallengeData_Target_148	%2%초 안에 플로라 슬라임 %1%마리 처치하기
+DungeonChallengeData_subTarget_148	불 원소를 사용하면 효과적으로 공격할 수 있습니다
+DungeonChallengeData_Progress_148	플로라 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_148	남은 시간:#2#초
+DungeonChallengeData_Target_149	%1%초 안에 목표 지점에 도착하기
+DungeonChallengeData_subTarget_149	비행할 땐 균형을 잘 잡아야 합니다
+DungeonChallengeData_Progress_149	남은 시간:#1#초
+DungeonChallengeData_subProgress_149	 
+DungeonChallengeData_Target_150	%1%초 안에 모든 윈드 슬라임 처치하기
+DungeonChallengeData_subTarget_150	활을 사용하면 보다 효과적으로 공격할 수 있습니다
+DungeonChallengeData_Progress_150	윈드 슬라임 처치: #2#/%2%
+DungeonChallengeData_subProgress_150	남은 시간:#1#초
+DungeonChallengeData_Target_151	%2%초 안에 파이어 슬라임 %1%마리 처치하기
+DungeonChallengeData_subTarget_151	번개 원소를 사용하면 효과적으로 공격할 수 있습니다
+DungeonChallengeData_Progress_151	파이어 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_151	남은 시간:#2#초
+DungeonChallengeData_Target_152	%2%초 안에 몬스터를 처치하여 장치 충전하기
+DungeonChallengeData_subTarget_152	몬스터를 처치하면 장치를 충전할 수 있습니다
+DungeonChallengeData_Progress_152	충전 진행도:#1#/%1%
+DungeonChallengeData_subProgress_152	남은 시간:#2#초
+DungeonChallengeData_Target_153	몬스터 %1%마리 처치
+DungeonChallengeData_subTarget_153	얼어붙은 횟수가 %2%번을 초과해선 안 됩니다
+DungeonChallengeData_Progress_153	충전 진행도:#1#/%1%
+DungeonChallengeData_subProgress_153	얼어붙은 횟수가 #2#/%2% 초과해선 안 됩니다
+DungeonChallengeData_Target_154	%1%초 안에 심연의 메이지 처치하기
+DungeonChallengeData_subTarget_154	심연의 메이지를 처치하세요!
+DungeonChallengeData_Progress_154	남은 시간:#1#초
+DungeonChallengeData_subProgress_154	 
+DungeonChallengeData_Target_155	%1%초 안에 목표 지점에 도착하기
+DungeonChallengeData_subTarget_155	실패할 경우 다시 도전할 수 있습니다
+DungeonChallengeData_Progress_155	남은 시간:#1#초
+DungeonChallengeData_subProgress_155	 
+DungeonChallengeData_Target_156	%2%초 안에 워터 슬라임 %1%마리 처치하기
+DungeonChallengeData_subTarget_156	얼음 원소를 사용하면 효과적으로 공격할 수 있습니다
+DungeonChallengeData_Progress_156	워터 슬라임 처치: #1#/%1%
+DungeonChallengeData_subProgress_156	남은 시간:#2#초
+OptionData_Content_1	문 열기
+OptionData_Content_2	윈드 필드 해제
+OptionData_Content_3	몬스터 리스폰
+OptionData_Content_4	문 닫기
+OptionData_Content_5	왼쪽 문 열기
+OptionData_Content_6	오른쪽 문 열기
+OptionData_Content_7	오픈
+OptionData_Content_100	물-얼음 조합★
+OptionData_Content_101	물-얼음 조합★★
+OptionData_Content_102	물-얼음 조합★★★
+OptionData_Content_103	궁극의 시련 오픈
+OptionData_Content_104	시련 오픈
+OptionData_Content_105	영웅의 시련 오픈
+OptionData_Content_110	번개 원소+물 환경
+OptionData_Content_120	거대방패+물 몬스터
+OptionData_Content_121	불도끼+풀 몬스터
+OptionData_Content_130	뭉둥이3+활1
+OptionData_Content_131	불 중3+불 대1
+OptionData_Content_132	물 중3+물 대1
+OptionData_Content_133	바람 중3+바람 대1
+OptionData_Content_134	번개 중3+번개 대1
+OptionData_Content_135	샤먼-바람 조합1
+OptionData_Content_136	샤먼-물 조합
+OptionData_Content_137	샤면-풀 조합
+OptionData_Content_138	샤먼-바람 조합2
+OptionData_Content_139	유적 몬스터 조합1
+OptionData_Content_140	유적 몬스터 조합2
+OptionData_Content_141	윈드 오브 조합1
+OptionData_Content_142	심연 얼음 조합
+OptionData_Content_143	심연 물 조합
+OptionData_Content_144	심연 불 조합
+OptionData_Content_145	거대한 도끼 불량배 조합1
+OptionData_Content_146	심연-불+거대한 도끼 불량배
+OptionData_Content_147	심연-물+거대한 도끼 불량배
+OptionData_Content_148	바위 슬라임(대) 조합
+OptionData_Content_149	워터 슬라임(대) 조합
+OptionData_Content_150	아이스 슬라임(대) 조합
+OptionData_Content_151	Lv.1
+OptionData_Content_152	Lv.5
+OptionData_Content_153	Lv.10
+OptionData_Content_154	Lv.15
+OptionData_Content_155	Lv.20
+OptionData_Content_156	곤봉 들기*3
+OptionData_Content_157	방패 들기2+원거리2
+OptionData_Content_158	곤봉 들기3+샤먼-바람
+OptionData_Content_159	곤봉 들기3+불도끼 불량배
+OptionData_Content_160	곤봉 들기3+방패 들기 불량배
+OptionData_Content_161	샤먼-풀+파이어 슬라임 조합
+OptionData_Content_162	유적 몬스터+원거리 조합
+OptionData_Content_163	메이지-불+파이어 슬라임
+OptionData_Content_164	아이스 슬라임+아이스 애로우
+OptionData_Content_165	메이지-얼음+아이스 슬라임
+OptionData_Content_1001	던전 입구 테스트
+OptionData_Content_8	오른쪽 룬 활성화
+OptionData_Content_9	왼쪽 룬 활성화
+OptionData_Content_10	최초의 시련 받기
+OptionData_Content_11	시련 계속하기
+OptionData_Content_12	마지막 시련
+OptionData_Content_13	누구도 쓰러져서는 안 되는 시련
+OptionData_Content_14	워프 포인트
+OptionData_Content_20	불
+OptionData_Content_21	물-얼음
+OptionData_Content_22	번개-바람
+OptionData_Content_23	원소 결정 가루 채집
+OptionData_Content_24	장치 오픈
+OptionData_Content_25	아레나 도전
+OptionData_Content_30	...
+OptionData_Content_166	Lv.7
+OptionData_Content_167	Lv.16
+OptionData_Content_168	울프팽 산마루 지역 오픈
+OptionData_Content_169	발굴
+OptionData_Content_170	기이한 빛 관찰
+DungeonReminderData_Speaker_1	페이몬
+DungeonReminderData_Content_1	누가 우는 소리 못 들었어?
+DungeonReminderData_Speaker_2	 유저
+DungeonReminderData_Content_2	이상한 소리 하지마!
+DungeonReminderData_Speaker_1001001	페이몬
+DungeonReminderData_Content_1001001	이 문 엄청 무거워 보이는데... 들어갈 수 있긴 한 건가?
+DungeonReminderData_Speaker_1001002	엠버
+DungeonReminderData_Content_1001002	저 제어장치를 사용해서 문을 열 수 있어
+DungeonReminderData_Speaker_1001003	페이몬
+DungeonReminderData_Content_1001003	이건 무슨 원리인거야?
+DungeonReminderData_Speaker_1001004	엠버
+DungeonReminderData_Content_1001004	예전에 여기 살던 사람들은 지금은 복제가 불가능한 기술을 가지고 있었다고 리사가 말해줬어
+DungeonReminderData_Speaker_1001005	엠버
+DungeonReminderData_Content_1001005	정확히 어떤 원리인지는 나도 몰라. 궁금하면 나중에 <color=#00E1FFFF>모험가 협회</color>에 가서 물어봐.
+DungeonReminderData_Speaker_1002001	페이몬
+DungeonReminderData_Content_1002001	사당의 최심부가 보여...!
+DungeonReminderData_Speaker_1003001	엠버
+DungeonReminderData_Content_1003001	정찰 기사를 훈련시키면 <color=#00E1FFFF>화살 한 발</color>로 적을 제압할 수 있어!
+DungeonReminderData_Speaker_1004001	엠버
+DungeonReminderData_Content_1004001	드디어 모두 처치했네. 잘했어!
+DungeonReminderData_Speaker_1005001	엠버
+DungeonReminderData_Content_1005001	저기에 <color=#00E1FFFF>낙엽 더미</color>가 있어! 저걸 이용해 보자
+DungeonReminderData_Speaker_1005002	페이몬
+DungeonReminderData_Content_1005002	아무데나 불을 붙일 수 있다니 엄청 편한데
+DungeonReminderData_Speaker_1005003	엠버
+DungeonReminderData_Content_1005003	사람을 성냥 취급하지 말라구!
+DungeonReminderData_Speaker_1006001	엠버
+DungeonReminderData_Content_1006001	엠버는 승리의 여신이지! 어서 가서 보물상자를 확인해 보자!
+DungeonReminderData_Speaker_1006002	엠버
+DungeonReminderData_Content_1006002	저기 있는 워프 비석을 사용해서 집에 돌아가자!
+DungeonReminderData_Speaker_1007001	페이몬
+DungeonReminderData_Content_1007001	여긴 습기가 가득한데.
+DungeonReminderData_Speaker_1007002	케이아
+DungeonReminderData_Content_1007002	<color=#00E1FFFF>습기</color> 몬스터? 좋았어, 영원히 <color=#00E1FFFF>얼려주지</color>.
+DungeonReminderData_Speaker_1008001	케이아
+DungeonReminderData_Content_1008001	저기 수상한 사람이 있어. 가서 확인하자!
+DungeonReminderData_Speaker_1009001	페이몬
+DungeonReminderData_Content_1009001	드디어 도착했네.
+DungeonReminderData_Speaker_1009002	케이아
+DungeonReminderData_Content_1009002	막다른 길이야. <color=#00E1FFFF>윈드 필드</color>를 이용해 올라가자
+DungeonReminderData_Speaker_1009003	케이아
+DungeonReminderData_Content_1009003	 
+DungeonReminderData_Speaker_1010001	페이몬
+DungeonReminderData_Content_1010001	물 원소야! 이걸 사용해서 불을 끌 수 있겠지?
+DungeonReminderData_Speaker_1010002	케이아
+DungeonReminderData_Content_1010002	맞아. 아주 예리한데?
+DungeonReminderData_Speaker_1010003	케이아
+DungeonReminderData_Content_1010003	진에게 너의 기사 수여식을 맡기는게 좋겠어
+DungeonReminderData_Speaker_1010004	케이아
+DungeonReminderData_Content_1010004	너 「신의 눈」을 가지고 있지 않지?
+DungeonReminderData_Speaker_1010005	케이아
+DungeonReminderData_Content_1010005	그럼 어떻게 원소의 힘을 사용하는 거지?
+DungeonReminderData_Speaker_1010006	페이몬
+DungeonReminderData_Content_1010006	아주 신기한데.
+DungeonReminderData_Speaker_1010007	케이아
+DungeonReminderData_Content_1010007	말해도 너희가 알까?
+DungeonReminderData_Speaker_1010008	케이아
+DungeonReminderData_Content_1010008	풍마룡도 원래는 바람 사신수 가운데 하나였어
+DungeonReminderData_Speaker_1010009	케이아
+DungeonReminderData_Content_1010009	자세한 건 나도 몰라. 만약 궁금하면 대리 단장에게 물어봐
+DungeonReminderData_Speaker_1010010	엠버
+DungeonReminderData_Content_1010010	화로 옆에서 잔 잘못이지
+DungeonReminderData_Speaker_1011001	신비로운 소리
+DungeonReminderData_Content_1011001	이 나쁜 놈아! 뭐하는 짓이야!
+DungeonReminderData_Speaker_1011002	케이아
+DungeonReminderData_Content_1011002	또 네놈이냐! 넌 도대체 누구야! 정체를 밝혀라!
+DungeonReminderData_Speaker_1002002	페이몬
+DungeonReminderData_Content_1002002	막다른 길인거 같아...
+DungeonReminderData_Speaker_1002003	엠버
+DungeonReminderData_Content_1002003	이 덩굴을 태우면 되잖아!
+DungeonReminderData_Speaker_1002004	엠버
+DungeonReminderData_Content_1002004	됐어!
+DungeonReminderData_Speaker_1002005	엠버
+DungeonReminderData_Content_1002005	이제 기사단의 불 원소 사용법을 알겠어?
+DungeonReminderData_Speaker_1002006	페이몬
+DungeonReminderData_Content_1002006	알겠어?
+DungeonReminderData_Speaker_1002007	엠버
+DungeonReminderData_Content_1002007	내 템포에 맞추다니 대단한데?
+DungeonReminderData_Speaker_1002008	엠버
+DungeonReminderData_Content_1002008	이제 무슨 일이 생기면 언제든지 나한테 도움을 요청해!
+DungeonReminderData_Speaker_1031001	엠버
+DungeonReminderData_Content_1031001	와... 엄청 높네... 위에 뭔가 있는 것 같아
+DungeonReminderData_Speaker_1031002	페이몬
+DungeonReminderData_Content_1031002	근데... 어떻게 올라가지?
+DungeonReminderData_Speaker_1031003	페이몬
+DungeonReminderData_Content_1031003	이건... 「불 원소 비석」이지?
+DungeonReminderData_Speaker_1031004	페이몬
+DungeonReminderData_Content_1031004	강력한 불 원소로 공격을 하면 무슨 일이 생길 것 같아!
+DungeonReminderData_Speaker_1031005	엠버
+DungeonReminderData_Content_1031005	이 색상을 봐. 아마 <color=#00E1FFFF>불 원소 비석</color>일 거야. 한 번 시도해 보자!
+DungeonReminderData_Speaker_1031006	페이몬
+DungeonReminderData_Content_1031006	 
+DungeonReminderData_Speaker_1032001	페이몬
+DungeonReminderData_Content_1032001	드래곤의 기운! 저기에 에너지가 모이는 것 같지?
+DungeonReminderData_Speaker_1032002	엠버
+DungeonReminderData_Content_1032002	우리가 가서 부수자!
+DungeonReminderData_Speaker_1032003	페이몬
+DungeonReminderData_Content_1032003	에이~ {主角名} 우리도 절대로 뒤처져선 안돼！
+DungeonReminderData_Speaker_1032004	리사
+DungeonReminderData_Content_1032004	저걸 해결하면 도서관으로 돌아갈 수 있는 건가요?
+DungeonReminderData_Speaker_1013001	페이몬
+DungeonReminderData_Content_1013001	보물을 지키고 있는 몬스터가 이렇게나 많다니... 이번엔 쉽지 않겠는데
+DungeonReminderData_Speaker_1013002	리사
+DungeonReminderData_Content_1013002	당황하지 마. 저렇게 모여있는 몬스터들은 내 전문이니까!
+DungeonReminderData_Speaker_1013003	리사
+DungeonReminderData_Content_1013003	번개 에너지를 어떻게 사용하는지 알려줄게
+DungeonReminderData_Speaker_1014001	리사
+DungeonReminderData_Content_1014001	내 스킬에서 나온 번개 에너지는 불 속성 몬스터에게 폭발 효과를 가해
+DungeonReminderData_Speaker_1015001	리사
+DungeonReminderData_Content_1015001	게다가 번개 에너지는 습기 상태의 몬스터에게 슬로우 효과도 입혀
+DungeonReminderData_Speaker_1016001	리사
+DungeonReminderData_Content_1016001	번개의 위력을 배우기만 한다면 더 강해질 수 있어
+DungeonReminderData_Speaker_1017001	페이몬
+DungeonReminderData_Content_1017001	이런, 나한테 돌진해오고 있어
+DungeonReminderData_Speaker_1017002	리사
+DungeonReminderData_Content_1017002	지형을 자세히 관찰하고 나중에 몬스터들을 물속으로 끌어들이세요
+DungeonReminderData_Speaker_1017003	리사
+DungeonReminderData_Content_1017003	물속에 있는 몬스터들에게 스킬을 사용하면 번개가 놈들을 마비시켜서 못 움직이게 돼
+DungeonReminderData_Speaker_1018001	리사
+DungeonReminderData_Content_1018001	잘했어! 재능이 있는데? 이제 보물상자를 열러 가자!
+DungeonReminderData_Speaker_1018002	리사
+DungeonReminderData_Content_1018002	여기 일도 다 해결했어. 이제 저기 있는 워프 비석을 사용해서 집에 돌아가자!
+DungeonReminderData_Speaker_1019001	페이몬
+DungeonReminderData_Content_1019001	젠장! 다른 가디언들을 깨웠어. 더 많은 몬스터가 이곳으로 몰려들 거야
+DungeonReminderData_Speaker_1019002	페이몬
+DungeonReminderData_Content_1019002	몬스터의 진형을 자세히 관찰해서 약점을 찾아!
+DungeonReminderData_Speaker_1021001	페이몬
+DungeonReminderData_Content_1021001	그 병사들은 분명히 이 앞의 유적에 들어갔을 거야
+DungeonReminderData_Speaker_1021002	바바라
+DungeonReminderData_Content_1021002	우리도 들어가 보자!
+DungeonReminderData_Speaker_1022001	바바라
+DungeonReminderData_Content_1022001	아! 앞에 부상을 입은 병사가 있어. 무슨 일이 있었던 건지 물어보자!
+DungeonReminderData_Speaker_1023001	페이몬
+DungeonReminderData_Content_1023001	츄츄족의 흔적이 별로 없어. 아마 여기로 이주한 지 얼마 안 된 것 같아
+DungeonReminderData_Speaker_1023002	바바라
+DungeonReminderData_Content_1023002	아니면 바람의 마룡 때문이겠지. 츄츄족의 간이 배밖으로 튀어나왔는데
+DungeonReminderData_Speaker_1024001	바바라
+DungeonReminderData_Content_1024001	좋았어! 생존자를 한명을 또 찾았어!
+DungeonReminderData_Speaker_1025001	페이몬
+DungeonReminderData_Content_1025001	너무 무리하지마. 만약 힘들면 저기 앞에서 좀 쉬어
+DungeonReminderData_Speaker_1026001	페이몬
+DungeonReminderData_Content_1026001	깊은 곳에서 이상한 소리가 들려와. 주문을 외우고 있는 건가?
+DungeonReminderData_Speaker_1027001	바바라
+DungeonReminderData_Content_1027001	소리가 점점 커지고 있어. 분명히 안쪽에 있는 거야!
+DungeonReminderData_Speaker_1028001	바바라
+DungeonReminderData_Content_1028001	역시 여기 있군. 사람들이 츄츄족한테 잡혀있어!
+DungeonReminderData_Speaker_1028002	페이몬
+DungeonReminderData_Content_1028002	들키면 안 되니까 소리 낮춰. 기습할 타이밍을 잡아야 하니까...
+DungeonReminderData_Speaker_1029001	바바라
+DungeonReminderData_Content_1029001	이 던전 진짜 엄청 크다! 도대체 누가 만든 걸까?
+DungeonReminderData_Speaker_1029002	페이몬
+DungeonReminderData_Content_1029002	고대 문명이 남긴 유일한 기록이야. 나중에 고고학자에게 물어봐
+DungeonReminderData_Speaker_1030001	페이몬
+DungeonReminderData_Content_1030001	역시, 저기에 <color=#00E1FFFF>바람 기둥</color>이 생겼어. 날아갈 수 있을 것 같아!
+DungeonReminderData_Speaker_1033001	페이몬
+DungeonReminderData_Content_1033001	여기 일도 아직 안 끝났는데 어디 가는 거야?
+DungeonReminderData_Speaker_1033002	페이몬
+DungeonReminderData_Content_1033002	앞쪽이 신비한 힘에 봉인되어 있어서 들어갈 수가 없어
+DungeonReminderData_Speaker_1033003	페이몬
+DungeonReminderData_Content_1033003	갇히고 싶어?
+DungeonReminderData_Speaker_1034001	페이몬
+DungeonReminderData_Content_1034001	어! 느껴져! 분명히 저곳에 풍마룡이 남긴 윈드 슬라임이 있을 거야!
+DungeonReminderData_Speaker_1035001	페이몬
+DungeonReminderData_Content_1035001	방금은 진짜 위험했어!
+DungeonReminderData_Speaker_1035002	케이아
+DungeonReminderData_Content_1035002	응, 내가 불을 상대할 수 있긴 해도 <color=#00E1FFFF>물 능력을 지닌 사람</color>보단 떨어지는 게 사실이야
+DungeonReminderData_Speaker_1036001	페이몬
+DungeonReminderData_Content_1036001	풍마룡은 이걸로 힘을 흡수하는 거야?
+DungeonReminderData_Speaker_1036002	케이아
+DungeonReminderData_Content_1036002	그럴 수도... 어서 파괴하자
+DungeonReminderData_Speaker_1037001	리사
+DungeonReminderData_Content_1037001	감전된 적들은 서로 연쇄 대미지를 받아
+DungeonReminderData_Speaker_1037002	리사
+DungeonReminderData_Content_1037002	마찰로 인한 스파크는 갑자기 사랑에 빠진 것보다 살짝 덜 아파
+DungeonReminderData_Speaker_1037003	리사
+DungeonReminderData_Content_1037003	내 원소 폭발은 이런 환경에 최적화되어 있어
+DungeonReminderData_Speaker_1038002	케이아
+DungeonReminderData_Content_1038002	성공할 확률은 낮아. 그래도 <color=#00E1FFFF>조심해서 이동하면</color> 성공할 수도 있어!
+DungeonReminderData_Speaker_1039001	신비로운 소리
+DungeonReminderData_Content_1039001	Aldon Abramig Od Quasaba
+DungeonReminderData_Speaker_1039002	신비로운 소리
+DungeonReminderData_Content_1039002	Ika yaya！Upa sada kundala
+DungeonReminderData_Speaker_1039003	페이몬
+DungeonReminderData_Content_1039003	이건 무슨 소리지?
+DungeonReminderData_Speaker_1039004	페이몬
+DungeonReminderData_Content_1039004	바람이 여기서 사라졌어. 그래도 오른쪽에 상승 기류가 있는 것 같아!
+DungeonReminderData_Speaker_1039005	케이아
+DungeonReminderData_Content_1039005	만약 내 예상이 맞다면, 바로 저기가 사당의 끝이야
+DungeonReminderData_Speaker_1039006	페이몬
+DungeonReminderData_Content_1039006	그... 왜 그렇게 생각하는 거지?
+DungeonReminderData_Speaker_1039007	케이아
+DungeonReminderData_Content_1039007	경험.
+DungeonReminderData_Speaker_1039008	케이아
+DungeonReminderData_Content_1039008	...오랫동안 뒤처리를 하면서 쌓인 경험이라고 할까
+DungeonReminderData_Speaker_1039009	케이아
+DungeonReminderData_Content_1039009	츄츄족의 발소리야. 모두 준비해
+DungeonReminderData_Speaker_1039010	페이몬
+DungeonReminderData_Content_1039010	츄츄족의 발소리야. 모두 준비해
+DungeonReminderData_Speaker_1039011	케이아
+DungeonReminderData_Content_1039011	츄츄족의 발소리가 들려. 전투는 나에게 맡기고 너희는 몸조심해
+DungeonReminderData_Speaker_1039012	페이몬
+DungeonReminderData_Content_1039012	... {主角名}, 아마도 못들은 것 같아... 이상한데...
+DungeonReminderData_Speaker_1041001	리사
+DungeonReminderData_Content_1041001	역시... 사당 가장 깊은 곳에서 강력한 원소 반응이 일어나고 있어
+DungeonReminderData_Speaker_1041002	리사
+DungeonReminderData_Content_1041002	페이몬, 날아갈 수 있어?
+DungeonReminderData_Speaker_1041003	페이몬
+DungeonReminderData_Content_1041003	내가 가도 할 수 있는게 없어 
+DungeonReminderData_Speaker_1041004	리사
+DungeonReminderData_Content_1041004	그건 그래. 그럼 같이 길을 찾아 보자
+DungeonReminderData_Speaker_1041005	리사
+DungeonReminderData_Content_1041005	나도 이제부터 진지하게 임해야겠어
+DungeonReminderData_Speaker_1041011	리사
+DungeonReminderData_Content_1041011	이 바람을 타고 올라가자
+DungeonReminderData_Speaker_1041021	페이몬
+DungeonReminderData_Content_1041021	윈드 필드야! 아마도 저쪽에 길이 있는 것 같아. 어서 가보자!
+DungeonReminderData_Speaker_1041022	리사
+DungeonReminderData_Content_1041022	응? 내 몸에 있는 이 「보석」이 뭐냐고"?
+DungeonReminderData_Speaker_1041023	리사
+DungeonReminderData_Content_1041023	설마... 진짜 몰라서 묻는 거야? 이게 바로 「신의 눈」이잖아.
+DungeonReminderData_Speaker_1041024	리사
+DungeonReminderData_Content_1041024	선택 받은 사람들이 원소의 힘을 사용할 수 있게끔 하는 장치야
+DungeonReminderData_Speaker_1041025	리사
+DungeonReminderData_Content_1041025	비술적인 관점으로 보면 일종의 마력 기관이라고 볼 수 있지
+DungeonReminderData_Speaker_1041026	리사
+DungeonReminderData_Content_1041026	지금까지 「신의 눈」을 한 번도 본적이 없다고? 넌 도대체 어디서 온거지...
+DungeonReminderData_Speaker_1041027	리사
+DungeonReminderData_Content_1041027	설마... 츄츄족의 돌연변이?
+DungeonReminderData_Speaker_1041028	리사
+DungeonReminderData_Content_1041028	아니다... 츄츄족은 음유시인도 되지 못할 멍청한 몬스터인데
+DungeonReminderData_Speaker_1041029	리사
+DungeonReminderData_Content_1041029	넌 마법사보다 더 뛰어난 자질을 지니고 있잖아
+DungeonReminderData_Speaker_1041031	페이몬
+DungeonReminderData_Content_1041031	어! 저기 보물상자가 있어. 저길 어떻게 가지...
+DungeonReminderData_Speaker_1041041	리사
+DungeonReminderData_Content_1041041	내게 맡겨
+DungeonReminderData_Speaker_1041042	리사
+DungeonReminderData_Content_1041042	물에 젖은 적을 상대하는 건 내 전문이니까
+DungeonReminderData_Speaker_1041051	리사
+DungeonReminderData_Content_1041051	아까 그 느낌 그대로. 하나하나 천천히 처치하면 돼
+DungeonReminderData_Speaker_1041061	페이몬
+DungeonReminderData_Content_1041061	이런 젠장. 우리 쪽으로 돌진해오고 있어
+DungeonReminderData_Speaker_1041071	리사
+DungeonReminderData_Content_1041071	물에 젖은 적들은 번개 속성 공격을 받으면 온몸이 마비돼
+DungeonReminderData_Speaker_1041072	리사
+DungeonReminderData_Content_1041072	윈드 필드야. 저걸 타고 위로 올라가자.
+DungeonReminderData_Speaker_1041073	리사
+DungeonReminderData_Content_1041073	당연하지. 물에 젖은 우리도 번개 속성 공격을 받으면 위험하긴 마찬가지야
+DungeonReminderData_Speaker_1041081	페이몬
+DungeonReminderData_Content_1041081	몬스터가 너무 많잖아! 상대하는데 퍽 힘이 들겠어 
+DungeonReminderData_Speaker_1041091	페이몬
+DungeonReminderData_Content_1041091	물이 있어! 감전된 적들은 서로 연쇄 대미지를 받아
+DungeonReminderData_Speaker_1041092	페이몬
+DungeonReminderData_Content_1041092	습기 상태는 전기를 전도해서 대미지를 극대화 할 수 있어
+DungeonReminderData_Speaker_1041093	리사
+DungeonReminderData_Content_1041093	그렇군...「번개 원소 비석」이였어 
+DungeonReminderData_Speaker_1041094	리사
+DungeonReminderData_Content_1041094	내가 번개의 힘으로 작동시켜 볼 테니까 조심해
+DungeonReminderData_Speaker_1041101	페이몬
+DungeonReminderData_Content_1041101	내 원소 공명은 이런 환경에 최적화되어 있지
+DungeonReminderData_Speaker_1041102	페이몬
+DungeonReminderData_Content_1041102	물에서 적을 상대할 땐 번개 속성이 가장 좋아!
+DungeonReminderData_Speaker_1041111	페이몬
+DungeonReminderData_Content_1041111	앞이 바로 폭풍의 결정이야
+DungeonReminderData_Speaker_1041112	리사
+DungeonReminderData_Content_1041112	이걸 부수면 돌아가서 좀 쉴 수 있겠어
+DungeonReminderData_Speaker_1041113	리사
+DungeonReminderData_Content_1041113	쉴 생각을 하니 온몸에 힘이 넘치는데
+DungeonReminderData_Speaker_1041114	리사
+DungeonReminderData_Content_1041114	저 신전에 도착하면 끝난 거겠지?
+DungeonReminderData_Speaker_1042001	리사
+DungeonReminderData_Content_1042001	와! 진짜 장관이다. 근데 이 상승 기류를 뚫는 게 쉽지 않겠는데
+DungeonReminderData_Speaker_1042002	페이몬
+DungeonReminderData_Content_1042002	지금은 거기로 갈 때가 아냐!
+DungeonReminderData_Speaker_1042003	페이몬
+DungeonReminderData_Content_1042003	거기가 아냐!
+DungeonReminderData_Speaker_1042011	리사
+DungeonReminderData_Content_1042011	이제 첫 번째를 통과했어! 힘내! 화이팅!
+DungeonReminderData_Speaker_1042021	리사
+DungeonReminderData_Content_1042021	한 번에 가기엔 무리인 것 같으니까 쉴 곳을 좀 찾아보자
+DungeonReminderData_Speaker_1042031	리사
+DungeonReminderData_Content_1042031	목적지가 코앞이야. 조심해! 츄츄족이 활을 겨누고 있어!
+DungeonReminderData_Speaker_1042041	리사
+DungeonReminderData_Content_1042041	휴... 쉽지 않은데
+DungeonReminderData_Speaker_1042051	리사
+DungeonReminderData_Content_1042051	상승 기류를 타고 올라갈 수 있어!
+DungeonReminderData_Speaker_1042052	리사
+DungeonReminderData_Content_1042052	근처에도 문이 있어. 문 뒤에 뭐가 있을진 모르겠지만
+DungeonReminderData_Speaker_1042061	리사
+DungeonReminderData_Content_1042061	상승 기류를 타고 올라갈 수 있어!
+DungeonReminderData_Speaker_1042062	리사
+DungeonReminderData_Content_1042062	아까 열렸던 게 옆의 문이었나 봐
+DungeonReminderData_Speaker_1042071	리사
+DungeonReminderData_Content_1042071	여기서 날아갈 수 있는 것 같아
+DungeonReminderData_Speaker_1042081	리사
+DungeonReminderData_Content_1042081	악! 갑자기 슬라임이 튀어나오다니. 간 떨어지는 줄 알았네
+DungeonReminderData_Speaker_1042091	리사
+DungeonReminderData_Content_1042091	문 열리는 소리가 들린다
+DungeonReminderData_Speaker_1042092	리사
+DungeonReminderData_Content_1042092	여기서 저쪽으로 갈 수 있구나
+DungeonReminderData_Speaker_1042093	리사
+DungeonReminderData_Content_1042093	여기에 스위치가 있어. 뭐에 쓰는 건지 보자
+DungeonReminderData_Speaker_1042094	리사
+DungeonReminderData_Content_1042094	저길 봐! 아래에 물방울 호박들이 엄청 많이 생겨났어!
+DungeonReminderData_Speaker_1042095	리사
+DungeonReminderData_Content_1042095	드디어 해결했네. 아래가 바로 최종 목적지겠지?
+DungeonReminderData_Speaker_1042096	리사
+DungeonReminderData_Content_1042096	조심해!
+DungeonReminderData_Speaker_1042097	리사
+DungeonReminderData_Content_1042097	두 개가 더 있었다니! 조심해!
+DungeonReminderData_Speaker_1042098	리사
+DungeonReminderData_Content_1042098	저기로 건너갈 수 있겠어!
+DungeonReminderData_Speaker_10060101	페이몬
+DungeonReminderData_Content_10060101	어디서 많이 본 뒷모습인데... 가서 물어보자!
+DungeonReminderData_Speaker_10060201	진
+DungeonReminderData_Content_10060201	음... <color=#00E1FFFF>양쪽의 문</color>이 모두 열렸는데 어떻게 들어가야 하는걸까?
+DungeonReminderData_Speaker_10060202	엠버
+DungeonReminderData_Content_10060202	이건 나한테 식은 죽 먹기야
+DungeonReminderData_Speaker_10060301	 
+DungeonReminderData_Content_10060301	현명한 도전자야. 가시덤불 미궁을 뚫고 여기까지 온 것을 축하해
+DungeonReminderData_Speaker_10060401	 
+DungeonReminderData_Content_10060401	앞에 보이는게 바로 <color=#00E1FFFF>시련을 시작</color>할 수 있는 열쇠야. 준비가 다 되면 시련을 시작해
+DungeonReminderData_Speaker_10060501	 
+DungeonReminderData_Content_10060501	첫 번째 시련에 통과한 것을 축하해. 휴식을 취한 뒤에 <color=#00E1FFFF>두 번째 시련을 시작</color>해
+DungeonReminderData_Speaker_10060601	 
+DungeonReminderData_Content_10060601	<color=#00E1FFFF>물 속성 몬스터를 처치하는 것은 시간낭비</color>야. 물 속성 몬스터는 아이스 슬라임으로부터 힘을 공급받기에 계속해서 <color=#00E1FFFF>부활</color>하지
+DungeonReminderData_Speaker_10060602	엠버
+DungeonReminderData_Content_10060602	짜증 나 죽겠네! 저놈들 때문에 우리가 계속해서 얼어붙는 거야
+DungeonReminderData_Speaker_10060603	진
+DungeonReminderData_Content_10060603	당황하지 마. 방법을 좀 생각해보자. <color=#00E1FFFF>물 속성 몬스터들을 가시덤불 속으로 날려버리면 움직임을 방해할 수 있는지 없는지</color> 시도해 보자
+DungeonReminderData_Speaker_10060701	 
+DungeonReminderData_Content_10060701	잘했어! 두 번째 시련을 통과한걸 축하해. 이제 <color=#00E1FFFF>마지막 시련</color>에 도전할 준비 됐어?
+DungeonReminderData_Speaker_10060801	 
+DungeonReminderData_Content_10060801	아주 인상적이야. 이제 가서 마지막 시련의 보상을 받아!
+DungeonReminderData_Speaker_10060901	 
+DungeonReminderData_Content_10060901	숨겨져있던 시련을 모두 통과했다고? 진짜 믿기지 않는데! 넌 이 보물을 얻을 자격이 있으니 어서 가져가!
+DungeonReminderData_Speaker_10060902	 
+DungeonReminderData_Content_10060902	두려움을 모르는 용사야! 더 강해지길 원한다면 언제든지 다시 도전해!
+DungeonReminderData_Speaker_10050101	페이몬
+DungeonReminderData_Content_10050101	저건 누구지? 지금 뭐하고 있는지 물어보자!
+DungeonReminderData_Speaker_10050201	 
+DungeonReminderData_Content_10050201	모험가여 환영한다네! 이번에 여기서 뭘 얻을 수 있는지 보게나!
+DungeonReminderData_Speaker_10050301	 
+DungeonReminderData_Content_10050301	1층 선택의 통로가 열렸으니까 어서 선택해 봐!<color=#00E1FFFF>통로를 선택한 뒤 앞으로 나아가기만</color> 하면 돼
+DungeonReminderData_Speaker_10050401	 
+DungeonReminderData_Content_10050401	<color=#00E1FFFF>불의 시련</color>을 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10050501	 
+DungeonReminderData_Content_10050501	<color=#00E1FFFF>얼음의 시련</color>을 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10050601	 
+DungeonReminderData_Content_10050601	<color=#00E1FFFF>번개의 시련</color>을 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10050701	 
+DungeonReminderData_Content_10050701	2층 선택의 통로가 열렸으니까 어서 선택해 봐! <color=#00E1FFFF>통로를 선택한 뒤 앞으로 나아가기만</color> 하면 돼
+DungeonReminderData_Speaker_10050801	 
+DungeonReminderData_Content_10050801	<color=#00E1FFFF>불의 시련-격노</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10050901	 
+DungeonReminderData_Content_10050901	<color=#00E1FFFF>불의 시련-철벽</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051001	 
+DungeonReminderData_Content_10051001	<color=#00E1FFFF>불의 시련-공생</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051101	 
+DungeonReminderData_Content_10051101	<color=#00E1FFFF>얼음의 시련-격노</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051201	 
+DungeonReminderData_Content_10051201	<color=#00E1FFFF>얼음의 시련-철벽</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051301	 
+DungeonReminderData_Content_10051301	<color=#00E1FFFF>얼음의 시련-공생</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051401	 
+DungeonReminderData_Content_10051401	<color=#00E1FFFF>번개의 시련-격노</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051501	 
+DungeonReminderData_Content_10051501	<color=#00E1FFFF>번개의 시련-철벽</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051601	 
+DungeonReminderData_Content_10051601	<color=#00E1FFFF>번개의 시련-공생</color>를 선택했어! 시련이 널 기다리고 있으니 어서 가봐!
+DungeonReminderData_Speaker_10051701	 
+DungeonReminderData_Content_10051701	뛰어난 활약을 펼쳤군. 이 보물은 이제 모두 네 것이야. 그리고 언제든지 다시 도전해!
+DungeonReminderData_Speaker_10051801	 
+DungeonReminderData_Content_10051801	다음 웨이브가 곧 시작하니까 어서 좀 쉬어!
+DungeonReminderData_Speaker_10051802	 
+DungeonReminderData_Content_10051802	지금 윈드 오브를 상대하는 건 시간낭비야. 다른 방법을 찾아보자
+DungeonReminderData_Speaker_10051803	 
+DungeonReminderData_Content_10051803	와... 몬스터 2마리가 또 나타났어! 조심해!
+DungeonReminderData_Speaker_10051804	 
+DungeonReminderData_Content_10051804	윈드 오브의 무적이 사라졌으니까 어서 상대해! 쓰러뜨리기만 한다면 승리하는 거야!
+DungeonReminderData_Speaker_10051805	 
+DungeonReminderData_Content_10051805	모험가여, 영웅의 시련을 시작하라!
+DungeonReminderData_Speaker_10051806	 
+DungeonReminderData_Content_10051806	위험한 기운이 느껴지니까 조심해...
+DungeonReminderData_Speaker_20010001	 
+DungeonReminderData_Content_20010001	층을 잇는 상승 기류가 나타났어!
+DungeonReminderData_Speaker_20010002	 
+DungeonReminderData_Content_20010002	상승 기류가 점점 약해지고 있어...
+DungeonReminderData_Speaker_20010003	 
+DungeonReminderData_Content_20010003	상승 기류가 사라졌어
+DungeonReminderData_Speaker_20010004	벤티
+DungeonReminderData_Content_20010004	봐! 드발린 몸에 <color=#00E1FFFF>2개의 반짝 빛나는 것</color>이 자라나 있어!
+DungeonReminderData_Speaker_20010005	벤티
+DungeonReminderData_Content_20010005	저게 바로 상처에 응고된 독혈이야...
+DungeonReminderData_Speaker_20010006	벤티
+DungeonReminderData_Content_20010006	심연 교단이 상처 부위를 집중적으로 저주해서 드발린의 정신이 악에 물든 거야...
+DungeonReminderData_Speaker_20010007	벤티
+DungeonReminderData_Content_20010007	드발린을 구하고 싶으면 먼저 저 <color=#00E1FFFF>보라색 응혈</color>을 없애야 해!
+DungeonReminderData_Speaker_20010008	벤티
+DungeonReminderData_Content_20010008	폭풍의 힘을 잇는 자여, 나의 부름에 응하리니. 창공의 품으로 나를 이끌어라!
+DungeonReminderData_Speaker_20010009	벤티
+DungeonReminderData_Content_20010009	이건 특별한 장소에서만 사용 가능한 전술이야
+DungeonReminderData_Speaker_20010010	벤티
+DungeonReminderData_Content_20010010	「바람」은 동방의 용 본체를 다치게 하지 못하거든...
+DungeonReminderData_Speaker_20010011	벤티
+DungeonReminderData_Content_20010011	그러니까 최대한 빛나는 부분을 조준해서 파괴해야 해!
+DungeonReminderData_Speaker_20010012	심연 교단
+DungeonReminderData_Content_20010012	쥐새끼처럼 쫓아 오다니... 짜증 나 죽겠어!
+DungeonReminderData_Speaker_20010013	심연 교단
+DungeonReminderData_Content_20010013	너희들만으론 심연을 막을 수 없다!
+DungeonReminderData_Speaker_20010014	심연 교단
+DungeonReminderData_Content_20010014	저놈들을 해치워 버려
+DungeonReminderData_Speaker_20010015	심연 교단
+DungeonReminderData_Content_20010015	드발린의 힘... 넘쳐 흐르는구나! 하하하!
+DungeonReminderData_Speaker_20010016	벤티
+DungeonReminderData_Content_20010016	저 몬스터들이 거머리처럼 계속 달라붙어 귀찮게 하네... 어서 빨리! 계속 조준해
+DungeonReminderData_Speaker_20010017	벤티
+DungeonReminderData_Content_20010017	잘했어! 지금 바로 <color=#00E1FFFF>독혈</color>을 제거하자!
+DungeonReminderData_Speaker_20010018	벤티
+DungeonReminderData_Content_20010018	일단 저놈들을 따돌렸어! 계속 조준해!
+DungeonReminderData_Speaker_20010019	벤티
+DungeonReminderData_Content_20010019	으윽... 에너지가 부족해, 드발린과의 거리가 멀어지고 있어
+DungeonReminderData_Speaker_20010020	벤티
+DungeonReminderData_Content_20010020	젠장, 심연 메이지가 원소의 흐름을 방해하고 있어!
+DungeonReminderData_Speaker_20010021	벤티
+DungeonReminderData_Content_20010021	일단 적의 <color=#00E1FFFF>공격을 회피</color>하면서 <color=#00E1FFFF>에너지를 모으자</color>!
+DungeonReminderData_Speaker_20010101	신비로운 소리
+DungeonReminderData_Content_20010101	앞이 바로 금지인 저주 받은 <color=#00E1FFFF>안개 미궁</color>이야
+DungeonReminderData_Speaker_20010102	신비로운 소리
+DungeonReminderData_Content_20010102	내게 영혼 <color=#00E1FFFF>100</color>개를 바치면 <color=#00E1FFFF>비밀의 문을 열어줄게</color>
+DungeonReminderData_Speaker_20010201	신비로운 소리
+DungeonReminderData_Content_20010201	네가 처치한 몬스터들이 <color=#00E1FFFF>더 강력한 힘</color>을 지닌 채 <color=#00E1FFFF>부활</color>했어!
+DungeonReminderData_Speaker_20010301	신비로운 소리
+DungeonReminderData_Content_20010301	이 지역의 보물상자 봉인이 해제됐어. 이제 이건 네 거야!
+DungeonReminderData_Speaker_20010401	신비로운 소리
+DungeonReminderData_Content_20010401	영혼 <color=#00E1FFFF>25</color>개, 잘하고 있지만 아직 많이 부족해!
+DungeonReminderData_Speaker_20010402	신비로운 소리
+DungeonReminderData_Content_20010402	비밀의 문 앞에 네 마음에 들만한 조그마한 선물을 하나 준비했어
+DungeonReminderData_Speaker_20010501	신비로운 소리
+DungeonReminderData_Content_20010501	벌써 영혼 <color=#00E1FFFF>50</color>개를 바쳤어! 계속할 거야?
+DungeonReminderData_Speaker_20010502	신비로운 소리
+DungeonReminderData_Content_20010502	널 위해 비밀의 문 앞에 다른 선물을 준비했어!절대 실망하지 않을 거야!
+DungeonReminderData_Speaker_20010601	신비로운 소리
+DungeonReminderData_Content_20010601	영혼 <color=#00E1FFFF>75</color>개! 이런! 네가 미궁 가디언을 깨웠어!
+DungeonReminderData_Speaker_20010602	신비로운 소리
+DungeonReminderData_Content_20010602	<color=#00E1FFFF>미궁에서 그걸 찾아</color>! 만약 가디언을 무찌르면 비밀의 문을 열 수 있는 영혼을 획득할 수 있어!
+DungeonReminderData_Speaker_20010603	신비로운 소리
+DungeonReminderData_Content_20010603	당연히 그냥 포기하고 나가도 돼. 비밀의 문에 가서 네게 주는 용사의 보물상자를 받아
+DungeonReminderData_Speaker_20010701	신비로운 소리
+DungeonReminderData_Content_20010701	영혼 <color=#00E1FFFF>100</color>개! 드디어 영혼 <color=#00E1FFFF>100</color>개야! 이렇게 만족한 건 정말 오랜만이야
+DungeonReminderData_Speaker_20010702	신비로운 소리
+DungeonReminderData_Content_20010702	비밀의 문을 열었으니까 어서 가봐. 전설의 보물들은 이제 모두 네 거야!
+DungeonReminderData_Speaker_20010703	신비로운 소리
+DungeonReminderData_Content_20010703	언제든지 다시 도전하는 것을 환영해!
+DungeonReminderData_Speaker_20010302	신비로운 소리
+DungeonReminderData_Content_20010302	다시 돌아오게 된다면 이곳의 몬스터는 <color=#00E1FFFF>더 강해져 있을 거야</color>!
+DungeonReminderData_Speaker_20011001	페이몬
+DungeonReminderData_Content_20011001	3개의 석탑이 있어. 이 석탑은 각기 다른 <color=#00E1FFFF>원소</color>를 지칭하고 있지. 뭔가 숨겨져 있는 것 같아!
+DungeonReminderData_Speaker_20011002	페이몬
+DungeonReminderData_Content_20011002	와! 반응한 것 같아! 나머지 2개의 <color=#00E1FFFF>원소 비석</color>에도 뭔가가 숨겨져 있는 것 같은데 확인하러 가지 않을래?
+DungeonReminderData_Speaker_20011003	페이몬
+DungeonReminderData_Content_20011003	3개를 전부 열면 뭔가 좋은 일이 생기지 않을까? 마지막 <color=#00E1FFFF>원소 비석</color>을 찾아서 열어보자!
+DungeonReminderData_Speaker_20011004	페이몬
+DungeonReminderData_Content_20011004	여기에 3개의 <color=#00E1FFFF>불 원소</color> 비석이 있어. 무슨 비밀이 숨겨져 있는 것 같아!
+DungeonReminderData_Speaker_20011005	페이몬
+DungeonReminderData_Content_20011005	여기에 3개의 <color=#00E1FFFF>번개 원소</color> 비석이 있어. 무슨 비밀이 숨겨져 있는 것 같아!
+DungeonReminderData_Speaker_20011006	페이몬
+DungeonReminderData_Content_20011006	이 비석들을 작동시키면 시간이 조금 지나면 자동으로 닫히네. 다 같이 열어야 작동하는 건가?
+DungeonReminderData_Speaker_40010101	 
+DungeonReminderData_Content_40010101	도전 준비 됐어? 내 귀여운 마물들은 이미 움직이기 시작했지!
+DungeonReminderData_Speaker_40010201	 
+DungeonReminderData_Content_40010201	새로운 마물들이 근처까지 와서 쉴 틈이 없을 거야
+DungeonReminderData_Speaker_40010301	 
+DungeonReminderData_Content_40010301	대단한데? 근데 날 이길 수 있을까?
+DungeonReminderData_Speaker_40010401	 
+DungeonReminderData_Content_40010401	정말 대단해! 하지만 넌 이미 우리에게 포위됐지!
+DungeonReminderData_Speaker_10010101	엠버
+DungeonReminderData_Content_10010101	젠장! 나팔 소리야!
+DungeonReminderData_Speaker_10010102	엠버
+DungeonReminderData_Content_10010102	방금 전의 전투가 그들을 깨운 것 같아
+DungeonReminderData_Speaker_10010103	엠버
+DungeonReminderData_Content_10010103	그래도... 이 상태를 대비해서 비밀 무기인 <color=#00E1FFFF>폭탄 인형 「토끼 백작」</color>을 준비해 뒀지!
+DungeonReminderData_Speaker_10010201	엠버
+DungeonReminderData_Content_10010201	저건... <color=#00E1FFFF>폭약통</color>인가?
+DungeonReminderData_Speaker_10010202	엠버
+DungeonReminderData_Content_10010202	응... 활로 쏴서 터트려 보자!
+DungeonReminderData_Speaker_10010301	페이몬
+DungeonReminderData_Content_10010301	저걸 타야만 여길 지나갈 수 있을 것 같아
+DungeonReminderData_Speaker_10010302	케이아
+DungeonReminderData_Content_10010302	저건... <color=#00E1FFFF>원소 비석</color>인데
+DungeonReminderData_Speaker_10010303	페이몬
+DungeonReminderData_Content_10010303	뭔가 숨겨져 있는 것 같아...
+DungeonReminderData_Speaker_10010304	케이아
+DungeonReminderData_Content_10010304	응. 이 오래된 비석들이 동일한 <color=#00E1FFFF>원소의 힘</color>에 반응하는 것 같아
+DungeonReminderData_Speaker_10010305	케이아
+DungeonReminderData_Content_10010305	이 색을 보니 아마도 <color=#00E1FFFF>얼음 원소 비석</color>인 것 같아. 내가 해볼게
+DungeonReminderData_Speaker_10010306	페이몬
+DungeonReminderData_Content_10010306	부탁할게!
+DungeonReminderData_Speaker_20020101	벤티
+DungeonReminderData_Content_20020101	이렇게 하면 드발린과 대등하게 싸울 수 있어. 세계 최고의 시인도 도와주러 왔으니까
+DungeonReminderData_Speaker_20020102	벤티
+DungeonReminderData_Content_20020102	그래도... 좋아졌다고 말할 수 있어
+DungeonReminderData_Speaker_20020103	벤티
+DungeonReminderData_Content_20020103	드발린의 이빨은 아주 날카로워. 수백 년 동안 관리하지 않았더라도 아주 위험하니까 조심해
+DungeonReminderData_Speaker_20020201	벤티
+DungeonReminderData_Content_20020201	아... 이건 드발린의 필살기인 파멸의 노래야!
+DungeonReminderData_Speaker_20020202	벤티
+DungeonReminderData_Content_20020202	윈드 필드를 이용해 위치를 옮기면서 공격을 피해야 돼
+DungeonReminderData_Speaker_20020203	페이몬
+DungeonReminderData_Content_20020203	드래곤의 이름이 너무 이상해...
+DungeonReminderData_Speaker_20020204	벤티
+DungeonReminderData_Content_20020204	내가 방금 지어준 거야
+DungeonReminderData_Speaker_20020205	페이몬
+DungeonReminderData_Content_20020205	...
+DungeonReminderData_Speaker_20020301	벤티
+DungeonReminderData_Content_20020301	지금이야! 목뒤의 오염된 피의 덩어리를 공격해!
+CityData_CityName_3	몬드

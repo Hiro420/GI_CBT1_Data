@@ -1,0 +1,77 @@
+{
+    "_phaseList": [],
+    "_zoneList": [
+        {
+            "_timeSpan": {
+                "x": 0.0,
+                "y": 0.13616667687892915
+            },
+            "_name": "LeftFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 0.0,
+                "y": 0.7166666984558106
+            },
+            "_name": "Idle",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 0.0,
+                "y": 0.7166666984558106
+            },
+            "_name": "RightFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "_timeSpan": {
+                "x": 0.4300000071525574,
+                "y": 0.7166666984558106
+            },
+            "_name": "LeftFootStandIK",
+            "_nameHash": 0,
+            "_beginMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "_endMotionPos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+ID	配置路径
+1	TEST/TEST_Chest_CutSence
+2	TEST/TEST_GoddessLvUp_CutSence
+3	Scene_CutScene/Cs_Scene_GoddessUpgrade_01
+4	Scene_CutScene/Cs_Scene_DungeonGate_01
+5	Scene_CutScene/Cs_Scene_DungeonGate_02
+6	Scene_CutScene/Cs_Scene_GoddessActive
+7	Scene_CutScene/Cs_Scene_GoddessUpgradeDefault
+8	Scene_CutScene/Cs_Scene_DragonNestSealGate
+9	Scene_CutScene/Cs_MDAQ501_SwordBreak01
+200201	Scene_CutScene/Cs_MDAQ071_DvalinCombat2
+10	Scene_CutScene/Cs_MDAQ501_DvalinSealOpen01
+11	Scene_CutScene/Cs_MDAQ501_DvalinSealOpen02
+12	Scene_CutScene/Cs_MDAQ501_DvalinSealOpen03

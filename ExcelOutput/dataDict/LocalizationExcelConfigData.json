@@ -1,0 +1,380 @@
+{
+  "100001": {
+    "id": 100001,
+    "assetType": 1,
+    "defaultPath": "",
+    "scPath": "ART/UI/Atlas/LogoImg/Logo_CHS",
+    "tcPath": "ART/UI/Atlas/LogoImg/Logo_CHT",
+    "enPath": "ART/UI/Atlas/LogoImg/Logo_ENG",
+    "krPath": "ART/UI/Atlas/LogoImg/Logo_KOR"
+  },
+  "200001": {
+    "id": 200001,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Poem1",
+    "scPath": "ART/UI/Readable/Poem1",
+    "tcPath": "ART/UI/Readable/Poem1_CHT",
+    "enPath": "ART/UI/Readable/Poem1_ENG",
+    "krPath": "ART/UI/Readable/Poem1_KOR"
+  },
+  "200002": {
+    "id": 200002,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Poem2",
+    "scPath": "ART/UI/Readable/Poem2",
+    "tcPath": "ART/UI/Readable/Poem2_CHT",
+    "enPath": "ART/UI/Readable/Poem2_ENG",
+    "krPath": "ART/UI/Readable/Poem2_KOR"
+  },
+  "200003": {
+    "id": 200003,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Poem3",
+    "scPath": "ART/UI/Readable/Poem3",
+    "tcPath": "ART/UI/Readable/Poem3_CHT",
+    "enPath": "ART/UI/Readable/Poem3_ENG",
+    "krPath": "ART/UI/Readable/Poem3_KOR"
+  },
+  "200004": {
+    "id": 200004,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/KaeyaTreasure1",
+    "scPath": "ART/UI/Readable/KaeyaTreasure1",
+    "tcPath": "ART/UI/Readable/KaeyaTreasure1_CHT",
+    "enPath": "ART/UI/Readable/KaeyaTreasure1_ENG",
+    "krPath": "ART/UI/Readable/KaeyaTreasure1_KOR"
+  },
+  "200005": {
+    "id": 200005,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/KaeyaTreasure2",
+    "scPath": "ART/UI/Readable/KaeyaTreasure2",
+    "tcPath": "ART/UI/Readable/KaeyaTreasure2_CHT",
+    "enPath": "ART/UI/Readable/KaeyaTreasure2_ENG",
+    "krPath": "ART/UI/Readable/KaeyaTreasure2_KOR"
+  },
+  "200006": {
+    "id": 200006,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/KaeyaTreasure3",
+    "scPath": "ART/UI/Readable/KaeyaTreasure3",
+    "tcPath": "ART/UI/Readable/KaeyaTreasure3_CHT",
+    "enPath": "ART/UI/Readable/KaeyaTreasure3_ENG",
+    "krPath": "ART/UI/Readable/KaeyaTreasure3_KOR"
+  },
+  "200007": {
+    "id": 200007,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book1",
+    "scPath": "ART/UI/Readable/Book1",
+    "tcPath": "ART/UI/Readable/Book1_CHT",
+    "enPath": "ART/UI/Readable/Book1_ENG",
+    "krPath": "ART/UI/Readable/Book1_KOR"
+  },
+  "200008": {
+    "id": 200008,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book2",
+    "scPath": "ART/UI/Readable/Book2",
+    "tcPath": "ART/UI/Readable/Book2_CHT",
+    "enPath": "ART/UI/Readable/Book2_ENG",
+    "krPath": "ART/UI/Readable/Book2_KOR"
+  },
+  "200009": {
+    "id": 200009,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book3",
+    "scPath": "ART/UI/Readable/Book3",
+    "tcPath": "ART/UI/Readable/Book3_CHT",
+    "enPath": "ART/UI/Readable/Book3_ENG",
+    "krPath": "ART/UI/Readable/Book3_KOR"
+  },
+  "200010": {
+    "id": 200010,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book4",
+    "scPath": "ART/UI/Readable/Book4",
+    "tcPath": "ART/UI/Readable/Book4_CHT",
+    "enPath": "ART/UI/Readable/Book4_ENG",
+    "krPath": "ART/UI/Readable/Book4_KOR"
+  },
+  "200011": {
+    "id": 200011,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book5",
+    "scPath": "ART/UI/Readable/Book5",
+    "tcPath": "ART/UI/Readable/Book5_CHT",
+    "enPath": "ART/UI/Readable/Book5_ENG",
+    "krPath": "ART/UI/Readable/Book5_KOR"
+  },
+  "200012": {
+    "id": 200012,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book6",
+    "scPath": "ART/UI/Readable/Book6",
+    "tcPath": "ART/UI/Readable/Book6_CHT",
+    "enPath": "ART/UI/Readable/Book6_ENG",
+    "krPath": "ART/UI/Readable/Book6_KOR"
+  },
+  "200013": {
+    "id": 200013,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Poster1",
+    "scPath": "ART/UI/Readable/Poster1",
+    "tcPath": "ART/UI/Readable/Poster1_CHT",
+    "enPath": "ART/UI/Readable/Poster1_ENG",
+    "krPath": "ART/UI/Readable/Poster1_KOR"
+  },
+  "200014": {
+    "id": 200014,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Poster2",
+    "scPath": "ART/UI/Readable/Poster2",
+    "tcPath": "ART/UI/Readable/Poster2_CHT",
+    "enPath": "ART/UI/Readable/Poster2_ENG",
+    "krPath": "ART/UI/Readable/Poster2_KOR"
+  },
+  "200015": {
+    "id": 200015,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book7",
+    "scPath": "ART/UI/Readable/Book7",
+    "tcPath": "ART/UI/Readable/Book7_CHT",
+    "enPath": "ART/UI/Readable/Book7_ENG",
+    "krPath": "ART/UI/Readable/Book7_KOR"
+  },
+  "200016": {
+    "id": 200016,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book8",
+    "scPath": "ART/UI/Readable/Book8",
+    "tcPath": "ART/UI/Readable/Book8_CHT",
+    "enPath": "ART/UI/Readable/Book8_ENG",
+    "krPath": "ART/UI/Readable/Book8_KOR"
+  },
+  "200017": {
+    "id": 200017,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book9",
+    "scPath": "ART/UI/Readable/Book9",
+    "tcPath": "ART/UI/Readable/Book9_CHT",
+    "enPath": "ART/UI/Readable/Book9_ENG",
+    "krPath": "ART/UI/Readable/Book9_KOR"
+  },
+  "200018": {
+    "id": 200018,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book10",
+    "scPath": "ART/UI/Readable/Book10",
+    "tcPath": "ART/UI/Readable/Book10_CHT",
+    "enPath": "ART/UI/Readable/Book10_ENG",
+    "krPath": "ART/UI/Readable/Book10_KOR"
+  },
+  "200019": {
+    "id": 200019,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book11",
+    "scPath": "ART/UI/Readable/Book11",
+    "tcPath": "ART/UI/Readable/Book11_CHT",
+    "enPath": "ART/UI/Readable/Book11_ENG",
+    "krPath": "ART/UI/Readable/Book11_KOR"
+  },
+  "200020": {
+    "id": 200020,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book12",
+    "scPath": "ART/UI/Readable/Book12",
+    "tcPath": "ART/UI/Readable/Book12_CHT",
+    "enPath": "ART/UI/Readable/Book12_ENG",
+    "krPath": "ART/UI/Readable/Book12_KOR"
+  },
+  "200021": {
+    "id": 200021,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book13",
+    "scPath": "ART/UI/Readable/Book13",
+    "tcPath": "ART/UI/Readable/Book13_CHT",
+    "enPath": "ART/UI/Readable/Book13_ENG",
+    "krPath": "ART/UI/Readable/Book13_KOR"
+  },
+  "200022": {
+    "id": 200022,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book14",
+    "scPath": "ART/UI/Readable/Book14",
+    "tcPath": "ART/UI/Readable/Book14_CHT",
+    "enPath": "ART/UI/Readable/Book14_ENG",
+    "krPath": "ART/UI/Readable/Book14_KOR"
+  },
+  "200023": {
+    "id": 200023,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book15",
+    "scPath": "ART/UI/Readable/Book15",
+    "tcPath": "ART/UI/Readable/Book15_CHT",
+    "enPath": "ART/UI/Readable/Book15_ENG",
+    "krPath": "ART/UI/Readable/Book15_KOR"
+  },
+  "200024": {
+    "id": 200024,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book16",
+    "scPath": "ART/UI/Readable/Book16",
+    "tcPath": "ART/UI/Readable/Book16_CHT",
+    "enPath": "ART/UI/Readable/Book16_ENG",
+    "krPath": "ART/UI/Readable/Book16_KOR"
+  },
+  "200025": {
+    "id": 200025,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book17",
+    "scPath": "ART/UI/Readable/Book17",
+    "tcPath": "ART/UI/Readable/Book17_CHT",
+    "enPath": "ART/UI/Readable/Book17_ENG",
+    "krPath": "ART/UI/Readable/Book17_KOR"
+  },
+  "200026": {
+    "id": 200026,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book18",
+    "scPath": "ART/UI/Readable/Book18",
+    "tcPath": "ART/UI/Readable/Book18_CHT",
+    "enPath": "ART/UI/Readable/Book18_ENG",
+    "krPath": "ART/UI/Readable/Book18_KOR"
+  },
+  "200027": {
+    "id": 200027,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book19",
+    "scPath": "ART/UI/Readable/Book19",
+    "tcPath": "ART/UI/Readable/Book19_CHT",
+    "enPath": "ART/UI/Readable/Book19_ENG",
+    "krPath": "ART/UI/Readable/Book19_KOR"
+  },
+  "200028": {
+    "id": 200028,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book20",
+    "scPath": "ART/UI/Readable/Book20",
+    "tcPath": "ART/UI/Readable/Book20_CHT",
+    "enPath": "ART/UI/Readable/Book20_ENG",
+    "krPath": "ART/UI/Readable/Book20_KOR"
+  },
+  "200029": {
+    "id": 200029,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book21",
+    "scPath": "ART/UI/Readable/Book21",
+    "tcPath": "ART/UI/Readable/Book21_CHT",
+    "enPath": "ART/UI/Readable/Book21_ENG",
+    "krPath": "ART/UI/Readable/Book21_KOR"
+  },
+  "200030": {
+    "id": 200030,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book22",
+    "scPath": "ART/UI/Readable/Book22",
+    "tcPath": "ART/UI/Readable/Book22_CHT",
+    "enPath": "ART/UI/Readable/Book22_ENG",
+    "krPath": "ART/UI/Readable/Book22_KOR"
+  },
+  "200031": {
+    "id": 200031,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book23",
+    "scPath": "ART/UI/Readable/Book23",
+    "tcPath": "ART/UI/Readable/Book23_CHT",
+    "enPath": "ART/UI/Readable/Book23_ENG",
+    "krPath": "ART/UI/Readable/Book23_KOR"
+  },
+  "200032": {
+    "id": 200032,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book24",
+    "scPath": "ART/UI/Readable/Book24",
+    "tcPath": "ART/UI/Readable/Book24_CHT",
+    "enPath": "ART/UI/Readable/Book24_ENG",
+    "krPath": "ART/UI/Readable/Book24_KOR"
+  },
+  "200033": {
+    "id": 200033,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book25",
+    "scPath": "ART/UI/Readable/Book25",
+    "tcPath": "ART/UI/Readable/Book25_CHT",
+    "enPath": "ART/UI/Readable/Book25_ENG",
+    "krPath": "ART/UI/Readable/Book25_KOR"
+  },
+  "200034": {
+    "id": 200034,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book26",
+    "scPath": "ART/UI/Readable/Book26",
+    "tcPath": "ART/UI/Readable/Book26_CHT",
+    "enPath": "ART/UI/Readable/Book26_ENG",
+    "krPath": "ART/UI/Readable/Book26_KOR"
+  },
+  "200035": {
+    "id": 200035,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book27",
+    "scPath": "ART/UI/Readable/Book27",
+    "tcPath": "ART/UI/Readable/Book27_CHT",
+    "enPath": "ART/UI/Readable/Book27_ENG",
+    "krPath": "ART/UI/Readable/Book27_KOR"
+  },
+  "200036": {
+    "id": 200036,
+    "assetType": 2,
+    "defaultPath": "ART/UI/Readable/Book28",
+    "scPath": "ART/UI/Readable/Book28",
+    "tcPath": "ART/UI/Readable/Book28_CHT",
+    "enPath": "ART/UI/Readable/Book28_ENG",
+    "krPath": "ART/UI/Readable/Book28_KOR"
+  },
+  "300001": {
+    "id": 300001,
+    "assetType": 3,
+    "defaultPath": "MDAQ041_CHS.srt",
+    "scPath": "MDAQ041_CHS.srt",
+    "tcPath": "MDAQ041_CHT.srt",
+    "enPath": "MDAQ041_ENG.srt",
+    "krPath": "MDAQ041_KOR.srt"
+  },
+  "300002": {
+    "id": 300002,
+    "assetType": 3,
+    "defaultPath": "",
+    "scPath": "",
+    "tcPath": "Title_CHT.srt",
+    "enPath": "Title_ENG.srt",
+    "krPath": "Title_KOR.srt"
+  },
+  "300003": {
+    "id": 300003,
+    "assetType": 3,
+    "defaultPath": "OpeningSequence_Boy_CHS.srt",
+    "scPath": "OpeningSequence_Boy_CHS.srt",
+    "tcPath": "OpeningSequence_Boy_CHT.srt",
+    "enPath": "OpeningSequence_Boy_ENG.srt",
+    "krPath": "OpeningSequence_Boy_KOR.srt"
+  },
+  "300004": {
+    "id": 300004,
+    "assetType": 3,
+    "defaultPath": "OpeningSequence_Girl_CHS.srt",
+    "scPath": "OpeningSequence_Girl_CHS.srt",
+    "tcPath": "OpeningSequence_Girl_CHT.srt",
+    "enPath": "OpeningSequence_Girl_ENG.srt",
+    "krPath": "OpeningSequence_Girl_KOR.srt"
+  },
+  "300005": {
+    "id": 300005,
+    "assetType": 3,
+    "defaultPath": "Cs_MDAQ071_Davalin_CHS.srt",
+    "scPath": "Cs_MDAQ071_Davalin_CHS.srt",
+    "tcPath": "Cs_MDAQ071_Davalin_CHT.srt",
+    "enPath": "Cs_MDAQ071_Davalin_ENG.srt",
+    "krPath": "Cs_MDAQ071_Davalin_KOR.srt"
+  }
+}

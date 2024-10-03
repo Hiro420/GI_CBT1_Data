@@ -1,0 +1,1042 @@
+{
+  "1001": {
+    "id": 1001,
+    "rankLevel": 1,
+    "icon": "UI_ItemIcon_Recipe_1002",
+    "effectDesc": [
+      "CookRecipeData_Effects1_1001",
+      "CookRecipeData_Effects2_1001",
+      "CookRecipeData_Effects3_1001",
+      "CookRecipeData_Effects4_1001"
+    ],
+    "foodType": 1,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 15,
+    "qualityOutputVec": [
+      {
+        "id": 108011,
+        "count": 1
+      },
+      {
+        "id": 108012,
+        "count": 1
+      },
+      {
+        "id": 108013,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100011,
+        "count": 1
+      },
+      {
+        "id": 100064,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.55,0.8;0.65,0.7"
+  },
+  "1002": {
+    "id": 1002,
+    "rankLevel": 1,
+    "icon": "UI_ItemIcon_Recipe_1001",
+    "effectDesc": [
+      "CookRecipeData_Effects1_1002",
+      "CookRecipeData_Effects2_1002",
+      "CookRecipeData_Effects3_1002",
+      "CookRecipeData_Effects4_1002"
+    ],
+    "foodType": 1,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 15,
+    "qualityOutputVec": [
+      {
+        "id": 108001,
+        "count": 1
+      },
+      {
+        "id": 108002,
+        "count": 1
+      },
+      {
+        "id": 108003,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100017,
+        "count": 1
+      },
+      {
+        "id": 100076,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.55,0.8;0.65,0.7"
+  },
+  "1003": {
+    "id": 1003,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_1003",
+    "effectDesc": [
+      "CookRecipeData_Effects1_1003",
+      "CookRecipeData_Effects2_1003",
+      "CookRecipeData_Effects3_1003",
+      "CookRecipeData_Effects4_1003"
+    ],
+    "foodType": 1,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108015,
+        "count": 1
+      },
+      {
+        "id": 108016,
+        "count": 1
+      },
+      {
+        "id": 108017,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100017,
+        "count": 1
+      },
+      {
+        "id": 100064,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.55,0.75;0.65,0.68"
+  },
+  "1004": {
+    "id": 1004,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_1004",
+    "effectDesc": [
+      "CookRecipeData_Effects1_1004",
+      "CookRecipeData_Effects2_1004",
+      "CookRecipeData_Effects3_1004",
+      "CookRecipeData_Effects4_1004"
+    ],
+    "foodType": 1,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108031,
+        "count": 1
+      },
+      {
+        "id": 108032,
+        "count": 1
+      },
+      {
+        "id": 108033,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100012,
+        "count": 1
+      },
+      {
+        "id": 100064,
+        "count": 2
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.55,0.75;0.65,0.68"
+  },
+  "1006": {
+    "id": 1006,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_1006",
+    "effectDesc": [
+      "CookRecipeData_Effects1_1006",
+      "CookRecipeData_Effects2_1006",
+      "CookRecipeData_Effects3_1006",
+      "CookRecipeData_Effects4_1006"
+    ],
+    "foodType": 4,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108049,
+        "count": 1
+      },
+      {
+        "id": 108050,
+        "count": 1
+      },
+      {
+        "id": 108051,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100056,
+        "count": 1
+      },
+      {
+        "id": 100016,
+        "count": 2
+      },
+      {
+        "id": 100073,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.6,0.8;0.65,0.665"
+  },
+  "1007": {
+    "id": 1007,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_1007",
+    "effectDesc": [
+      "CookRecipeData_Effects1_1007",
+      "CookRecipeData_Effects2_1007",
+      "CookRecipeData_Effects3_1007",
+      "CookRecipeData_Effects4_1007"
+    ],
+    "foodType": 2,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108052,
+        "count": 1
+      },
+      {
+        "id": 108053,
+        "count": 1
+      },
+      {
+        "id": 108054,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100063,
+        "count": 1
+      },
+      {
+        "id": 110001,
+        "count": 1
+      },
+      {
+        "id": 100075,
+        "count": 1
+      },
+      {
+        "id": 110004,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.6,0.8;0.65,0.665"
+  },
+  "2001": {
+    "id": 2001,
+    "rankLevel": 1,
+    "icon": "UI_ItemIcon_Recipe_2001",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2001",
+      "CookRecipeData_Effects2_2001",
+      "CookRecipeData_Effects3_2001",
+      "CookRecipeData_Effects4_2001"
+    ],
+    "foodType": 1,
+    "cookMethod": 2,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 15,
+    "qualityOutputVec": [
+      {
+        "id": 108004,
+        "count": 1
+      },
+      {
+        "id": 108005,
+        "count": 1
+      },
+      {
+        "id": 108006,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100062,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.4,0.65;0.45,0.5"
+  },
+  "2002": {
+    "id": 2002,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_2002",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2002",
+      "CookRecipeData_Effects2_2002",
+      "CookRecipeData_Effects3_2002",
+      "CookRecipeData_Effects4_2002"
+    ],
+    "foodType": 3,
+    "cookMethod": 2,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108034,
+        "count": 1
+      },
+      {
+        "id": 108035,
+        "count": 1
+      },
+      {
+        "id": 108036,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 110003,
+        "count": 1
+      },
+      {
+        "id": 100064,
+        "count": 1
+      },
+      {
+        "id": 100018,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.45,0.65;0.57,0.6"
+  },
+  "2003": {
+    "id": 2003,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_2003",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2003",
+      "CookRecipeData_Effects2_2003",
+      "CookRecipeData_Effects3_2003",
+      "CookRecipeData_Effects4_2003"
+    ],
+    "foodType": 1,
+    "cookMethod": 2,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108037,
+        "count": 1
+      },
+      {
+        "id": 108038,
+        "count": 1
+      },
+      {
+        "id": 108039,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100015,
+        "count": 2
+      },
+      {
+        "id": 100061,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.45,0.65;0.57,0.6"
+  },
+  "2004": {
+    "id": 2004,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_2004",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2004",
+      "CookRecipeData_Effects2_2004",
+      "CookRecipeData_Effects3_2004",
+      "CookRecipeData_Effects4_2004"
+    ],
+    "foodType": 4,
+    "cookMethod": 2,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108059,
+        "count": 1
+      },
+      {
+        "id": 108060,
+        "count": 1
+      },
+      {
+        "id": 108061,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 110005,
+        "count": 1
+      },
+      {
+        "id": 110010,
+        "count": 1
+      },
+      {
+        "id": 110011,
+        "count": 1
+      },
+      {
+        "id": 100052,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.4,0.6;0.5,0.515"
+  },
+  "2005": {
+    "id": 2005,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_2005",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2005",
+      "CookRecipeData_Effects2_2005",
+      "CookRecipeData_Effects3_2005",
+      "CookRecipeData_Effects4_2005"
+    ],
+    "foodType": 3,
+    "cookMethod": 2,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108062,
+        "count": 1
+      },
+      {
+        "id": 108063,
+        "count": 1
+      },
+      {
+        "id": 108064,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100013,
+        "count": 2
+      },
+      {
+        "id": 100064,
+        "count": 1
+      },
+      {
+        "id": 100053,
+        "count": 1
+      },
+      {
+        "id": 110006,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.4,0.6;0.5,0.515"
+  },
+  "2006": {
+    "id": 2006,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_2006",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2006",
+      "CookRecipeData_Effects2_2006",
+      "CookRecipeData_Effects3_2006",
+      "CookRecipeData_Effects4_2006"
+    ],
+    "foodType": 1,
+    "cookMethod": 2,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108065,
+        "count": 1
+      },
+      {
+        "id": 108066,
+        "count": 1
+      },
+      {
+        "id": 108067,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100018,
+        "count": 1
+      },
+      {
+        "id": 110005,
+        "count": 1
+      },
+      {
+        "id": 110002,
+        "count": 1
+      },
+      {
+        "id": 110007,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.4,0.6;0.5,0.515"
+  },
+  "2007": {
+    "id": 2007,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_1005",
+    "effectDesc": [
+      "CookRecipeData_Effects1_2007",
+      "CookRecipeData_Effects2_2007",
+      "CookRecipeData_Effects3_2007",
+      "CookRecipeData_Effects4_2007"
+    ],
+    "foodType": 1,
+    "cookMethod": 4,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108041,
+        "count": 1
+      },
+      {
+        "id": 108042,
+        "count": 1
+      },
+      {
+        "id": 108043,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100011,
+        "count": 1
+      },
+      {
+        "id": 110001,
+        "count": 1
+      },
+      {
+        "id": 110009,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.6,0.8;0.65,0.665"
+  },
+  "3001": {
+    "id": 3001,
+    "rankLevel": 1,
+    "icon": "UI_ItemIcon_Recipe_3001",
+    "effectDesc": [
+      "CookRecipeData_Effects1_3001",
+      "CookRecipeData_Effects2_3001",
+      "CookRecipeData_Effects3_3001",
+      "CookRecipeData_Effects4_3001"
+    ],
+    "foodType": 1,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 15,
+    "qualityOutputVec": [
+      {
+        "id": 108007,
+        "count": 1
+      },
+      {
+        "id": 108008,
+        "count": 1
+      },
+      {
+        "id": 108009,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100061,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.65,0.9;0.8,0.85"
+  },
+  "3002": {
+    "id": 3002,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_3002",
+    "effectDesc": [
+      "CookRecipeData_Effects1_3002",
+      "CookRecipeData_Effects2_3002",
+      "CookRecipeData_Effects3_3002",
+      "CookRecipeData_Effects4_3002"
+    ],
+    "foodType": 4,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108019,
+        "count": 1
+      },
+      {
+        "id": 108020,
+        "count": 1
+      },
+      {
+        "id": 108021,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100014,
+        "count": 1
+      },
+      {
+        "id": 100018,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.7,0.9;0.85,0.88"
+  },
+  "3003": {
+    "id": 3003,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_3003",
+    "effectDesc": [
+      "CookRecipeData_Effects1_3003",
+      "CookRecipeData_Effects2_3003",
+      "CookRecipeData_Effects3_3003",
+      "CookRecipeData_Effects4_3003"
+    ],
+    "foodType": 1,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108045,
+        "count": 1
+      },
+      {
+        "id": 108046,
+        "count": 1
+      },
+      {
+        "id": 108047,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100080,
+        "count": 1
+      },
+      {
+        "id": 110008,
+        "count": 1
+      },
+      {
+        "id": 100020,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.75,0.95;0.915,0.93"
+  },
+  "3004": {
+    "id": 3004,
+    "rankLevel": 3,
+    "icon": "UI_ItemIcon_Recipe_3004",
+    "effectDesc": [
+      "CookRecipeData_Effects1_3004",
+      "CookRecipeData_Effects2_3004",
+      "CookRecipeData_Effects3_3004",
+      "CookRecipeData_Effects4_3004"
+    ],
+    "foodType": 2,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 30,
+    "qualityOutputVec": [
+      {
+        "id": 108055,
+        "count": 1
+      },
+      {
+        "id": 108056,
+        "count": 1
+      },
+      {
+        "id": 108057,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100061,
+        "count": 3
+      },
+      {
+        "id": 100080,
+        "count": 1
+      },
+      {
+        "id": 110009,
+        "count": 1
+      },
+      {
+        "id": 100055,
+        "count": 2
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.75,0.95;0.915,0.93"
+  },
+  "4001": {
+    "id": 4001,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_4001",
+    "effectDesc": [
+      "CookRecipeData_Effects1_4001",
+      "CookRecipeData_Effects2_4001",
+      "CookRecipeData_Effects3_4001",
+      "CookRecipeData_Effects4_4001"
+    ],
+    "foodType": 1,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108022,
+        "count": 1
+      },
+      {
+        "id": 108023,
+        "count": 1
+      },
+      {
+        "id": 108024,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100017,
+        "count": 1
+      },
+      {
+        "id": 100062,
+        "count": 1
+      },
+      {
+        "id": 100051,
+        "count": 2
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.3,0.5;0.4,0.43"
+  },
+  "4002": {
+    "id": 4002,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_4002",
+    "effectDesc": [
+      "CookRecipeData_Effects1_4002",
+      "CookRecipeData_Effects2_4002",
+      "CookRecipeData_Effects3_4002",
+      "CookRecipeData_Effects4_4002"
+    ],
+    "foodType": 2,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108025,
+        "count": 1
+      },
+      {
+        "id": 108026,
+        "count": 1
+      },
+      {
+        "id": 108027,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100014,
+        "count": 1
+      },
+      {
+        "id": 100017,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.3,0.5;0.4,0.43"
+  },
+  "4003": {
+    "id": 4003,
+    "rankLevel": 2,
+    "icon": "UI_ItemIcon_Recipe_4003",
+    "effectDesc": [
+      "CookRecipeData_Effects1_4003",
+      "CookRecipeData_Effects2_4003",
+      "CookRecipeData_Effects3_4003",
+      "CookRecipeData_Effects4_4003"
+    ],
+    "foodType": 2,
+    "cookMethod": 1,
+    "isDefaultUnlocked": true,
+    "maxProficiency": 20,
+    "qualityOutputVec": [
+      {
+        "id": 108028,
+        "count": 1
+      },
+      {
+        "id": 108029,
+        "count": 1
+      },
+      {
+        "id": 108030,
+        "count": 1
+      }
+    ],
+    "inputVec": [
+      {
+        "id": 100018,
+        "count": 1
+      },
+      {
+        "id": 100001,
+        "count": 3
+      },
+      {
+        "id": 100062,
+        "count": 1
+      },
+      {
+        "id": 0,
+        "count": 0
+      },
+      {
+        "id": 0,
+        "count": 0
+      }
+    ],
+    "qteParam": "0.3,0.5;0.4,0.43"
+  }
+}

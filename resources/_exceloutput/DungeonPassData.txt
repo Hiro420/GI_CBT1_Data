@@ -1,0 +1,28 @@
+ID	[条件]组合	[条件]1类型	[条件]1参数1	[条件]1参数2	[条件]2类型	[条件]2参数1	[条件]2参数2	[条件]2参数3	Desc
+1		1							DungeonPassData_Desc_1
+2		5	220008004						DungeonPassData_Desc_2
+3		5	220009003						DungeonPassData_Desc_3
+4		7	2	2					DungeonPassData_Desc_4
+5		9	41313						DungeonPassData_Desc_5
+6	1	9	41310		13	60			DungeonPassData_Desc_6
+7		9	30610						DungeonPassData_Desc_7
+8		9	30713						DungeonPassData_Desc_8
+9		9	30814						DungeonPassData_Desc_9
+10		5	220011003						DungeonPassData_Desc_10
+11		5	220014007						DungeonPassData_Desc_11
+12	1	1			13	480			DungeonPassData_Desc_12
+13	1	11	100		13	240			DungeonPassData_Desc_13
+14		5	240001004						DungeonPassData_Desc_14
+15		5	220010009						DungeonPassData_Desc_15
+16		5	220012007						DungeonPassData_Desc_16
+17	2	14	1002						DungeonPassData_Desc_17
+18		14	4						DungeonPassData_Desc_18
+19		14	2						DungeonPassData_Desc_19
+20		5	250001006						DungeonPassData_Desc_20
+21		9	46305						DungeonPassData_Desc_21
+22		9	38105						DungeonPassData_Desc_22
+23		5	240007003						DungeonPassData_Desc_23
+24		5	220013005						DungeonPassData_Desc_24
+25		5	220019001						DungeonPassData_Desc_25
+26		9	39403						DungeonPassData_Desc_26
+27		9	35722						DungeonPassData_Desc_27

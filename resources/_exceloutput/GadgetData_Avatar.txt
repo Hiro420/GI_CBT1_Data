@@ -1,0 +1,146 @@
+ID	Prefab路径	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	标签	客户端脚本	ItemJSON名称	ItemPrefab路径	雷达提示类型	Name
+40000001	ART/Others/Gadget/Gadget_SteamField	9999	25	SteamBangField						item		Default_Item			GadgetData_Avatar_Name_40000001
+40000002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ThunderFistField						item		Default_Item			GadgetData_Avatar_Name_40000002
+40000003	ART/Others/Bullet/Bullet_GrassDart	1001	3	GrassDart	1					item		Default_Item			GadgetData_Avatar_Name_40000003
+40000004	ART/Others/Bullet/Bullet_SharkTorpedo	1001	3	SharkTorpedo	1					item		Default_Item			GadgetData_Avatar_Name_40000004
+40000005	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	SharkTorpedo_Spurt	1					item		Default_Item			GadgetData_Avatar_Name_40000005
+40000006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	SharkTorpedo_Spurt_2	1					item		Default_Item			GadgetData_Avatar_Name_40000006
+40000104	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	FrostSpear	1					item		Default_Item			GadgetData_Avatar_Name_40000104
+40000115	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Old						item		Default_Item			GadgetData_Avatar_Name_40000115
+40000116	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Old						item		Default_Item			GadgetData_Avatar_Name_40000116
+40000117	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Old						item		Default_Item			GadgetData_Avatar_Name_40000117
+40000118	ART/Others/Bullet/Bullet_RockImpact	1001	3	Kevin_RockImpact	1					item		Default_Item			GadgetData_Avatar_Name_40000118
+40000119		1001	18	ModifiedTrigger						item		Default_Item			GadgetData_Avatar_Name_40000119
+40000120		1001	18	RockImpactTrap						item		Default_Item			GadgetData_Avatar_Name_40000120
+40000121	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Strike						item		Default_Item			GadgetData_Avatar_Name_40000121
+40000139	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	NoAvatar_IceRain											GadgetData_Avatar_Name_40000139
+40000140	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	NoAvatar_IceTrap											GadgetData_Avatar_Name_40000140
+40000148	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ClawMark_Mark	1	1				item		Default_Item			GadgetData_Avatar_Name_40000148
+40000154	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ClawMark_Mark_Lycan	1	1				item		Default_Item			GadgetData_Avatar_Name_40000154
+40000160	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	AimingArrow_WithoutFire	1	1				item		Default_Item			GadgetData_Avatar_Name_40000160
+40000161	ART/Others/Bullet/Bullet_Arrow	1001	3	Double_ArrowAiming_WithoutFire	1	1				item		Default_Item			GadgetData_Avatar_Name_40000161
+40000172	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	Frost_Orb	1	1				item		Default_Item			GadgetData_Avatar_Name_40000172
+40000173	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	Frost_Orb_Bullet	1	1				item		Default_Item			GadgetData_Avatar_Name_40000173
+40000174	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_01	1	1				item		Default_Item			GadgetData_Avatar_Name_40000174
+40000175	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_02	1	1				item		Default_Item			GadgetData_Avatar_Name_40000175
+40000176	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_03	1	1				item		Default_Item			GadgetData_Avatar_Name_40000176
+40000177	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_04	1	1				item		Default_Item			GadgetData_Avatar_Name_40000177
+40000178	ART/Others/Bullet/Bullet_JumpingBomb	1002	3	EmptyGadget	1	1				item		Default_Item			GadgetData_Avatar_Name_40000178
+40000129	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpell_Wards_Trap						item		Default_Item			GadgetData_Avatar_Name_40000129
+40100001	ART/Others/Bullet/Bullet_Arrow	1001	3	Test_Arrow	1	1				item		Default_Item			GadgetData_Avatar_Name_40100001
+40100006	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	Test_ArrowAiming	1	1				item		Default_Item			GadgetData_Avatar_Name_40100006
+40100013	ART/Others/Bullet/Bullet_Gear_Elec_Shoot	4001	3	Gear_ElectricBall	1					item		Default_Item			GadgetData_Avatar_Name_40100013
+40100200	ART/Others/SceneObj/SceneObj_RoomDoorTest	1001	19	RoomDoor				1		item		Default_Item			GadgetData_Avatar_Name_40100200
+40100201	ART/Stages/Indoor/Mengde/Props/Indoor_MdProps_Knight_Door01_Vo	1001	19	RoomDoor		1		1		item		Default_Item			GadgetData_Avatar_Name_40100201
+40200001	ART/Effect/SceneInteractive/Eff_WindField_Vertical	1001	23	SceneObj_Environment_WindField_AirflowField						item		Default_Item			GadgetData_Avatar_Name_40200001
+40200002	ART/Effect/SceneInteractive/Eff_WindField_Horizontal_01	1001	23							item		Default_Item			GadgetData_Avatar_Name_40200002
+40200003	ART/Others/Gadget/Gadget_SpeedupField	1001	24	SceneObj_Environment_WindField_SpeedupField						item		Default_Item			GadgetData_Avatar_Name_40200003
+40200008	ART/Effect/SceneInteractive/Eff_WindField_FireGrass	1001	23							item		Default_Item			GadgetData_Avatar_Name_40200008
+40200020	ART/Effect/SceneInteractive/Eff_WindField_Vertical_Feather_01	1001	23	AirflowFieldBlue						item		Default_Item			GadgetData_Avatar_Name_40200020
+40210006	ART/Others/SceneObj/SceneObj_Gear_Tornado_Controller	5001	19	DragonNest_Tornado_WindField_Controller					1						GadgetData_Avatar_Name_40210006
+40210007	ART/Others/SceneObj/SceneObj_Test_StrongWindSafeRegion	5001	19	DragonNest_StrongWindSafeRegion						item		Default_Item			GadgetData_Avatar_Name_40210007
+41002001	ART/Others/Bullet/Bullet_Windmill	1001	18	FrozenWindmill	1					item		Default_Item			GadgetData_Avatar_Name_41002001
+41002002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Large						item		Default_Item			GadgetData_Avatar_Name_41002002
+41002003		1001	18	Frozen_Butterfly_Area	1	1				item		Default_Item			GadgetData_Avatar_Name_41002003
+41002004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Frozen_Butterfly_Area_Material		1				item		Default_Item			GadgetData_Avatar_Name_41002004
+41002005	ART/Others/Bullet/Bullet_Windmill	1001	18	FrozenWindmill_Sub	1					item		Default_Item			GadgetData_Avatar_Name_41002005
+41002006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Ayaka_ExtraAttack	1	1				item		Default_Item			GadgetData_Avatar_Name_41002006
+41002007	ART/Others/Bullet/Bullet_AyakaNormalAttack_05	1001	3	Ayaka_NormalAttack_05	1	1				item		Default_Item			GadgetData_Avatar_Name_41002007
+41002008	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Ayaka_YayoiKaeshi	1	1				item		Default_Item			GadgetData_Avatar_Name_41002008
+41003001	ART/Others/SkillObj/SkillObj_WoodSpike	1001	18	WoodSpikeField						item		Default_Item			GadgetData_Avatar_Name_41003001
+41003002	ART/Others/SkillObj/SkillObj_WoodSpike	1001	18	HealingSeal						item		Default_Item			GadgetData_Avatar_Name_41003002
+41003003	ART/Others/SkillObj/SkillObj_WoodWall	1001	18	WoodWall						item		Default_Item			GadgetData_Avatar_Name_41003003
+41003004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	DandelionWind_1						item		Default_Item			GadgetData_Avatar_Name_41003004
+41003005	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	DandelionWind_2						item		Default_Item			GadgetData_Avatar_Name_41003005
+41005001	ART/Others/Bullet/Bullet_WindBreathe_Tornado	1001	3	WindBreathe_Tornado	1					item		Default_Item			GadgetData_Avatar_Name_41005001
+41005002	ART/Others/Bullet/Bullet_Arashi	1001	3	Player_Wind_Arashi	1					item		Default_Item			GadgetData_Avatar_Name_41005002
+41005003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Hogyoku_Base						item		Default_Item			GadgetData_Avatar_Name_41005003
+41005004	ART/Others/SkillObj/SkillObj_Hogyoku	1001	18	Hogyoku_Barrier						item		Default_Item			GadgetData_Avatar_Name_41005004
+41005005	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	RockTide						item		Default_Item			GadgetData_Avatar_Name_41005005
+41005006	ART/Others/SkillObj/SkillObj_RockTide_Barrier	1001	18	RockTide_Barrier						item		Default_Item			GadgetData_Avatar_Name_41005006
+41005007	ART/Others/Bullet/Bullet_PlayerBoy_ExtraAttack_Wave	1001	3	PlayerBoy_ExtraAttack_Wave	1	1				item		Default_Item			GadgetData_Avatar_Name_41005007
+41006001	ART/Others/Bullet/Bullet_PierceLightning	1001	18	FrozenWindmill	1					item		Default_Item			GadgetData_Avatar_Name_41006001
+41006002	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	LightningBolt	1					item		Default_Item			GadgetData_Avatar_Name_41006002
+41006003	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	LightningSpear	1					item		Default_Item			GadgetData_Avatar_Name_41006003
+41006004	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	LightningSpear_1	1					item		Default_Item			GadgetData_Avatar_Name_41006004
+41006005	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	LightningSpear_2	1					item		Default_Item			GadgetData_Avatar_Name_41006005
+41006006	ART/Others/Gadget/Gadget_DropItem_HP	1001	18	ConductiveField						item		Default_Item			GadgetData_Avatar_Name_41006006
+41006007	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	FilckerWave	1					item		Default_Item			GadgetData_Avatar_Name_41006007
+41006008	ART/Others/Gadget/Gadget_DropItem_HP	1001	18	StaticElecField						item		Default_Item			GadgetData_Avatar_Name_41006008
+41006009	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	FlickerWave	1					item		Default_Item			GadgetData_Avatar_Name_41006009
+41006010	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	Lisa_Attack01	1					item		Default_Item			GadgetData_Avatar_Name_41006010
+41006011	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	Lisa_Attack02	1					item		Default_Item			GadgetData_Avatar_Name_41006011
+41006012	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	Lisa_Attack03	1					item		Default_Item			GadgetData_Avatar_Name_41006012
+41006013	ART/Others/SkillObj/SkillObj_PierceLightning_Ball	1001	18	PierceLightning_Ball						item		Default_Item			GadgetData_Avatar_Name_41006013
+41006014	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword1	1					item		Default_Item			GadgetData_Avatar_Name_41006014
+41006015	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword2	1					item		Default_Item			GadgetData_Avatar_Name_41006015
+41006016	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword3	1					item		Default_Item			GadgetData_Avatar_Name_41006016
+41006017	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword4	1					item		Default_Item			GadgetData_Avatar_Name_41006017
+41006018	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword5	1					item		Default_Item			GadgetData_Avatar_Name_41006018
+41006019	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword6	1					item		Default_Item			GadgetData_Avatar_Name_41006019
+41006020	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Lisa_ExtraAttack						item		Default_Item			GadgetData_Avatar_Name_41006020
+41006021	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword1a	1					item		Default_Item			GadgetData_Avatar_Name_41006021
+41006022	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword2a	1					item		Default_Item			GadgetData_Avatar_Name_41006022
+41006023	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword3a	1					item		Default_Item			GadgetData_Avatar_Name_41006023
+41006024	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword4a	1					item		Default_Item			GadgetData_Avatar_Name_41006024
+41006025	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword5a	1					item		Default_Item			GadgetData_Avatar_Name_41006025
+41006026	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword6a	1					item		Default_Item			GadgetData_Avatar_Name_41006026
+41006027	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PierceLightning_Ball_Bullet	1					item		Default_Item			GadgetData_Avatar_Name_41006027
+40010001	ART/Others/Bullet/Bullet_Arcane_Arrow	1001	3	Weapon_Catalyst_Arcane_Arrow	1					item		Default_Item			GadgetData_Avatar_Name_40010001
+40010002	ART/Others/SkillObj/SkillObj_EmptyGadget_Rigid	1001	3	Beidou_ThunderTrace	1					item		Default_Item			GadgetData_Avatar_Name_40010002
+41014001	ART/Others/Bullet/Bullet_Barbara_NormalAttack	1001	18	Barbara_Attack01	1					item		Default_Item			GadgetData_Avatar_Name_41014001
+41014002	ART/Others/Bullet/Bullet_Barbara_NormalAttack	1001	18	Barbara_Attack02	1					item		Default_Item			GadgetData_Avatar_Name_41014002
+41014003	ART/Others/Bullet/Bullet_Barbara_NormalAttack	1001	18	Barbara_Attack03	1					item		Default_Item			GadgetData_Avatar_Name_41014003
+41014004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Barbara_WetShiled	1					item		Default_Item			GadgetData_Avatar_Name_41014004
+41014005	ART/Others/Bullet/Bullet_Wetshiled	1001	3	Eff_WetShiled	1					item		Default_Item			GadgetData_Avatar_Name_41014005
+41014006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Barbara_Team_WaterBall						item		Default_Item			GadgetData_Avatar_Name_41014006
+41014007	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Barbara_Team_FirstAid						item		Default_Item			GadgetData_Avatar_Name_41014007
+41015001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	FrozenField						item		Default_Item			GadgetData_Avatar_Name_41015001
+41015002	ART/Others/Bullet/Bullet_IceShieldImpact	1001	3	IceShieldImpact_L	1					item		Default_Item			GadgetData_Avatar_Name_41015002
+41015003	ART/Others/Bullet/Bullet_IceShieldImpact	1001	3	IceShieldImpact_R	1					item		Default_Item			GadgetData_Avatar_Name_41015003
+41015004	ART/Others/SkillObj/SkillObj_FrozenTrap1	1001	3	FrozenTrap1	1					item		Default_Item			GadgetData_Avatar_Name_41015004
+41015005	ART/Others/SkillObj/SkillObj_FrozenTrap2	1001	3	FrozenTrap2	1					item		Default_Item			GadgetData_Avatar_Name_41015005
+41015006	ART/Others/SkillObj/SkillObj_FrozenTrap3	1001	3	FrozenTrap3	1					item		Default_Item			GadgetData_Avatar_Name_41015006
+41015007	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	FrozenTrap_Trigger1	1					item		Default_Item			GadgetData_Avatar_Name_41015007
+41015008	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	FrozenTrap_Trigger2	1					item		Default_Item			GadgetData_Avatar_Name_41015008
+41016001	ART/Others/Bullet/Bullet_FireCross	1001	3	Diluc_FireCross	1					item		Default_Item			GadgetData_Avatar_Name_41016001
+41021001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ArrowRainField						item		Default_Item			GadgetData_Avatar_Name_41021001
+41021002	ART/Others/SkillObj/SkillObj_Dummy	1001	19	Dummy	1	1				item		Default_Item			GadgetData_Avatar_Name_41021002
+41021003	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw	1	1				item		Default_Item			GadgetData_Avatar_Name_41021003
+41021004	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw_7M	1	1				item		Default_Item			GadgetData_Avatar_Name_41021004
+41021005	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw_4M	1	1				item		Default_Item			GadgetData_Avatar_Name_41021005
+41021006	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw_Short	1	1				item		Default_Item			GadgetData_Avatar_Name_41021006
+41021007	ART/Others/Bullet/Bullet_Arrow	1001	3	Double_ArrowAiming	1	1				item		Default_Item			GadgetData_Avatar_Name_41021007
+41021008	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Dummy_ElementBall	1	1				item		Default_Item			GadgetData_Avatar_Name_41021008
+41021009	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_01	1	1				item		Default_Item			GadgetData_Avatar_Name_41021009
+41021010	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_02	1	1				item		Default_Item			GadgetData_Avatar_Name_41021010
+41021011	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_03	1	1				item		Default_Item			GadgetData_Avatar_Name_41021011
+41021012	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_04	1	1				item		Default_Item			GadgetData_Avatar_Name_41021012
+41021013	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_05	1	1				item		Default_Item			GadgetData_Avatar_Name_41021013
+41021014	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	GateOfAmbor_Trigger						item		Default_Item			GadgetData_Avatar_Name_41021014
+41021015	ART/Others/Bullet/Bullet_Arrow	1001	3	GateOfAmbor_Bullet	1	1				item		Default_Item			GadgetData_Avatar_Name_41021015
+41022001	ART/Others/Bullet/Bullet_Hurricane	1001	3	Hurricane_Arrow						item		Default_Item			GadgetData_Avatar_Name_41022001
+41022002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Venti_WindBlade						item		Default_Item			GadgetData_Avatar_Name_41022002
+41022003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Venti_WindBlade_Land						item		Default_Item			GadgetData_Avatar_Name_41022003
+41022004	ART/Others/Bullet/Bullet_Venti_ArrowAiming	1001	3	AimingArrow_Wind	1	1				item		Default_Item			GadgetData_Avatar_Name_41022004
+41022005	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	AimingArrow_WithoutWind	1	1				item		Default_Item			GadgetData_Avatar_Name_41022005
+41022006	ART/Others/Bullet/Bullet_Venti_ArrowAiming	1001	3	Venti_Talent_AimingArrow_Wind	1	1				item		Default_Item			GadgetData_Avatar_Name_41022006
+41022007	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	Venti_Talent_AimingArrow_WithoutWind	1	1				item		Default_Item			GadgetData_Avatar_Name_41022007
+41022008	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_01	1	1				item		Default_Item			GadgetData_Avatar_Name_41022008
+41022009	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_02	1	1				item		Default_Item			GadgetData_Avatar_Name_41022009
+41022010	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_03	1	1				item		Default_Item			GadgetData_Avatar_Name_41022010
+41022011	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_04	1	1				item		Default_Item			GadgetData_Avatar_Name_41022011
+41022012	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_05	1	1				item		Default_Item			GadgetData_Avatar_Name_41022012
+41022013	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_06	1	1				item		Default_Item			GadgetData_Avatar_Name_41022013
+41023001	ART/Others/Bullet/Bullet_PlayerBoy_ExtraAttack_Wave	1001	3	Xiangling_ExtraAttack_Bullet	1	1				item		Default_Item			GadgetData_Avatar_Name_41023001
+41023003	ART/Others/SkillObj/SkillObj_Panda_Pepper	1001	18	Xiangling_Panda_Pepper	1	1				item		Default_Item			GadgetData_Avatar_Name_41023003
+41023004	ART/Others/Bullet/Bullet_FireCircle	1001	3	Xiangling_FireCircle	1	1				item		Default_Item			GadgetData_Avatar_Name_41023004
+41023011	ART/Others/SkillObj/SkillObj_Panda	1001	19	Xiangling_Panda	1	1				item		Default_Item			GadgetData_Avatar_Name_41023011
+41023012	ART/Others/SkillObj/SkillObj_EmptyGadget_Rigid		3	TalentBombGadget_EmptyGadget	1					item		Default_Item			GadgetData_Avatar_Name_41023012
+41024001	ART/Others/SkillObj/SkillObj_EmptyGadget_Rigid	1001	3	Thunder_Chain1	1					item		Default_Item			GadgetData_Avatar_Name_41024001
+41024002	ART/Others/SkillObj/SkillObj_EmptyGadget_Rigid	1001	3	Thunder_Chain2	1					item		Default_Item			GadgetData_Avatar_Name_41024002
+41024003	ART/Others/SkillObj/SkillObj_EmptyGadget_Rigid	1001	3	Thunder_Chain3	1					item		Default_Item			GadgetData_Avatar_Name_41024003
+41024011	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Beidou_Thunder						item		Default_Item			GadgetData_Avatar_Name_41024011
+41024012	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Beidou_Thunder1						item		Default_Item			GadgetData_Avatar_Name_41024012
+41025001	ART/Others/Bullet/Bullet_IceVirus	1001	3	IceVirus	1	1				item		Default_Item			GadgetData_Avatar_Name_41025001
+41028001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Pole_Attack						item		Default_Item			GadgetData_Avatar_Name_41028001

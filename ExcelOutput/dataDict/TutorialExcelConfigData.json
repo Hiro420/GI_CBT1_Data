@@ -1,0 +1,489 @@
+{
+  "101": {
+    "id": 101,
+    "detailIdList": [
+      10101,
+      10102
+    ],
+    "pauseGame": false
+  },
+  "102": {
+    "id": 102,
+    "detailIdList": [
+      10201
+    ],
+    "pauseGame": false
+  },
+  "103": {
+    "id": 103,
+    "detailIdList": [
+      10301,
+      10302
+    ],
+    "pauseGame": true
+  },
+  "104": {
+    "id": 104,
+    "detailIdList": [
+      10401,
+      10402,
+      10403
+    ],
+    "pauseGame": true
+  },
+  "105": {
+    "id": 105,
+    "detailIdList": [
+      10501,
+      10502,
+      10503
+    ],
+    "pauseGame": true
+  },
+  "106": {
+    "id": 106,
+    "detailIdList": [
+      10601,
+      10602
+    ],
+    "pauseGame": true
+  },
+  "107": {
+    "id": 107,
+    "detailIdList": [
+      10701,
+      10702
+    ],
+    "pauseGame": true
+  },
+  "108": {
+    "id": 108,
+    "detailIdList": [
+      10801
+    ],
+    "pauseGame": true
+  },
+  "109": {
+    "id": 109,
+    "detailIdList": [
+      10901,
+      10902
+    ],
+    "pauseGame": true
+  },
+  "110": {
+    "id": 110,
+    "detailIdList": [
+      11001,
+      11002
+    ],
+    "pauseGame": true
+  },
+  "111": {
+    "id": 111,
+    "detailIdList": [
+      11101,
+      11102
+    ],
+    "pauseGame": true
+  },
+  "112": {
+    "id": 112,
+    "detailIdList": [
+      11201,
+      11202
+    ],
+    "pauseGame": true
+  },
+  "113": {
+    "id": 113,
+    "detailIdList": [
+      11301,
+      11302,
+      11303,
+      11304
+    ],
+    "pauseGame": true
+  },
+  "114": {
+    "id": 114,
+    "detailIdList": [
+      11401,
+      11402,
+      11403,
+      11404,
+      11405
+    ],
+    "pauseGame": true
+  },
+  "115": {
+    "id": 115,
+    "detailIdList": [
+      11501
+    ],
+    "pauseGame": true
+  },
+  "116": {
+    "id": 116,
+    "detailIdList": [
+      11601
+    ],
+    "pauseGame": true
+  },
+  "117": {
+    "id": 117,
+    "detailIdList": [
+      11701
+    ],
+    "pauseGame": true
+  },
+  "118": {
+    "id": 118,
+    "detailIdList": [
+      11801
+    ],
+    "pauseGame": true
+  },
+  "119": {
+    "id": 119,
+    "detailIdList": [
+      11901
+    ],
+    "pauseGame": true
+  },
+  "120": {
+    "id": 120,
+    "detailIdList": [
+      12001
+    ],
+    "pauseGame": true
+  },
+  "121": {
+    "id": 121,
+    "detailIdList": [
+      12101
+    ],
+    "pauseGame": true
+  },
+  "122": {
+    "id": 122,
+    "detailIdList": [
+      12201
+    ],
+    "pauseGame": true
+  },
+  "123": {
+    "id": 123,
+    "detailIdList": [
+      12301
+    ],
+    "pauseGame": true
+  },
+  "124": {
+    "id": 124,
+    "detailIdList": [
+      12401
+    ],
+    "pauseGame": true
+  },
+  "125": {
+    "id": 125,
+    "detailIdList": [
+      12501
+    ],
+    "pauseGame": true
+  },
+  "126": {
+    "id": 126,
+    "detailIdList": [
+      12601
+    ],
+    "pauseGame": true
+  },
+  "127": {
+    "id": 127,
+    "detailIdList": [
+      12701
+    ],
+    "pauseGame": true
+  },
+  "128": {
+    "id": 128,
+    "detailIdList": [
+      12801
+    ],
+    "pauseGame": true
+  },
+  "129": {
+    "id": 129,
+    "detailIdList": [
+      12901
+    ],
+    "pauseGame": true
+  },
+  "130": {
+    "id": 130,
+    "detailIdList": [
+      13001
+    ],
+    "pauseGame": true
+  },
+  "131": {
+    "id": 131,
+    "detailIdList": [
+      13101
+    ],
+    "pauseGame": true
+  },
+  "132": {
+    "id": 132,
+    "detailIdList": [
+      13201
+    ],
+    "pauseGame": true
+  },
+  "133": {
+    "id": 133,
+    "detailIdList": [
+      13301
+    ],
+    "pauseGame": true
+  },
+  "134": {
+    "id": 134,
+    "detailIdList": [
+      13401
+    ],
+    "pauseGame": true
+  },
+  "135": {
+    "id": 135,
+    "detailIdList": [
+      13501
+    ],
+    "pauseGame": true
+  },
+  "136": {
+    "id": 136,
+    "detailIdList": [
+      13601
+    ],
+    "pauseGame": true
+  },
+  "137": {
+    "id": 137,
+    "detailIdList": [
+      13701
+    ],
+    "pauseGame": true
+  },
+  "138": {
+    "id": 138,
+    "detailIdList": [
+      13801
+    ],
+    "pauseGame": true
+  },
+  "139": {
+    "id": 139,
+    "detailIdList": [
+      13901
+    ],
+    "pauseGame": true
+  },
+  "140": {
+    "id": 140,
+    "detailIdList": [
+      14001
+    ],
+    "pauseGame": true
+  },
+  "141": {
+    "id": 141,
+    "detailIdList": [
+      14101
+    ],
+    "pauseGame": true
+  },
+  "142": {
+    "id": 142,
+    "detailIdList": [
+      14201
+    ],
+    "pauseGame": true
+  },
+  "143": {
+    "id": 143,
+    "detailIdList": [
+      14301
+    ],
+    "pauseGame": true
+  },
+  "144": {
+    "id": 144,
+    "detailIdList": [
+      14401
+    ],
+    "pauseGame": true
+  },
+  "145": {
+    "id": 145,
+    "detailIdList": [
+      14501
+    ],
+    "pauseGame": true
+  },
+  "146": {
+    "id": 146,
+    "detailIdList": [
+      14601
+    ],
+    "pauseGame": true
+  },
+  "147": {
+    "id": 147,
+    "detailIdList": [
+      14701
+    ],
+    "pauseGame": true
+  },
+  "148": {
+    "id": 148,
+    "detailIdList": [
+      14801
+    ],
+    "pauseGame": true
+  },
+  "149": {
+    "id": 149,
+    "detailIdList": [
+      14901,
+      14902
+    ],
+    "pauseGame": true
+  },
+  "150": {
+    "id": 150,
+    "detailIdList": [
+      15001
+    ],
+    "pauseGame": true
+  },
+  "160": {
+    "id": 160,
+    "detailIdList": [
+      16001,
+      16002,
+      16003
+    ],
+    "pauseGame": true
+  },
+  "170": {
+    "id": 170,
+    "detailIdList": [
+      17001,
+      17002,
+      17003,
+      17004,
+      17005
+    ],
+    "pauseGame": true
+  },
+  "180": {
+    "id": 180,
+    "detailIdList": [
+      18001
+    ],
+    "pauseGame": true
+  },
+  "181": {
+    "id": 181,
+    "detailIdList": [
+      18101
+    ],
+    "pauseGame": true
+  },
+  "182": {
+    "id": 182,
+    "detailIdList": [
+      18201
+    ],
+    "pauseGame": true
+  },
+  "183": {
+    "id": 183,
+    "detailIdList": [
+      18301,
+      18302
+    ],
+    "pauseGame": true
+  },
+  "190": {
+    "id": 190,
+    "detailIdList": [
+      19001
+    ],
+    "pauseGame": true
+  },
+  "201": {
+    "id": 201,
+    "detailIdList": [
+      20101
+    ],
+    "pauseGame": true
+  },
+  "202": {
+    "id": 202,
+    "detailIdList": [
+      20201
+    ],
+    "pauseGame": true
+  },
+  "211": {
+    "id": 211,
+    "detailIdList": [
+      21101,
+      21102
+    ],
+    "pauseGame": true
+  },
+  "212": {
+    "id": 212,
+    "detailIdList": [
+      21201
+    ],
+    "pauseGame": true
+  },
+  "221": {
+    "id": 221,
+    "detailIdList": [
+      22101,
+      22102,
+      22103
+    ],
+    "pauseGame": true
+  },
+  "222": {
+    "id": 222,
+    "detailIdList": [
+      22201
+    ],
+    "pauseGame": true
+  },
+  "231": {
+    "id": 231,
+    "detailIdList": [
+      23101,
+      23102,
+      23103
+    ],
+    "pauseGame": true
+  },
+  "232": {
+    "id": 232,
+    "detailIdList": [
+      23201
+    ],
+    "pauseGame": true
+  }
+}

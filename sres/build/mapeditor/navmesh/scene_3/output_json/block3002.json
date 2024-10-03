@@ -1,0 +1,56 @@
+{
+    "navMeshDatas": [
+        {
+            "_center": {
+                "x": 1272.5,
+                "y": 250.0,
+                "z": -775.5
+            },
+            "_size": {
+                "x": 527.0,
+                "y": 500.0,
+                "z": 527.0
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_3/block_3002/navmesh3002000_agent0"
+        },
+        {
+            "_center": {
+                "x": 1272.5,
+                "y": 250.0,
+                "z": -263.5
+            },
+            "_size": {
+                "x": 527.0,
+                "y": 500.0,
+                "z": 527.0
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_3/block_3002/navmesh3002001_agent0"
+        },
+        {
+            "_center": {
+                "x": 1784.5,
+                "y": 250.0,
+                "z": -775.5
+            },
+            "_size": {
+                "x": 527.0,
+                "y": 500.0,
+                "z": 527.0
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_3/block_3002/navmesh3002002_agent0"
+        },
+        {
+            "_center": {
+                "x": 1784.5,
+                "y": 250.0,
+                "z": -263.5
+            },
+            "_size": {
+                "x": 527.0,
+                "y": 500.0,
+                "z": 527.0
+            },
+            "_prefabPath": "Assets/MoleRes/Rel/SRes/Build/MapEditor/NavMesh/scene_3/block_3002/navmesh3002003_agent0"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+ID	Prefab路径	默认阵营	JSON名称	别名	脚本数据路径	Lua脚本路径	Lua数据索引	能否战斗	能否移动	能否发声	是否常驻	部位染色	Billboard类型	Billboard图标	是否不可见	Name
+9001	ART/Char/NPC/NPC_Mengde_Male_Barman/NPC_Mengde_Male_Barman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Npc/Test9001		0	1	1						NpcData_Name_9001
+9002	ART/Char/NPC/NPC_Kanban_Paimon/NPC_Kanban_Paimon	2001	ConfigNpc_Paimon		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_9002
+9003	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_9003
+1	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_1
+2	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_2
+3	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_3
+4	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_4
+5	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_5
+6	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_6
+7	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_7
+8	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_8
+9	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_9
+10	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_10
+11	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_11
+12	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_12
+13	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_13
+14	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_14
+15	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_15
+21	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_21
+22	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_22
+23	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_23
+24	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_24
+25	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_25
+26	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_26
+30	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_30
+31	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_31
+32	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_32
+33	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_33
+101	ART/Char/NPC/NPC_Girl_Sword_Ayaka/NPC_Girl_Sword_Ayaka	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_101
+34	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_34
+35	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	StandOnly		Data/ScriptData/PropObject/SP_010			0	0							NpcData_Name_35
+36	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_36
+37	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_37
+102	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_102
+103	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_103
+79	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_79
+80	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_80
+81	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_81
+82	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_82
+83	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_83
+84	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_84
+85	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_85
+86	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_86
+87	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_87
+88	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_88
+89	ART/Char/NPC/NPC_Mengde_Female_Sample_01/NPC_Mengde_Female_Sample_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_89
+90	ART/Char/NPC/NPC_Mengde_Male_Sample_02/NPC_Mengde_Male_Sample_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_90
+91	ART/Char/NPC/NPC_Mengde_Male_Sample_02/NPC_Mengde_Male_Sample_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_91
+92	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_92
+93	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_93
+94	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_94
+901	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove_Male	StoreKeeper01	Data/ScriptData/PropObject/SP_010	Actor/Npc/StoreKeeper01		0	1	1	1		2	UI_NPCTopIcon_Blacksmith		NpcData_Name_901
+902	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove_Male	StoreKeeper02	Data/ScriptData/PropObject/SP_010	Actor/Npc/StoreKeeper02		0	1	1	1					NpcData_Name_902
+903	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove_Male	StoreKeeper03	Data/ScriptData/PropObject/SP_010	Actor/Npc/StoreKeeper03		0	1	1	1					NpcData_Name_903
+904	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove_Male	StoreKeeper04	Data/ScriptData/PropObject/SP_010	Actor/Npc/StoreKeeper04		0	1	1	1					NpcData_Name_904
+905	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	ConfigNpc_Common_AnimatorMove_Female	JohnDoe01	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe01		0	1	1	1					NpcData_Name_905
+906	ART/Char/NPC/NPC_Mengde_Female_05/NPC_Mengde_Female_05	2001	ConfigNpc_Common_AnimatorMove_Female	JohnDoe02	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe02		0	1	1	1					NpcData_Name_906
+907	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove_Male	JohnDoe03	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe03		0	1	1	1					NpcData_Name_907
+908	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove_Female	JohnDoe04	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe04		0	1	1	1					NpcData_Name_908
+909	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove_Male	JohnDoe05	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe05		0	1	1	1					NpcData_Name_909
+910	ART/Char/NPC/NPC_Mengde_Female_NunWhite02/NPC_Mengde_Female_NunWhite02	2001	ConfigNpc_Common_AnimatorMove_Female	JohnDoe06	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe06		0	1	1	1					NpcData_Name_910
+911	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove_Male	JohnDoe07	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe07		0	1	1	1					NpcData_Name_911
+912	ART/Char/NPC/NPC_Mengde_Male_Soilder02/NPC_Mengde_Male_Soilder02	2001	ConfigNpc_Common_AnimatorMove_Male	JohnDoe08	Data/ScriptData/PropObject/SP_010	Actor/Npc/JohnDoe08		0	1	1	1					NpcData_Name_912
+913	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove_Male	Soilder01	Data/ScriptData/PropObject/SP_010	Actor/Npc/Soilder01		0	1	1	1					NpcData_Name_913
+914	ART/Char/NPC/NPC_Mengde_Male_Soilder02/NPC_Mengde_Male_Soilder02	2001	ConfigNpc_Common_AnimatorMove_Male	Soilder02	Data/ScriptData/PropObject/SP_010	Actor/Npc/Soilder02		0	1	1	1					NpcData_Name_914
+915	ART/Char/NPC/NPC_Mengde_Male_Sample_01/NPC_Mengde_Male_Sample_01	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeSample01	Data/ScriptData/PropObject/SP_010	Actor/Npc/MengdeSample01		0	1	1	1					NpcData_Name_915
+916	ART/Char/NPC/NPC_Mengde_Male_Sample_02/NPC_Mengde_Male_Sample_02	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeSample02	Data/ScriptData/PropObject/SP_010	Actor/Npc/MengdeSample02		0	1	1	1					NpcData_Name_916
+917	ART/Char/NPC/NPC_Mengde_Female_Sample_01/NPC_Mengde_Female_Sample_01	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeSample03	Data/ScriptData/PropObject/SP_010	Actor/Npc/MengdeSample03		0	1	1	1					NpcData_Name_917
+918	ART/Char/NPC/NPC_Mengde_Female_Sample_02/NPC_Mengde_Female_Sample_02	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeSample04	Data/ScriptData/PropObject/SP_010	Actor/Npc/MengdeSample04		0	1	1	1					NpcData_Name_918
+919	ART/Char/NPC/NPC_Mengde_Male_Sample_03/NPC_Mengde_Male_Sample_03	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeSample05	Data/ScriptData/PropObject/SP_010	Actor/Npc/MengdeSample05		0	1	1	1					NpcData_Name_919
+1001	ART/Char/NPC/NPC_Boy_Bow_Venti/NPC_Boy_Bow_Venti	2001	ConfigNpc_Common_AnimatorMove	Wendy	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/Wendy301		0	1	1						NpcData_Name_1001
+1002	ART/Char/NPC/NPC_Girl_Bow_Ambor/NPC_Girl_Bow_Ambor	2001	ConfigNpc_Common_AnimatorMove	Ambor	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/Ambor301		0	1	1						NpcData_Name_1002
+1003	ART/Char/NPC/NPC_Mengde_Male_Barman/NPC_Mengde_Male_Barman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/Robam301		0	1	1						NpcData_Name_1003
+1004	ART/Char/NPC/NPC_Male_Sword_Kaeya/NPC_Male_Sword_Kaeya	2001	ConfigNpc_Common_AnimatorMove	Gaia	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/Gaia301		0	1	1						NpcData_Name_1004
+1005	ART/Char/NPC/NPC_Kanban_Paimon/NPC_Kanban_Paimon	2001	ConfigNpc_Paimon	Paimon	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q352/Paimon		0	1	1						NpcData_Name_1005
+1305	ART/Char/NPC/NPC_Kanban_Paimon/NPC_Kanban_Paimon	2001	ConfigNpc_Paimon		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1305
+1006	ART/Char/NPC/NPC_Lady_Sword_Qin/NPC_Lady_Sword_Qin	2001	ConfigNpc_Common_AnimatorMove	Qin	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q411/Qin		0	1	1						NpcData_Name_1006
+1007	ART/Char/NPC/NPC_Lady_Catalyst_Lisa/NPC_Lady_Catalyst_Lisa	2001	ConfigNpc_Common_AnimatorMove	Lisa	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q411/Lisa		0	1	1						NpcData_Name_1007
+1008	ART/Char/NPC/NPC_Girl_Catalyst_Barbara/NPC_Girl_Catalyst_Barbara	2001	ConfigNpc_Common_AnimatorMove	Barbara	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q413/Barbara		0	1	1						NpcData_Name_1008
+1009	ART/Char/NPC/NPC_Male_Claymore_Diluc/NPC_Male_Claymore_Diluc	2001	ConfigNpc_Common_AnimatorMove	Diluc	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q376/Diluc		0	1	1						NpcData_Name_1009
+1010	ART/Char/NPC/NPC_Dragon_Dvalin_Test/NPC_Dragon_Dvalin_Test	2001	CanMove01		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1010
+1011	ART/Char/NPC/NPC_Boy_Claymore_Razor/NPC_Boy_Claymore_Razor	2001	ConfigNpc_Common_AnimatorMove	Razor	Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1011
+1012	ART/Char/NPC/NPC_Girl_Pole_Xiangling/NPC_Girl_Pole_Xiangling	2001	ConfigNpc_Common_AnimatorMove	Xiangling	Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1012
+1013	ART/Char/NPC/NPC_Girl_Sword_Ayaka/NPC_Girl_Sword_Ayaka	2001	ConfigNpc_Common_AnimatorMove	Xiangling	Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1013
+1014	ART/Char/NPC/NPC_Male_Sword_Kaeya/NPC_Male_Sword_Kaeya	2001	ConfigNpc_Common_AnimatorMove	GaiaSP	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/Gaia301		0	1	1						NpcData_Name_1014
+1101	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/WendyAudience	1	0	1	1						NpcData_Name_1101
+1102	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/WendyAudience	2	0	1	1						NpcData_Name_1102
+1103	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/WendyAudience	3	0	1	1						NpcData_Name_1103
+1104	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/WendyAudience	4	0	1	1						NpcData_Name_1104
+1105	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1105
+1106	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	0	1						NpcData_Name_1106
+1107	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1107
+1108	ART/Char/NPC/NPC_Mengde_Female_NunWhite01/NPC_Mengde_Female_NunWhite01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1108
+1109	ART/Char/NPC/NPC_Mengde_Male_Sergeant/NPC_Mengde_Male_Sergeant	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1109
+1110	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1110
+1111	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1111
+1112	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1112
+1113	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1113
+1114	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1114
+1115	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1115
+1116	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1116
+1117	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1117
+1118	ART/Char/NPC/NPC_Hili_None_Test/NPC_Hili_None_Test	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1118
+1119	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1119
+1120	ART/Char/NPC/NPC_Hili_None_Test/NPC_Hili_None_Test	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1120
+1121	ART/Char/NPC/NPC_Hili_None_Test/NPC_Hili_None_Test	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1121
+1122	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1122
+1123	ART/Char/NPC/NPC_Mengde_Female_01/NPC_Mengde_Female_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1123
+1124	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1124
+1125	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1125
+1130	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1130
+1131	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1131
+1132	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1132
+1133	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1133
+1134	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1134
+1135	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1135
+1136	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1136
+1137	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1137
+1138	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1138
+1139	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1139
+1140	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1140
+1141	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1141
+1142	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1142
+1143	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1143
+1144	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1			1			NpcData_Name_1144
+1151	ART/Char/NPC/NPC_Mengde_Female_02/NPC_Mengde_Female_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1151
+1160	ART/Char/NPC/NPC_Boy_Bow_Venti/NPC_Boy_Bow_Venti	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q301/Wendy301		0	1	1						NpcData_Name_1160
+1161	ART/Char/NPC/NPC_Mengde_Female_NunWhite01/NPC_Mengde_Female_NunWhite01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1161
+1162	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1162
+1163	ART/Char/NPC/NPC_Mengde_Male_Soilder02/NPC_Mengde_Male_Soilder02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1163
+1164	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010	Actor/Quest/Q375/Guard		0	1	1						NpcData_Name_1164
+1165	ART/Char/Animal/Monster/Animal_Fox_01/Animal_Fox_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1165
+1166	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	4001	ConfigNpc_Sensing_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1166
+1167	ART/Char/NPC/NPC_Mengde_Male_01/NPC_Mengde_Male_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1167
+1168	ART/Char/NPC/NPC_Mengde_Male_Barman/NPC_Mengde_Male_Barman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1168
+1169	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1169
+1170	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1170
+1171	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1171
+1172	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1172
+1173	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1173
+1174	ART/Char/NPC/NPC_Mengde_Male_Barman/NPC_Mengde_Male_Barman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1174
+1175	ART/Char/NPC/NPC_Mengde_Male_Barman/NPC_Mengde_Male_Barman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1175
+1176	ART/Char/Animal/Monster/Animal_Fox_01/Animal_Fox_01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1176
+1177	ART/Char/NPC/NPC_Mengde_Female_NunWhite01/NPC_Mengde_Female_NunWhite01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1177
+1178	ART/Char/NPC/NPC_Abyss_Water_01/NPC_Abyss_Water_01	2001	ConfigNpc_Common_AnimatorMove	AbyssWater	Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1178
+1179	ART/Char/NPC/NPC_Mengde_Male_Barman/NPC_Mengde_Male_Barman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1179
+1201	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1201
+1202	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1202
+1203	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1203
+1204	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1204
+1205	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1205
+1206	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1206
+1207	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1207
+1208	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1208
+1209	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_Invisible_Queen			0	0						1	NpcData_Name_1209
+1210	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1210_Male	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	0			Hair,0,925F41FF				NpcData_Name_1210
+1211	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1211_Male	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	0			Hair,0,9C877CFF				NpcData_Name_1211
+1212	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1212_Male	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	0			Hair,0,603E2CFF				NpcData_Name_1212
+1213	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1213_Female	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1							NpcData_Name_1213
+1214	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1214_Male	2001	ConfigNpc_Common_AnimatorMove	KaeyaNpcBoss	Data/ScriptData/PropObject/SP_010			0	1			Hair,0,C38A7DFF				NpcData_Name_1214
+1215	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1215_Male	2001	ConfigNpc_Common_AnimatorMove	Soldier1	Data/ScriptData/PropObject/SP_010			0	1			Hair,0,9C877CFF				NpcData_Name_1215
+1216	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1216_Female	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_011			0	0			Hair,0,C38A7DFF				NpcData_Name_1216
+1217	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,603E2CFF				NpcData_Name_1217
+1218	ART/Char/NPC/NPC_Mengde_Male_Hoffman/NPC_Mengde_Male_Hoffman	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,603E2CFF				NpcData_Name_1218
+1219	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove_Male	AbyssWater	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,E1B575FF				NpcData_Name_1219
+1220	ART/Char/NPC/NPC_Mengde_Female_03/NPC_Mengde_Female_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,E1B575FF				NpcData_Name_1220
+1221	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1221
+1222	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1222
+1223	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1223
+1224	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1224
+1225	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1225
+1226	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1226
+1227	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1227
+1228	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1228
+1229	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1229
+1230	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1230
+1231	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1231
+1232	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1232
+1233	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01_Sneak	4001	ConfigNpc_Sensing_AnimatorMove_Adv		Data/ScriptData/PropObject/SneakAI			0	1	1		Hair,0,E1B575FF	1			NpcData_Name_1233
+1234	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly	Q463Invisible	Data/ScriptData/PropObject/SP_010			0	0						1	NpcData_Name_1234
+1235	ART/Stages/Area/mengde/Whitebox/SneakDoorRed_Test	2001	ConfigNpc_SneakDoor_Test		Data/ScriptData/PropObject/SneakDoor			0	0							NpcData_Name_1235
+1236	ART/Stages/Area/mengde/Whitebox/SneakDoorRed_Test	2001	ConfigNpc_SneakDoor_Test		Data/ScriptData/PropObject/SneakDoor			0	0							NpcData_Name_1236
+1237	ART/Stages/Area/mengde/Whitebox/SneakDoorRed_Test	2001	ConfigNpc_SneakDoor_Test		Data/ScriptData/PropObject/SneakDoor			0	0							NpcData_Name_1237
+1238	ART/Stages/Area/mengde/Whitebox/SneakDoorBlack_Test	2001	ConfigNpc_SneakDoor_Test		Data/ScriptData/PropObject/SneakDoor			0	0							NpcData_Name_1238
+1239	ART/Stages/Area/mengde/Whitebox/SneakDoorBlack_Test	2001	ConfigNpc_SneakDoor_Test		Data/ScriptData/PropObject/SneakDoor			0	0							NpcData_Name_1239
+1240	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_1240_Male	2001	ConfigNpc_Common_AnimatorMove	Soldier2	Data/ScriptData/PropObject/SP_010			0	1			Hair,0,E1B575FF				NpcData_Name_1240
+1241	ART/Char/NPC/NPC_Mengde_Female_Lynn/NPC_Mengde_Female_Lynn	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,C38A7DFF				NpcData_Name_1241
+1242	ART/Char/NPC/NPC_Mengde_Male_Soilder01/NPC_Mengde_Male_Soilder01	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,603E2CFF				NpcData_Name_1242
+1243	ART/Char/NPC/NPC_Kanban_Paimon/NPC_Kanban_Paimon	2001	ConfigNpc_Paimon	PaimonNew	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q352/Paimon		0	1	1						NpcData_Name_1243
+1244	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1244
+1245	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1245
+1246	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1246
+1247	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1247
+1248	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1248
+1249	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1249
+1250	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1250
+1251	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1251
+1252	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1252
+1253	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1253
+1254	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1254
+1255	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly		Data/ScriptData/PropObject/SP_013			0	0						1	NpcData_Name_1255
+1256	ART/Char/NPC/NPC_Mengde_Male_02/NPC_Mengde_Male_02	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1256
+1257	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_19	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1257
+1258	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_11	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1258
+1259	ART/Char/NPC/NPC_Mengde_Male_03/NPC_Mengde_Male_03	2001	ConfigNpc_Common_AnimatorMove		Data/ScriptData/PropObject/SP_010			0	1	1						NpcData_Name_1259
+1260	ART/Char/NPC/NPC_Readable_Invisible/NPC_Readable_Invisible	2001	StandOnly	Q461Invisible	Data/ScriptData/PropObject/SP_010			0	0						1	NpcData_Name_1260
+1401	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayStand_01	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayStand_1	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	1	0	1	1	1	Hair,0,C3A07DFF				NpcData_Name_1401
+1403	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DayStand_01	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeDayStand_2	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	2	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1403
+1404	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_NightSit_01	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	MengdeNightSit_1	Data/ScriptData/PropObject/SP_010	Actor/Npc/NpcMengdeNightSit	1	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1404
+1405	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayStand_02	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayStand_3	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	3	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1405
+1408	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_NightStand_02	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeNightStand_1	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeNightStand	1	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1408
+1409	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DayStand_03	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeDayStand_4	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	4	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1409
+1410	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_NightSit_03	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	MengdeNightSit_2	Data/ScriptData/PropObject/SP_010	Actor/Npc/NpcMengdeNightSit	2	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1410
+1411	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DayStand_04	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeDayStand_5	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	5	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1411
+1412	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_NightStand_04	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeNightStand_2	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeNightStand	2	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1412
+1413	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DayStand_05	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeDayStand_6	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	6	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1413
+1414	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_NightSit_05	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	MengdeNightSit_3	Data/ScriptData/PropObject/SP_010	Actor/Npc/NpcMengdeNightSit	3	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1414
+1415	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_03	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_1	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	1	0	1	1	1					NpcData_Name_1415
+1417	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_06	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_2	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	2	0	1	1	1	Hair,0,C3A07DFF	2	UI_NPCTopIcon_Blacksmith		NpcData_Name_1417
+1419	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_04	2001	ConfigNpc_Common_AnimatorMove_Female_large	MengdeInsomniaStand_3	Data/ScriptData/PropObject/SP_012	Actor/Npc/NpcMengdeInsomniaStand	3	0	1	1	1	Hair,0,C38A7DFF	2	UI_NPCTopIcon_Restaurant		NpcData_Name_1419
+1421	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayPatrol_05	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayPatrol_1	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayPatrol	1	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1421
+1423	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_06	2001	ConfigNpc_Common_AnimatorMove_Female_large	MengdeInsomniaStand_4	Data/ScriptData/PropObject/SP_012	Actor/Npc/NpcMengdeInsomniaStand	4	0	1	1	1	Hair,0,C38A7DFF	2	UI_NPCTopIcon_GeneralCargo		NpcData_Name_1423
+1425	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_07	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_5	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	5	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1425
+1427	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayStand_08	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayStand_7	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	7	0	1	1	1	Hair,0,C38A7DFF				NpcData_Name_1427
+1429	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayStand_09	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayStand_8	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	8	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1429
+1430	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_NightStand_09	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeNightStand_3	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeNightStand	3	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1430
+1431	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayPatrol_10	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayPatrol_2	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayPatrol	2	0	1	1	1	Hair,0,C3A07DFF				NpcData_Name_1431
+1433	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaPatrol_07	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaPatrol_1	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaPatrol	1	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1433
+1435	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_11	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_6	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	6	0	1	1	1	Hair,0,E1B575FF	2	UI_NPCTopIcon_Souvenir		NpcData_Name_1435
+1437	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_08	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_7	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	7	0	1	1	1	Hair,0,8E6767FF				NpcData_Name_1437
+1439	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_09	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_8	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	8	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1439
+1441	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_10	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_9	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	9	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1441
+1443	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_11	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_10	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	10	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1443
+1445	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaPatrol_12	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaPatrol_2	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaPatrol	2	0	1	1	1	Hair,0,A78072FF				NpcData_Name_1445
+1447	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaPatrol_13	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaPatrol_3	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaPatrol	3	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1447
+1449	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaPatrol_14	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaPatrol_4	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaPatrol	4	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1449
+1451	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DayStand_15	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeDayStand_9	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	9	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1451
+1453	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayStand_12	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayStand_10	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayStand	10	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1453
+1455	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayPatrol_13	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayPatrol_3	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayPatrol	3	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1455
+1457	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_16	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_11	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	11	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1457
+1459	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_17	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_12	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	12	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1459
+1461	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DayPatrol_18	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeDayPatrol_4	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayPatrol	4	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1461
+1463	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_DayPatrol_14	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeDayPatrol_5	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDayPatrol	5	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1463
+1465	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_19	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_13	Data/ScriptData/PropObject/SP_012	Actor/Npc/NpcMengdeInsomniaStand	13	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1465
+1467	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_InsomniaStand_20	2001	ConfigNpc_Common_AnimatorMove_Male	MengdeInsomniaStand_14	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	14	0	1	1	1	Hair,0,9C877CFF				NpcData_Name_1467
+1469	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_15	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_15	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	15	0	1	1	1	Hair,0,C38A7DFF	2	UI_NPCTopIcon_EditTeam		NpcData_Name_1469
+1471	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_16	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_16	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	16	0	1	1	1	Hair,0,603E2CFF				NpcData_Name_1471
+1473	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_17	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_17	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	17	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1473
+1475	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DaySit_21	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	MengdeDaySit_1	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDaySit	1	0	1	1	1	Hair,0,E1B575FF				NpcData_Name_1475
+1477	ART/Char/NPC/NPC_Mengde_Male/NPC_Mengde_Male_DaySit_22	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	MengdeDaySit_2	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeDaySit	2	0	1	1	1	Hair,0,925F41FF				NpcData_Name_1477
+1479	ART/Char/NPC/NPC_Mengde_Female/NPC_Mengde_Female_InsomniaStand_18	2001	ConfigNpc_Common_AnimatorMove_Female	MengdeInsomniaStand_18	Data/ScriptData/PropObject/SP_011	Actor/Npc/NpcMengdeInsomniaStand	18	0	1	1	1	Hair,0,C38A7DFF				NpcData_Name_1479
+1480	ART/Char/NPC/NPC_Mengde_Test/NPC_Mengde_Test_Male_01	2001	ConfigNpc_Common_AnimatorMove_Male		Data/ScriptData/PropObject/SP_011			0	1	1		Hair,0,C38A7DFF				NpcData_Name_1480
+1481	ART/Char/NPC/NPC_Mengde_Test/NPC_Mengde_Test_Female_01	2001	ConfigNpc_Common_AnimatorMove_Female		Data/ScriptData/PropObject/SP_011			0	1	1		Hair,0,C38A7DFF				NpcData_Name_1481
+1482	ART/Char/NPC/NPC_Mengde_Test/NPC_Mengde_Test_Female_02	2001	ConfigNpc_Common_AnimatorMove_Female		Data/ScriptData/PropObject/SP_011			0	1	1		Hair,0,C38A7DFF				NpcData_Name_1482
+1483	ART/Char/NPC/NPC_Kanban_Paimon/NPC_Kanban_Paimon	2001	ConfigNpc_Paimon	Paimon469	Data/ScriptData/PropObject/SP_010	Actor/Quest/Q352/Paimon		0	1	1						NpcData_Name_1483
+10001	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_10001_Male	2001	ConfigNpc_Common_AnimatorMove_Male	Q357NPC1	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,E1B575FF				NpcData_Name_10001
+10002	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_10002_Female	2001	ConfigNpc_Common_AnimatorMove_Female	Q357NPC2	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,C38A7DFF				NpcData_Name_10002
+10003	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_10003_Female	2001	ConfigNpc_Common_AnimatorMove_Female	Q357NPC3	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,E1B575FF				NpcData_Name_10003
+10004	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_10004_Female	2001	ConfigNpc_Common_AnimatorMove_Female	Q357NPC4	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,C3A07DFF				NpcData_Name_10004
+10005	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_10005_Female	2001	ConfigNpc_Common_AnimatorMove_Female	Q357NPC5	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,E1B575FF				NpcData_Name_10005
+10006	ART/Char/NPC/NPC_Mengde_Quest/NPC_Mengde_Quest_10006_Female	2001	ConfigNpc_Common_AnimatorMove_Female	Q357NPC6	Data/ScriptData/PropObject/SP_010			0	1	1		Hair,0,925F41FF				NpcData_Name_10006
+20001	ART/Char/NPC/NPC_Mengde_World/NPC_Mengde_World_Male_20001	2001	ConfigNpc_Common_AnimatorMove_Male	TeNa	Data/ScriptData/PropObject/SP_011	Actor/Npc/TempNPC		0	1	1	1	Hair,0,C38A7DFF				NpcData_Name_20001
+20002	ART/Char/NPC/NPC_Mengde_World/NPC_Mengde_World_Male_20002	2001	ConfigNpc_Common_AnimatorMove_Male	KangNa	Data/ScriptData/PropObject/SP_011	Actor/Npc/TempNPC		0	1	1	1	Hair,0,603E2CFF				NpcData_Name_20002

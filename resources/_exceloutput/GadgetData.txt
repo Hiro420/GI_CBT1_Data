@@ -1,0 +1,472 @@
+ID	Prefab路径	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	标签	客户端脚本	ItemJSON名称	ItemPrefab路径	雷达提示类型	Name
+40000001	ART/Others/Gadget/Gadget_SteamField	9999	25	SteamBangField						item		Default_Item			GadgetData_Name_40000001
+40000002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ThunderFistField						item		Default_Item			GadgetData_Name_40000002
+40000003	ART/Others/Bullet/Bullet_GrassDart	1001	3	GrassDart	1					item		Default_Item			GadgetData_Name_40000003
+40000004	ART/Others/Bullet/Bullet_SharkTorpedo	1001	3	SharkTorpedo	1					item		Default_Item			GadgetData_Name_40000004
+40000005	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	SharkTorpedo_Spurt	1					item		Default_Item			GadgetData_Name_40000005
+40000006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	SharkTorpedo_Spurt_2	1					item		Default_Item			GadgetData_Name_40000006
+40000104	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	FrostSpear	1					item		Default_Item			GadgetData_Name_40000104
+40000115	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Old						item		Default_Item			GadgetData_Name_40000115
+40000116	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Old						item		Default_Item			GadgetData_Name_40000116
+40000117	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Old						item		Default_Item			GadgetData_Name_40000117
+40000118	ART/Others/Bullet/Bullet_RockImpact	1001	3	Kevin_RockImpact	1					item		Default_Item			GadgetData_Name_40000118
+40000119		1001	18	ModifiedTrigger						item		Default_Item			GadgetData_Name_40000119
+40000120		1001	18	RockImpactTrap						item		Default_Item			GadgetData_Name_40000120
+40000121	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Strike						item		Default_Item			GadgetData_Name_40000121
+40000139	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	NoAvatar_IceRain											GadgetData_Name_40000139
+40000140	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	NoAvatar_IceTrap											GadgetData_Name_40000140
+40000148	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ClawMark_Mark	1	1				item		Default_Item			GadgetData_Name_40000148
+40000154	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ClawMark_Mark_Lycan	1	1				item		Default_Item			GadgetData_Name_40000154
+40000160	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	AimingArrow_WithoutFire	1	1				item		Default_Item			GadgetData_Name_40000160
+40000161	ART/Others/Bullet/Bullet_Arrow	1001	3	Double_ArrowAiming_WithoutFire	1	1				item		Default_Item			GadgetData_Name_40000161
+40000172	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	Frost_Orb	1	1				item		Default_Item			GadgetData_Name_40000172
+40000173	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	Frost_Orb_Bullet	1	1				item		Default_Item			GadgetData_Name_40000173
+40000174	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_01	1	1				item		Default_Item			GadgetData_Name_40000174
+40000175	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_02	1	1				item		Default_Item			GadgetData_Name_40000175
+40000176	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_03	1	1				item		Default_Item			GadgetData_Name_40000176
+40000177	ART/Others/Bullet/Bullet_JumpingBomb	1001	3	JumpDrug_Whitbox_04	1	1				item		Default_Item			GadgetData_Name_40000177
+40000178	ART/Others/Bullet/Bullet_JumpingBomb	1002	3	EmptyGadget	1	1				item		Default_Item			GadgetData_Name_40000178
+40100001	ART/Others/Bullet/Bullet_Arrow	1001	3	Test_Arrow	1	1				item		Default_Item			GadgetData_Name_40100001
+40100006	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	Test_ArrowAiming	1	1				item		Default_Item			GadgetData_Name_40100006
+40100013	ART/Others/Bullet/Bullet_Gear_Elec_Shoot	4001	3	Gear_ElectricBall	1					item		Default_Item			GadgetData_Name_40100013
+40100200	ART/Others/SceneObj/SceneObj_RoomDoorTest	1001	19	RoomDoor				1		item		Default_Item			GadgetData_Name_40100200
+40100201	ART/Stages/Indoor/Mengde/Props/Indoor_MdProps_Knight_Door01_Lod0	1001	19	RoomDoor				1		item		Default_Item			GadgetData_Name_40100201
+40200001	ART/Effect/SceneInteractive/Eff_WindField_Vertical	1001	23	AirflowField						item		Default_Item			GadgetData_Name_40200001
+40200002	ART/Effect/SceneInteractive/Eff_WindField_Horizontal_01	1001	23							item		Default_Item			GadgetData_Name_40200002
+40200003	ART/Others/Gadget/Gadget_SpeedupField	1001	24	SpeedupField						item		Default_Item			GadgetData_Name_40200003
+40200008	ART/Effect/SceneInteractive/Eff_WindField_FireGrass	1001	23							item		Default_Item			GadgetData_Name_40200008
+40200020	ART/Effect/SceneInteractive/Eff_WindField_Vertical_Feather_01	1001	23	AirflowFieldBlue						item		Default_Item			GadgetData_Name_40200020
+40210006	ART/Others/SceneObj/SceneObj_Gear_Shooter	5001	19	DragonNest_Tornado_Controller					1						GadgetData_Name_40210006
+40210007	ART/Others/SceneObj/SceneObj_Test_StrongWindSafeRegion	5001	19	DragonNest_StrongWindSafeRegion						item		Default_Item			GadgetData_Name_40210007
+41002001	ART/Others/Bullet/Bullet_Windmill	1001	18	FrozenWindmill	1					item		Default_Item			GadgetData_Name_41002001
+41002002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	IceSpine_Large						item		Default_Item			GadgetData_Name_41002002
+41002003		1001	18	Frozen_Butterfly_Area	1	1				item		Default_Item			GadgetData_Name_41002003
+41002004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Frozen_Butterfly_Area_Material		1				item		Default_Item			GadgetData_Name_41002004
+41003001	ART/Others/SkillObj/SkillObj_WoodSpike	1001	18	WoodSpikeField						item		Default_Item			GadgetData_Name_41003001
+41003002	ART/Others/SkillObj/SkillObj_WoodSpike	1001	18	HealingSeal						item		Default_Item			GadgetData_Name_41003002
+41003003	ART/Others/SkillObj/SkillObj_WoodWall	1001	18	WoodWall						item		Default_Item			GadgetData_Name_41003003
+41003004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	DandelionWind_1						item		Default_Item			GadgetData_Name_41003004
+41003005	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	DandelionWind_2						item		Default_Item			GadgetData_Name_41003005
+41005001	ART/Others/Bullet/Bullet_WindBreathe_Tornado	1001	3	WindBreathe_Tornado	1					item		Default_Item			GadgetData_Name_41005001
+41005002	ART/Others/Bullet/Bullet_Arashi	1001	3	Player_Wind_Arashi	1					item		Default_Item			GadgetData_Name_41005002
+41005003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Hogyoku_Base						item		Default_Item			GadgetData_Name_41005003
+41005004	ART/Others/SkillObj/SkillObj_Hogyoku	1001	18	Hogyoku_Barrier						item		Default_Item			GadgetData_Name_41005004
+41005005	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	RockTide						item		Default_Item			GadgetData_Name_41005005
+41005006	ART/Others/SkillObj/SkillObj_RockTide_Barrier	1001	18	RockTide_Barrier						item		Default_Item			GadgetData_Name_41005006
+41005007	ART/Others/Bullet/Bullet_PlayerBoy_ExtraAttack_Wave	1001	3	PlayerBoy_ExtraAttack_Wave	1	1				item		Default_Item			GadgetData_Name_41005007
+41006001	ART/Others/Bullet/Bullet_PierceLightning	1001	18	FrozenWindmill	1					item		Default_Item			GadgetData_Name_41006001
+41006002	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	LightningBolt	1					item		Default_Item			GadgetData_Name_41006002
+41006003	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	LightningSpear	1					item		Default_Item			GadgetData_Name_41006003
+41006004	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	LightningSpear_1	1					item		Default_Item			GadgetData_Name_41006004
+41006005	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	LightningSpear_2	1					item		Default_Item			GadgetData_Name_41006005
+41006006	ART/Others/Gadget/Gadget_DropItem_HP	1001	18	ConductiveField						item		Default_Item			GadgetData_Name_41006006
+41006007	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	FilckerWave	1					item		Default_Item			GadgetData_Name_41006007
+41006008	ART/Others/Gadget/Gadget_DropItem_HP	1001	18	StaticElecField						item		Default_Item			GadgetData_Name_41006008
+41006009	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	FlickerWave	1					item		Default_Item			GadgetData_Name_41006009
+41006010	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	Lisa_Attack01	1					item		Default_Item			GadgetData_Name_41006010
+41006011	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	Lisa_Attack02	1					item		Default_Item			GadgetData_Name_41006011
+41006012	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	18	Lisa_Attack03	1					item		Default_Item			GadgetData_Name_41006012
+41006013	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	PierceLightning_Ball						item		Default_Item			GadgetData_Name_41006013
+41006014	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword1	1					item		Default_Item			GadgetData_Name_41006014
+41006015	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword2	1					item		Default_Item			GadgetData_Name_41006015
+41006016	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword3	1					item		Default_Item			GadgetData_Name_41006016
+41006017	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword4	1					item		Default_Item			GadgetData_Name_41006017
+41006018	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword5	1					item		Default_Item			GadgetData_Name_41006018
+41006019	ART/Others/Bullet/Bullet_LightningBoltSpear	1001	3	PhantomSword6	1					item		Default_Item			GadgetData_Name_41006019
+41014001	ART/Others/Bullet/Bullet_Barbara_NormalAttack	1001	18	Barbara_Attack01	1					item		Default_Item			GadgetData_Name_41014001
+41014002	ART/Others/Bullet/Bullet_Barbara_NormalAttack	1001	18	Barbara_Attack02	1					item		Default_Item			GadgetData_Name_41014002
+41014003	ART/Others/Bullet/Bullet_Barbara_NormalAttack	1001	18	Barbara_Attack03	1					item		Default_Item			GadgetData_Name_41014003
+41014004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Barbara_WetShiled	1					item		Default_Item			GadgetData_Name_41014004
+41014005	ART/Others/Bullet/Bullet_Wetshiled	1001	3	Eff_WetShiled	1					item		Default_Item			GadgetData_Name_41014005
+41015001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	FrozenField						item		Default_Item			GadgetData_Name_41015001
+41015002	ART/Others/Bullet/Bullet_IceShieldImpact	1001	3	IceShieldImpact_L	1					item		Default_Item			GadgetData_Name_41015002
+41015003	ART/Others/Bullet/Bullet_IceShieldImpact	1001	3	IceShieldImpact_R	1					item		Default_Item			GadgetData_Name_41015003
+41015004	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	FrozenTrap_BS	1					item		Default_Item			GadgetData_Name_41015004
+41015005	ART/Others/SkillObj/SkillObj_FrozenTrap	1001	3	FrozenTrap	1					item		Default_Item			GadgetData_Name_41015005
+41015006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	FrozenTrap_Pre						item		Default_Item			GadgetData_Name_41015006
+41015007	ART/Others/SkillObj/SkillObj_FrozenTrap	1001	3	FrozenTrap_2	1					item		Default_Item			GadgetData_Name_41015007
+41015008	ART/Others/SkillObj/SkillObj_FrozenTrap_Fuse	1001	18	FrozenTrap_Fuse_6	1					item		Default_Item			GadgetData_Name_41015008
+41016001	ART/Others/Bullet/Bullet_FireCross	1001	3	Diluc_FireCross	1					item		Default_Item			GadgetData_Name_41016001
+41016002	ART/Others/Bullet/Bullet_FireCross	1001	3	Diluc_FireCross1	1					item		Default_Item			GadgetData_Name_41016002
+41016003	ART/Others/Bullet/Bullet_FireCross	1001	3	Diluc_FireCross2	1					item		Default_Item			GadgetData_Name_41016003
+41016004	ART/Others/Bullet/Bullet_FireCross	1001	3	Diluc_FireCross3	1					item		Default_Item			GadgetData_Name_41016004
+41021001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	ArrowRainField						item		Default_Item			GadgetData_Name_41021001
+41021002	ART/Others/SkillObj/SkillObj_Dummy	1001	18	Dummy	1	1				item		Default_Item			GadgetData_Name_41021002
+41021003	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw	1	1				item		Default_Item			GadgetData_Name_41021003
+41021004	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw_7M	1	1				item		Default_Item			GadgetData_Name_41021004
+41021005	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw_4M	1	1				item		Default_Item			GadgetData_Name_41021005
+41021006	ART/Others/SkillObj/SkillObj_Dummy_Throw	1001	18	Dummy_Throw_Short	1	1				item		Default_Item			GadgetData_Name_41021006
+41021007	ART/Others/Bullet/Bullet_Arrow	1001	3	Double_ArrowAiming	1	1				item		Default_Item			GadgetData_Name_41021007
+41021008	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Dummy_ElementBall	1	1				item		Default_Item			GadgetData_Name_41021008
+41021009	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_01	1	1				item		Default_Item			GadgetData_Name_41021009
+41021010	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_02	1	1				item		Default_Item			GadgetData_Name_41021010
+41021011	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_03	1	1				item		Default_Item			GadgetData_Name_41021011
+41021012	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_04	1	1				item		Default_Item			GadgetData_Name_41021012
+41021013	ART/Others/Bullet/Bullet_Arrow	1001	3	Ambor_Arrow_05	1	1				item		Default_Item			GadgetData_Name_41021013
+41022001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	3	Hurricane_Arrow						item		Default_Item			GadgetData_Name_41022001
+41022002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Venti_WindBlade						item		Default_Item			GadgetData_Name_41022002
+41022003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Venti_WindBlade_Land						item		Default_Item			GadgetData_Name_41022003
+41022004	ART/Others/Bullet/Bullet_Venti_ArrowAiming	1001	3	AimingArrow_Wind	1	1				item		Default_Item			GadgetData_Name_41022004
+41022005	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	AimingArrow_WithoutWind	1	1				item		Default_Item			GadgetData_Name_41022005
+41022006	ART/Others/Bullet/Bullet_Venti_ArrowAiming	1001	3	Venti_Talent_AimingArrow_Wind	1	1				item		Default_Item			GadgetData_Name_41022006
+41022007	ART/Others/Bullet/Bullet_ArrowAiming	1001	3	Venti_Talent_AimingArrow_WithoutWind	1	1				item		Default_Item			GadgetData_Name_41022007
+41022008	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_01	1	1				item		Default_Item			GadgetData_Name_41022008
+41022009	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_02	1	1				item		Default_Item			GadgetData_Name_41022009
+41022010	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_03	1	1				item		Default_Item			GadgetData_Name_41022010
+41022011	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_04	1	1				item		Default_Item			GadgetData_Name_41022011
+41022012	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_05	1	1				item		Default_Item			GadgetData_Name_41022012
+41022013	ART/Others/Bullet/Bullet_Arrow	1001	3	Venti_Arrow_06	1	1				item		Default_Item			GadgetData_Name_41022013
+41023001	ART/Others/Bullet/Bullet_PlayerBoy_ExtraAttack_Wave	1001	3	Xiangling_ExtraAttack_Bullet	1	1				item		Default_Item			GadgetData_Name_41023001
+41023002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Xiangling_Panda1	1	1				item		Default_Item			GadgetData_Name_41023002
+41023003	ART/Others/SkillObj/SkillObj_Panda_Pepper	1001	18	Xiangling_Panda_Pepper	1	1				item		Default_Item			GadgetData_Name_41023003
+41023004	ART/Others/Bullet/Bullet_FireCircle	1001	18	Xiangling_FireCircle	1	1				item		Default_Item			GadgetData_Name_41023004
+41023011	ART/Others/SkillObj/SkillObj_Panda	1001	18	Xiangling_Panda	1	1				item		Default_Item			GadgetData_Name_41023011
+41024001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	3	Thunder_Chain1	1					item		Default_Item			GadgetData_Name_41024001
+41024002	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	3	Thunder_Chain2	1					item		Default_Item			GadgetData_Name_41024002
+41024003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	3	Thunder_Chain3	1					item		Default_Item			GadgetData_Name_41024003
+41024011	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Beidou_Thunder						item		Default_Item			GadgetData_Name_41024011
+41024012	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Beidou_Thunder1						item		Default_Item			GadgetData_Name_41024012
+41025001	ART/Others/Bullet/Bullet_IceVirus	1001	3	IceVirus	1	1				item		Default_Item			GadgetData_Name_41025001
+41028001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	18	Pole_Attack						item		Default_Item			GadgetData_Name_41028001
+42001001	ART/Others/Bullet/Bullet_ThrowBomb	4001	19	Fire_Bomb_01			1			item		Default_Item			GadgetData_Name_42001001
+42001002	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_RockThrow	1					item		Default_Item			GadgetData_Name_42001002
+42001003	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Slime_Bubble	1					item		Default_Item			GadgetData_Name_42001003
+42001004	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_IceCone	1					item		Default_Item			GadgetData_Name_42001004
+42001005	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_IceFog						item		Default_Item			GadgetData_Name_42001005
+42001006	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_Current	1					item		Default_Item			GadgetData_Name_42001006
+42001007	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_AirAtk	1					item		Default_Item			GadgetData_Name_42001007
+42001008	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_WindZone_02_DieInAir						item		Default_Item			GadgetData_Name_42001008
+42001009	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_WindZone_03_DieInAir						item		Default_Item			GadgetData_Name_42001009
+42001010	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_WindZone_02						item		Default_Item			GadgetData_Name_42001010
+42001011	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_WindZone_03						item		Default_Item			GadgetData_Name_42001011
+42001012	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_Seed	1					item		Default_Item			GadgetData_Name_42001012
+42001013	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_SeedAtk	1					item		Default_Item			GadgetData_Name_42001013
+42001014	ART/Others/Bullet/Bullet_Slime_GrassSeed	4001	19	Slime_SeedGrow						item		Default_Item			GadgetData_Name_42001014
+42001015	ART/Others/Bullet/Bullet_Slime_GrassSeed	4001	3	Slime_SeedFloat	1					item		Default_Item			GadgetData_Name_42001015
+42001016	ART/Effect/Skill/Monster/Monster_Slime/Eff_Monster_Slime_Wind_Airflow	1001	23	Slime_Airflow						item		Default_Item			GadgetData_Name_42001016
+42001017	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_FireTrail						item		Default_Item			GadgetData_Name_42001017
+42001018	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_SelfExplosion_01						item		Default_Item			GadgetData_Name_42001018
+42001019	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_SelfExplosion_02						item		Default_Item			GadgetData_Name_42001019
+42001020	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Slime_SelfExplosion_03						item		Default_Item			GadgetData_Name_42001020
+42002001	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Elemental_AirflowField						item		Default_Item			GadgetData_Name_42002001
+42002002	ART/Others/SkillObj/SkillObj_EarthWrath	4001	19	Elemental_EarthWrath						item		Default_Item			GadgetData_Name_42002002
+42002003	ART/Effect/Skill/Monster/Monster_Elemental/Eff_Monster_Elemental_Wind_EarthWrath_Airflow	1001	23	Elemental_Airflow						item		Default_Item			GadgetData_Name_42002003
+42101001	ART/Others/Bullet/Bullet_ThrowClub	4001	19	Test_ThrowClub	1					item		Default_Item			GadgetData_Name_42101001
+42101002	ART/Others/Bullet/Bullet_PlantThorns	4001	3	PlantThorns	1					item		Default_Item			GadgetData_Name_42101002
+42101003	ART/Others/Bullet/Bullet_Arrow	4001	3	Hili_Fire_Arrow	1	1				item		Default_Item			GadgetData_Name_42101003
+42101004	ART/Others/Bullet/Bullet_ThrowClub_Fire	4001	19	Test_ThrowClubFire	1					item		Default_Item			GadgetData_Name_42101004
+42101005	ART/Others/SkillObj/SkillObj_PlantGrasping	4001	19	PlantGrasping						item		Default_Item			GadgetData_Name_42101005
+42101006	ART/Others/Bullet/Bullet_Arrow	4001	3	Test_Monster_Arrow	1	1				item		Default_Item			GadgetData_Name_42101006
+42101007	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Slime_FireBall	1	1				item		Default_Item			GadgetData_Name_42101007
+42101008	ART/Others/SkillObj/SkillObj_PlantGrasping_Field	4001	19	PlantGrasping_Field						item		Default_Item			GadgetData_Name_42101008
+42101009	ART/Others/Bullet/Bullet_Hili_Pebble	4001	3	Hili_PebbleBullet	1					item		Default_Item			GadgetData_Name_42101009
+42101010	ART/Others/Bullet/Bullet_Arrow	4001	3	Hili_Ice_Arrow	1	1				item		Default_Item			GadgetData_Name_42101010
+42101011	ART/Others/Bullet/Bullet_Arrow	4001	3	Hili_Electric_Arrow	1	1				item		Default_Item			GadgetData_Name_42101011
+42102001	ART/Others/Bullet/Bullet_Brute_Axe_FireWave01	4001	3	Brute_Axe_FireWave01	1					item		Default_Item			GadgetData_Name_42102001
+42102002	ART/Others/Bullet/Bullet_Brute_Axe_FireWave02	4001	3	Brute_Axe_FireWave02	1					item		Default_Item			GadgetData_Name_42102002
+42102003	ART/Others/SkillObj/SkillObj_Monster_Brute_FireSlime_Throw	1001	3	Brute_Axe_FireSlime_Fire	1	1				item		Default_Item			GadgetData_Name_42102003
+42102004	ART/Others/SkillObj/SkillObj_Monster_Brute_FireSlime_Throw	1001	3	Brute_Axe_FireSlime_None	1	1				item		Default_Item			GadgetData_Name_42102004
+42102005	ART/Others/SkillObj/SkillObj_Monster_Brute_GrassSlime_Throw	1001	3	Brute_Shield_GrassSlime	1	1				item		Default_Item			GadgetData_Name_42102005
+42103001	ART/Others/Bullet/Bullet_Shaman_Water_ThrowObject	4001	3	Shaman_WaterStream	1					item		Default_Item			GadgetData_Name_42103001
+42103002	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	18	Shaman_HealRain_Field						item		Default_Item			GadgetData_Name_42103002
+42103003	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Shaman_GrassField						item		Default_Item			GadgetData_Name_42103003
+42103004	ART/Others/SkillObj/SkillObj_Shaman_GrassWall	1001	19	Shaman_GrassWall						item		Default_Item			GadgetData_Name_42103004
+42103005	ART/Others/Bullet/Bullet_WindBreathe_Tornado	1001	3	Shaman_Tornado	1					item		Default_Item			GadgetData_Name_42103005
+42103006	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Shaman_Tornado_Position	1					item		Default_Item			GadgetData_Name_42103006
+42103007	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Shaman_WaterBall_Area						item		Default_Item			GadgetData_Name_42103007
+42103008	ART/Others/Bullet/Bullet_Shaman_WaterBall	4001	3	Shaman_WaterBall	1					item		Default_Item			GadgetData_Name_42103008
+42201001	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Abyss_WaterBall	1					item		Default_Item			GadgetData_Name_42201001
+42201002	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Abyss_Bubble_Missile	1					item		Default_Item			GadgetData_Name_42201002
+42201003	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Abyss_FireEnergy_Surround						item		Default_Item			GadgetData_Name_42201003
+42201004	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Abyss_WaterBall_Gather	1					item		Default_Item			GadgetData_Name_42201004
+42201005	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Abyss_Bubble_Gather	1					item		Default_Item			GadgetData_Name_42201005
+42201006	ART/Others/Bullet/Bullet_Abyss_Cyclone	4001	3	Abyss_Cyclone	1					item		Default_Item			GadgetData_Name_42201006
+42201007	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Abyss_Impulse						item		Default_Item			GadgetData_Name_42201007
+42201008	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	18	Abyss_ImpulseArea						item		Default_Item			GadgetData_Name_42201008
+42201009	ART/Others/Bullet/Bullet_Slime_ThrowObject	4001	3	Abyss_IceCone_01	1					item		Default_Item			GadgetData_Name_42201009
+42201010	ART/Others/Bullet/Bullet_Abyss_Bubble_Missile	4001	3	Abyss_IceCone_03	1					item		Default_Item			GadgetData_Name_42201010
+42201011	ART/Others/SkillObj/SkillObj_EmptyGadget	4001	19	Abyss_IceCone_Area						item		Default_Item			GadgetData_Name_42201011
+42201012	ART/Others/Bullet/Bullet_Abyss_IceCone_Gather	4001	3	Abyss_IceCone_Gather_01	1					item		Default_Item			GadgetData_Name_42201012
+42201013	ART/Others/Bullet/Bullet_Abyss_IceCone_Gather	4001	3	Abyss_IceCone_Gather_02	1					item		Default_Item			GadgetData_Name_42201013
+42201014	ART/Others/Bullet/Bullet_Abyss_IceCone_Gather	4001	3	Abyss_IceCone_Gather_03	1					item		Default_Item			GadgetData_Name_42201014
+42201015	ART/Others/Bullet/Bullet_Abyss_IceCone_Gather	4001	3	Abyss_IceCone_Gather_04	1					item		Default_Item			GadgetData_Name_42201015
+42304001	ART/Others/Bullet/Bullet_Defender_Laser	4001	3	Defender_Laser	1	1				item		Default_Item			GadgetData_Name_42304001
+42304002	ART/Effect/Skill/Monster/Monster_Defender/Eff_Monster_Defender_None_Whirl_WindField	1001	23	Defender_AirflowField	1					item		Default_Item			GadgetData_Name_42304002
+42901001	ART/Others/SkillObj/SkillObj_EmptyGadget	1001	19	Dvalin_Trigger01	1					item		Default_Item			GadgetData_Name_42901001
+42901002	ART/Others/SkillObj/SkillObj_Monster_Dvalin_AirFlowGlobal01	1001	19	Dvalin_AirFlowGlobal01	1					item		Default_Item			GadgetData_Name_42901002
+42901003	ART/Others/SkillObj/SkillObj_Monster_Dvalin_WindRing01	1001	19	Dvalin_WindRing01	1					item		Default_Item			GadgetData_Name_42901003
+42901004	ART/Others/Bullet/Bullet_Dvalin_S01_Bullet01	1001	19	Dvalin_S01_Bullet01	1					item		Default_Item			GadgetData_Name_42901004
+42901005	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Bullet01_Launcher	1001	19	Dvalin_S01_Bullet01_Launcher	1					item		Default_Item			GadgetData_Name_42901005
+42901006	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Bullet02_Launcher	1001	19	Dvalin_S01_Bullet02_Launcher	1					item		Default_Item			GadgetData_Name_42901006
+42901007	ART/Others/SkillObj/SkillObj_Monster_Dvalin_Bullet03_Launcher	1001	19	Dvalin_S01_Bullet03_Launcher	1					item		Default_Item			GadgetData_Name_42901007
+42901008	ART/Others/SkillObj/SkillObj_Monster_Dvalin_MovingCenter	1001	19	Dvalin_S01_Moving_Center	1					item		Default_Item			GadgetData_Name_42901008
+42901009	ART/Effect/Skill/Monster/Monster_Dvalin/Eff_Monster_Dvalin_Test_WindField01	1001	19	Dvalin_S04_WindField01	1					item		Default_Item			GadgetData_Name_42901009
+42901010	ART/Effect/Skill/Monster/Monster_Dvalin/Eff_Monster_Dvalin_Test_WindField02	1001	19	Dvalin_S04_WindField02	1					item		Default_Item			GadgetData_Name_42901010
+42901011	ART/Effect/Skill/Monster/Monster_Dvalin/Eff_Monster_Dvalin_Test_WindField03	1001	19	Dvalin_S04_WindField03	1					item		Default_Item			GadgetData_Name_42901011
+42901012	ART/Others/Bullet/Bullet_Dvalin_S02_AirGun	4001	3	Dvalin_S02_AirGun	1	1				item		Default_Item			GadgetData_Name_42901012
+50000100	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01		GadgetData_Name_50000100
+50000101	ART/Equip/AvatarEquip/Equip_Crossbow_01/Equip_Crossbow_01	0	8	Weapon_Crossbow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Crossbow_01/Equip_Crossbow_01		GadgetData_Name_50000101
+50000102	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01		GadgetData_Name_50000102
+50000201	ART/Equip/AvatarEquip/Equip_Bow_Bakufu/Equip_Bow_Bakufu	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Bakufu/Equip_Bow_Bakufu		GadgetData_Name_50000201
+50004001	ART/Equip/MonEquip/MonEquip_WoodenClub_01/MonEquip_WoodenClub_01	0	9	MonEquip_WoodenClub_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_WoodenClub_01/MonEquip_WoodenClub_01		GadgetData_Name_50004001
+50004002	ART/Equip/MonEquip/MonEquip_Shield_01/MonEquip_Shield_01	0	9	MonEquip_Shield_01			1			undead_equip01,shield		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Shield_01/MonEquip_Shield_01		GadgetData_Name_50004002
+50004003	ART/Equip/MonEquip/MonEquip_WoodenClub_Fire/MonEquip_WoodenClub_Fire	0	9	MonEquip_WoodenClub_Fire_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_WoodenClub_Fire/MonEquip_WoodenClub_Fire		GadgetData_Name_50004003
+50004004	ART/Equip/MonEquip/MonEquip_Crossbow_01/MonEquip_Crossbow_01	0	9	MonEquip_Crossbow_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Crossbow_01/MonEquip_Crossbow_01		GadgetData_Name_50004004
+50004005	ART/Equip/MonEquip/MonEquip_BackPack_Fire/MonEquip_BackPack_Fire	0	9	MonEquip_Backpack_Fire			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_BackPack_Fire/MonEquip_BackPack_Fire		GadgetData_Name_50004005
+50004006	ART/Equip/MonEquip/MonEquip_Staff_Fire_01/MonEquip_Staff_Fire_01	0	9	MonEquip_Staff_Fire_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Staff_Fire_01/MonEquip_Staff_Fire_01		GadgetData_Name_50004006
+50004007	ART/Equip/MonEquip/MonEquip_Staff_Ice_01/MonEquip_Staff_Ice_01	0	9	MonEquip_Staff_Ice_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Staff_Ice_01/MonEquip_Staff_Ice_01		GadgetData_Name_50004007
+50004008	ART/Equip/MonEquip/MonEquip_Staff_Water_01/MonEquip_Staff_Water_01	0	9	MonEquip_Staff_Water_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Staff_Water_01/MonEquip_Staff_Water_01		GadgetData_Name_50004008
+50004009	ART/Equip/MonEquip/MonEquip_Wand_Water_01/MonEquip_Wand_Water_01	0	9	MonEquip_Wand_Water_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Wand_Water_01/MonEquip_Wand_Water_01		GadgetData_Name_50004009
+50004010	ART/Equip/MonEquip/MonEquip_Wand_Grass_01/MonEquip_Wand_Grass_01	0	9	MonEquip_Wand_Grass_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Wand_Grass_01/MonEquip_Wand_Grass_01		GadgetData_Name_50004010
+50004011	ART/Equip/MonEquip/MonEquip_WoodenClub_02/MonEquip_WoodenClub_02	0	9	MonEquip_WoodenClub_02			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_WoodenClub_02/MonEquip_WoodenClub_02		GadgetData_Name_50004011
+50004012	ART/Equip/MonEquip/MonEquip_Shield_02/MonEquip_Shield_02	0	9	MonEquip_Shield_02			1			undead_equip01,shield		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Shield_02/MonEquip_Shield_02		GadgetData_Name_50004012
+50004013	ART/Equip/MonEquip/MonEquip_Axe_01/MonEquip_Axe_01	0	9	MonEquip_Axe_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Shield_02/MonEquip_Axe_01		GadgetData_Name_50004013
+50004014	ART/Equip/MonEquip/MonEquip_Wand_Wind_01/MonEquip_Wand_Wind_01	0	9	MonEquip_Wand_Wind_01			1			undead_equip01		Default_MonsterWeapon	ART/Equip/MonEquip/MonEquip_Wand_Wind_01/MonEquip_Wand_Wind_01		GadgetData_Name_50004014
+50010000	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01		GadgetData_Name_50010000
+50010001	ART/Equip/AvatarEquip/Equip_Sword_Katana_Test_01/Equip_Sword_Katana_Test_01	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Katana_Test_01/Equip_Sword_Katana_Test_01		GadgetData_Name_50010001
+50010002	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01_Sheath	0	8	Weapon_Sword_Sheath_Test_01		0	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_01/Equip_Sword_01_Sheath		GadgetData_Name_50010002
+50010003	ART/Equip/AvatarEquip/Equip_Sword_Norse/Equip_Sword_Norse	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Norse/Equip_Sword_Norse		GadgetData_Name_50010003
+50010004	ART/Equip/AvatarEquip/Equip_Sword_Steel/Equip_Sword_Steel	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Steel/Equip_Sword_Steel		GadgetData_Name_50010004
+50010005	ART/Equip/AvatarEquip/Equip_Sword_Zephyrus/Equip_Sword_Zephyrus	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Zephyrus/Equip_Sword_Zephyrus		GadgetData_Name_50010005
+50010006	ART/Equip/AvatarEquip/Equip_Sword_Dvalin/Equip_Sword_Dvalin	0	8	Weapon_Sword_Dvalin		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Dvalin/Equip_Sword_Dvalin		GadgetData_Name_50010006
+50010007	ART/Equip/AvatarEquip/Equip_Sword_Wooden/Equip_Sword_Wooden	0	8	Weapon_Sword_Wood_Normal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Wooden/Equip_Sword_Wooden		GadgetData_Name_50010007
+50010008	ART/Equip/AvatarEquip/Equip_Sword_Bakufu/Equip_Sword_Bakufu	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Bakufu/Equip_Sword_Bakufu		GadgetData_Name_50010008
+50010009	ART/Equip/AvatarEquip/Equip_Sword_Narukami/Equip_Sword_Narukami	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Narukami/Equip_Sword_Narukami		GadgetData_Name_50010009
+50010010	ART/Equip/AvatarEquip/Equip_Sword_Darker/Equip_Sword_Darker	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Darker/Equip_Sword_Darker		GadgetData_Name_50010010
+50010011	ART/Equip/AvatarEquip/Equip_Sword_Rockkiller/Equip_Sword_Rockkiller	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Rockkiller/Equip_Sword_Rockkiller		GadgetData_Name_50010011
+50010012	ART/Equip/AvatarEquip/Equip_Sword_Kunwu/Equip_Sword_Kunwu	0	8	Weapon_Sword_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Sword_Kunwu/Equip_Sword_Kunwu		GadgetData_Name_50010012
+50020000	ART/Equip/AvatarEquip/Equip_Crossbow_01/Equip_Crossbow_01	0	8	Weapon_Crossbow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Crossbow_01/Equip_Crossbow_01		GadgetData_Name_50020000
+50020001	ART/Equip/AvatarEquip/Equip_Crossbow_01/Equip_Crossbow_01	0	8	Weapon_Crossbow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Crossbow_01/Equip_Crossbow_01		GadgetData_Name_50020001
+50030000	ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice	0	8	Catalyst_Apprentice		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice		GadgetData_Name_50030000
+50030001	ART/Equip/AvatarEquip/Equip_Catalyst_Intro/Equip_Catalyst_Intro	0	8	Catalyst_Intro		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Intro/Equip_Catalyst_Intro		GadgetData_Name_50030001
+50030002	ART/Equip/AvatarEquip/Equip_Catalyst_Zephyrus/Equip_Catalyst_Zephyrus	0	8	Catalyst_Zephyrus		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Zephyrus/Equip_Catalyst_Zephyrus		GadgetData_Name_50030002
+50030003	ART/Equip/AvatarEquip/Equip_Catalyst_Dvalin/Equip_Catalyst_Dvalin	0	8	Catalyst_Zephyrus		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Dvalin/Equip_Catalyst_Dvalin		GadgetData_Name_50030003
+50030004	ART/Equip/AvatarEquip/Equip_Catalyst_Bakufu/Equip_Catalyst_Bakufu	0	8	Catalyst_Apprentice		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Bakufu/Equip_Catalyst_Bakufu		GadgetData_Name_50030004
+50030006	ART/Equip/AvatarEquip/Equip_Catalyst_Bakufu/Equip_Catalyst_Bakufu	0	8	Catalyst_Apprentice		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Bakufu/Equip_Catalyst_Bakufu		GadgetData_Name_50030006
+50030007	ART/Equip/AvatarEquip/Equip_Catalyst_Jade/Equip_Catalyst_Jade	0	8	Catalyst_Intro		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Jade/Equip_Catalyst_Jade		GadgetData_Name_50030007
+50030008	ART/Equip/AvatarEquip/Equip_Catalyst_Resurrection/Equip_Catalyst_Resurrection	0	8	Catalyst_Intro		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Resurrection/Equip_Catalyst_Resurrection		GadgetData_Name_50030008
+50030009	ART/Equip/AvatarEquip/Equip_Catalyst_Kunwu/Equip_Catalyst_Kunwu	0	8	Catalyst_Intro		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Catalyst_Kunwu/Equip_Catalyst_Kunwu		GadgetData_Name_50030009
+50040001	ART/Equip/AvatarEquip/Equip_Claymore_Glaive/Equip_Claymore_Glaive	0	8	Weapon_Claymore_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Claymore_Glaive/Equip_Claymore_Glaive		GadgetData_Name_50040001
+50040002	ART/Equip/AvatarEquip/Equip_Claymore_Zephyrus/Equip_Claymore_Zephyrus	0	8	Weapon_Claymore_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Claymore_Zephyrus/Equip_Claymore_Zephyrus		GadgetData_Name_50040002
+50040003	ART/Equip/AvatarEquip/Equip_Claymore_Dvalin/Equip_Claymore_Dvalin	0	8	Weapon_Claymore_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Claymore_Dvalin/Equip_Claymore_Dvalin		GadgetData_Name_50040003
+50040004	ART/Equip/AvatarEquip/Equip_Claymore_Quartz/Equip_Claymore_Quartz	0	8	Weapon_Claymore_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Claymore_Quartz/Equip_Claymore_Quartz		GadgetData_Name_50040004
+50040005	ART/Equip/AvatarEquip/Equip_Claymore_Perdue/Equip_Claymore_Perdue	0	8	Weapon_Claymore_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Claymore_Perdue/Equip_Claymore_Perdue		GadgetData_Name_50040005
+50040006	ART/Equip/AvatarEquip/Equip_Claymore_Kunwu/Equip_Claymore_Kunwu	0	8	Weapon_Claymore_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Claymore_Kunwu/Equip_Claymore_Kunwu		GadgetData_Name_50040006
+50050001	ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters		GadgetData_Name_50050001
+50050002	ART/Equip/AvatarEquip/Equip_Bow_Crowfeather/Equip_Bow_Crowfeather	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Crowfeather/Equip_Bow_Crowfeather		GadgetData_Name_50050002
+50050003	ART/Equip/AvatarEquip/Equip_Bow_Zephyrus/Equip_Bow_Zephyrus	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Zephyrus/Equip_Bow_Zephyrus		GadgetData_Name_50050003
+50050004	ART/Equip/AvatarEquip/Equip_Bow_Dvalin/Equip_Bow_Dvalin	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Dvalin/Equip_Bow_Dvalin		GadgetData_Name_50050004
+50050006	ART/Equip/AvatarEquip/Equip_Bow_Bakufu/Equip_Bow_Bakufu	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Bakufu/Equip_Bow_Bakufu		GadgetData_Name_50050006
+50050007	ART/Equip/AvatarEquip/Equip_Bow_Bakufu/Equip_Bow_Bakufu	0	8	Weapon_Bow_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Bow_Bakufu/Equip_Bow_Bakufu		GadgetData_Name_50050007
+50060002	ART/Equip/AvatarEquip/Equip_Pole_Zephyrus/Equip_Pole_Zephyrus	0	8	Weapon_Pole_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Pole_Zephyrus/Equip_Pole_Zephyrus		GadgetData_Name_50060002
+50060004	ART/Equip/AvatarEquip/Equip_Pole_Ruby/Equip_Pole_Ruby	0	8	Weapon_Pole_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Pole_Ruby/Equip_Pole_Ruby		GadgetData_Name_50060004
+50060005	ART/Equip/AvatarEquip/Equip_Pole_Stardust/Equip_Pole_Stardust	0	8	Weapon_Pole_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Pole_Stardust/Equip_Pole_Stardust		GadgetData_Name_50060005
+50060006	ART/Equip/AvatarEquip/Equip_Pole_Kunwu/Equip_Pole_Kunwu	0	8	Weapon_Pole_Metal		1	1			item		Default_Weapon	ART/Equip/AvatarEquip/Equip_Pole_Kunwu/Equip_Pole_Kunwu		GadgetData_Name_50060006
+70000001		9001	10	Grass01		1				item		Default_Item			GadgetData_Name_70000001
+70000002		9002	20	Water01		1				item		Default_Item			GadgetData_Name_70000002
+70010001		0	13							item		Default_Item			GadgetData_Name_70010001
+70010002		0	15							item		Default_Item			GadgetData_Name_70010002
+70010003	ART/Others/SceneObj/SceneObj_DungeonEntry	0	15							item		Default_Item			GadgetData_Name_70010003
+70010004	ART/Others/SceneObj/SceneObj_DungeonEntry	0	15							item		Default_Item			GadgetData_Name_70010004
+70010005	ART/Others/SceneObj/SceneObj_DungeonQuitPoint	0	15							item		Default_Item			GadgetData_Name_70010005
+70010006		0	18	LocalTrigger						item		Default_Item			GadgetData_Name_70010006
+70020001		4001	19	Enviro01					2	item		Default_Item			GadgetData_Name_70020001
+70020002		4001	19	Enviro02					2	item		Default_Item			GadgetData_Name_70020002
+70110001	ART/Others/SceneObj/SceneObj_NPC_Goddess	0	13	NPC_Goddess		1									GadgetData_Name_70110001
+70110002	ART/Others/SceneObj/SceneObj_Gear_Teleport	0	15												GadgetData_Name_70110002
+70110003	ART/Effect/SceneInteractive/Eff_WormHoleGate01	0	15												GadgetData_Name_70110003
+70120001	ART/Others/SceneObj/SceneObj_DungeonEntry_MengDe01	5001	19	DungeonEntry_MengDe01		1				item					GadgetData_Name_70120001
+70120002	ART/Others/SceneObj/SceneObj_DungeonEntry_MengDe02	5001	19	DungeonEntry_MengDe02		1				item					GadgetData_Name_70120002
+70120003	ART/Others/SceneObj/SceneObj_Gear_CheckPoint	0	15	Gear_CheckPoint											GadgetData_Name_70120003
+70120004	ART/Effect/SceneInteractive/Eff_Dungeon_Exit	0	15												GadgetData_Name_70120004
+70130001	ART/Others/Gadget/Gadget_Windmill01	4001	19	Windmill	1										GadgetData_Name_70130001
+70200011	ART/Others/SceneObj/SceneObj_HealingBarrel	1001	19	HealingBarrel						item		Default_Item			GadgetData_Name_70200011
+70210001	ART/Others/SceneObj/SceneObj_Item_Treasurebox01	9001	26	Chest		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210001
+70210002	ART/Others/SceneObj/SceneObj_Item_Treasurebox02	9001	26	Chest		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210002
+70210003	ART/Others/SceneObj/SceneObj_Item_Treasurebox03	9001	26	Chest		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210003
+70210004	ART/Others/SceneObj/SceneObj_Item_Treasurebox04	9001	26	Bramble_Chest		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210004
+70210005	ART/Others/SceneObj/SceneObj_Item_Treasurebox05	9001	26	Frozen_Chest		1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210005
+70210006	ART/Others/SceneObj/SceneObj_Item_Treasurebox03	9001	26	Chest		1		1	1	item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210006
+70210007	ART/Others/SceneObj/SceneObj_Item_Chest_01	9001	26	NewChest	1	1		1		item	Data/ScriptData/Gadget/Chest_Normal	Default_Item			GadgetData_Name_70210007
+70220001	ART/Others/SceneObj/SceneObj_Prop_Leavestacks	9001	19	LeaveStacks		1		1		item		Default_Item			GadgetData_Name_70220001
+70220002	ART/Others/SceneObj/SceneObj_Item_LeafBlanket	9001	19	LeafBlanket		1		1		item		Default_Item			GadgetData_Name_70220002
+70220003	ART/Others/SceneObj/SceneObj_Item_BrambleWall01	5001	19	BrambleWall01		1		1		item		Default_Item			GadgetData_Name_70220003
+70220004	ART/Others/SceneObj/SceneObj_Item_Plant_PumpkinBomb01	5001	19	PumpkinBomb				1		item		Default_Item			GadgetData_Name_70220004
+70220005	ART/Others/SceneObj/SceneObj_Item_Bombbarrel01	5001	19	BombBox	1					item		Default_Item			GadgetData_Name_70220005
+70220006	ART/Others/SceneObj/SceneObj_Item_StonePillar	9001	19	StonePillar		1				item		Default_Item			GadgetData_Name_70220006
+70220007	ART/Others/SceneObj/SceneObj_Item_StoneWall	9001	19	StoneWall		1				item		Default_Item			GadgetData_Name_70220007
+70220008	ART/Others/SceneObj/SceneObj_Item_StonePile	9001	19	StonePile		1				item		Default_Item			GadgetData_Name_70220008
+70220009	ART/Others/SceneObj/SceneObj_Item_Stone	9001	19	Stone	1					item		Default_Item			GadgetData_Name_70220009
+70220010	ART/Others/SceneObj/SceneObj_Amber_Water	9002	19	WaterAmber		1		1		item		Default_Item			GadgetData_Name_70220010
+70220011	ART/Others/SceneObj/SceneObj_Amber_Wind	9002	33	WindAmber		1				item		Default_Item			GadgetData_Name_70220011
+70220012	ART/Others/SceneObj/SceneObj_Amber_Wind_Inactive	9002	33	WindAmber_Inactive						item		Default_Item			GadgetData_Name_70220012
+70220013	ART/Others/SceneObj/SceneObj_Item_WoodenBox_Big	9002	19	WoodenObject		1				item		Default_Item			GadgetData_Name_70220013
+70220014	ART/Others/SceneObj/SceneObj_Item_WoodenBarrel	9002	19	WoodenObject						item		Default_Item			GadgetData_Name_70220014
+70270001	ART/Others/SceneObj/SceneObj_Item_RainyCloud	9002	19	RainyCloud						item		Default_Item			GadgetData_Name_70270001
+70270002	ART/Effect/SceneInteractive/Eff_Amber_Water_Mist	9002	19	WaterAmber_Mist		1				item		Default_Item			GadgetData_Name_70270002
+70270003	ART/Effect/SceneInteractive/Eff_WindAmber_WindField	1001	23	WindAmberField		1				item		Default_Item			GadgetData_Name_70270003
+70290001	ART/Others/SceneObj/SceneObj_Item_Raspberry01	9999	19	AppleTree						item		Default_Item			GadgetData_Name_70290001
+70290002	ART/Others/SceneObj/SceneObj_Item_Plant_AppleTree01	9999	19	AppleTree		1				item		Default_Item			GadgetData_Name_70290002
+70290003	ART/Others/SceneObj/SceneObj_Item_Decoration_BirdNest01	1001	19							item		Default_Item			GadgetData_Name_70290003
+70300001	ART/Others/Gadget/Gadget_MiniRobot	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300001
+70300002	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300002
+70300003	ART/Effect/SceneInteractive/Eff_FlyRace_Marker_Active	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Name_70300003
+70300004	ART/Effect/SceneInteractive/Eff_FlyRace_Goal_Marker	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Name_70300004
+70300005	ART/Effect/SceneInteractive/Eff_FlyRace_Goal_Marker_AS	1001	19	FlyRaceCoin						item		Default_Item			GadgetData_Name_70300005
+70300006	ART/Effect/SceneInteractive/Eff_QuestGuide_TargetPoint	1001	22	Default_Gather						item		Default_NoDrop_Item			GadgetData_Name_70300006
+70300007	ART/Stages/Item/Item_Quest_Dish01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300007
+70300008	ART/Stages/Item/Item_Quest_Music01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300008
+70300009	ART/Stages/Item/Item_Quest_Wrap01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300009
+70300010	ART/Stages/Item/Item_Quest_Book01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300010
+70300011	ART/Stages/Item/Item_Quest_Letter01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300011
+70300012	ART/Stages/Item/Item_Quest_Medicine01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70300012
+70300013	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather						item		Default_Item			GadgetData_Name_70300013
+70300014	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather						item		Default_Item			GadgetData_Name_70300014
+70300015	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather						item		Default_Item			GadgetData_Name_70300015
+70300016	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather						item		Default_Item			GadgetData_Name_70300016
+70300017	ART/Others/SkillObj/SkillObj_Dummy	1001	18	Dummy_Safe	1	1				item		Default_Item			GadgetData_Name_70300017
+70300018	ART/Others/SceneObj/SceneObj_Item_DragonFeather01	5001	19	DragonFeather						item		Default_Item			GadgetData_Name_70300018
+70300020	ART/Others/Gadget/Gadget_MiniRobot_Invisible	1001	22							item		Default_Item			GadgetData_Name_70300020
+70300021	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound01	1001	19							item		Default_Item			GadgetData_Name_70300021
+70300022	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound02	1001	19							item		Default_Item			GadgetData_Name_70300022
+70300023	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound03	1001	19							item		Default_Item			GadgetData_Name_70300023
+70300024	ART/Effect/SceneInteractive/Eff_Test_Cricket_Sound04	1001	19							item		Default_Item			GadgetData_Name_70300024
+70300031	ART/Others/Gadget/Gadget_WoodBoard_Test	1001	19						1	item		Default_Item			GadgetData_Name_70300031
+70300032	ART/Others/Gadget/Gadget_WoodBoard_Test02	1001	19							item		Default_Item			GadgetData_Name_70300032
+70300036	ART/Others/Gadget/Gadget_MiniRobotRed_CrouchThrow	1001	3	Sneak_Crouch_Throw	1	1				item		Default_Item			GadgetData_Name_70300036
+70300037		1001	19	ElementTrack						item		Default_Item			GadgetData_Name_70300037
+70310001	ART/Others/SceneObj/SceneObj_Item_FireBasin01	5001	19	FireBasin		1				item		Default_Item			GadgetData_Name_70310001
+70310002	ART/Others/SceneObj/SceneObj_Item_Torch	5001	19	FireBasin		1				item		Default_Item			GadgetData_Name_70310002
+70310003	ART/Others/SceneObj/SceneObj_Item_FireBasin01	5001	19	FireBasin		1			1	item		Default_Item			GadgetData_Name_70310003
+70320001	ART/Others/SceneObj/SceneObj_Gear_Spray_Fire_Rotating	5001	25	Gear_Spray_Fire_Rotating		1				item		Default_Item			GadgetData_Name_70320001
+70320002	ART/Others/SceneObj/SceneObj_Gear_Spray_Fire	5001	25	Gear_Spray_Fire		1				item		Default_Item			GadgetData_Name_70320002
+70350001	ART/Others/SceneObj/SceneObj_Gear_DungeonGate01	5001	25	Gear_DungeonGate01		1				item		Default_Item			GadgetData_Name_70350001
+70350002	ART/Others/SceneObj/SceneObj_Gear_DungeonGate02	5001	25	Gear_DungeonGate02		1				item		Default_Item			GadgetData_Name_70350002
+70350003	ART/Others/SceneObj/SceneObj_Gear_DungeonGate03	5001	25	Gear_DungeonGate03		1				item		Default_Item			GadgetData_Name_70350003
+70360001	ART/Others/SceneObj/SceneObj_WorldArea_Operator	5001	30	Invisible_Operator				1		item		Default_Item			GadgetData_Name_70360001
+70360002	ART/Others/SceneObj/SceneObj_Gear_Operator	5001	30	Gear_Operator		1		1		item		Default_Item			GadgetData_Name_70360002
+70380001	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane01	0	32	Platform	1					item					GadgetData_Name_70380001
+70380002	ART/Others/SceneObj/SceneObj_Item_Bombbarrel01	5001	32	MovingTarget	1					item					GadgetData_Name_70380002
+70500000		1001	21							item		Default_Item			GadgetData_Name_70500000
+70500001		1001	21						1	item		Default_Item			GadgetData_Name_70500001
+70510001	ART/Others/SceneObj/SceneObj_Item_Plant_KapokFlower01	9001	22	KapokFlower				1		item		Default_Item			GadgetData_Name_70510001
+70510002	ART/Others/SceneObj/SceneObj_Item_Plant_FireFlower01	9001	22	FireFlower01				1		item		Default_Item			GadgetData_Name_70510002
+70510003	ART/Others/SceneObj/SceneObj_Item_Plant_KapokFlower01	9001	22	ElectricRock01				1		item		Default_Item			GadgetData_Name_70510003
+70520001	ART/Others/SceneObj/SceneObj_Ore_Stone01	1001	22	Default_Ore						item		Default_Item			GadgetData_Name_70520001
+70520002	ART/Others/SceneObj/SceneObj_Ore_Metal01	1001	22	Default_Ore						item		Default_Item			GadgetData_Name_70520002
+70520003	ART/Others/SceneObj/SceneObj_Ore_Crystal01	1001	22	Default_Ore						item		Default_Item			GadgetData_Name_70520003
+70520004	ART/Others/SceneObj/SceneObj_Item_Plant_Mushroom01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520004
+70520005	ART/Others/SceneObj/SceneObj_Item_Plant_Whiteballet01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520005
+70520006	ART/Others/SceneObj/SceneObj_Item_Plant_Carrot02	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520006
+70520007	ART/Others/SceneObj/SceneObj_Item_Plant_Radish02	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520007
+70520008	ART/Others/SceneObj/SceneObj_Item_Plant_Snapdragon01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520008
+70520009	ART/Others/SceneObj/SceneObj_Item_Plant_Mint01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520009
+70520010	ART/Others/SceneObj/SceneObj_Item_Plant_Wheat01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520010
+70520011	ART/Others/SceneObj/SceneObj_Item_Plant_Cabbage01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520011
+70520012	ART/Others/SceneObj/SceneObj_Item_Plant_Anemone01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520012
+70520013	ART/Others/SceneObj/SceneObj_Item_Food_Matsutake01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70520013
+70540001	ART/Others/SceneObj/SceneObj_Item_Raspberry02	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540001
+70540002	ART/Others/SceneObj/SceneObj_Plant_Drop_KapokFlower01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540002
+70540003	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_Apple01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540003
+70540004	ART/Others/SceneObj/SceneObj_Item_Food_BirdEgg01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540004
+70540005	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_Pine01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540005
+70540006	ART/Others/SceneObj/SceneObj_Item_Drop_Plant_FireFlower01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540006
+70540007	ART/Others/SceneObj/SceneObj_Item_Drop_Ore_ElectricRock01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70540007
+70560001	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70560001
+70560002	ART/Others/SceneObj/SceneObj_Ore_Drop_Stone01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70560002
+70560003	ART/Others/SceneObj/SceneObj_Ore_Drop_Metal01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70560003
+70560004	ART/Others/SceneObj/SceneObj_Ore_Drop_Crystal01	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70560004
+70590001	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	Default_Gather								Default_Item			GadgetData_Name_70590001
+70590002	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	Default_Gather								Default_Item			GadgetData_Name_70590002
+70590003	ART/Others/SceneObj/SceneObj_Item_Plant_Whiteballet_WindCrystal	1001	22	Radar_Gather		1				item		Default_Item		1	GadgetData_Name_70590003
+70590004	ART/Effect/SceneInteractive/Eff_WindCrystal_Idle	1001	22	Radar_Gather		1				item		Default_Item		1	GadgetData_Name_70590004
+70590005	ART/Effect/SceneInteractive/Eff_Item_Hint_Test	1001	22	Default_Gather		1				item		Default_Item			GadgetData_Name_70590005
+70590006	ART/Effect/SceneInteractive/Eff_Animal_Butterfly_Idle	9001	34	Butterfly				1		item		Default_Item			GadgetData_Name_70590006
+70600064	ART/Others/SceneObj/SceneObj_Item_AllogenesMemory02	1001	22	Default_Gather					1	item		Default_Item			GadgetData_Name_70600064
+70610001	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Fire02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610001
+70610002	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Water02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610002
+70610003	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Grass02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610003
+70610004	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Electric02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610004
+70610005	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Wind02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610005
+70610006	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Ice02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610006
+70610007	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Rock02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610007
+70610008	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Common02_Lod0	1001	27	Element_Ball02						item		Element_Ball02			GadgetData_Name_70610008
+70610009	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Fire01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610009
+70610010	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Water01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610010
+70610011	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Grass01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610011
+70610012	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Electric01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610012
+70610013	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Wind01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610013
+70610014	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Ice01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610014
+70610015	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Rock01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610015
+70610016	ART/Effect/AvatarCommon/Eff_Item_Element_Orb_Common01_Lod0	1001	27	Element_Ball01						item		Element_Ball01			GadgetData_Name_70610016
+70610101	ART/Effect/SceneInteractive/Eff_WindField_Vertical_01	1001	23							item		Default_Item			GadgetData_Name_70610101
+70610102	ART/Effect/SceneInteractive/Eff_WindField_Dungeon_40	1001	23							item		Default_Item			GadgetData_Name_70610102
+70610103	ART/Effect/SceneInteractive/Eff_WindField_Dungeon_H_40	1001	23							item		Default_Item			GadgetData_Name_70610103
+70620001	ART/Effect/SceneInteractive/Eff_WindTube_01	1001	19	PushField01						item		Default_Item			GadgetData_Name_70620001
+70620002	ART/Effect/SceneInteractive/Eff_WindTube_02	1001	19	PushField02						item		Default_Item			GadgetData_Name_70620002
+70620003	ART/Effect/SceneInteractive/Eff_WindTube_03	1001	19	PushField03						item		Default_Item			GadgetData_Name_70620003
+70620004	ART/Others/SceneObj/SceneObj_Test_DragonNest	5001	19	DragonNest_Barrier					2	item					GadgetData_Name_70620004
+70620005	ART/Others/SceneObj/SceneObj_Test_StrongWind	5001	19	DragonNest_StrongWind					1	item		Default_Item			GadgetData_Name_70620005
+70620006	ART/Others/SceneObj/SceneObj_Test_Tornado	5001	19	DragonNest_Tornado_Tiny					1	item					GadgetData_Name_70620006
+70630001	ART/Others/SceneObj/SceneObj_Test_Tornado	5001	3	DragonNest_Tornado_Bullet	1				1	item					GadgetData_Name_70630001
+70680001	ART/Others/SceneObj/SceneObj_Test_AirflowAgent	5001	25	AirflowAgent						item		Default_Item			GadgetData_Name_70680001
+70690001	ART/Effect/SceneInteractive/Eff_WindField_Horizontal_Active	1001	24	SpeedupField						item		Default_Item			GadgetData_Name_70690001
+70690002	ART/Effect/SceneInteractive/Eff_WindField_Horizontal_Flow	1001	24	SpeedupField						item		Default_Item			GadgetData_Name_70690002
+70690003	ART/Effect/SceneInteractive/Eff_Stage_WindCannon	1001	24	CannonField						item		Default_Item			GadgetData_Name_70690003
+70690004	ART/Effect/SceneInteractive/Eff_Stage_StrongWindField	1001	23	AirflowField						item		Default_Item			GadgetData_Name_70690004
+70700001	ART/Others/SceneObj/SceneObj_Item_Wall01	9001	19	WallCollision						item		Default_Item			GadgetData_Name_70700001
+70700002	ART/Effect/Environment/Eff_Skybox_Blustery	9001	19	WallCollision						item		Default_Item			GadgetData_Name_70700002
+70710002	ART/Others/SceneObj/SceneObj_Gear_Dungeon_Plane02	0	32	Platform	1				1	item					GadgetData_Name_70710002
+70800001	ART/Others/SceneObj/SceneObj_Item_Seal01	1001	35	DragonNest_Seal				1		item		Default_NoDrop_Item			GadgetData_Name_70800001
+70800002	ART/Others/SceneObj/SceneObj_MsgBoad	0	19	MsgBoard						item		Default_Item			GadgetData_Name_70800002
+70800003	ART/Effect/SceneInteractive/Eff_WindCrystal_Fly	1001	19			1				item		Default_Item			GadgetData_Name_70800003
+70900001	ART/Others/Gadget/Gadget_MiniRobotRed	1001	22	Default_Gather						item		Default_Item			GadgetData_Name_70900001
+70900002		1001	19	Default_Gather						item		Default_Item			GadgetData_Name_70900002
+70900003	ART/Others/SceneObj/SceneObj_Item_Clue01	1001	19	Default_Gather						item		Default_NoDrop_Item			GadgetData_Name_70900003
+70900004	ART/Others/SceneObj/SceneObj_Prop_Ore03	9001	19	IronOre				1		item		Default_Item			GadgetData_Name_70900004
+70900005	ART/Others/SceneObj/SceneObj_Elem_Crystal	5001	28	Element_Crystal						item		Element_Crystal			GadgetData_Name_70900005
+70900006	ART/Others/SceneObj/SceneObj_Gear_Shooter	5001	25	Gear_Shooter_Elec		1				item		Default_Item			GadgetData_Name_70900006
+70900007	ART/Others/SceneObj/SceneObj_Gear_FireController	5001	25	Gear_FireController						item					GadgetData_Name_70900007
+70900008	ART/Others/SceneObj/SceneObj_Gear_ElecController	5001	25	Gear_ElecController						item					GadgetData_Name_70900008
+70900009	ART/Others/SceneObj/SceneObj_Gear_IceController	5001	25	Gear_IceController						item					GadgetData_Name_70900009
+70900010	ART/Others/SceneObj/SceneObj_Test_Rotation02	5001	25	Test_Rotation02											GadgetData_Name_70900010
+70900011	ART/Others/SceneObj/SceneObj_Gear_WallMaker	5001	25	Gear_Wall_Maker		1				item		Default_Item			GadgetData_Name_70900011
+70900012	ART/Others/SceneObj/SceneObj_Test_Rotation	5001	30	Test_Rotation				1							GadgetData_Name_70900012
+70900013	ART/Others/SceneObj/SceneObj_Gear_WallMaker	5001	25	Gear_Wall_Maker_Floating	1	1				item		Default_Item			GadgetData_Name_70900013
+70900014	ART/Stages/Common/Building/Stages_Build_Ruin01_Lod0	5001	25							item					GadgetData_Name_70900014
+70900015	ART/Stages/Common/Building/Stages_Build_Ruin02_Lod0	5001	25							item					GadgetData_Name_70900015
+70900016	ART/Stages/Common/Building/Stages_Build_Ruin03_Lod0	5001	25							item					GadgetData_Name_70900016
+70900017	ART/Stages/Common/Building/Stages_Build_Ruin05_Lod0	5001	25							item					GadgetData_Name_70900017
+70900018	ART/Stages/Common/Building/Stages_Build_Ruin06_Lod0	5001	25							item					GadgetData_Name_70900018
+70900019	ART/Stages/Common/Building/Stages_Build_Ruin08_Lod0	5001	25							item					GadgetData_Name_70900019
+70900020	ART/Others/SceneObj/SceneObj_Gear_IceWall	5001	25	Gear_Ice_Wall		1				item		Default_Item			GadgetData_Name_70900020
+70900021	ART/Others/SceneObj/SceneObj_Gear_FireWall	5001	25	Gear_Fire_Wall		1				item		Default_Item			GadgetData_Name_70900021
+70900022	ART/Others/SceneObj/SceneObj_Gear_Fan	5001	25							item		Default_Item			GadgetData_Name_70900022
+70900023	ART/Others/SceneObj/SceneObj_Gear_ThornWall01	5001	19							item		Default_Item			GadgetData_Name_70900023
+70900024	ART/Others/SceneObj/SceneObj_Item_Poison	9002	19	Poison						item		Default_Item			GadgetData_Name_70900024
+70900025	ART/Others/SceneObj/SceneObj_Test_WoodenShelf	9002	19	WoodenShelf						item					GadgetData_Name_70900025
+70900026	ART/Others/SceneObj/SceneObj_Gear_WindDevice01	0	19	Gear_DungeonGate01											GadgetData_Name_70900026
+70900027	ART/Others/SceneObj/SceneObj_Test_MoveGear	5001	19	Test_MoveGear	1										GadgetData_Name_70900027
+70900028	ART/Others/SceneObj/SceneObj_Test_StayGear	5001	25	Test_StayGear											GadgetData_Name_70900028
+70900029	ART/Others/Gadget/Gadget_DropItem_HP	9001	18	SpikeTrap						item		Default_Item			GadgetData_Name_70900029
+70900030	ART/Others/SceneObj/SceneObj_Item_Plant_KapokFlower01	1001	22	Test_Gather_LightGrass				1		item		Default_Item			GadgetData_Name_70900030
+70900031	ART/Others/SceneObj/SceneObj_Item_WoodenBox_Big	5001	25	Test_FollowMoveGadget	1			1		item		Default_Item			GadgetData_Name_70900031
+70900032	ART/Others/SceneObj/SceneObj_Ore_Stone01	5001	22	Default_Ore						item		Default_Item			GadgetData_Name_70900032
+70900033	ART/Others/SceneObj/SceneObj_Test_Gravity	5001	25	Test_Gravity_Board											GadgetData_Name_70900033
+70900034	ART/Others/SceneObj/SceneObj_Test_DragonNestWindWallM	5001	19	DragonNest_Barrier					1	item					GadgetData_Name_70900034
+70900035	ART/Others/SceneObj/SceneObj_Test_DragonNestWindWallS	5001	19	DragonNest_Barrier					1	item					GadgetData_Name_70900035
+70900036	ART/Others/SceneObj/SceneObj_Test_Sculpture	5001	25	Test_Sculpture						item					GadgetData_Name_70900036
+70900040	ART/Others/SceneObj/SceneObj_Barrel	4001	19	Barrel						item		Default_Item			GadgetData_Name_70900040
+70900041	ART/Others/Gadget/Gadget_GroupTrigger	9001	18	GroupTrigger						item		Default_Item			GadgetData_Name_70900041
+70900201		9002	19	Guide_Point											GadgetData_Name_70900201
+70900202	ART/Others/SceneObj/SceneObj_Test_DragonNest_CLX	5001	19	DragonNest_Barrier					2	item					GadgetData_Name_70900202
+70900203	ART/Others/SceneObj/SceneObj_Test_DragonNest_CLX_1	5001	19	DragonNest_Barrier					2	item					GadgetData_Name_70900203
+70900204	ART/Others/SceneObj/SceneObj_Test_DragonNest_CLX_2	5001	19	DragonNest_Barrier					2	item					GadgetData_Name_70900204
+70950001	ART/Others/SceneObj/SceneObj_Test_DropLight	5001	25	DropLight											GadgetData_Name_70950001
+70950002	ART/Others/SceneObj/SceneObj_Test_DropLight_Bullet	5001	3	DropLight_Bullet	1										GadgetData_Name_70950002
+70950003	ART/Others/SceneObj/SceneObj_Test_DropLight_Bullet	5001	3	DropLight_Bullet02	1										GadgetData_Name_70950003
+71000004	ART/Others/SceneObj/SceneObj_Amber_Water	9002	19	RockAmber						item		Default_Item			GadgetData_Name_71000004
+80000001	ART/Others/Gadget/Gadget_DropItem_HP	0	18	Drop_HP						item		Default_Item			GadgetData_Name_80000001
+90000001	Build/Camera/MainCamera	0	6	Camera						item		Default_Item			GadgetData_Name_90000001
+90000002		0	6	AccountPlayer								Default_Item			GadgetData_Name_90000002
+90000003	ART/Char/NPC/NPC_Guide_Paimon/NPC_Guide_Paimon	0	12	NPC_Guide_Paimon	1	1						Default_Item			GadgetData_Name_90000003

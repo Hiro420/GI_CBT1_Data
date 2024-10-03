@@ -1,0 +1,100 @@
+[
+  {
+    "avatarId": 10000021,
+    "recipeId": 3001,
+    "bonusType": 1,
+    "paramVec": [
+      108010,
+      0
+    ],
+    "complexParamVec": [
+      5,
+      10,
+      15
+    ]
+  },
+  {
+    "avatarId": 10000015,
+    "recipeId": 1001,
+    "bonusType": 1,
+    "paramVec": [
+      108014,
+      0
+    ],
+    "complexParamVec": [
+      5,
+      10,
+      15
+    ]
+  },
+  {
+    "avatarId": 10000006,
+    "recipeId": 1003,
+    "bonusType": 1,
+    "paramVec": [
+      108018,
+      0
+    ],
+    "complexParamVec": [
+      5,
+      5,
+      10
+    ]
+  },
+  {
+    "avatarId": 10000014,
+    "recipeId": 2003,
+    "bonusType": 1,
+    "paramVec": [
+      108040,
+      0
+    ],
+    "complexParamVec": [
+      5,
+      5,
+      10
+    ]
+  },
+  {
+    "avatarId": 10000003,
+    "recipeId": 2007,
+    "bonusType": 1,
+    "paramVec": [
+      108044,
+      0
+    ],
+    "complexParamVec": [
+      0,
+      5,
+      10
+    ]
+  },
+  {
+    "avatarId": 10000020,
+    "recipeId": 3003,
+    "bonusType": 1,
+    "paramVec": [
+      108048,
+      0
+    ],
+    "complexParamVec": [
+      0,
+      5,
+      10
+    ]
+  },
+  {
+    "avatarId": 10000016,
+    "recipeId": 3004,
+    "bonusType": 1,
+    "paramVec": [
+      108058,
+      0
+    ],
+    "complexParamVec": [
+      0,
+      5,
+      10
+    ]
+  }
+]

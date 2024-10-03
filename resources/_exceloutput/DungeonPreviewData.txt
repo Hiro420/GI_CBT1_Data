@@ -1,0 +1,32 @@
+ID	[掉落]1ID	[掉落]1数量	[掉落]2ID	[掉落]2数量	[掉落]3ID	[掉落]3数量	[掉落]4ID	[掉落]4数量	[掉落]5ID	[掉落]5数量	Desc
+1											DungeonPreviewData_Desc_1
+10001	201	10	101	750	102	40					DungeonPreviewData_Desc_10001
+10010	59241	1	201	10	101	750	102	40			DungeonPreviewData_Desc_10010
+11001	15201	1	201	10	101	750	102	40			DungeonPreviewData_Desc_11001
+11003	14201	1	201	10	101	3000	102	150			DungeonPreviewData_Desc_11003
+12000	201	10	101	1000	102	100					DungeonPreviewData_Desc_12000
+14001	104002	1			102	20					DungeonPreviewData_Desc_14001
+14002	104012	1	101	70	102	25					DungeonPreviewData_Desc_14002
+14003	59241	1	101	80	102	30					DungeonPreviewData_Desc_14003
+14004	59221	1	101	80	102	32					DungeonPreviewData_Desc_14004
+14007	104002	2			102	36					DungeonPreviewData_Desc_14007
+14008	104012	2	101	90	102	48					DungeonPreviewData_Desc_14008
+14009	59251	1	101	90	102	40					DungeonPreviewData_Desc_14009
+14006	59232	1	202	2050	101	110	102	90			DungeonPreviewData_Desc_14006
+14005	59212	1	202	1800	101	100	102	52			DungeonPreviewData_Desc_14005
+13004	53241	1	202	2800	101	400	102	100			DungeonPreviewData_Desc_13004
+20001	201	10	101	750	102	40					DungeonPreviewData_Desc_20001
+20010	59241	1	201	10	101	750	102	40			DungeonPreviewData_Desc_20010
+21001	15201	1	201	10	101	750	102	40			DungeonPreviewData_Desc_21001
+21003	14201	1	201	10	101	3000	102	150			DungeonPreviewData_Desc_21003
+22000	201	10	101	1000	102	100					DungeonPreviewData_Desc_22000
+24001	201	10	101	400	102	80					DungeonPreviewData_Desc_24001
+24002	12201	1	201	10	101	500	102	100			DungeonPreviewData_Desc_24002
+24003	59241	1	201	10	101	600	102	120			DungeonPreviewData_Desc_24003
+24004	59221	1	201	10	101	650	102	130			DungeonPreviewData_Desc_24004
+24007	201	10	101	750	102	150					DungeonPreviewData_Desc_24007
+24008	13201	1	201	10	101	800	102	190			DungeonPreviewData_Desc_24008
+24009	59251	1	201	10	101	850	102	160			DungeonPreviewData_Desc_24009
+24006	59232	1	201	10	202	2050	101	1400	102	350	DungeonPreviewData_Desc_24006
+24005	59212	1	201	10	202	1800	101	1050	102	210	DungeonPreviewData_Desc_24005
+23004	53241	1	53221	1	53251	1	201	10	101	1200	DungeonPreviewData_Desc_23004

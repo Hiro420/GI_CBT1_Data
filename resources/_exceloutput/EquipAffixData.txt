@@ -1,0 +1,226 @@
+AffixID	ID	词缀等级	开启配置1	开启配置2	[增加属性]1类型	[增加属性]1值	[增加属性]2类型	[增加属性]2值	Name	Desc
+1110010	111001	0	Sword_Norse_0						EquipAffixData_Name_1110010	EquipAffixData_Desc_1110010
+1110011	111001	1	Sword_Norse_1						EquipAffixData_Name_1110011	EquipAffixData_Desc_1110011
+1110012	111001	2	Sword_Norse_2						EquipAffixData_Name_1110012	EquipAffixData_Desc_1110012
+1110013	111001	3	Sword_Norse_3						EquipAffixData_Name_1110013	EquipAffixData_Desc_1110013
+1110014	111001	4	Sword_Norse_4						EquipAffixData_Name_1110014	EquipAffixData_Desc_1110014
+1110030	111003	0	Weapon_Sword_Zephyrus_0						EquipAffixData_Name_1110030	EquipAffixData_Desc_1110030
+1110031	111003	1	Weapon_Sword_Zephyrus_1						EquipAffixData_Name_1110031	EquipAffixData_Desc_1110031
+1110032	111003	2	Weapon_Sword_Zephyrus_2						EquipAffixData_Name_1110032	EquipAffixData_Desc_1110032
+1110033	111003	3	Weapon_Sword_Zephyrus_3						EquipAffixData_Name_1110033	EquipAffixData_Desc_1110033
+1110034	111003	4	Weapon_Sword_Zephyrus_4						EquipAffixData_Name_1110034	EquipAffixData_Desc_1110034
+1113020	111302	0	Weapon_Sword_FullHPCriticUp_0						EquipAffixData_Name_1113020	EquipAffixData_Desc_1113020
+1113021	111302	1	Weapon_Sword_FullHPCriticUp_1						EquipAffixData_Name_1113021	EquipAffixData_Desc_1113021
+1113022	111302	2	Weapon_Sword_FullHPCriticUp_2						EquipAffixData_Name_1113022	EquipAffixData_Desc_1113022
+1113023	111302	3	Weapon_Sword_FullHPCriticUp_3						EquipAffixData_Name_1113023	EquipAffixData_Desc_1113023
+1113024	111302	4	Weapon_Sword_FullHPCriticUp_4						EquipAffixData_Name_1113024	EquipAffixData_Desc_1113024
+1113030	111303	0	Weapon_Sword_MoveSpeedAfterULT_0						EquipAffixData_Name_1113030	EquipAffixData_Desc_1113030
+1113031	111303	1	Weapon_Sword_MoveSpeedAfterULT_1						EquipAffixData_Name_1113031	EquipAffixData_Desc_1113031
+1113032	111303	2	Weapon_Sword_MoveSpeedAfterULT_2						EquipAffixData_Name_1113032	EquipAffixData_Desc_1113032
+1113033	111303	3	Weapon_Sword_MoveSpeedAfterULT_3						EquipAffixData_Name_1113033	EquipAffixData_Desc_1113033
+1113034	111303	4	Weapon_Sword_MoveSpeedAfterULT_4						EquipAffixData_Name_1113034	EquipAffixData_Desc_1113034
+1114010	111401	0	Weapon_Sword_GenerateBallWhenCritic_0						EquipAffixData_Name_1114010	EquipAffixData_Desc_1114010
+1114011	111401	1	Weapon_Sword_GenerateBallWhenCritic_1						EquipAffixData_Name_1114011	EquipAffixData_Desc_1114011
+1114012	111401	2	Weapon_Sword_GenerateBallWhenCritic_2						EquipAffixData_Name_1114012	EquipAffixData_Desc_1114012
+1114013	111401	3	Weapon_Sword_GenerateBallWhenCritic_3						EquipAffixData_Name_1114013	EquipAffixData_Desc_1114013
+1114014	111401	4	Weapon_Sword_GenerateBallWhenCritic_4						EquipAffixData_Name_1114014	EquipAffixData_Desc_1114014
+1114020	111402	0	Weapon_Sword_MusicBlast_0						EquipAffixData_Name_1114020	EquipAffixData_Desc_1114020
+1114021	111402	1	Weapon_Sword_MusicBlast_1						EquipAffixData_Name_1114021	EquipAffixData_Desc_1114021
+1114022	111402	2	Weapon_Sword_MusicBlast_2						EquipAffixData_Name_1114022	EquipAffixData_Desc_1114022
+1114023	111402	3	Weapon_Sword_MusicBlast_3						EquipAffixData_Name_1114023	EquipAffixData_Desc_1114023
+1114024	111402	4	Weapon_Sword_MusicBlast_4						EquipAffixData_Name_1114024	EquipAffixData_Desc_1114024
+1114030	111403	0	Weapon_Sword_GetShieldBeingHit_0						EquipAffixData_Name_1114030	EquipAffixData_Desc_1114030
+1114031	111403	1	Weapon_Sword_GetShieldBeingHit_1						EquipAffixData_Name_1114031	EquipAffixData_Desc_1114031
+1114032	111403	2	Weapon_Sword_GetShieldBeingHit_2						EquipAffixData_Name_1114032	EquipAffixData_Desc_1114032
+1114033	111403	3	Weapon_Sword_GetShieldBeingHit_3						EquipAffixData_Name_1114033	EquipAffixData_Desc_1114033
+1114034	111403	4	Weapon_Sword_GetShieldBeingHit_4						EquipAffixData_Name_1114034	EquipAffixData_Desc_1114034
+1114040	111404	0	Weapon_Sword_CritUpWhenHitNoCrit_0						EquipAffixData_Name_1114040	EquipAffixData_Desc_1114040
+1114041	111404	1	Weapon_Sword_CritUpWhenHitNoCrit_1						EquipAffixData_Name_1114041	EquipAffixData_Desc_1114041
+1114042	111404	2	Weapon_Sword_CritUpWhenHitNoCrit_2						EquipAffixData_Name_1114042	EquipAffixData_Desc_1114042
+1114043	111404	3	Weapon_Sword_CritUpWhenHitNoCrit_3						EquipAffixData_Name_1114043	EquipAffixData_Desc_1114043
+1114044	111404	4	Weapon_Sword_CritUpWhenHitNoCrit_4						EquipAffixData_Name_1114044	EquipAffixData_Desc_1114044
+1115020	111502	0	Sword_Dvalin_0						EquipAffixData_Name_1115020	EquipAffixData_Desc_1115020
+1115021	111502	1	Sword_Dvalin_1						EquipAffixData_Name_1115021	EquipAffixData_Desc_1115021
+1115022	111502	2	Sword_Dvalin_2						EquipAffixData_Name_1115022	EquipAffixData_Desc_1115022
+1115023	111502	3	Sword_Dvalin_3						EquipAffixData_Name_1115023	EquipAffixData_Desc_1115023
+1115024	111502	4	Sword_Dvalin_4						EquipAffixData_Name_1115024	EquipAffixData_Desc_1115024
+1123010	112301	0	Weapon_Claymore_ExtraPhyDamagePerHit_0						EquipAffixData_Name_1123010	EquipAffixData_Desc_1123010
+1123011	112301	1	Weapon_Claymore_ExtraPhyDamagePerHit_1						EquipAffixData_Name_1123011	EquipAffixData_Desc_1123011
+1123012	112301	2	Weapon_Claymore_ExtraPhyDamagePerHit_2						EquipAffixData_Name_1123012	EquipAffixData_Desc_1123012
+1123013	112301	3	Weapon_Claymore_ExtraPhyDamagePerHit_3						EquipAffixData_Name_1123013	EquipAffixData_Desc_1123013
+1123014	112301	4	Weapon_Claymore_ExtraPhyDamagePerHit_4						EquipAffixData_Name_1123014	EquipAffixData_Desc_1123014
+1123020	112302	0	Weapon_Claymore_LowHPAddExtraAttackEndura_0						EquipAffixData_Name_1123020	EquipAffixData_Desc_1123020
+1123021	112302	1	Weapon_Claymore_LowHPAddExtraAttackEndura_1						EquipAffixData_Name_1123021	EquipAffixData_Desc_1123021
+1123022	112302	2	Weapon_Claymore_LowHPAddExtraAttackEndura_2						EquipAffixData_Name_1123022	EquipAffixData_Desc_1123022
+1123023	112302	3	Weapon_Claymore_LowHPAddExtraAttackEndura_3						EquipAffixData_Name_1123023	EquipAffixData_Desc_1123023
+1123024	112302	4	Weapon_Claymore_LowHPAddExtraAttackEndura_4						EquipAffixData_Name_1123024	EquipAffixData_Desc_1123024
+1123030	112303	0							EquipAffixData_Name_1123030	EquipAffixData_Desc_1123030
+1123031	112303	1							EquipAffixData_Name_1123031	EquipAffixData_Desc_1123031
+1123032	112303	2							EquipAffixData_Name_1123032	EquipAffixData_Desc_1123032
+1123033	112303	3							EquipAffixData_Name_1123033	EquipAffixData_Desc_1123033
+1123034	112303	4							EquipAffixData_Name_1123034	EquipAffixData_Desc_1123034
+1124010	112401	0	Weapon_Claymore_GenerateBallWhenCritic_0						EquipAffixData_Name_1124010	EquipAffixData_Desc_1124010
+1124011	112401	1	Weapon_Claymore_GenerateBallWhenCritic_1						EquipAffixData_Name_1124011	EquipAffixData_Desc_1124011
+1124012	112401	2	Weapon_Claymore_GenerateBallWhenCritic_2						EquipAffixData_Name_1124012	EquipAffixData_Desc_1124012
+1124013	112401	3	Weapon_Claymore_GenerateBallWhenCritic_3						EquipAffixData_Name_1124013	EquipAffixData_Desc_1124013
+1124014	112401	4	Weapon_Claymore_GenerateBallWhenCritic_4						EquipAffixData_Name_1124014	EquipAffixData_Desc_1124014
+1124020	112402	0	Weapon_Claymore_GetShieldBeingHit_0						EquipAffixData_Name_1124020	EquipAffixData_Desc_1124020
+1124021	112402	1	Weapon_Claymore_GetShieldBeingHit_1						EquipAffixData_Name_1124021	EquipAffixData_Desc_1124021
+1124022	112402	2	Weapon_Claymore_GetShieldBeingHit_2						EquipAffixData_Name_1124022	EquipAffixData_Desc_1124022
+1124023	112402	3	Weapon_Claymore_GetShieldBeingHit_3						EquipAffixData_Name_1124023	EquipAffixData_Desc_1124023
+1124024	112402	4	Weapon_Claymore_GetShieldBeingHit_4						EquipAffixData_Name_1124024	EquipAffixData_Desc_1124024
+1124030	112403	0	Weapon_Claymore_ResetCDWhenSkillHit_0						EquipAffixData_Name_1124030	EquipAffixData_Desc_1124030
+1124031	112403	1	Weapon_Claymore_ResetCDWhenSkillHit_1						EquipAffixData_Name_1124031	EquipAffixData_Desc_1124031
+1124032	112403	2	Weapon_Claymore_ResetCDWhenSkillHit_2						EquipAffixData_Name_1124032	EquipAffixData_Desc_1124032
+1124033	112403	3	Weapon_Claymore_ResetCDWhenSkillHit_3						EquipAffixData_Name_1124033	EquipAffixData_Desc_1124033
+1124034	112403	4	Weapon_Claymore_ResetCDWhenSkillHit_4						EquipAffixData_Name_1124034	EquipAffixData_Desc_1124034
+1124040	112404	0	Weapon_Claymore_AtkDefUpWhenExtraAttack_0						EquipAffixData_Name_1124040	EquipAffixData_Desc_1124040
+1124041	112404	1	Weapon_Claymore_AtkDefUpWhenExtraAttack_1						EquipAffixData_Name_1124041	EquipAffixData_Desc_1124041
+1124042	112404	2	Weapon_Claymore_AtkDefUpWhenExtraAttack_2						EquipAffixData_Name_1124042	EquipAffixData_Desc_1124042
+1124043	112404	3	Weapon_Claymore_AtkDefUpWhenExtraAttack_3						EquipAffixData_Name_1124043	EquipAffixData_Desc_1124043
+1124044	112404	4	Weapon_Claymore_AtkDefUpWhenExtraAttack_4						EquipAffixData_Name_1124044	EquipAffixData_Desc_1124044
+1124050	112405	0	Weapon_Claymore_CritUpWhenHitNoCrit_0						EquipAffixData_Name_1124050	EquipAffixData_Desc_1124050
+1124051	112405	1	Weapon_Claymore_CritUpWhenHitNoCrit_1						EquipAffixData_Name_1124051	EquipAffixData_Desc_1124051
+1124052	112405	2	Weapon_Claymore_CritUpWhenHitNoCrit_2						EquipAffixData_Name_1124052	EquipAffixData_Desc_1124052
+1124053	112405	3	Weapon_Claymore_CritUpWhenHitNoCrit_3						EquipAffixData_Name_1124053	EquipAffixData_Desc_1124053
+1124054	112405	4	Weapon_Claymore_CritUpWhenHitNoCrit_4						EquipAffixData_Name_1124054	EquipAffixData_Desc_1124054
+1140030	114003	0	Weapon_Claymore_Zephyrus_0						EquipAffixData_Name_1140030	EquipAffixData_Desc_1140030
+1140031	114003	1	Weapon_Claymore_Zephyrus_1						EquipAffixData_Name_1140031	EquipAffixData_Desc_1140031
+1140032	114003	2	Weapon_Claymore_Zephyrus_2						EquipAffixData_Name_1140032	EquipAffixData_Desc_1140032
+1140033	114003	3	Weapon_Claymore_Zephyrus_3						EquipAffixData_Name_1140033	EquipAffixData_Desc_1140033
+1140034	114003	4	Weapon_Claymore_Zephyrus_4						EquipAffixData_Name_1140034	EquipAffixData_Desc_1140034
+1143020	114302	0	Weapon_Catalyst_OnKilledAttackUp_0						EquipAffixData_Name_1143020	EquipAffixData_Desc_1143020
+1143021	114302	1	Weapon_Catalyst_OnKilledAttackUp_1						EquipAffixData_Name_1143021	EquipAffixData_Desc_1143021
+1143022	114302	2	Weapon_Catalyst_OnKilledAttackUp_2						EquipAffixData_Name_1143022	EquipAffixData_Desc_1143022
+1143023	114302	3	Weapon_Catalyst_OnKilledAttackUp_3						EquipAffixData_Name_1143023	EquipAffixData_Desc_1143023
+1143024	114302	4	Weapon_Catalyst_OnKilledAttackUp_4						EquipAffixData_Name_1143024	EquipAffixData_Desc_1143024
+1143030	114303	0	Weapon_Catalyst_OnGainEnergyHealHP_0						EquipAffixData_Name_1143030	EquipAffixData_Desc_1143030
+1143031	114303	1	Weapon_Catalyst_OnGainEnergyHealHP_1						EquipAffixData_Name_1143031	EquipAffixData_Desc_1143031
+1143032	114303	2	Weapon_Catalyst_OnGainEnergyHealHP_2						EquipAffixData_Name_1143032	EquipAffixData_Desc_1143032
+1143033	114303	3	Weapon_Catalyst_OnGainEnergyHealHP_3						EquipAffixData_Name_1143033	EquipAffixData_Desc_1143033
+1143034	114303	4	Weapon_Catalyst_OnGainEnergyHealHP_4						EquipAffixData_Name_1143034	EquipAffixData_Desc_1143034
+1144010	114401	0	Weapon_Catalyst_EnergyMaxElementDamageUp_0						EquipAffixData_Name_1144010	EquipAffixData_Desc_1144010
+1144011	114401	1	Weapon_Catalyst_EnergyMaxElementDamageUp_1						EquipAffixData_Name_1144011	EquipAffixData_Desc_1144011
+1144012	114401	2	Weapon_Catalyst_EnergyMaxElementDamageUp_2						EquipAffixData_Name_1144012	EquipAffixData_Desc_1144012
+1144013	114401	3	Weapon_Catalyst_EnergyMaxElementDamageUp_3						EquipAffixData_Name_1144013	EquipAffixData_Desc_1144013
+1144014	114401	4	Weapon_Catalyst_EnergyMaxElementDamageUp_4						EquipAffixData_Name_1144014	EquipAffixData_Desc_1144014
+1144020	114402	0	Weapon_Catalyst_RandomBuff_0						EquipAffixData_Name_1144020	EquipAffixData_Desc_1144020
+1144021	114402	1	Weapon_Catalyst_RandomBuff_1						EquipAffixData_Name_1144021	EquipAffixData_Desc_1144021
+1144022	114402	2	Weapon_Catalyst_RandomBuff_2						EquipAffixData_Name_1144022	EquipAffixData_Desc_1144022
+1144023	114402	3	Weapon_Catalyst_RandomBuff_3						EquipAffixData_Name_1144023	EquipAffixData_Desc_1144023
+1144024	114402	4	Weapon_Catalyst_RandomBuff_4						EquipAffixData_Name_1144024	EquipAffixData_Desc_1144024
+1144030	114403	0	Weapon_Catalyst_ResetCDWhenSkillHit_0						EquipAffixData_Name_1144030	EquipAffixData_Desc_1144030
+1144031	114403	1	Weapon_Catalyst_ResetCDWhenSkillHit_1						EquipAffixData_Name_1144031	EquipAffixData_Desc_1144031
+1144032	114403	2	Weapon_Catalyst_ResetCDWhenSkillHit_2						EquipAffixData_Name_1144032	EquipAffixData_Desc_1144032
+1144033	114403	3	Weapon_Catalyst_ResetCDWhenSkillHit_3						EquipAffixData_Name_1144033	EquipAffixData_Desc_1144033
+1144034	114403	4	Weapon_Catalyst_ResetCDWhenSkillHit_4						EquipAffixData_Name_1144034	EquipAffixData_Desc_1144034
+1144040	114404	0	Weapon_Catalyst_ChanceBoltWhenNormalAttack_0						EquipAffixData_Name_1144040	EquipAffixData_Desc_1144040
+1144041	114404	1	Weapon_Catalyst_ChanceBoltWhenNormalAttack_1						EquipAffixData_Name_1144041	EquipAffixData_Desc_1144041
+1144042	114404	2	Weapon_Catalyst_ChanceBoltWhenNormalAttack_2						EquipAffixData_Name_1144042	EquipAffixData_Desc_1144042
+1144043	114404	3	Weapon_Catalyst_ChanceBoltWhenNormalAttack_3						EquipAffixData_Name_1144043	EquipAffixData_Desc_1144043
+1144044	114404	4	Weapon_Catalyst_ChanceBoltWhenNormalAttack_4						EquipAffixData_Name_1144044	EquipAffixData_Desc_1144044
+1150030	115003	0	Weapon_Bow_Zephyrus_0						EquipAffixData_Name_1150030	EquipAffixData_Desc_1150030
+1150031	115003	1	Weapon_Bow_Zephyrus_1						EquipAffixData_Name_1150031	EquipAffixData_Desc_1150031
+1150032	115003	2	Weapon_Bow_Zephyrus_2						EquipAffixData_Name_1150032	EquipAffixData_Desc_1150032
+1150033	115003	3	Weapon_Bow_Zephyrus_3						EquipAffixData_Name_1150033	EquipAffixData_Desc_1150033
+1150034	115003	4	Weapon_Bow_Zephyrus_4						EquipAffixData_Name_1150034	EquipAffixData_Desc_1150034
+1153010	115301	0	Weapon_Bow_HealAmountHPonEnemyKilled_0						EquipAffixData_Name_1153010	EquipAffixData_Desc_1153010
+1153011	115301	1	Weapon_Bow_HealAmountHPonEnemyKilled_1						EquipAffixData_Name_1153011	EquipAffixData_Desc_1153011
+1153012	115301	2	Weapon_Bow_HealAmountHPonEnemyKilled_2						EquipAffixData_Name_1153012	EquipAffixData_Desc_1153012
+1153013	115301	3	Weapon_Bow_HealAmountHPonEnemyKilled_3						EquipAffixData_Name_1153013	EquipAffixData_Desc_1153013
+1153014	115301	4	Weapon_Bow_HealAmountHPonEnemyKilled_4						EquipAffixData_Name_1153014	EquipAffixData_Desc_1153014
+1153020	115302	0			47	0.15			EquipAffixData_Name_1153020	EquipAffixData_Desc_1153020
+1153021	115302	1			47	0.03			EquipAffixData_Name_1153021	EquipAffixData_Desc_1153021
+1153022	115302	2			47	0.03			EquipAffixData_Name_1153022	EquipAffixData_Desc_1153022
+1153023	115302	3			47	0.03			EquipAffixData_Name_1153023	EquipAffixData_Desc_1153023
+1153024	115302	4			47	0.03			EquipAffixData_Name_1153024	EquipAffixData_Desc_1153024
+1154010	115401	0	Weapon_Bow_RiseElementDMGWhenEnergyMax_0						EquipAffixData_Name_1154010	EquipAffixData_Desc_1154010
+1154011	115401	1	Weapon_Bow_RiseElementDMGWhenEnergyMax_1						EquipAffixData_Name_1154011	EquipAffixData_Desc_1154011
+1154012	115401	2	Weapon_Bow_RiseElementDMGWhenEnergyMax_2						EquipAffixData_Name_1154012	EquipAffixData_Desc_1154012
+1154013	115401	3	Weapon_Bow_RiseElementDMGWhenEnergyMax_3						EquipAffixData_Name_1154013	EquipAffixData_Desc_1154013
+1154014	115401	4	Weapon_Bow_RiseElementDMGWhenEnergyMax_4						EquipAffixData_Name_1154014	EquipAffixData_Desc_1154014
+1154020	115402	0	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_0						EquipAffixData_Name_1154020	EquipAffixData_Desc_1154020
+1154021	115402	1	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_1						EquipAffixData_Name_1154021	EquipAffixData_Desc_1154021
+1154022	115402	2	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_2						EquipAffixData_Name_1154022	EquipAffixData_Desc_1154022
+1154023	115402	3	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_3						EquipAffixData_Name_1154023	EquipAffixData_Desc_1154023
+1154024	115402	4	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_4						EquipAffixData_Name_1154024	EquipAffixData_Desc_1154024
+1154030	115403	0	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_0						EquipAffixData_Name_1154030	EquipAffixData_Desc_1154030
+1154031	115403	1	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_1						EquipAffixData_Name_1154031	EquipAffixData_Desc_1154031
+1154032	115403	2	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_2						EquipAffixData_Name_1154032	EquipAffixData_Desc_1154032
+1154033	115403	3	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_3						EquipAffixData_Name_1154033	EquipAffixData_Desc_1154033
+1154034	115403	4	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_4						EquipAffixData_Name_1154034	EquipAffixData_Desc_1154034
+1154040	115404	0	Weapon_Bow_RiseDMGonBranchAttack_0						EquipAffixData_Name_1154040	EquipAffixData_Desc_1154040
+1154041	115404	1	Weapon_Bow_RiseDMGonBranchAttack_1						EquipAffixData_Name_1154041	EquipAffixData_Desc_1154041
+1154042	115404	2	Weapon_Bow_RiseDMGonBranchAttack_2						EquipAffixData_Name_1154042	EquipAffixData_Desc_1154042
+1154043	115404	3	Weapon_Bow_RiseDMGonBranchAttack_3						EquipAffixData_Name_1154043	EquipAffixData_Desc_1154043
+1154044	115404	4	Weapon_Bow_RiseDMGonBranchAttack_4						EquipAffixData_Name_1154044	EquipAffixData_Desc_1154044
+1130030	113003	0	Weapon_Pole_Zephyrus_0						EquipAffixData_Name_1130030	EquipAffixData_Desc_1130030
+1130031	113003	1	Weapon_Pole_Zephyrus_1						EquipAffixData_Name_1130031	EquipAffixData_Desc_1130031
+1130032	113003	2	Weapon_Pole_Zephyrus_2						EquipAffixData_Name_1130032	EquipAffixData_Desc_1130032
+1130033	113003	3	Weapon_Pole_Zephyrus_3						EquipAffixData_Name_1130033	EquipAffixData_Desc_1130033
+1130034	113003	4	Weapon_Pole_Zephyrus_4						EquipAffixData_Name_1130034	EquipAffixData_Desc_1130034
+1133010	113301	0	Weapon_Pole_NormalAttackUpUnlessBeinghit_0						EquipAffixData_Name_1133010	EquipAffixData_Desc_1133010
+1133011	113301	1	Weapon_Pole_NormalAttackUpUnlessBeinghit_1						EquipAffixData_Name_1133011	EquipAffixData_Desc_1133011
+1133012	113301	2	Weapon_Pole_NormalAttackUpUnlessBeinghit_2						EquipAffixData_Name_1133012	EquipAffixData_Desc_1133012
+1133013	113301	3	Weapon_Pole_NormalAttackUpUnlessBeinghit_3						EquipAffixData_Name_1133013	EquipAffixData_Desc_1133013
+1133014	113301	4	Weapon_Pole_NormalAttackUpUnlessBeinghit_4						EquipAffixData_Name_1133014	EquipAffixData_Desc_1133014
+1133020	113302	0	Weapon_Pole_ExtraDamageWhenCDReady_0						EquipAffixData_Name_1133020	EquipAffixData_Desc_1133020
+1133021	113302	1	Weapon_Pole_ExtraDamageWhenCDReady_1						EquipAffixData_Name_1133021	EquipAffixData_Desc_1133021
+1133022	113302	2	Weapon_Pole_ExtraDamageWhenCDReady_2						EquipAffixData_Name_1133022	EquipAffixData_Desc_1133022
+1133023	113302	3	Weapon_Pole_ExtraDamageWhenCDReady_3						EquipAffixData_Name_1133023	EquipAffixData_Desc_1133023
+1133024	113302	4	Weapon_Pole_ExtraDamageWhenCDReady_4						EquipAffixData_Name_1133024	EquipAffixData_Desc_1133024
+1134010	113401	0	Weapon_Pole_DamageUpToWaterEnemy_0						EquipAffixData_Name_1134010	EquipAffixData_Desc_1134010
+1134011	113401	1	Weapon_Pole_DamageUpToWaterEnemy_1						EquipAffixData_Name_1134011	EquipAffixData_Desc_1134011
+1134012	113401	2	Weapon_Pole_DamageUpToWaterEnemy_2						EquipAffixData_Name_1134012	EquipAffixData_Desc_1134012
+1134013	113401	3	Weapon_Pole_DamageUpToWaterEnemy_3						EquipAffixData_Name_1134013	EquipAffixData_Desc_1134013
+1134014	113401	4	Weapon_Pole_DamageUpToWaterEnemy_4						EquipAffixData_Name_1134014	EquipAffixData_Desc_1134014
+2100010	210001	0			2	80			EquipAffixData_Name_2100010	EquipAffixData_Desc_2100010
+2100011	210001	1			2	120			EquipAffixData_Name_2100011	EquipAffixData_Desc_2100011
+2100020	210002	0			5	6			EquipAffixData_Name_2100020	EquipAffixData_Desc_2100020
+2100021	210002	1			5	9			EquipAffixData_Name_2100021	EquipAffixData_Desc_2100021
+2100030	210003	0			8	4			EquipAffixData_Name_2100030	EquipAffixData_Desc_2100030
+2100031	210003	1			8	6			EquipAffixData_Name_2100031	EquipAffixData_Desc_2100031
+2100040	210004	0			20	0.05			EquipAffixData_Name_2100040	EquipAffixData_Desc_2100040
+2100041	210004	1			20	0.07			EquipAffixData_Name_2100041	EquipAffixData_Desc_2100041
+2100050	210005	0			22	0.11			EquipAffixData_Name_2100050	EquipAffixData_Desc_2100050
+2100051	210005	1			22	0.16			EquipAffixData_Name_2100051	EquipAffixData_Desc_2100051
+2100060	210006	0			24	0.06			EquipAffixData_Name_2100060	EquipAffixData_Desc_2100060
+2100061	210006	1			24	0.09			EquipAffixData_Name_2100061	EquipAffixData_Desc_2100061
+2100070	210007	0			25	0.06			EquipAffixData_Name_2100070	EquipAffixData_Desc_2100070
+2100071	210007	1			25	0.09			EquipAffixData_Name_2100071	EquipAffixData_Desc_2100071
+2100080	210008	0			21	0.06			EquipAffixData_Name_2100080	EquipAffixData_Desc_2100080
+2100081	210008	1			21	0.09			EquipAffixData_Name_2100081	EquipAffixData_Desc_2100081
+2100090	210009	0			3	0.09			EquipAffixData_Name_2100090	EquipAffixData_Desc_2100090
+2100091	210009	1			3	0.13			EquipAffixData_Name_2100091	EquipAffixData_Desc_2100091
+2100100	210010	0			6	0.09			EquipAffixData_Name_2100100	EquipAffixData_Desc_2100100
+2100101	210010	1			6	0.13			EquipAffixData_Name_2100101	EquipAffixData_Desc_2100101
+2100110	210011	0			9	0.1			EquipAffixData_Name_2100110	EquipAffixData_Desc_2100110
+2100111	210011	1			9	0.15			EquipAffixData_Name_2100111	EquipAffixData_Desc_2100111
+2100120	210012	0			23	0.1			EquipAffixData_Name_2100120	EquipAffixData_Desc_2100120
+2100121	210012	1			23	0.15			EquipAffixData_Name_2100121	EquipAffixData_Desc_2100121
+2100130	210013	0			26	0.1			EquipAffixData_Name_2100130	EquipAffixData_Desc_2100130
+2100131	210013	1			26	0.15			EquipAffixData_Name_2100131	EquipAffixData_Desc_2100131
+2140010	214001	0			3	0.08			EquipAffixData_Name_2140010	EquipAffixData_Desc_2140010
+2140011	214001	1			56	0.16			EquipAffixData_Name_2140011	EquipAffixData_Desc_2140011
+2140020	214002	0			3	0.08			EquipAffixData_Name_2140020	EquipAffixData_Desc_2140020
+2140021	214002	1			51	0.16			EquipAffixData_Name_2140021	EquipAffixData_Desc_2140021
+2140030	214003	0			3	0.08			EquipAffixData_Name_2140030	EquipAffixData_Desc_2140030
+2140031	214003	1			50	0.16			EquipAffixData_Name_2140031	EquipAffixData_Desc_2140031
+2140040	214004	0			9	0.08			EquipAffixData_Name_2140040	EquipAffixData_Desc_2140040
+2140041	214004	1			27	0.24			EquipAffixData_Name_2140041	EquipAffixData_Desc_2140041
+2150010	215001	0			6	0.08			EquipAffixData_Name_2150010	EquipAffixData_Desc_2150010
+2150011	215001	1	Relic_FighterAttackUp_Lv5						EquipAffixData_Name_2150011	EquipAffixData_Desc_2150011
+2150020	215002	0			6	0.08			EquipAffixData_Name_2150020	EquipAffixData_Desc_2150020
+2150021	215002	1	Relic_RangerAttackUp_Lv5						EquipAffixData_Name_2150021	EquipAffixData_Desc_2150021
+2150030	215003	0			6	0.08			EquipAffixData_Name_2150030	EquipAffixData_Desc_2150030
+2150031	215003	1	Relic_ElementDamageUpWhenChangeChar_Lv5						EquipAffixData_Name_2150031	EquipAffixData_Desc_2150031
+2150040	215004	0			23	0.08			EquipAffixData_Name_2150040	EquipAffixData_Desc_2150040
+2150041	215004	1			46	0.12			EquipAffixData_Name_2150041	EquipAffixData_Desc_2150041
+2150050	215005	0			23	0.08			EquipAffixData_Name_2150050	EquipAffixData_Desc_2150050
+2150051	215005	1			41	0.12			EquipAffixData_Name_2150051	EquipAffixData_Desc_2150051
+2150060	215006	0			23	0.08			EquipAffixData_Name_2150060	EquipAffixData_Desc_2150060
+2150061	215006	1			40	0.12			EquipAffixData_Name_2150061	EquipAffixData_Desc_2150061
+2150070	215007	0			23	0.08			EquipAffixData_Name_2150070	EquipAffixData_Desc_2150070
+2150071	215007	1	Relic_AttackUpAfterElementBall_Lv5						EquipAffixData_Name_2150071	EquipAffixData_Desc_2150071
+2150080	215008	0			20	0.04			EquipAffixData_Name_2150080	EquipAffixData_Desc_2150080
+2150081	215008	1			22	0.2			EquipAffixData_Name_2150081	EquipAffixData_Desc_2150081
