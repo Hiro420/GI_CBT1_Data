@@ -1,73 +1,18 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "Cs_MDAQ501_DvalinSealOpen01",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    9,
-    1,
-    20,
-    1,
-    1,
-    145,
-    8,
-    4,
-    40,
-    65,
-    82,
-    84,
-    47,
-    67,
-    117,
-    116,
-    115,
-    99,
-    101,
-    110,
-    101,
-    47,
-    67,
-    115,
-    95,
-    77,
-    68,
-    65,
-    81,
-    53,
-    48,
-    49,
-    95,
-    68,
-    118,
-    97,
-    108,
-    105,
-    110,
-    83,
-    101,
-    97,
-    108,
-    79,
-    112,
-    101,
-    110,
-    48,
-    49,
-    1,
-    2,
-    0,
-    0,
-    0,
-    0
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigCutsceneInterAction",
+        "type": "CUTSCENE",
+        "cutsceneCfg": {
+          "$type": "ConfigTimeline",
+          "type": "TIME_LINE_PREFAB",
+          "resPath": "ART/Cutscene/Cs_MDAQ501_DvalinSealOpen01",
+          "needYEuler": true,
+          "fadeInDuration": 0
+        }
+      }
+    ]
   ]
 }

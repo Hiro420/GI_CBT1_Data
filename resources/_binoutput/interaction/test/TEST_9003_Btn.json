@@ -1,104 +1,64 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "TEST_9003_Btn",
-  "bytes": [
-    128,
-    4,
-    2,
-    3,
-    6,
-    5,
-    12,
-    0,
-    0,
-    128,
-    63,
-    5,
-    4,
-    5,
-    0,
-    0,
-    0,
-    63,
-    0,
-    0,
-    0,
-    63,
-    8,
-    5,
-    16,
-    0,
-    0,
-    128,
-    63,
-    159,
-    3,
-    4,
-    2,
-    205,
-    204,
-    76,
-    62,
-    0,
-    0,
-    0,
-    64,
-    2,
-    2,
-    205,
-    204,
-    76,
-    63,
-    0,
-    0,
-    160,
-    64,
-    2,
-    2,
-    1,
-    2,
-    0,
-    3,
-    2,
-    1,
-    6,
-    0,
-    6,
-    5,
-    12,
-    0,
-    0,
-    32,
-    64,
-    4,
-    4,
-    0,
-    0,
-    128,
-    63,
-    8,
-    5,
-    16,
-    0,
-    0,
-    128,
-    63,
-    137,
-    3,
-    10,
-    2,
-    0,
-    0,
-    160,
-    64,
-    2
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 1,
+        "steerType": "TO_LOCAL_AVATAR",
+        "steerDir": {
+          "$type": "Vector",
+          "x": 0.5,
+          "z": 0.5
+        }
+      },
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 1,
+        "cameraPosType": "RELATIVE_TO_INTER",
+        "camPosOffset": {
+          "$type": "Vector",
+          "y": 0.2
+        },
+        "nearLength": 2,
+        "camTargetType": "TO_INTEE",
+        "camForwardTargetOffset": {
+          "$type": "Vector",
+          "y": 0.8
+        },
+        "lerpRatio": 5,
+        "lerpPattern": 1
+      },
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG"
+      }
+    ],
+    [
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG_FINISH"
+      },
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 2.5,
+        "steerDir": {
+          "$type": "Vector",
+          "z": 1
+        }
+      },
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 1,
+        "cameraPosType": "EXIT",
+        "camTargetType": "TO_INTEE",
+        "lerpRatio": 5,
+        "lerpPattern": 1
+      }
+    ]
   ]
 }

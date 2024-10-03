@@ -1,17 +1,4 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "TheBigWorld",
-  "bytes": [
-    1,
-    128,
-    1
-  ]
+  "$type": "ConfigAudioStageEvents",
+  "id": 64
 }

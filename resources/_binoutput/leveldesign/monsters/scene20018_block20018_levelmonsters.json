@@ -1,51 +1,15 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene20018_block20018_levelmonsters",
-  "bytes": [
-    3,
-    178,
-    156,
-    1,
-    1,
-    147,
-    14,
-    209,
-    234,
-    244,
-    104,
-    1,
-    15,
-    68,
-    101,
-    102,
-    97,
-    117,
-    108,
-    116,
-    84,
-    101,
-    109,
-    112,
-    108,
-    97,
-    116,
-    101,
-    1,
-    0,
-    0,
-    122,
-    68,
-    0,
-    0,
-    122,
-    68
+  "$type": "ConfigLevelMonsterData",
+  "sceneId": 20018,
+  "monsters": [
+    {
+      "$type": "ConfigLevelMonsterUnit",
+      "groupId": 220018001,
+      "mapInstId": 1,
+      "aiSensingTemplate": "DefaultTemplate",
+      "billboard_HasUIBar": true,
+      "billboard_ShowUIBarDis": 1000,
+      "billboard_HideUIBarDis": 1000
+    }
   ]
 }

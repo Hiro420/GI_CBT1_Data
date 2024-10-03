@@ -1,36 +1,11 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene1011_1011_routes",
-  "bytes": [
-    3,
-    243,
-    7,
-    1,
-    3,
-    185,
-    218,
-    61,
-    13,
-    82,
-    111,
-    117,
-    116,
-    101,
-    95,
-    49,
-    48,
-    49,
-    49,
-    48,
-    48,
-    49
+  "$type": "ConfigLevelRoute",
+  "sceneId": 1011,
+  "routes": [
+    {
+      "$type": "ConfigRoute",
+      "localId": 1011001,
+      "name": "Route_1011001"
+    }
   ]
 }

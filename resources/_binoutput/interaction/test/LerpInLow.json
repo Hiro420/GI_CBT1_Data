@@ -1,57 +1,31 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "LerpInLow",
-  "bytes": [
-    128,
-    4,
-    1,
-    2,
-    6,
-    5,
-    12,
-    0,
-    0,
-    128,
-    63,
-    1,
-    4,
-    8,
-    5,
-    16,
-    0,
-    0,
-    128,
-    63,
-    155,
-    5,
-    6,
-    6,
-    0,
-    0,
-    128,
-    63,
-    102,
-    102,
-    230,
-    63,
-    2,
-    2,
-    51,
-    51,
-    51,
-    63,
-    0,
-    0,
-    112,
-    65,
-    1
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 1,
+        "steerType": "TO_LOCAL_AVATAR"
+      },
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 1,
+        "cameraPosType": "RELATIVE_POS_TO_INTEE",
+        "camPosOffset": {
+          "$type": "Vector",
+          "y": 1,
+          "z": 1.8
+        },
+        "camTargetType": "TO_INTEE",
+        "camForwardTargetOffset": {
+          "$type": "Vector",
+          "y": 0.7
+        },
+        "lerpRatio": 15,
+        "storyDither": true
+      }
+    ]
   ]
 }

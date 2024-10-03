@@ -1,57 +1,36 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene3_block3007_levelgadgets",
-  "bytes": [
-    3,
-    3,
-    5,
-    35,
-    245,
-    142,
-    182,
-    63,
-    235,
-    2,
-    1,
-    19,
-    202,
-    142,
-    182,
-    63,
-    214,
-    3,
-    1,
-    19,
-    205,
-    142,
-    182,
-    63,
-    248,
-    3,
-    1,
-    19,
-    203,
-    142,
-    182,
-    63,
-    131,
-    4,
-    1,
-    19,
-    192,
-    142,
-    182,
-    63,
-    187,
-    6,
-    1
+  "$type": "ConfigLevelGadgetData",
+  "sceneId": 3,
+  "gadgets": [
+    {
+      "$type": "LevelGadget",
+      "groupId": 133007221,
+      "mapInstId": 363,
+      "billboard_HasUIBar": true
+    },
+    {
+      "$type": "LevelGadget",
+      "groupId": 133007178,
+      "mapInstId": 470,
+      "gadgetMisc_UnlockShowCutScene": true
+    },
+    {
+      "$type": "LevelGadget",
+      "groupId": 133007181,
+      "mapInstId": 504,
+      "gadgetMisc_UnlockShowCutScene": true
+    },
+    {
+      "$type": "LevelGadget",
+      "groupId": 133007179,
+      "mapInstId": 515,
+      "gadgetMisc_UnlockShowCutScene": true
+    },
+    {
+      "$type": "LevelGadget",
+      "groupId": 133007168,
+      "mapInstId": 827,
+      "gadgetMisc_UnlockShowCutScene": true
+    }
   ]
 }

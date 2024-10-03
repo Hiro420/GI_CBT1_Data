@@ -1,52 +1,22 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "open_spring_use_page",
-  "bytes": [
-    128,
-    4,
-    2,
-    1,
-    14,
-    1,
-    28,
-    1,
-    13,
-    83,
-    112,
-    114,
-    105,
-    110,
-    103,
-    85,
-    115,
-    101,
-    80,
-    97,
-    103,
-    101,
-    1,
-    8,
-    5,
-    16,
-    0,
-    0,
-    128,
-    63,
-    137,
-    1,
-    10,
-    2,
-    0,
-    0,
-    160,
-    64
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigUITriggerInterAction",
+        "type": "UI_TRIGGER",
+        "contextName": "SpringUsePage"
+      }
+    ],
+    [
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 1,
+        "cameraPosType": "EXIT",
+        "camTargetType": "TO_INTEE",
+        "lerpRatio": 5
+      }
+    ]
   ]
 }

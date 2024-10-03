@@ -1,40 +1,16 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene20021_point",
-  "bytes": [
-    2,
-    1,
-    1,
-    49,
-    5,
-    138,
-    1,
-    196,
-    228,
-    183,
-    33,
-    7,
-    243,
-    156,
-    54,
-    67,
-    234,
-    204,
-    46,
-    66,
-    225,
-    242,
-    134,
-    65,
-    1,
-    0
-  ]
+  "$type": "ConfigScene",
+  "points": {
+    "1": {
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70120004,
+      "pos": {
+        "$type": "Vector",
+        "x": 182.6131,
+        "y": 43.70011,
+        "z": 16.86859
+      },
+      "unlocked": true
+    }
+  }
 }

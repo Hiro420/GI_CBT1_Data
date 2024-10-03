@@ -1,16 +1,4 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "TestSceneTest",
-  "bytes": [
-    1,
-    126
-  ]
+  "$type": "ConfigAudioStageEvents",
+  "id": 63
 }

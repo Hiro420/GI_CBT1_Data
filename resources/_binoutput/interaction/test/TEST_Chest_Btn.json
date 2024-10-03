@@ -1,21 +1,11 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "TEST_Chest_Btn",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    13,
-    1,
-    24
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigGadgetTouchAction",
+        "type": "GADGET_TOUCH"
+      }
+    ]
   ]
 }

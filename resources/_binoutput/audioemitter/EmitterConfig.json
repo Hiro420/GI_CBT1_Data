@@ -1,73 +1,17 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "EmitterConfig",
-  "bytes": [
-    1,
-    5,
-    115,
-    116,
-    101,
-    97,
-    109,
-    119,
-    0,
-    0,
-    0,
-    64,
-    0,
-    0,
-    128,
-    62,
-    51,
-    51,
-    147,
-    63,
-    1,
-    17,
-    80,
-    108,
-    97,
-    121,
-    95,
-    115,
-    102,
-    120,
-    95,
-    102,
-    120,
-    95,
-    115,
-    116,
-    101,
-    97,
-    109,
-    1,
-    17,
-    83,
-    116,
-    111,
-    112,
-    95,
-    115,
-    102,
-    120,
-    95,
-    102,
-    120,
-    95,
-    115,
-    116,
-    101,
-    97,
-    109,
-    2
-  ]
+  "steam": {
+    "$type": "ConfigAudioEmitter",
+    "emitterLifetime": 2,
+    "emitInterval": 0.25,
+    "instLifetime": 1.15,
+    "emitEventName": {
+      "$type": "ConfigWwiseString",
+      "text": "Play_sfx_fx_steam"
+    },
+    "endEventName": {
+      "$type": "ConfigWwiseString",
+      "text": "Stop_sfx_fx_steam"
+    },
+    "multiPositionType": "MultiDirections"
+  }
 }

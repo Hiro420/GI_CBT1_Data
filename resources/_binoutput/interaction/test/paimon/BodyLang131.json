@@ -1,24 +1,12 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "BodyLang131",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    5,
-    1,
-    10,
-    2,
-    140,
-    16
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigBodyLangInterAction",
+        "type": "BODY_LANG",
+        "bodyLangParam": 1030
+      }
+    ]
   ]
 }

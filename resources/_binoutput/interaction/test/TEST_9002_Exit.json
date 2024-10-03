@@ -1,34 +1,16 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "TEST_9002_Exit",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    8,
-    5,
-    16,
-    0,
-    0,
-    64,
-    64,
-    137,
-    3,
-    10,
-    2,
-    0,
-    0,
-    160,
-    64,
-    2
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 3,
+        "cameraPosType": "EXIT",
+        "camTargetType": "TO_INTEE",
+        "lerpRatio": 5,
+        "lerpPattern": 1
+      }
+    ]
   ]
 }

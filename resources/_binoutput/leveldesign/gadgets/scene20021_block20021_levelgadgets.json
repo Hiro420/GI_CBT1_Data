@@ -1,39 +1,13 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene20021_block20021_levelgadgets",
-  "bytes": [
-    3,
-    181,
-    156,
-    1,
-    1,
-    15,
-    137,
-    130,
-    245,
-    104,
-    9,
-    12,
-    70,
-    111,
-    108,
-    108,
-    111,
-    119,
-    77,
-    111,
-    118,
-    101,
-    48,
-    51,
-    13
+  "$type": "ConfigLevelGadgetData",
+  "sceneId": 20021,
+  "gadgets": [
+    {
+      "$type": "LevelGadget",
+      "groupId": 220021001,
+      "mapInstId": 9,
+      "followMove_AttachPoint": "FollowMove03",
+      "followMove_targetInstanceId": 13
+    }
   ]
 }

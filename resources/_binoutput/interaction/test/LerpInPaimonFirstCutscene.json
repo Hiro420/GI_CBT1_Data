@@ -1,27 +1,13 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "LerpInPaimonFirstCutscene",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    6,
-    5,
-    12,
-    0,
-    0,
-    0,
-    63,
-    1,
-    4
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 0.5,
+        "steerType": "TO_LOCAL_AVATAR"
+      }
+    ]
   ]
 }

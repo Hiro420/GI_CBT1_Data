@@ -1,34 +1,16 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "default_finish_complex",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    8,
-    5,
-    42,
-    0,
-    0,
-    64,
-    64,
-    137,
-    3,
-    10,
-    2,
-    0,
-    0,
-    128,
-    64,
-    18
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_FOCUS",
+        "duration": 3,
+        "cameraPosType": "EXIT",
+        "camTargetType": "TO_INTEE",
+        "lerpRatio": 4,
+        "lerpPattern": 9
+      }
+    ]
   ]
 }

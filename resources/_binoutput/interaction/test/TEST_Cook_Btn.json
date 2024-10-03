@@ -1,34 +1,12 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "TEST_Cook_Btn",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    14,
-    1,
-    28,
-    1,
-    11,
-    67,
-    111,
-    111,
-    107,
-    105,
-    110,
-    103,
-    80,
-    97,
-    103,
-    101
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigUITriggerInterAction",
+        "type": "UI_TRIGGER",
+        "contextName": "CookingPage"
+      }
+    ]
   ]
 }

@@ -1,18 +1,4 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene20002_20002_routes",
-  "bytes": [
-    1,
-    162,
-    156,
-    1
-  ]
+  "$type": "ConfigLevelRoute",
+  "sceneId": 20002
 }

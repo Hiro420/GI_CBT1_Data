@@ -1,60 +1,31 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "SP_01_Pre_Intee",
-  "bytes": [
-    128,
-    4,
-    1,
-    2,
-    6,
-    5,
-    12,
-    0,
-    0,
-    32,
-    64,
-    1,
-    4,
-    8,
-    5,
-    16,
-    0,
-    0,
-    64,
-    64,
-    159,
-    1,
-    2,
-    3,
-    0,
-    0,
-    0,
-    64,
-    0,
-    0,
-    128,
-    63,
-    0,
-    0,
-    0,
-    64,
-    2,
-    2,
-    0,
-    0,
-    128,
-    63,
-    0,
-    0,
-    160,
-    64
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 2.5,
+        "steerType": "TO_LOCAL_AVATAR"
+      },
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 3,
+        "cameraPosType": "RELATIVE_TO_INTEE",
+        "camPosOffset": {
+          "$type": "Vector",
+          "x": 2,
+          "y": 1
+        },
+        "nearLength": 2,
+        "camTargetType": "TO_INTEE",
+        "camForwardTargetOffset": {
+          "$type": "Vector",
+          "y": 1
+        },
+        "lerpRatio": 5
+      }
+    ]
   ]
 }

@@ -1,17 +1,4 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene1009_block1009_levelmonsters",
-  "bytes": [
-    1,
-    241,
-    7
-  ]
+  "$type": "ConfigLevelMonsterData",
+  "sceneId": 1009
 }

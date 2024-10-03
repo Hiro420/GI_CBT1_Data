@@ -1,16 +1,4 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "Level_Dungeon01_DLK",
-  "bytes": [
-    1,
-    42
-  ]
+  "$type": "ConfigAudioStageEvents",
+  "id": 21
 }

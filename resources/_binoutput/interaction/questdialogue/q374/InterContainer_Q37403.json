@@ -1,301 +1,177 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
+  "$type": "ConfigInterContainer",
+  "isSimpleTalk": true,
+  "startFade": {
+    "$type": "ConfigInterFade"
   },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "InterContainer_Q37403",
-  "bytes": [
-    196,
-    14,
-    1,
-    0,
-    2,
-    6,
-    6,
-    65,
-    118,
-    97,
-    116,
-    97,
-    114,
-    1,
-    15,
-    233,
-    7,
-    4,
-    49,
-    48,
-    48,
-    49,
-    1,
-    13,
-    81,
-    51,
-    55,
-    52,
-    87,
-    101,
-    110,
-    100,
-    121,
-    84,
-    101,
-    109,
-    112,
-    6,
-    4,
-    2,
-    9,
-    2,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    141,
-    165,
-    228,
-    1,
-    8,
-    9,
-    42,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    0,
-    6,
-    13,
-    12,
-    0,
-    0,
-    128,
-    63,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    1,
-    4,
-    5,
-    9,
-    10,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    172,
-    17,
-    2,
-    2,
-    9,
-    2,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    142,
-    165,
-    228,
-    1,
-    5,
-    9,
-    10,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    3,
-    1,
-    172,
-    17,
-    1,
-    2,
-    9,
-    2,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    143,
-    165,
-    228,
-    1,
-    2,
-    2,
-    9,
-    2,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    144,
-    165,
-    228,
-    1,
-    5,
-    9,
-    10,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    140,
-    16,
-    2,
-    2,
-    9,
-    2,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    2,
-    145,
-    165,
-    228,
-    1,
-    5,
-    27,
-    10,
-    0,
-    0,
-    0,
-    64,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    1,
-    2,
-    140,
-    16,
-    2,
-    7,
-    9,
-    14,
-    1,
-    6,
-    65,
-    118,
-    97,
-    116,
-    97,
-    114,
-    0,
-    7,
-    9,
-    14,
-    1,
-    4,
-    49,
-    48,
-    48,
-    49,
-    0,
-    6,
-    6,
-    144,
-    150,
-    228,
-    165,
-    8,
-    145,
-    150,
-    228,
-    165,
-    8,
-    7,
-    1,
-    145,
-    150,
-    228,
-    165,
-    8,
-    146,
-    150,
-    228,
-    165,
-    8,
-    7,
-    2,
-    146,
-    150,
-    228,
-    165,
-    8,
-    147,
-    150,
-    228,
-    165,
-    8,
-    7,
-    3,
-    147,
-    150,
-    228,
-    165,
-    8,
-    148,
-    150,
-    228,
-    165,
-    8,
-    7,
-    4,
-    148,
-    150,
-    228,
-    165,
-    8,
-    149,
-    150,
-    228,
-    165,
-    8,
-    7,
-    5,
-    149,
-    150,
-    228,
-    165,
-    8,
-    150,
-    150,
-    228,
-    165,
-    8
+  "actors": [
+    {
+      "$type": "ConfigInterActor",
+      "alias": "Avatar",
+      "visible": true
+    },
+    {
+      "$type": "ConfigInterActor",
+      "configID": 1001,
+      "alias": "1001",
+      "visible": true,
+      "bornPointName": "Q374WendyTemp"
+    }
+  ],
+  "group": [
+    [
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG",
+        "aliasList": [
+          "1001"
+        ],
+        "dialogID": 3740301
+      },
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_FOCUS",
+        "aliasList": [
+          "1001"
+        ]
+      },
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 1,
+        "aliasList": [
+          "1001"
+        ],
+        "steerType": "TO_LOCAL_AVATAR"
+      },
+      {
+        "$type": "ConfigBodyLangInterAction",
+        "type": "BODY_LANG",
+        "aliasList": [
+          "1001"
+        ],
+        "bodyLangParam": 1110
+      }
+    ],
+    [
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG",
+        "aliasList": [
+          "1001"
+        ],
+        "dialogID": 3740302
+      },
+      {
+        "$type": "ConfigBodyLangInterAction",
+        "type": "BODY_LANG",
+        "aliasList": [
+          "1001"
+        ],
+        "isContinue": true,
+        "bodyLangParam": 1110
+      }
+    ],
+    [
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG",
+        "aliasList": [
+          "1001"
+        ],
+        "dialogID": 3740303
+      }
+    ],
+    [
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG",
+        "aliasList": [
+          "1001"
+        ],
+        "dialogID": 3740304
+      },
+      {
+        "$type": "ConfigBodyLangInterAction",
+        "type": "BODY_LANG",
+        "aliasList": [
+          "1001"
+        ],
+        "bodyLangParam": 1030
+      }
+    ],
+    [
+      {
+        "$type": "ConfigDialogInterAction",
+        "type": "DIALOG",
+        "aliasList": [
+          "1001"
+        ],
+        "dialogID": 3740305
+      },
+      {
+        "$type": "ConfigBodyLangInterAction",
+        "type": "BODY_LANG",
+        "delayTime": 2,
+        "aliasList": [
+          "1001"
+        ],
+        "checkNextImmediately": true,
+        "bodyLangParam": 1030
+      }
+    ],
+    [
+      {
+        "$type": "ConfigLookAtInterAction",
+        "type": "LOOK_AT",
+        "aliasList": [
+          "Avatar"
+        ]
+      },
+      {
+        "$type": "ConfigLookAtInterAction",
+        "type": "LOOK_AT",
+        "aliasList": [
+          "1001"
+        ]
+      }
+    ]
+  ],
+  "groupId": [
+    {
+      "$type": "ConfigInterGrpId",
+      "grpId": 2226719504,
+      "nextGrpId": 2226719505
+    },
+    {
+      "$type": "ConfigInterGrpId",
+      "index": 1,
+      "grpId": 2226719505,
+      "nextGrpId": 2226719506
+    },
+    {
+      "$type": "ConfigInterGrpId",
+      "index": 2,
+      "grpId": 2226719506,
+      "nextGrpId": 2226719507
+    },
+    {
+      "$type": "ConfigInterGrpId",
+      "index": 3,
+      "grpId": 2226719507,
+      "nextGrpId": 2226719508
+    },
+    {
+      "$type": "ConfigInterGrpId",
+      "index": 4,
+      "grpId": 2226719508,
+      "nextGrpId": 2226719509
+    },
+    {
+      "$type": "ConfigInterGrpId",
+      "index": 5,
+      "grpId": 2226719509,
+      "nextGrpId": 2226719510
+    }
   ]
 }

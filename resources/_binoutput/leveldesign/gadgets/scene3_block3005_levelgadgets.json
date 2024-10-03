@@ -1,24 +1,12 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "scene3_block3005_levelgadgets",
-  "bytes": [
-    3,
-    3,
-    1,
-    19,
-    211,
-    253,
-    181,
-    63,
-    26,
-    1
+  "$type": "ConfigLevelGadgetData",
+  "sceneId": 3,
+  "gadgets": [
+    {
+      "$type": "LevelGadget",
+      "groupId": 133005011,
+      "mapInstId": 26,
+      "gadgetMisc_UnlockShowCutScene": true
+    }
   ]
 }

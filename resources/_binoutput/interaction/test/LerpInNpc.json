@@ -1,69 +1,38 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "LerpInNpc",
-  "bytes": [
-    128,
-    4,
-    1,
-    3,
-    6,
-    5,
-    12,
-    0,
-    0,
-    128,
-    63,
-    17,
-    8,
-    1,
-    8,
-    5,
-    42,
-    0,
-    0,
-    128,
-    63,
-    159,
-    3,
-    4,
-    2,
-    0,
-    0,
-    0,
-    63,
-    0,
-    0,
-    0,
-    64,
-    2,
-    2,
-    0,
-    0,
-    0,
-    63,
-    0,
-    0,
-    160,
-    64,
-    12,
-    5,
-    3,
-    10,
-    102,
-    102,
-    102,
-    63,
-    2,
-    208,
-    140,
-    1
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigSteerInterAction",
+        "type": "STEER_TO",
+        "duration": 1,
+        "steerType": "TO_LOCAL_AVATAR_ADVANCED",
+        "useSteerAnim": true
+      },
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_FOCUS",
+        "duration": 1,
+        "cameraPosType": "RELATIVE_TO_INTER",
+        "camPosOffset": {
+          "$type": "Vector",
+          "y": 0.5
+        },
+        "nearLength": 2,
+        "camTargetType": "TO_INTEE",
+        "camForwardTargetOffset": {
+          "$type": "Vector",
+          "y": 0.5
+        },
+        "lerpRatio": 5,
+        "lerpPattern": 6
+      },
+      {
+        "$type": "ConfigBodyLangInterAction",
+        "type": "BODY_LANG",
+        "delayTime": 0.9,
+        "bodyLangParam": 9000
+      }
+    ]
   ]
 }

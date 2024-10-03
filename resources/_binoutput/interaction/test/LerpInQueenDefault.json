@@ -1,43 +1,23 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "LerpInQueenDefault",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    8,
-    5,
-    16,
-    0,
-    0,
-    128,
-    63,
-    155,
-    1,
-    12,
-    4,
-    0,
-    0,
-    0,
-    65,
-    2,
-    2,
-    102,
-    102,
-    134,
-    64,
-    0,
-    0,
-    160,
-    64
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigCameraMoveInterAction",
+        "type": "CAMERA_MOVE",
+        "duration": 1,
+        "cameraPosType": "RELATIVE_TO_INTEE_ONLY",
+        "camPosOffset": {
+          "$type": "Vector",
+          "z": 8
+        },
+        "camTargetType": "TO_INTEE",
+        "camForwardTargetOffset": {
+          "$type": "Vector",
+          "y": 4.2
+        },
+        "lerpRatio": 5
+      }
+    ]
   ]
 }

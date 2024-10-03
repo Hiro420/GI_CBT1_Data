@@ -1,34 +1,14 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 903313780245196090
-  },
-  "m_Name": "FadeToBlack",
-  "bytes": [
-    128,
-    4,
-    1,
-    1,
-    17,
-    1,
-    36,
-    14,
-    0,
-    0,
-    128,
-    63,
-    0,
-    0,
-    128,
-    63,
-    0,
-    0,
-    128,
-    63
+  "$type": "ConfigInterContainer",
+  "group": [
+    [
+      {
+        "$type": "ConfigBlackScreenAction",
+        "type": "BLACK_SCREEN",
+        "durationToBlack": 1,
+        "durationKeepBlack": 1,
+        "durationFromBlack": 1
+      }
+    ]
   ]
 }
