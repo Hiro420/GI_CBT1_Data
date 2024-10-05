@@ -1,9 +1,0 @@
-{
-  "1": {
-    "id": 1,
-    "name": "风元素结晶雷达提示",
-    "radius": 80,
-    "effectName": "Eff_UI_Mark_WindCrystal",
-    "iconName": "UI_MarkWindCrystal"
-  }
-}
